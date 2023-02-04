@@ -1,0 +1,1506 @@
+[
+  {
+    "id": 1,
+    "Tienda": "Oxford Store",
+    "Nombre": "LUZ DELANTERA SERFAS E-LUME 350 LUMENS USB USM-350",
+    "Precio": "$21.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/s/n/sn5015ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/luz-delantera-serfas-e-lume-350-lumens-usb-usm-350.html"
+  },
+  {
+    "id": 2,
+    "Tienda": "Oxford Store",
+    "Nombre": "CANDADO  U  ZEFAL K-TRAZ U11 + CABLE 115X230M 4922B",
+    "Precio": "$23.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2208ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/candado-u-zefal-k-traz-u11-cable-115x230m-4922b.html"
+  },
+  {
+    "id": 3,
+    "Tienda": "Oxford Store",
+    "Nombre": "CANDADO CABLE ZEFAL K-TRAZ C8 185CMX12MM 4915A",
+    "Precio": "$13.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2204ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/candado-cable-zefal-k-traz-c8-185cmx12mm-4915a.html"
+  },
+  {
+    "id": 4,
+    "Tienda": "Oxford Store",
+    "Nombre": "LUZ DELANTERA SERFAS E-LUME 600 LUMENS USB USM-600",
+    "Precio": "$34.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/s/n/sn5016ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/luz-delantera-serfas-e-lume-600-lumens-usb-usm-600.html"
+  },
+  {
+    "id": 5,
+    "Tienda": "Oxford Store",
+    "Nombre": "LUZ DELANTERA SERFAS E-LUME 1000 LUMENS USB USM-1000",
+    "Precio": "$59.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/s/n/sn5017ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/luz-delantera-serfas-e-lume-1000-lumens-usb-usm-1000.html"
+  },
+  {
+    "id": 6,
+    "Tienda": "Oxford Store",
+    "Nombre": "SET LUZ DEL/TRA SERFAS E-LUME 350/30 LUMENS USB ESM-350",
+    "Precio": "$34.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/s/n/sn5108ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/set-luz-del-tra-e-lume-350-30-lumens-usb-esm-350.html"
+  },
+  {
+    "id": 7,
+    "Tienda": "Oxford Store",
+    "Nombre": "LUZ TRASERA SERFAS COSMOS 30 LUMENS USB UTM-30",
+    "Precio": "$16.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/s/n/sn5109ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/luz-trasera-serfas-cosmos-30-lumens-usb-utm-30.html"
+  },
+  {
+    "id": 8,
+    "Tienda": "Oxford Store",
+    "Nombre": "SET LUCES OXFORD MINI CARGA USB",
+    "Precio": "$13.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/w/gw1008ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/set-luces-oxford-mini-carga-usb.html"
+  },
+  {
+    "id": 9,
+    "Tienda": "Oxford Store",
+    "Nombre": "LUZ TRASERA OXFORD 25 LUMEN CARGA USB",
+    "Precio": "$6.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/w/gw1009ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/luz-trasera-oxford-25-lumen-carga-usb.html"
+  },
+  {
+    "id": 10,
+    "Tienda": "Oxford Store",
+    "Nombre": "LUZ DELANTERA OXFORD 400 LUMEN CARGA USB",
+    "Precio": "$9.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/w/gw1010ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/luz-delantera-oxford-400-lumen-carga-usb.html"
+  },
+  {
+    "id": 11,
+    "Tienda": "Oxford Store",
+    "Nombre": "CINTA ZEFAL DOOWAH REFLEC/PANTALON NEGRO 1021",
+    "Precio": "$4.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2060ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/cinta-zefal-doowah-reflec-pantalon-negro-1021.html"
+  },
+  {
+    "id": 12,
+    "Tienda": "Oxford Store",
+    "Nombre": "CINTA ZEFAL DOOWAH REFLEC/PANTALON AMARILLO",
+    "Precio": "$4.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2096ba_0_5.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/cinta-zefal-doowah-reflec-pantalon-amarillo.html"
+  },
+  {
+    "id": 13,
+    "Tienda": "Oxford Store",
+    "Nombre": "CANDADO  U  ZEFAL K-TRAZ U13 + CABLE 115X230M 4944B",
+    "Precio": "$31.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2202ba_0_5.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/candado-u-zefal-k-traz-u13-cable-115x230m-4944b.html"
+  },
+  {
+    "id": 14,
+    "Tienda": "Oxford Store",
+    "Nombre": "CANDADO  U  ZEFAL K-TRAZ U17 + CABLE 115X230M 4947B",
+    "Precio": "$36.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2211ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/candado-u-zefal-k-traz-u17-cable-115x230m-4947b.html"
+  },
+  {
+    "id": 15,
+    "Tienda": "Oxford Store",
+    "Nombre": "CANDADO CABLE ZEFAL K-TRAZ C6 180CMX12MM 4914A",
+    "Precio": "$11.890",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2207ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/candado-cable-zefal-k-traz-c6-180cmx12mm-4914a.html"
+  },
+  {
+    "id": 16,
+    "Tienda": "Oxford Store",
+    "Nombre": "LUZ TRASERA SERFAS COSMOS 60 LUMENS USB UTM-60",
+    "Precio": "$21.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/i/m/img_4931_ps_2200x2200_web.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/utm-60.html"
+  },
+  {
+    "id": 17,
+    "Tienda": "Oxford Store",
+    "Nombre": "CANDADO FOLDING ZEFAL K-TRAZ 16 79CM",
+    "Precio": "$41.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2205ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/candado-folding-zefal-k-traz-16-79cm.html"
+  },
+  {
+    "id": 18,
+    "Tienda": "Oxford Store",
+    "Nombre": "CANDADO OXFORD U-LOCK CON CABLE",
+    "Precio": "$16.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/w/gw1011ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/candado-oxford-u-lock-con-cable.html"
+  },
+  {
+    "id": 19,
+    "Tienda": "Oxford Store",
+    "Nombre": "CANDADO OXFORD CABLE CON LLAVE",
+    "Precio": "$6.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/w/gw1012ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/candado-oxford-cable-con-llave.html"
+  },
+  {
+    "id": 20,
+    "Tienda": "Oxford Store",
+    "Nombre": "BOLSO SILLIN CANNONDALE CONTAIN WELDED MEDIUM BLACK",
+    "Precio": "$28.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/c/d/cd3023ba.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/bolso-sillin-cannondale-contain-welded-medium-black.html"
+  },
+  {
+    "id": 21,
+    "Tienda": "Oxford Store",
+    "Nombre": "BOLSO SILLIN CANNONDALE CONTAIN STITCHED MEDIUM BLACK",
+    "Precio": "$24.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/c/d/cd3022ba.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/bolso-sillin-cannondale-contain-stitched-medium-black.html"
+  },
+  {
+    "id": 22,
+    "Tienda": "Oxford Store",
+    "Nombre": "BOLSO SILLIN CANNONDALE CONTAIN STITCHED LARGE BLACK",
+    "Precio": "$26.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/c/d/cd3021ba.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/bolso-sillin-cannondale-contain-stitched-large-black.html"
+  },
+  {
+    "id": 23,
+    "Tienda": "Oxford Store",
+    "Nombre": "BANANO BICICLETA FOX HIP PACK 5L BLACK",
+    "Precio": "$89.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx3344ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/banano-lumbar-fox-hyfration-pack-5l-black.html"
+  },
+  {
+    "id": 24,
+    "Tienda": "Oxford Store",
+    "Nombre": "BIKE PACKING TRIANGULO TOPTUBE ZEFAL Z-ADVENTURE 3.3L C3 708",
+    "Precio": "$29.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0757ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/bike-packing-triangulo-toptube-zefal-z-adventure-3-3l-c3-708.html"
+  },
+  {
+    "id": 25,
+    "Tienda": "Oxford Store",
+    "Nombre": "BOLSO FRONTAL ZEFAL Z-CONSOLE PACK T3 7012",
+    "Precio": "$27.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0735ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/bolso-frontal-zefal-z-console-pack-t3-7012.html"
+  },
+  {
+    "id": 26,
+    "Tienda": "Oxford Store",
+    "Nombre": "BOLSO FRONTAL ZEFAL Z-ADVENTURE T1 7004",
+    "Precio": "$29.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0736ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/bolso-frontal-zefal-z-adventure-t1-7004.html"
+  },
+  {
+    "id": 27,
+    "Tienda": "Oxford Store",
+    "Nombre": "BOLSO SILLIN ZEFAL IRON PACK 2 M-DS 7026",
+    "Precio": "$18.890",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0737ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/bolso-sillin-zefal-iron-pack-2-m-ds-7026.html"
+  },
+  {
+    "id": 28,
+    "Tienda": "Oxford Store",
+    "Nombre": "BOLSO SILLIN ZEFAL IRON PACK 2 M-TF 7024",
+    "Precio": "$18.890",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0738ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/bolso-sillin-zefal-iron-pack-2-m-tf-7024.html"
+  },
+  {
+    "id": 29,
+    "Tienda": "Oxford Store",
+    "Nombre": "MOCHILA ZEFAL Z HYDRO RACE BLACK/RED 7162",
+    "Precio": "$34.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0752ba_0_2.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/mochila-zefal-z-hydro-race-black-red-7162.html"
+  },
+  {
+    "id": 30,
+    "Tienda": "Oxford Store",
+    "Nombre": "MOCHILA ZEFAL Z HYDRO RACE BLACK/BLUE 7163",
+    "Precio": "$34.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0753ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/mochila-zefal-z-hydro-race-black-blue-7163.html"
+  },
+  {
+    "id": 31,
+    "Tienda": "Oxford Store",
+    "Nombre": "MOCHILA ZEFAL Z HYDRO XC BLACK 7055",
+    "Precio": "$48.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0754ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/mochila-zefal-z-hydro-xc-black-7055.html"
+  },
+  {
+    "id": 32,
+    "Tienda": "Oxford Store",
+    "Nombre": "ALFORJA ZEFAL TRA. Z TRAVELER 60 20L 7039A",
+    "Precio": "$34.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0730ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/alforja-zefal-tra-z-traveler-60-20l-7039a.html"
+  },
+  {
+    "id": 33,
+    "Tienda": "Oxford Store",
+    "Nombre": "BIKE PACKING TRASERA ZEFAL Z ADVENTURE R5 7005",
+    "Precio": "$41.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0758ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/bike-packing-trasera-zefal-z-adventure-r5-7005.html"
+  },
+  {
+    "id": 34,
+    "Tienda": "Oxford Store",
+    "Nombre": "BIKE PACKING TRIANGULO FRONTAL ZEFAL Z-ADVENTURE 2.2L C2 707",
+    "Precio": "$27.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0756ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/bike-packing-triangulo-frontal-zefal-z-adventure-2-2l-c2-707.html"
+  },
+  {
+    "id": 35,
+    "Tienda": "Oxford Store",
+    "Nombre": "BOLSO FRONTAL ZEFAL Z-CONSOLE PACK T1 7010",
+    "Precio": "$21.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0739ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/bolso-frontal-zefal-z-console-pack-t1-7010.html"
+  },
+  {
+    "id": 36,
+    "Tienda": "Oxford Store",
+    "Nombre": "BOLSO FRONTAL ZEFAL Z-CONSOLE PACK T2 7011",
+    "Precio": "$24.490",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0740ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/bolso-frontal-zefal-z-console-pack-t2-7011.html"
+  },
+  {
+    "id": 37,
+    "Tienda": "Oxford Store",
+    "Nombre": "BOLSO SILLIN ZEFAL IRON PACK 2 S-TF 7025",
+    "Precio": "$13.490",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0741ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/bolso-sillin-zefal-iron-pack-2-s-tf-7025.html"
+  },
+  {
+    "id": 38,
+    "Tienda": "Oxford Store",
+    "Nombre": "MOCHILA ZEFAL Z HYDRO XC DARK GREY/ORANGE 7056",
+    "Precio": "$48.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0755ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/mochila-zefal-z-hydro-xc-dark-grey-orange-7056.html"
+  },
+  {
+    "id": 39,
+    "Tienda": "Oxford Store",
+    "Nombre": "PARRILLA ZEFAL TRA. RAIDER R70 DISC ALUM NEGRO 7542",
+    "Precio": "$59.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2029ba_0_5.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/parrilla-zefal-tra-raider-r70-disc-alum-negro-7542.html"
+  },
+  {
+    "id": 40,
+    "Tienda": "Oxford Store",
+    "Nombre": "PARRILLA ZEFAL DEL. RAIDER ALUMINIO NEGRO 7510",
+    "Precio": "$41.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2004ba_0_5.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/parrilla-zefal-del-raider-aluminio-negro-7510.html"
+  },
+  {
+    "id": 41,
+    "Tienda": "Oxford Store",
+    "Nombre": "BOLSO SILLIN ZEFAL Z LIGHT PACK S 7040",
+    "Precio": "$11.890",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0708ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/bolso-sillin-zefal-z-light-pack-s-7040.html"
+  },
+  {
+    "id": 42,
+    "Tienda": "Oxford Store",
+    "Nombre": "ALFORJA ZEFAL TRA. Z TRAVELER 80 32L 7039B",
+    "Precio": "$64.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0721ba_0_5.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/alforja-zefal-tra-z-traveler-80-32l-7039b.html"
+  },
+  {
+    "id": 43,
+    "Tienda": "Oxford Store",
+    "Nombre": "PARRILLA ZEFAL TRA. RAIDER R50 ALUM NEGRO 7541",
+    "Precio": "$45.490",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2028ba_0_5.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/parrilla-zefal-tra-raider-r50-alum-negro-7541.html"
+  },
+  {
+    "id": 44,
+    "Tienda": "Oxford Store",
+    "Nombre": "PARRILLA ZEFAL AL TUBO SILLIN RAIDER R30 ALU. 7540",
+    "Precio": "$34.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2027ba_0_5.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/parrilla-zefal-al-tubo-sillin-raider-r30-alu-7540.html"
+  },
+  {
+    "id": 45,
+    "Tienda": "Oxford Store",
+    "Nombre": "BIKE PACKING TRASERA ZEFAL Z ADVENTURE R17 7002",
+    "Precio": "$55.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0728ba_0_6.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/bike-packing-trasera-zefal-z-adventure-r17-7002.html"
+  },
+  {
+    "id": 46,
+    "Tienda": "Oxford Store",
+    "Nombre": "BIKE PACKING TRASERA ZEFAL Z ADVENTURE R11 7001",
+    "Precio": "$46.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0727ba_0_6.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/bike-packing-trasera-zefal-z-adventure-r11-7001.html"
+  },
+  {
+    "id": 47,
+    "Tienda": "Oxford Store",
+    "Nombre": "BIKE PACKING FRONTAL ZEFAL Z ADVENTURE F10 7000",
+    "Precio": "$34.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0726ba_0_6.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/bike-packing-frontal-zefal-z-adventure-f10-7000.html"
+  },
+  {
+    "id": 48,
+    "Tienda": "Oxford Store",
+    "Nombre": "SOPORTE DEL. CANASTO BELLELLI PLAZA 01UBS070005",
+    "Precio": "$1.000",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/l/tl0306ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/soporte-del-canasto-bellelli-plaza-01ubs070005.html"
+  },
+  {
+    "id": 49,
+    "Tienda": "Oxford Store",
+    "Nombre": "BOLSO CUADRO ZEFAL Z FRAME PACK 7049",
+    "Precio": "$15.390",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0724ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/bolso-cuadro-zefal-z-frame-pack-7049.html"
+  },
+  {
+    "id": 50,
+    "Tienda": "Oxford Store",
+    "Nombre": "MOCHILA ZEFAL Z HYDRO ENDURO XL BLACK/BLUE 7064",
+    "Precio": "$48.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0718ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/mochila-zefal-z-hydro-enduro-xl-black-blue-7064.html"
+  },
+  {
+    "id": 51,
+    "Tienda": "Oxford Store",
+    "Nombre": "MOCHILA ZEFAL Z HYDRO ENDURO XL BLACK/RED 7065",
+    "Precio": "$48.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0729ba_0_6.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/mochila-zefal-z-hydro-enduro-xl-black-red-7065.html"
+  },
+  {
+    "id": 52,
+    "Tienda": "Oxford Store",
+    "Nombre": "BOMBIN OXFORD TELESCOPICO MULTI-VALVULAS 120PSI",
+    "Precio": "$9.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/w/gw1014ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/bombin-oxford-telescopico-multi-valvulas-120psi.html"
+  },
+  {
+    "id": 53,
+    "Tienda": "Oxford Store",
+    "Nombre": "BOMBIN DE PIE OXFORD HEAD FITS VALVE PRESTA/SCHRADER 120-PSI",
+    "Precio": "$11.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/w/gw1020ba_2.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/bombin-de-pie-oxford-head-fits-valve-presta-schrader-120-psi.html"
+  },
+  {
+    "id": 54,
+    "Tienda": "Oxford Store",
+    "Nombre": "BOMBIN OXFORD PVC HEAD FITS VALVE PRESTA/SCHRADER 75-PSI",
+    "Precio": "$7.790",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/w/gw1019ba.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/bombin-oxford-pvc-head-fits-valve-presta-schrader-75-psi.html"
+  },
+  {
+    "id": 55,
+    "Tienda": "Oxford Store",
+    "Nombre": "BOMBIN OXFORD ALUMINIO FOLD C/MANOMETRO V-P/S 75-PSI",
+    "Precio": "$11.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/w/gw1018ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/bombin-oxford-aluminio-fold-c-manometro-v-p-s-75-psi.html"
+  },
+  {
+    "id": 56,
+    "Tienda": "Oxford Store",
+    "Nombre": "BOMBIN GIYO GP-87E CNC TRIPA EXTRAIBLE V-P/S MAX100PSI",
+    "Precio": "$10.000",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/s/k/sk2017ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/bombin-giyo-gp-87e-cnc-tripa-extraible-v-p-s-max100psi.html"
+  },
+  {
+    "id": 57,
+    "Tienda": "Oxford Store",
+    "Nombre": "BOMBIN GIYO GP-41S PLASTICO C/MANOMETRO V-P/S MAX100PSI",
+    "Precio": "$10.000",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/s/k/sk2016ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/bombin-giyo-gp-41s-plastico-c-manometro-v-p-s-max100psi.html"
+  },
+  {
+    "id": 58,
+    "Tienda": "Oxford Store",
+    "Nombre": "CARTUCHO ZEFAL GAS CO2 25G. X2 CON HILO 4250D",
+    "Precio": "$6.290",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2180ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/cartucho-zefal-gas-co2-25g-x2-con-hilo-4250d.html"
+  },
+  {
+    "id": 59,
+    "Tienda": "Oxford Store",
+    "Nombre": "BOMBIN DE PIE OXFORD CON MANOMETRO",
+    "Precio": "$14.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/w/gw1007ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/bombin-de-pie-oxford-con-manometro.html"
+  },
+  {
+    "id": 60,
+    "Tienda": "Oxford Store",
+    "Nombre": "BOMBIN OXFORD TELESCOPICO MULTI-VALVULAS",
+    "Precio": "$10.000",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/w/gw1006ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/bombin-oxford-telescopico-multi-valvulas.html"
+  },
+  {
+    "id": 61,
+    "Tienda": "Oxford Store",
+    "Nombre": "BOMBIN GIYO GP-94 ALUM. 2-WAY C/MANOMETRO V-P/S MAX100PSI",
+    "Precio": "$10.000",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/s/k/sk2014ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/bombin-giyo-gp-94-alum-2-way-c-manometro-v-p-s-max100psi.html"
+  },
+  {
+    "id": 62,
+    "Tienda": "Oxford Store",
+    "Nombre": "BOMBIN ZEFAL AIR PROFIL FC02 NEGRO 8440",
+    "Precio": "$20.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0541ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/bombin-zefal-air-profil-fc02-negro-8440.html"
+  },
+  {
+    "id": 63,
+    "Tienda": "Oxford Store",
+    "Nombre": "INFLADOR ZEFAL GAS CO2 EZ-BIG SHOT +16G BRONZE 4052",
+    "Precio": "$14.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0561ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/inflador-zefal-gas-co2-ez-big-shot-16g-bronze-4052.html"
+  },
+  {
+    "id": 64,
+    "Tienda": "Oxford Store",
+    "Nombre": "BOMBIN ZEFAL AIR PROFIL FC01 ALUMINIO PLATA/NEGRO 8430",
+    "Precio": "$17.490",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0538ba_0_5.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/bombin-zefal-air-profil-fc01-aluminio-plata-negro-8430.html"
+  },
+  {
+    "id": 65,
+    "Tienda": "Oxford Store",
+    "Nombre": "BOMBIN ZEFAL AIR PROFIL MICRO ALUMINIO NEGRO 842018",
+    "Precio": "$18.890",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz3023ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/bombin-zefal-air-profil-micro-aluminio-negro-842018.html"
+  },
+  {
+    "id": 66,
+    "Tienda": "Oxford Store",
+    "Nombre": "BOMBIN DE PIE GIYO GF-37 ACERO VALVE PRESTA/SHRADER",
+    "Precio": "$10.000",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/s/k/sk3004ba_0_5.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/bombin-de-pie-giyo-gf-37-acero-valve-presta-shrader.html"
+  },
+  {
+    "id": 67,
+    "Tienda": "Oxford Store",
+    "Nombre": "CARTUCHO ZEFAL GAS CO2 16G. X2 CON HILO 4160B",
+    "Precio": "$3.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2081ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/cartucho-zefal-gas-co2-16g-x2-con-hilo-4160b.html"
+  },
+  {
+    "id": 68,
+    "Tienda": "Oxford Store",
+    "Nombre": "BOMBIN DE SHOCK GIYO GS-02PT C/MANOMETRO MAX 300PSI",
+    "Precio": "$20.000",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/s/k/sk1001ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/bombin-de-shock-giyo-gs-02pt-c-manometro-max-300psi.html"
+  },
+  {
+    "id": 69,
+    "Tienda": "Oxford Store",
+    "Nombre": "BOMBIN DE PIE GIYO GF-94T ALUM.  TANK  TUBELESS MAX 200PSI",
+    "Precio": "$79.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/s/k/sk3006ba_0_5.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/bombin-de-pie-giyo-gf-94t-alum-tank-tubeless-max-200psi.html"
+  },
+  {
+    "id": 70,
+    "Tienda": "Oxford Store",
+    "Nombre": "BOMBIN ZEFAL AIR PROFIL MICRO ALUMINIO PLATA 842028",
+    "Precio": "$20.000",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0506ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/bombin-zefal-air-profil-micro-aluminio-plata-842028.html"
+  },
+  {
+    "id": 71,
+    "Tienda": "Oxford Store",
+    "Nombre": "BOMBIN ZEFAL Z SHOCK P/SHOCK C/MANOMETRO 066001",
+    "Precio": "$36.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0522ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/bombin-zefal-z-shock-p-shock-c-manometro-066001.html"
+  },
+  {
+    "id": 72,
+    "Tienda": "Oxford Store",
+    "Nombre": "BOMBIN ZEFAL MAX MULTI-PROPOSITO 3180",
+    "Precio": "$5.000",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0540ba_0_6.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/bombin-zefal-max-multi-proposito-3180.html"
+  },
+  {
+    "id": 73,
+    "Tienda": "Oxford Store",
+    "Nombre": "BOMBIN DE PIE GIYO GF-31P ALUM. C/MANOMETRO V-PR/SH MAX160PS",
+    "Precio": "$10.000",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/s/k/sk3002ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/bombin-de-pie-giyo-gf-31p-alum-c-manometro-v-pr-sh-max160ps.html"
+  },
+  {
+    "id": 74,
+    "Tienda": "Oxford Store",
+    "Nombre": "KIT ADAPTADOR ZEFAL P/INFLAR VARIOS 0110B",
+    "Precio": "$2.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2013ba_0_5.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/kit-adaptador-zefal-p-inflar-varios-0110b.html"
+  },
+  {
+    "id": 75,
+    "Tienda": "Oxford Store",
+    "Nombre": "ESTABILIZADOR REGULABLE GW 12/20",
+    "Precio": "$12.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/w/gw1016ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/estabilizador-regulable-gw-12-20.html"
+  },
+  {
+    "id": 76,
+    "Tienda": "Oxford Store",
+    "Nombre": "ESTABILIZADOR REGULABLE 12-20 MKR E026",
+    "Precio": "$10.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/a/h/ah3712aa.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/estabilizador-regulable-12-20-mkr-e026.html"
+  },
+  {
+    "id": 77,
+    "Tienda": "Oxford Store",
+    "Nombre": "CICLO COMPUTADOR CANNONDALE IQ 200 WIRELESS BLACK",
+    "Precio": "$32.490",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/c/d/cd3018ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/ciclo-computador-cannondale-iq-200-wireless-black.html"
+  },
+  {
+    "id": 78,
+    "Tienda": "Oxford Store",
+    "Nombre": "CANNONDALE WHEEL SENSOR MOUNTING ADAPTERS BLACK",
+    "Precio": "$14.290",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/c/d/cd3006ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/cannondale-wheel-sensor-mounting-adapters-black.html"
+  },
+  {
+    "id": 79,
+    "Tienda": "Oxford Store",
+    "Nombre": "CANNONDALE WHEEL SENSOR BLACK",
+    "Precio": "$51.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/c/d/cd3005ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/cannondale-wheel-sensor-black.html"
+  },
+  {
+    "id": 80,
+    "Tienda": "Oxford Store",
+    "Nombre": "CUBRE PORTALON PICKUP FOX T/S NEGRO",
+    "Precio": "$125.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx4005ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/cubre-portalon-pickup-fox-t-s-negro.html"
+  },
+  {
+    "id": 81,
+    "Tienda": "Oxford Store",
+    "Nombre": "CUBRE PORTALON PICKUP FOX T/S CAMO GREEN",
+    "Precio": "$125.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx4006ba.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/cubre-portalon-pickup-fox-t-s-camo-green.html"
+  },
+  {
+    "id": 82,
+    "Tienda": "Oxford Store",
+    "Nombre": "PROTECTOR BIELA/PEDAL ZEFAL BLACK 2637",
+    "Precio": "$6.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2187ba.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/protector-biela-pedal-zefal-black-2637.html"
+  },
+  {
+    "id": 83,
+    "Tienda": "Oxford Store",
+    "Nombre": "PROTECTOR ZEFAL DOWN TUBE DT ARMOR BLACK 2522",
+    "Precio": "$11.890",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2172ba_0_6.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/protector-zefal-down-tube-dt-armor-black-2522.html"
+  },
+  {
+    "id": 84,
+    "Tienda": "Oxford Store",
+    "Nombre": "SOPORTE CELULAR ZEFAL Z CONSOLE UNIVERSAL L 7052B",
+    "Precio": "$18.890",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2178ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/soporte-celular-zefal-z-console-universal-l-7052b.html"
+  },
+  {
+    "id": 85,
+    "Tienda": "Oxford Store",
+    "Nombre": "CORTA CADENA ICETOOLZ PORTABLE PARA 5-12 VEL. 61M1",
+    "Precio": "$10.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/c/gc1164ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/corta-cadena-icetoolz-portable-para-5-12-vel-61m1.html"
+  },
+  {
+    "id": 86,
+    "Tienda": "Oxford Store",
+    "Nombre": "SOPORTE DEL. CANASTO BELLELLI PLAZA 01UBS070005",
+    "Precio": "$1.000",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/l/tl0306ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/soporte-del-canasto-bellelli-plaza-01ubs070005.html"
+  },
+  {
+    "id": 87,
+    "Tienda": "Oxford Store",
+    "Nombre": "TAPABARRO ZEFAL DEL. DEFLECTOR FM30 PARA SUSP. 2554",
+    "Precio": "$10.490",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2170ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/tapabarro-zefal-del-deflector-fm30-para-susp-2554.html"
+  },
+  {
+    "id": 88,
+    "Tienda": "Oxford Store",
+    "Nombre": "PROTECTOR CUADRO ZEFAL SKIN ARMOR ROLL 15MTS 2604",
+    "Precio": "$83.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2158ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/protector-cuadro-zefal-skin-armor-roll-15mts-2604.html"
+  },
+  {
+    "id": 89,
+    "Tienda": "Oxford Store",
+    "Nombre": "TAPABARRO SILLIN ZEFAL SHIELD LITE XL BLUE/BLACK 2561C",
+    "Precio": "$4.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2132ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/tapabarro-sillin-zefal-shield-lite-xl-blue-black-2561c.html"
+  },
+  {
+    "id": 90,
+    "Tienda": "Oxford Store",
+    "Nombre": "CUBRE VAINA ZEFAL CS ARMOR BLACK 2605",
+    "Precio": "$9.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2171ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/cubre-vaina-zefal-cs-armor-black-2605.html"
+  },
+  {
+    "id": 91,
+    "Tienda": "Oxford Store",
+    "Nombre": "SET FIJACION ZEFAL GIZMO UNIVERSAL 1082",
+    "Precio": "$5.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2151ba_0_6.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/set-fijacion-zefal-gizmo-universal-1082.html"
+  },
+  {
+    "id": 92,
+    "Tienda": "Oxford Store",
+    "Nombre": "TAPABARRO SILLIN ZEFAL SHIELD LITE M WHITE/BLACK 2560A",
+    "Precio": "$4.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2133ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/tapabarro-sillin-zefal-shield-lite-m-white-black-2560a.html"
+  },
+  {
+    "id": 93,
+    "Tienda": "Oxford Store",
+    "Nombre": "TAPABARRO ZEFAL TRA DEFLECTOR RC50 2516",
+    "Precio": "$8.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2137ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/tapabarro-zefal-tra-deflector-rc50-2516.html"
+  },
+  {
+    "id": 94,
+    "Tienda": "Oxford Store",
+    "Nombre": "SOPORTE CELULAR ZEFAL UNIVERSAL HOLDER 7179",
+    "Precio": "$26.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2183ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/soporte-celular-zefal-universal-holder-7179.html"
+  },
+  {
+    "id": 95,
+    "Tienda": "Oxford Store",
+    "Nombre": "PATA APOYO CULATA AJUSTABLE 20 /28  UL-951A",
+    "Precio": "$13.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/a/r/ar3002ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/pata-apoyo-culata-ajustable-20-28-ul-951a.html"
+  },
+  {
+    "id": 96,
+    "Tienda": "Oxford Store",
+    "Nombre": "PROTECTOR CUADRO ZEFAL SKIN ARMOR T/L 2601",
+    "Precio": "$15.390",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2085ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/protector-cuadro-zefal-skin-armor-t-l-2601.html"
+  },
+  {
+    "id": 97,
+    "Tienda": "Oxford Store",
+    "Nombre": "SOPORTE CELULAR ZEFAL Z CONSOLE UNIVERSAL M 7052A",
+    "Precio": "$18.890",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2177ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/soporte-celular-zefal-z-console-universal-m-7052a.html"
+  },
+  {
+    "id": 98,
+    "Tienda": "Oxford Store",
+    "Nombre": "TAPABARRO SILLIN ZEFAL SHIELD LITE XL RED/BLACK 2561B",
+    "Precio": "$4.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2131ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/tapabarro-sillin-zefal-shield-lite-xl-red-black-2561b.html"
+  },
+  {
+    "id": 99,
+    "Tienda": "Oxford Store",
+    "Nombre": "TAPABARRO SILLIN ZEFAL SHIELD LITE M BLACK/RED 2560B",
+    "Precio": "$4.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2134ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/tapabarro-sillin-zefal-shield-lite-m-black-red-2560b.html"
+  },
+  {
+    "id": 100,
+    "Tienda": "Oxford Store",
+    "Nombre": "SOPORTE CELULAR ZEFAL UNIVERSAL ADAPTER 7178",
+    "Precio": "$13.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2184ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/soporte-celular-zefal-universal-adapter-7178.html"
+  },
+  {
+    "id": 101,
+    "Tienda": "Oxford Store",
+    "Nombre": "TAPABARRO ZEFAL DEL DEFLECTOR FC50 2511",
+    "Precio": "$6.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2138ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/tapabarro-zefal-del-deflector-fc50-2511.html"
+  },
+  {
+    "id": 102,
+    "Tienda": "Oxford Store",
+    "Nombre": "TAPABARRO SILLIN ZEFAL SHIELD LITE M GREEN/BLACK 2560D",
+    "Precio": "$4.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2136ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/tapabarro-sillin-zefal-shield-lite-m-green-black-2560d.html"
+  },
+  {
+    "id": 103,
+    "Tienda": "Oxford Store",
+    "Nombre": "GANCHO MURAL PARA RUEDA ICETOOLZ TWO-WAY P655",
+    "Precio": "$4.190",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/c/gc1089ba_0_6.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/gancho-mural-para-rueda-icetoolz-two-way-p655.html"
+  },
+  {
+    "id": 104,
+    "Tienda": "Oxford Store",
+    "Nombre": "TAPABARRO ZEFAL DEL/TRA SHIELD R30 ROAD BLACK 2540",
+    "Precio": "$18.890",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2068ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/tapabarro-zefal-del-tra-shield-r30-road-black-2540.html"
+  },
+  {
+    "id": 105,
+    "Tienda": "Oxford Store",
+    "Nombre": "TAPABARRO ZEFAL DEL. DEFLECTOR FM20 PARA SUSP. 2552",
+    "Precio": "$9.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2082ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/tapabarro-zefal-del-deflector-fm20-para-susp-2552.html"
+  },
+  {
+    "id": 106,
+    "Tienda": "Oxford Store",
+    "Nombre": "CAMPANILLA ZEFA PIING PLATA 1060B",
+    "Precio": "$3.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2032ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/campanilla-zefa-piing-plata-1060b.html"
+  },
+  {
+    "id": 107,
+    "Tienda": "Oxford Store",
+    "Nombre": "PROTECTOR BIELA/PEDAL ZEFAL NEGRO 2610",
+    "Precio": "$6.290",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2088ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/protector-biela-pedal-zefal-negro-2610.html"
+  },
+  {
+    "id": 108,
+    "Tienda": "Oxford Store",
+    "Nombre": "CAMPANILLA ZEFA PIING NEGRO 1060A",
+    "Precio": "$3.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2031ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/campanilla-zefa-piing-negro-1060a.html"
+  },
+  {
+    "id": 109,
+    "Tienda": "Oxford Store",
+    "Nombre": "PROTECTOR BIELA/PEDAL ZEFAL GRIS 2611",
+    "Precio": "$6.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2089ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/protector-biela-pedal-zefal-gris-2611.html"
+  },
+  {
+    "id": 110,
+    "Tienda": "Oxford Store",
+    "Nombre": "PROTECTOR BIELA/PEDAL ZEFAL VERDE 2613",
+    "Precio": "$6.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2091ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/protector-biela-pedal-zefal-verde-2613.html"
+  },
+  {
+    "id": 111,
+    "Tienda": "Oxford Store",
+    "Nombre": "PROTECTOR BIELA/PEDAL ZEFAL ROJO 2612",
+    "Precio": "$6.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2090ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/protector-biela-pedal-zefal-rojo-2612.html"
+  },
+  {
+    "id": 112,
+    "Tienda": "Oxford Store",
+    "Nombre": "TAPABARRO ZEFAL DEL. DEFLECTOR LITE XL PARA SUSP. 2553",
+    "Precio": "$5.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2100ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/tapabarro-zefal-del-deflector-lite-xl-para-susp-2553.html"
+  },
+  {
+    "id": 113,
+    "Tienda": "Oxford Store",
+    "Nombre": "TAPABARRO ZEFAL DEL/TRA PARAGON C50  26 /28  BLACK 2542",
+    "Precio": "$18.890",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2067ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/tapabarro-zefal-del-tra-paragon-c50-26-28-black-2542.html"
+  },
+  {
+    "id": 114,
+    "Tienda": "Oxford Store",
+    "Nombre": "ESPEJO CASCO ZEFAL Z EYE 4730",
+    "Precio": "$8.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0600ba_0_5.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/espejo-casco-zefal-z-eye-4730.html"
+  },
+  {
+    "id": 115,
+    "Tienda": "Oxford Store",
+    "Nombre": "TAPABARRO SILLIN ZEFAL SHIELD LITE M BLUE/BLACK 2560C",
+    "Precio": "$4.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2135ba.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/tapabarro-sillin-zefal-shield-lite-m-blue-black-2560c.html"
+  },
+  {
+    "id": 116,
+    "Tienda": "Oxford Store",
+    "Nombre": "ESPEJO MANUBRIO ZEFAL CYCLOP 4710",
+    "Precio": "$9.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0601ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/espejo-manubrio-zefal-cyclop-4710.html"
+  },
+  {
+    "id": 117,
+    "Tienda": "Oxford Store",
+    "Nombre": "ESPEJO MANUBRIO ZEFAL SPIN 4740",
+    "Precio": "$9.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0602ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/espejo-manubrio-zefal-spin-4740.html"
+  },
+  {
+    "id": 118,
+    "Tienda": "Oxford Store",
+    "Nombre": "SOPORTE CELULAR ZEFAL Z CONSOLE UNIVERSAL M 7074C",
+    "Precio": "$18.890",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2115ba_0_5.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/soporte-celular-zefal-z-console-universal-m-7074c.html"
+  },
+  {
+    "id": 119,
+    "Tienda": "Oxford Store",
+    "Nombre": "CICLO COMPUTADOR SERFAS 15-FUN W/CADENCE WIRELESS SI-30",
+    "Precio": "$34.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/s/n/sn2105ba_0_5.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/ciclo-computador-serfas-15-fun-w-cadence-wireless-si-30.html"
+  },
+  {
+    "id": 120,
+    "Tienda": "Oxford Store",
+    "Nombre": "CICLO COMPUTADOR SERFAS 9 FUNCIONES LARGE SCREEN WIRE SI-10",
+    "Precio": "$13.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/s/n/sn2104ba_0_5.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/ciclo-computador-serfas-9-funciones-large-screen-wire-si-10.html"
+  },
+  {
+    "id": 121,
+    "Tienda": "Oxford Store",
+    "Nombre": "TAPABARRO ZEFAL TRA DEFLECTOR LITE REAR 2508",
+    "Precio": "$9.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2182ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/tapabarro-zefal-tra-deflector-lite-rear-2508.html"
+  },
+  {
+    "id": 122,
+    "Tienda": "Oxford Store",
+    "Nombre": "MONTURA CICLO COMPUTADOR RESPONSE PARA GARMIN FM-G02",
+    "Precio": "$5.000",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/e/v/ev6100ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/montura-ciclo-computador-response-para-garmin-fm-g02.html"
+  },
+  {
+    "id": 123,
+    "Tienda": "Oxford Store",
+    "Nombre": "TAPABARRO ZEFAL DEL. DEFLECTOR LITE FRONT 2506",
+    "Precio": "$8.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2181ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/tapabarro-zefal-del-deflector-lite-front-2506.html"
+  },
+  {
+    "id": 124,
+    "Tienda": "Oxford Store",
+    "Nombre": "ADAPTADOR MONTURA RESPONSE PARA GOPRO SOPORTE FM-G02A",
+    "Precio": "$3.000",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/e/v/ev6101ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/adaptador-montura-response-para-gopro-soporte-fm-g02a.html"
+  },
+  {
+    "id": 125,
+    "Tienda": "Oxford Store",
+    "Nombre": "ADAPTADOR MONTURA RESPONSE PARA GOPRO TORNILLO FM-G02P",
+    "Precio": "$3.000",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/e/v/ev6102ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/adaptador-montura-response-para-gopro-tornillo-fm-g02p.html"
+  },
+  {
+    "id": 126,
+    "Tienda": "Oxford Store",
+    "Nombre": "PROTECTOR BIELA/PEDAL ZEFAL T/XL BLACK 2620",
+    "Precio": "$6.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2118ba_0_5.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/protector-biela-pedal-zefal-t-xl-black-2620.html"
+  },
+  {
+    "id": 127,
+    "Tienda": "Oxford Store",
+    "Nombre": "BOLSO RIÑONERA HIP PACK ERGON BA 3 LITROS",
+    "Precio": "$89.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/e/g/eg4032ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/bolso-ri-onera-hip-pack-ergon-ba-3-litros.html"
+  },
+  {
+    "id": 128,
+    "Tienda": "Oxford Store",
+    "Nombre": "BOLSA PARA AGUA ERGON HIP BACK BH150 1.5 LITROS",
+    "Precio": "$26.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/e/g/eg4031ba.png",
+    "URLproducto": "https://www.oxfordstore.cl/bolsa-para-agua-ergon-hip-back-bh150-1-5-litros.html"
+  },
+  {
+    "id": 129,
+    "Tienda": "Oxford Store",
+    "Nombre": "PORTA CARAMAYOLA CANNONDALE SPEED C CARBON BLACK",
+    "Precio": "$45.490",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/c/d/cd3024ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/caramayola-cannondale-speed-c-carbon-black.html"
+  },
+  {
+    "id": 130,
+    "Tienda": "Oxford Store",
+    "Nombre": "PORTA CARAMAYOLA CANNONDALE REGRIP SIDE-ENTRY RIGHT BK",
+    "Precio": "$10.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/c/d/cd3017ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/porta-caramayola-cannondale-regrip-side-entry-right-bk.html"
+  },
+  {
+    "id": 131,
+    "Tienda": "Oxford Store",
+    "Nombre": "PORTA CARAMAYOLA CANNONDALE GT-40 RIGHTSIDEBK",
+    "Precio": "$6.490",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/c/d/cd3016ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/porta-caramayola-cannondale-gt-40-rightsidebk.html"
+  },
+  {
+    "id": 132,
+    "Tienda": "Oxford Store",
+    "Nombre": "PORTA CARAMAYOLA CANNONDALE GT-40 BLACK",
+    "Precio": "$6.490",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/c/d/cd3015ba_1_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/porta-caramayola-cannondale-gt-40-black.html"
+  },
+  {
+    "id": 133,
+    "Tienda": "Oxford Store",
+    "Nombre": "CARAMAYOLA CANNONDALE LOGO GRIPPER INSULATED 550ML WHB",
+    "Precio": "$12.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/c/d/cd3014ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/caramayola-cannondale-logo-gripper-insulated-550ml-whb.html"
+  },
+  {
+    "id": 134,
+    "Tienda": "Oxford Store",
+    "Nombre": "CARAMAYOLA CANNONDALE LOGO GRIPPER INSULATED 650ML WHB",
+    "Precio": "$12.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/c/d/cd3013ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/caramayola-cannondale-logo-gripper-insulated-650ml-whb.html"
+  },
+  {
+    "id": 135,
+    "Tienda": "Oxford Store",
+    "Nombre": "CARAMAYOLA CANNONDALE GRIPPER STACKED 600ML CLEAR/BLACK",
+    "Precio": "$8.390",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/c/d/cd3012ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/caramayola-cannondale-gripper-stacked-600ml-clear-black.html"
+  },
+  {
+    "id": 136,
+    "Tienda": "Oxford Store",
+    "Nombre": "CARAMAYOLA CANNONDALE GRIPPER STACKED 750ML CLEAR/BLACK",
+    "Precio": "$8.390",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/c/d/cd3011ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/caramayola-cannondale-gripper-stacked-750ml-clear-black.html"
+  },
+  {
+    "id": 137,
+    "Tienda": "Oxford Store",
+    "Nombre": "CARAMAYOLA CANNONDALE GRIPPER STACKED 600ML WHITE",
+    "Precio": "$8.390",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/c/d/cd3010ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/caramayola-cannondale-gripper-stacked-600ml-white.html"
+  },
+  {
+    "id": 138,
+    "Tienda": "Oxford Store",
+    "Nombre": "CARAMAYOLA ZEFAL SENSE GRIP 80 BLACK BLACK PRINT 1538",
+    "Precio": "$3.490",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0468ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/caramayola-zefal-sense-grip-80-black-black-print-1538.html"
+  },
+  {
+    "id": 139,
+    "Tienda": "Oxford Store",
+    "Nombre": "CARAMAYOLA ZEFAL SENSE GRIP 65 SMOKE BLACK/BLACK PRINT 1534",
+    "Precio": "$2.790",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0481ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/caramayola-zefal-sense-grip-65-smoke-black-black-print-1534.html"
+  },
+  {
+    "id": 140,
+    "Tienda": "Oxford Store",
+    "Nombre": "CARAMAYOLA CANNONDALE GRIPPER STACKED 750ML WHITE",
+    "Precio": "$8.390",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/c/d/cd3009ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/caramayola-cannondale-gripper-stacked-750ml-white.html"
+  },
+  {
+    "id": 141,
+    "Tienda": "Oxford Store",
+    "Nombre": "CARAMAYOLA FOX HEAD RED",
+    "Precio": "$6.290",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/3/1/319989-00-d-666355.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/caramayola-fox-head-red.html"
+  },
+  {
+    "id": 142,
+    "Tienda": "Oxford Store",
+    "Nombre": "PORTA CARAMAYOLA ZEFAL MOUNT FRONTAL PULSE B2 BLACK 1795",
+    "Precio": "$17.490",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0485ba.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/porta-caramayola-zefal-mount-frontal-pulse-b2-black-1795.html"
+  },
+  {
+    "id": 143,
+    "Tienda": "Oxford Store",
+    "Nombre": "CARAMAYOLA ZEFAL SENSE PRO 50 500ML SMOKE BLACK/GREEN 1555",
+    "Precio": "$4.890",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0487ba.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/caramayola-zefal-sense-pro-50-500ml-smoke-black-green-1555.html"
+  },
+  {
+    "id": 144,
+    "Tienda": "Oxford Store",
+    "Nombre": "CARAMAYOLA ZEFAL ARCTICA 75 750ML SILVER/RED 1673",
+    "Precio": "$7.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0474ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/caramayola-zefal-arctica-75-750ml-silver-red-1673.html"
+  },
+  {
+    "id": 145,
+    "Tienda": "Oxford Store",
+    "Nombre": "CARAMAYOLA FOX HEAD BLACK",
+    "Precio": "$6.290",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx4300ba.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/caramayola-fox-head-black.html"
+  },
+  {
+    "id": 146,
+    "Tienda": "Oxford Store",
+    "Nombre": "MOCHILA ZEFAL Z HYDRO XC BLACK 7055",
+    "Precio": "$48.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0754ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/mochila-zefal-z-hydro-xc-black-7055.html"
+  },
+  {
+    "id": 147,
+    "Tienda": "Oxford Store",
+    "Nombre": "CARAMAYOLA ZEFAL ARCTICA 75 750ML SILVER/BLACK 1670",
+    "Precio": "$7.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0477ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/caramayola-zefal-arctica-75-750ml-silver-black-1670.html"
+  },
+  {
+    "id": 148,
+    "Tienda": "Oxford Store",
+    "Nombre": "MOCHILA ZEFAL Z HYDRO RACE BLACK/BLUE 7163",
+    "Precio": "$34.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0753ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/mochila-zefal-z-hydro-race-black-blue-7163.html"
+  },
+  {
+    "id": 149,
+    "Tienda": "Oxford Store",
+    "Nombre": "CARAMAYOLA ZEFAL SENSE PRO 50 500ML SMOKE BLACK/GREY 1554",
+    "Precio": "$4.890",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0486ba.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/caramayola-zefal-sense-pro-50-500ml-smoke-black-grey-1554.html"
+  },
+  {
+    "id": 150,
+    "Tienda": "Oxford Store",
+    "Nombre": "BOLSA PARA AGUA ERGON BH250 2.5 LITROS",
+    "Precio": "$5.000",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/e/g/eg2015ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/bolsa-para-agua-ergon-bh250-2-5-litros.html"
+  },
+  {
+    "id": 151,
+    "Tienda": "Oxford Store",
+    "Nombre": "PORTA CARAMAYOLA ZEFAL PULSE FULL ALUMINIO BLANCO 1732",
+    "Precio": "$6.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0423ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/porta-caramayola-zefal-pulse-full-aluminio-blanco-1732.html"
+  },
+  {
+    "id": 152,
+    "Tienda": "Oxford Store",
+    "Nombre": "MOCHILA ZEFAL Z HYDRO RACE BLACK/RED 7162",
+    "Precio": "$34.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0752ba_0_2.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/mochila-zefal-z-hydro-race-black-red-7162.html"
+  },
+  {
+    "id": 153,
+    "Tienda": "Oxford Store",
+    "Nombre": "CARAMAYOLA ZEFAL ARCTICA 75 750ML SILVER/GREEN 1672",
+    "Precio": "$7.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0473ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/caramayola-zefal-arctica-75-750ml-silver-green-1672.html"
+  },
+  {
+    "id": 154,
+    "Tienda": "Oxford Store",
+    "Nombre": "CARAMAYOLA ZEFAL ARCTICA 75 750ML SILVER/BLUE 1671",
+    "Precio": "$7.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0472ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/caramayola-zefal-arctica-75-750ml-silver-blue-1671.html"
+  },
+  {
+    "id": 155,
+    "Tienda": "Oxford Store",
+    "Nombre": "PORTA CARAMAYOLA ZEFAL PULSE Z2i CO2 KIT BLACK 1707",
+    "Precio": "$27.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0463ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/porta-caramayola-zefal-pulse-z2i-co2-kit-black-1707.html"
+  },
+  {
+    "id": 156,
+    "Tienda": "Oxford Store",
+    "Nombre": "CARAMAYOLA ZEFAL ARCTICA 55 550ML RED 1663",
+    "Precio": "$8.000",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0562ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/caramayola-zefal-arctica-55-550ml-red-1663.html"
+  },
+  {
+    "id": 157,
+    "Tienda": "Oxford Store",
+    "Nombre": "CARAMAYOLA ZEFAL SENSE GRIP 80 BLACK BLUE PRINT 1539",
+    "Precio": "$3.490",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0469ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/caramayola-zefal-sense-grip-80-black-blue-print-1539.html"
+  },
+  {
+    "id": 158,
+    "Tienda": "Oxford Store",
+    "Nombre": "CARAMAYOLA ZEFAL MAGNUM 1000ML TRANSLUCIDO BLACK 1642",
+    "Precio": "$4.890",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0396ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/caramayola-zefal-magnum-1000ml-translucido-black-1642.html"
+  },
+  {
+    "id": 159,
+    "Tienda": "Oxford Store",
+    "Nombre": "CARAMAYOLA ZEFAL SENSE GRIP 80 BLACK YELLOW PRINT 1536",
+    "Precio": "$3.490",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0466ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/caramayola-zefal-sense-grip-80-black-yellow-print-1536.html"
+  },
+  {
+    "id": 160,
+    "Tienda": "Oxford Store",
+    "Nombre": "SET CARAMAYOLA OXFORD 750ML NEGRO",
+    "Precio": "$7.790",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/w/gw1013ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/set-caramayola-oxford-750ml-negro.html"
+  },
+  {
+    "id": 161,
+    "Tienda": "Oxford Store",
+    "Nombre": "CARAMAYOLA ZEFAL SENSE GRIP 80 BLACK PINK PRINT 1537",
+    "Precio": "$3.490",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0467ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/caramayola-zefal-sense-grip-80-black-pink-print-1537.html"
+  },
+  {
+    "id": 162,
+    "Tienda": "Oxford Store",
+    "Nombre": "PORTA CARAMAYOLA ZEFAL PULSE B2 BLACK 1780",
+    "Precio": "$11.890",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0450ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/porta-caramayola-zefal-pulse-b2-black-1780.html"
+  },
+  {
+    "id": 163,
+    "Tienda": "Oxford Store",
+    "Nombre": "MOCHILA ZEFAL Z HYDRO XC DARK GREY/ORANGE 7056",
+    "Precio": "$48.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0755ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/mochila-zefal-z-hydro-xc-dark-grey-orange-7056.html"
+  },
+  {
+    "id": 164,
+    "Tienda": "Oxford Store",
+    "Nombre": "CARAMAYOLA ZEFAL SENSE GRIP 65 SMOKE BLACK YELLOW PRINT 1532",
+    "Precio": "$2.790",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0479ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/caramayola-zefal-sense-grip-65-smoke-black-yellow-print-1532.html"
+  },
+  {
+    "id": 165,
+    "Tienda": "Oxford Store",
+    "Nombre": "CARAMAYOLA ZEFAL SENSE GRIP 65 SMOKE BLACK BLUE PRINT 1535",
+    "Precio": "$2.790",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0482ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/caramayola-zefal-sense-grip-65-smoke-black-blue-print-1535.html"
+  },
+  {
+    "id": 166,
+    "Tienda": "Oxford Store",
+    "Nombre": "MOCHILA ZEFAL Z HYDRO ENDURO XL BLACK/BLUE 7064",
+    "Precio": "$48.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0718ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/mochila-zefal-z-hydro-enduro-xl-black-blue-7064.html"
+  },
+  {
+    "id": 167,
+    "Tienda": "Oxford Store",
+    "Nombre": "PORTA CARAMAYOLA ZEFAL REVERSIBLE WIIZ NEGRO 1700",
+    "Precio": "$3.490",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0404ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/porta-caramayola-zefal-reversible-wiiz-negro-1700.html"
+  },
+  {
+    "id": 168,
+    "Tienda": "Oxford Store",
+    "Nombre": "PORTA CARAMAYOLA ZEFAL REVERSIBLE WIIZ BLANCO 1700W",
+    "Precio": "$3.490",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0408ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/porta-caramayola-zefal-reversible-wiiz-blanco-1700w.html"
+  },
+  {
+    "id": 169,
+    "Tienda": "Oxford Store",
+    "Nombre": "PORTA CARAMAYOLA ZEFAL PULSE FULL ALUMINIO PLATA 1730",
+    "Precio": "$6.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0424ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/porta-caramayola-zefal-pulse-full-aluminio-plata-1730.html"
+  },
+  {
+    "id": 170,
+    "Tienda": "Oxford Store",
+    "Nombre": "PORTA CARAMAYOLA ZEFAL ALU PLAST 124 NEGRO 1240A",
+    "Precio": "$3.490",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0427ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/porta-caramayola-zefal-alu-plast-124-negro-1240a.html"
+  },
+  {
+    "id": 171,
+    "Tienda": "Oxford Store",
+    "Nombre": "MOCHILA ZEFAL Z HYDRO ENDURO XL BLACK/RED 7065",
+    "Precio": "$48.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0729ba_0_6.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/mochila-zefal-z-hydro-enduro-xl-black-red-7065.html"
+  },
+  {
+    "id": 172,
+    "Tienda": "Oxford Store",
+    "Nombre": "CARAMAYOLA ZEFAL SENSE GRIP 65 SMOKE BLACK PINK 1533",
+    "Precio": "$2.790",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0480ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/caracaramayola-zefal-sense-grip-65-smoke-black-pink-1533.html"
+  },
+  {
+    "id": 173,
+    "Tienda": "Oxford Store",
+    "Nombre": "CARAMAYOLA ZEFAL TREKKING 700ML TRAVEL CAP  ROJO 142C",
+    "Precio": "$8.000",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0375ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/caramayola-zefal-trekking-700ml-travel-cap-rojo-142c.html"
+  },
+  {
+    "id": 174,
+    "Tienda": "Oxford Store",
+    "Nombre": "PORTA CARAMAYOLA ZEFAL PULSE FULL ALUMINIO  NEGRO 1731",
+    "Precio": "$6.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0422ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/porta-caramayola-zefal-pulse-full-aluminio-negro-1731.html"
+  },
+  {
+    "id": 175,
+    "Tienda": "Oxford Store",
+    "Nombre": "CARAMAYOLA ZEFAL TREKKING 700ML TRAVEL CAP AZUL 142B",
+    "Precio": "$8.000",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0374ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/caramayola-zefal-trekking-700ml-travel-cap-azul-142b.html"
+  },
+  {
+    "id": 176,
+    "Tienda": "Oxford Store",
+    "Nombre": "CARAMAYOLA ZEFAL ARCTICA 55 550ML SILVER/BLUE",
+    "Precio": "$7.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0470ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/caramayola-zefal-arctica-55-550ml-silver-blue.html"
+  },
+  {
+    "id": 177,
+    "Tienda": "Oxford Store",
+    "Nombre": "CARAMAYOLA ZEFAL TREKKING 700ML TRAVEL CAP SMOKE BLACK 142A",
+    "Precio": "$9.090",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0356ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/caramayola-zefal-trekking-700ml-travel-cap-smoke-black-142a.html"
+  },
+  {
+    "id": 178,
+    "Tienda": "Oxford Store",
+    "Nombre": "CARAMAYOLA ZEFAL ARCTICA 55 550ML SILVER/GREEN",
+    "Precio": "$7.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0471ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/caramayola-zefal-arctica-55-550ml-silver-green.html"
+  },
+  {
+    "id": 179,
+    "Tienda": "Oxford Store",
+    "Nombre": "PORTA CARAMAYOLA ZEFAL VINTAGE  ACERO CROMO 1720",
+    "Precio": "$11.890",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0416ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/porta-caramayola-zefal-vintage-acero-cromo-1720.html"
+  },
+  {
+    "id": 180,
+    "Tienda": "Oxford Store",
+    "Nombre": "PORTA CARAMAYOLA ZEFAL RESINA SPRING BLANCO 1215W",
+    "Precio": "$3.490",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0409ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/porta-caramayola-zefal-resina-spring-blanco-1215w.html"
+  },
+  {
+    "id": 181,
+    "Tienda": "Oxford Store",
+    "Nombre": "PORTA CARAMAYOLA ZEFAL PULSE A2 GREY/BACK 1763",
+    "Precio": "$6.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0446ba_0_6.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/porta-caramayola-zefal-pulse-a2-grey-back-1763.html"
+  },
+  {
+    "id": 182,
+    "Tienda": "Oxford Store",
+    "Nombre": "PORTA CARAMAYOLA ZEFAL PULSE A2 BLACK/RED 1762",
+    "Precio": "$6.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0445ba_0_5.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/porta-caramayola-zefal-pulse-a2-black-red-1762.html"
+  },
+  {
+    "id": 183,
+    "Tienda": "Oxford Store",
+    "Nombre": "PORTA CARAMAYOLA ZEFAL PULSE A2 BLACK 1766",
+    "Precio": "$6.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0443ba_0_6.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/porta-caramayola-zefal-pulse-a2-black-1766.html"
+  },
+  {
+    "id": 184,
+    "Tienda": "Oxford Store",
+    "Nombre": "PORTA CARAMAYOLA ZEFAL PULSE A2 BLACK/GREEN 1760",
+    "Precio": "$6.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0441ba_0_6.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/porta-caramayola-zefal-pulse-a2-black-green-1760.html"
+  },
+  {
+    "id": 185,
+    "Tienda": "Oxford Store",
+    "Nombre": "PORTA CARAMAYOLA ZEFAL ALU PLAST 124 ROJO 1240B",
+    "Precio": "$3.490",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0412ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/porta-caramayola-zefal-alu-plast-124-rojo-1240b.html"
+  },
+  {
+    "id": 186,
+    "Tienda": "Oxford Store",
+    "Nombre": "PORTA CARAMAYOLA ZEFAL ALU PLAST 124 PLATA 124097",
+    "Precio": "$3.490",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0436ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/porta-caramayola-zefal-alu-plast-124-plata-124097.html"
+  },
+  {
+    "id": 187,
+    "Tienda": "Oxford Store",
+    "Nombre": "PORTA CARAMAYOLA ZEFAL ALU PLAST 124 BLANCO 1240F",
+    "Precio": "$3.490",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz0415ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/porta-caramayola-zefal-alu-plast-124-blanco-1240f.html"
+  },
+  {
+    "id": 188,
+    "Tienda": "Oxford Store",
+    "Nombre": "BOLSA HIDRO ZEFAL 2 LITROS 7169",
+    "Precio": "$11.890",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz2174ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/bolsa-hidro-zefal-2-litros-7169.html"
+  }
+]

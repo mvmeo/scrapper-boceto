@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "Tienda": "Evobikes",
     "Nombre": "MEDIDOR CADENA KMC",
     "Precio": "$4.990",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/08/medidor_kmc-630x630.jpg",
@@ -8,6 +9,7 @@
   },
   {
     "id": 2,
+    "Tienda": "Evobikes",
     "Nombre": "KIT ACCESORIOS SCOTT SYN RIDER SET",
     "Precio": "$48.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/08/synrideracc-630x630.jpg",
@@ -15,6 +17,7 @@
   },
   {
     "id": 3,
+    "Tienda": "Evobikes",
     "Nombre": "HERRAMIENTA WOLF TOOTH 8-BIT KIT TWO",
     "Precio": "$149.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/WT_8-BIT-KIT-TWO_1.png",
@@ -22,6 +25,7 @@
   },
   {
     "id": 4,
+    "Tienda": "Evobikes",
     "Nombre": "HERRAMIENTA RECTIFICADORA DISCOS WOLF TOOTH",
     "Precio": "$14.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/WT_Bottleopener_PRP_590x.jpg",
@@ -29,6 +33,7 @@
   },
   {
     "id": 5,
+    "Tienda": "Evobikes",
     "Nombre": "HERRAMIENTA WOLF TOOTH PACK WRENCH",
     "Precio": "$48.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/06/WT-Wrench-BB-01_1-630x630.png",
@@ -36,6 +41,7 @@
   },
   {
     "id": 6,
+    "Tienda": "Evobikes",
     "Nombre": "HERRAMIENTA T-25 TORX",
     "Precio": "$3.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/06/WT_T25_1-630x630.png",
@@ -43,6 +49,7 @@
   },
   {
     "id": 7,
+    "Tienda": "Evobikes",
     "Nombre": "HERRAMIENTA WOLF TOOTH 6-BIT",
     "Precio": "$43.900 – $52.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/06/WT_6BIT-630x630.png",
@@ -50,6 +57,7 @@
   },
   {
     "id": 8,
+    "Tienda": "Evobikes",
     "Nombre": "ADAPTADOR WOLF TOOTH TANPAN 11SPD",
     "Precio": "$49.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/WT_tanpan11_1.png",
@@ -57,6 +65,7 @@
   },
   {
     "id": 9,
+    "Tienda": "Evobikes",
     "Nombre": "HERRAMIENTA WOLF TOOTH PACK WRENCH STEEL HEX INSERTS",
     "Precio": "$21.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/wrench-inserts.png",
@@ -64,6 +73,7 @@
   },
   {
     "id": 10,
+    "Tienda": "Evobikes",
     "Nombre": "HERRAMIENTA WOLF TOOTH 8-BIT TIRE LEVER + DISC BRAKE MULTI TOOL",
     "Precio": "$21.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/WT_8-BIT-LEVER-BRAKE_1.png",
@@ -71,6 +81,7 @@
   },
   {
     "id": 11,
+    "Tienda": "Evobikes",
     "Nombre": "HERRAMIENTA WOLF TOOTH PACK WRENCH AND INSERTS KIT",
     "Precio": "$125.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/WOLF-TOOTH-PACK-WRENCH-AND-INSERTS-KIT-1.png",
@@ -78,6 +89,7 @@
   },
   {
     "id": 12,
+    "Tienda": "Evobikes",
     "Nombre": "DESMONTADORES SKS (SET)",
     "Precio": "$5.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/02/des_sks_01-630x630.jpg",
@@ -85,6 +97,7 @@
   },
   {
     "id": 13,
+    "Tienda": "Evobikes",
     "Nombre": "MULTIHERRAMIENTA SKS TOM 18",
     "Precio": "$29.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/02/tom_18_01-630x630.jpg",
@@ -92,6 +105,7 @@
   },
   {
     "id": 14,
+    "Tienda": "Evobikes",
     "Nombre": "MULTIHERRAMIENTA SKS TOM 14",
     "Precio": "$25.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/02/tom_14_01-630x630.jpg",
@@ -99,6 +113,7 @@
   },
   {
     "id": 15,
+    "Tienda": "Evobikes",
     "Nombre": "HERRAMIENTA WOLF TOOTH PACK PLIERS",
     "Precio": "$35.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/WT-MasterLinkCombo-blue-01_590x.jpg",
@@ -106,6 +121,7 @@
   },
   {
     "id": 16,
+    "Tienda": "Evobikes",
     "Nombre": "HERRAMIENTA WOLF TOOTH CHAIN WHIP",
     "Precio": "$49.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/WT-Chainwhip-Red-01_720x-630x630.jpg",
@@ -113,6 +129,7 @@
   },
   {
     "id": 17,
+    "Tienda": "Evobikes",
     "Nombre": "LUBRICANTE WOLF TOOTH WT-1 2OZ",
     "Precio": "$14.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/LUBE-WT1-2OZ_01_590x.jpg",
@@ -120,6 +137,7 @@
   },
   {
     "id": 18,
+    "Tienda": "Evobikes",
     "Nombre": "APLICADOR WOLF TOOTH LUBRICANTE",
     "Precio": "$6.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/06/WT1_aplicator_1-630x630.png",
@@ -127,6 +145,7 @@
   },
   {
     "id": 19,
+    "Tienda": "Evobikes",
     "Nombre": "LIMPIADOR CADENA LIQUI-MOLY BIKE KETTENREINIGER 400ML",
     "Precio": "$9.990",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/kettenreiniger-630x630.jpg",
@@ -134,6 +153,7 @@
   },
   {
     "id": 20,
+    "Tienda": "Evobikes",
     "Nombre": "LUBRICANTE LIQUI-MOLY BIKE KETTEN-SPRAY 400ML",
     "Precio": "$14.990",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/ketten-spray-630x630.jpg",
@@ -141,6 +161,7 @@
   },
   {
     "id": 21,
+    "Tienda": "Evobikes",
     "Nombre": "MULTIUSO LIQUI-MOLY BIKE LM40 SPRAY",
     "Precio": "$9.990",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/12/lm40-630x630.jpg",
@@ -148,6 +169,7 @@
   },
   {
     "id": 22,
+    "Tienda": "Evobikes",
     "Nombre": "LIMPIADOR LIQUI-MOLY BIKE CLEANER",
     "Precio": "$19.190",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/12/bike_cleaner-630x630.jpg",
@@ -155,6 +177,7 @@
   },
   {
     "id": 23,
+    "Tienda": "Evobikes",
     "Nombre": "LUBRICANTE LIQUI-MOLY BIKE KETTENOL WET LUBE 100ML",
     "Precio": "$13.390",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/12/kettenol_wet-630x630.jpg",
@@ -162,6 +185,7 @@
   },
   {
     "id": 24,
+    "Tienda": "Evobikes",
     "Nombre": "PAÑOS WOLF TOOTH MICROFIBRA",
     "Precio": "$14.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/06/WT-TOWEL_1-630x630.png",
@@ -169,6 +193,7 @@
   },
   {
     "id": 25,
+    "Tienda": "Evobikes",
     "Nombre": "LUBRICANTE LIQUI-MOLY BIKE KETTENOL DRY LUBE 100ML",
     "Precio": "$19.690",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/kettenol_dry-630x630.jpg",
@@ -176,6 +201,7 @@
   },
   {
     "id": 26,
+    "Tienda": "Evobikes",
     "Nombre": "LIMPIADOR TRANSMISIÓN CHEPARK BIC-888",
     "Precio": "$8.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/BIC-888-630x630.jpg",
@@ -183,6 +209,7 @@
   },
   {
     "id": 27,
+    "Tienda": "Evobikes",
     "Nombre": "LUBRICANTE SUSPENSIONES CHEPARK BIC-750",
     "Precio": "$7.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/BIC-750-630x630.jpg",
@@ -190,6 +217,7 @@
   },
   {
     "id": 28,
+    "Tienda": "Evobikes",
     "Nombre": "LIMPIADOR DISCOS CHEPARK BIC-600",
     "Precio": "$9.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/BIC-600-630x630.jpg",
@@ -197,6 +225,7 @@
   },
   {
     "id": 29,
+    "Tienda": "Evobikes",
     "Nombre": "LUBRICANTE CHEPARK BIC-535P WET",
     "Precio": "$6.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/BIC-535P-630x630.jpg",
@@ -204,6 +233,7 @@
   },
   {
     "id": 30,
+    "Tienda": "Evobikes",
     "Nombre": "LUBRICANTE CHEPARK BIC-360P PTFE",
     "Precio": "$7.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/BIC-360P-630x630.jpg",
@@ -211,6 +241,7 @@
   },
   {
     "id": 31,
+    "Tienda": "Evobikes",
     "Nombre": "MONTADOR NEUMÁTICOS CHEPARK BIC-270",
     "Precio": "$4.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/BIC-270-630x630.jpg",
@@ -218,6 +249,7 @@
   },
   {
     "id": 32,
+    "Tienda": "Evobikes",
     "Nombre": "LIMPIADOR CHEPARK E-BIKE BIC-180",
     "Precio": "$10.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/BIC-180-630x630.jpg",
@@ -225,6 +257,7 @@
   },
   {
     "id": 33,
+    "Tienda": "Evobikes",
     "Nombre": "LIQUIDO SELLANTE JOES NO FLATS",
     "Precio": "$9.900 – $27.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/JOES.jpg",
@@ -232,6 +265,7 @@
   },
   {
     "id": 34,
+    "Tienda": "Evobikes",
     "Nombre": "KIT PARCHE SLIME TRADICIONAL 6 UNIDADES",
     "Precio": "$3.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/08/parches_slime-630x630.jpg",

@@ -1,0 +1,770 @@
+[
+  {
+    "id": 1,
+    "Tienda": "Oxford Store",
+    "Nombre": "SHORT FOX RANGER MUJER",
+    "Precio": "$53.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx3221ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/short-fox-ranger-mujer.html"
+  },
+  {
+    "id": 2,
+    "Tienda": "Oxford Store",
+    "Nombre": "CASCO KALI ZOKA STRIPE",
+    "Precio": "$71.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/m/m/mm2851ba_1_1_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/casco-kali-zoka-stripe.html"
+  },
+  {
+    "id": 3,
+    "Tienda": "Oxford Store",
+    "Nombre": "CODERA FOX LAUNCH D30 NIÑO 2022",
+    "Precio": "$62.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx4258ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/codera-fox-launch-d30-ni-o-2022.html"
+  },
+  {
+    "id": 4,
+    "Tienda": "Oxford Store",
+    "Nombre": "GUANTES FOX RANGER WOMEN 2022",
+    "Precio": "$22.490",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx3332ba_1_1_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/guantes-fox-ranger-women-2022.html"
+  },
+  {
+    "id": 5,
+    "Tienda": "Oxford Store",
+    "Nombre": "POLERA FOX RANGER WOMEN DRI 2022",
+    "Precio": "$31.490",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx3324ba_1_1_1_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/polera-fox-ranger-women-dri-2022.html"
+  },
+  {
+    "id": 6,
+    "Tienda": "Oxford Store",
+    "Nombre": "POLERA FOX RANGER WOMEN DEFEND 2022",
+    "Precio": "$48.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx3321ba_1_1_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/polera-fox-ranger-women-defend-2022.html"
+  },
+  {
+    "id": 7,
+    "Tienda": "Oxford Store",
+    "Nombre": "GUANTES FOX RANGER GEL 2022",
+    "Precio": "$24.290",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx3313ba_1_1_1_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/guantes-fox-ranger-gel-2022.html"
+  },
+  {
+    "id": 8,
+    "Tienda": "Oxford Store",
+    "Nombre": "JOCKEY FOX BNKR FF 2022",
+    "Precio": "$22.490",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx3349ba_1_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/jockey-fox-bnkr-ff.html"
+  },
+  {
+    "id": 9,
+    "Tienda": "Oxford Store",
+    "Nombre": "JOCKEY FOX CLOUDE FLEXFIT 2.0 2022",
+    "Precio": "$24.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx3347ba_1_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/jockey-fox-cloude-flexfit-2-0-2022.html"
+  },
+  {
+    "id": 10,
+    "Tienda": "Oxford Store",
+    "Nombre": "JOCKEY FOX PINNACLE TECH FLEXFIT 2022",
+    "Precio": "$26.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx3345ba_1_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/jockey-fox-pinnacle-tech-flexfit-2022.html"
+  },
+  {
+    "id": 11,
+    "Tienda": "Oxford Store",
+    "Nombre": "CALCETA FOX RANGER 2022",
+    "Precio": "$11.690",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx3319ba_1_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/calceta-fox-ranger-2022.html"
+  },
+  {
+    "id": 12,
+    "Tienda": "Oxford Store",
+    "Nombre": "CALCETA FOX RANGER WOMEN 2022",
+    "Precio": "$11.690",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx3335ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/calceta-fox-ranger-women-2022.html"
+  },
+  {
+    "id": 13,
+    "Tienda": "Oxford Store",
+    "Nombre": "CORTA VIENTO FOX RANGER 2022",
+    "Precio": "$76.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx3352ba_1_1_1_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/corta-viento-fox-ranger-2022.html"
+  },
+  {
+    "id": 14,
+    "Tienda": "Oxford Store",
+    "Nombre": "PANTALON FOX RANGER 2022",
+    "Precio": "$69.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx3288ba_1_1_1_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/pantalon-fox-ranger-2022.html"
+  },
+  {
+    "id": 15,
+    "Tienda": "Oxford Store",
+    "Nombre": "POLERA FOX RANGER SS 2022",
+    "Precio": "$31.490",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx3278ba_1_1_1_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/polera-fox-ranger-ss-2022.html"
+  },
+  {
+    "id": 16,
+    "Tienda": "Oxford Store",
+    "Nombre": "POLERA FOX RANGER  DRI LS 2022",
+    "Precio": "$39.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx3274ba_1_1_1_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/polera-fox-ranger-dri-ls-2022.html"
+  },
+  {
+    "id": 17,
+    "Tienda": "Oxford Store",
+    "Nombre": "GUANTES FOX RANGER 2022",
+    "Precio": "$22.490",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx3309ba_1_1_1_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/guantes-fox-ranger-2022.html"
+  },
+  {
+    "id": 18,
+    "Tienda": "Oxford Store",
+    "Nombre": "CASCO INFANTIL OXFORD MULTIVERSE",
+    "Precio": "$14.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/m/m/mm5022ba_casco_oxford_multiverse_blue_01_1.png",
+    "URLproducto": "https://www.oxfordstore.cl/casco-infantil-oxford-multiverse.html"
+  },
+  {
+    "id": 19,
+    "Tienda": "Oxford Store",
+    "Nombre": "CASCO KALI CHAKRA CHILD 2022",
+    "Precio": "$17.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/m/m/mm2701ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/casco-kali-chakra-child-2022.html"
+  },
+  {
+    "id": 20,
+    "Tienda": "Oxford Store",
+    "Nombre": "CASCO KALI ZOKA YOUTH 2022",
+    "Precio": "$71.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/m/m/mm2854ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/casco-kali-zoka-youth-2022.html"
+  },
+  {
+    "id": 21,
+    "Tienda": "Oxford Store",
+    "Nombre": "CASCO KALI PACE 2022",
+    "Precio": "$35.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/m/m/mm2877ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/casco-kali-pace.html"
+  },
+  {
+    "id": 22,
+    "Tienda": "Oxford Store",
+    "Nombre": "CASCO INFANTIL KALI MAYA CHILD FULLFACE RACE 2022",
+    "Precio": "$53.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/m/m/mm2881ba_1_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/casco-infantil-kali-maya-child-fullface-race.html"
+  },
+  {
+    "id": 23,
+    "Tienda": "Oxford Store",
+    "Nombre": "CASCO KALI MAYA 3.0 2022",
+    "Precio": "$58.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/m/m/mm2874ba_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/casco-kali-3-0-maya.html"
+  },
+  {
+    "id": 24,
+    "Tienda": "Oxford Store",
+    "Nombre": "CASCO INFANTIL OXFORD",
+    "Precio": "$14.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/m/m/mm5020ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/casco-infantil-oxford.html"
+  },
+  {
+    "id": 25,
+    "Tienda": "Oxford Store",
+    "Nombre": "CASCO KALI CRUZ SOLID 2022",
+    "Precio": "$29.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/m/m/mm2865ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/casco-kali-cruz-solid-t-s-m-grey-1.html"
+  },
+  {
+    "id": 26,
+    "Tienda": "Oxford Store",
+    "Nombre": "CASCO KALI UNO SOLID 2022",
+    "Precio": "$53.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/m/m/mm2848ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/casco-kali-uno-solid-t-l-xl-matt-black-1.html"
+  },
+  {
+    "id": 27,
+    "Tienda": "Oxford Store",
+    "Nombre": "CASCO FOX PROFRAME TUK 2022",
+    "Precio": "$224.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx1123ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/casco-fox-proframe-tuk-t-xl-black-gold-1.html"
+  },
+  {
+    "id": 28,
+    "Tienda": "Oxford Store",
+    "Nombre": "SHORT FOX RANGER NIÑO W/LINER 2022",
+    "Precio": "$62.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx3342ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/short-fox-ranger-ni-o-w-liner-2022.html"
+  },
+  {
+    "id": 29,
+    "Tienda": "Oxford Store",
+    "Nombre": "SHORT INTERIOR FOX TECBASE LITE 2022",
+    "Precio": "$35.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx3306ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/short-interior-fox-tecbase-lite-2022.html"
+  },
+  {
+    "id": 30,
+    "Tienda": "Oxford Store",
+    "Nombre": "SHORT FOX RANGER W/LINER 2022",
+    "Precio": "$71.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx3292ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/short-fox-ranger-w-liner-2022.html"
+  },
+  {
+    "id": 31,
+    "Tienda": "Oxford Store",
+    "Nombre": "POLERA FOX RANGER DRI SS 2022",
+    "Precio": "$31.490",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx3285ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/polera-fox-ranger-dri-ss-2022.html"
+  },
+  {
+    "id": 32,
+    "Tienda": "Oxford Store",
+    "Nombre": "POLERA FOX RANGER TRU DRI LS 2022",
+    "Precio": "$40.490",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx3271ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/polera-fox-ranger-tru-dri-ls-2022.html"
+  },
+  {
+    "id": 33,
+    "Tienda": "Oxford Store",
+    "Nombre": "CASCO FOX MAINFRAME MIPS 2022",
+    "Precio": "$62.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx1153ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/casco-fox-mainframe-mips-2022.html"
+  },
+  {
+    "id": 34,
+    "Tienda": "Oxford Store",
+    "Nombre": "BASEFRANE FOX PRO BLACK 2022",
+    "Precio": "$159.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx3337ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/basefrane-fox-pro-black-2022.html"
+  },
+  {
+    "id": 35,
+    "Tienda": "Oxford Store",
+    "Nombre": "SHORT FOX RANGER WOMEN W/LINER BLACK 2022",
+    "Precio": "$71.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx3328ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/short-fox-ranger-women-w-liner-black-2022.html"
+  },
+  {
+    "id": 36,
+    "Tienda": "Oxford Store",
+    "Nombre": "CASCO FOX SPEEDFRAME 2022",
+    "Precio": "$107.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx1152ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/casco-fox-speedframe-2022.html"
+  },
+  {
+    "id": 37,
+    "Tienda": "Oxford Store",
+    "Nombre": "CASCO FOX PROFRAME MATTE NEGRO",
+    "Precio": "$224.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx1040ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/casco-fox-proframe-matte-negro.html"
+  },
+  {
+    "id": 38,
+    "Tienda": "Oxford Store",
+    "Nombre": "GUANTES FOX RANGER GEL MUJER",
+    "Precio": "$24.290",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx3196ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/guantes-fox-ranger-gel-mujer.html"
+  },
+  {
+    "id": 39,
+    "Tienda": "Oxford Store",
+    "Nombre": "SHORT FOX RANGER LITE BLACK",
+    "Precio": "$62.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx3266ba_1_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/short-fox-ranger-lite-black.html"
+  },
+  {
+    "id": 40,
+    "Tienda": "Oxford Store",
+    "Nombre": "CODERAS FOX LAUNCH D3O NEGRO",
+    "Precio": "$62.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx4256ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/catalog/product/view/id/6777/s/coderas-fox-launch-d3o-t-l-negro-1/category/76/"
+  },
+  {
+    "id": 41,
+    "Tienda": "Oxford Store",
+    "Nombre": "CASCO FOX MAINFRAME MIPS",
+    "Precio": "$62.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx1131ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/casco-fox-mainframe-mips-t-m-flo-yellow-1.html"
+  },
+  {
+    "id": 42,
+    "Tienda": "Oxford Store",
+    "Nombre": "CASCO FOX FLIGHT SPORT NEGRO",
+    "Precio": "$29.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx1168ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/casco-fox-flight-sport-t-m-negro-1.html"
+  },
+  {
+    "id": 43,
+    "Tienda": "Oxford Store",
+    "Nombre": "RODILLERA KALI MISSION 2.0",
+    "Precio": "$41.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/m/m/mm1004ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/rodillera-kali-mission-2-0.html"
+  },
+  {
+    "id": 44,
+    "Tienda": "Oxford Store",
+    "Nombre": "GUANTES KALI MISSION",
+    "Precio": "$10.000",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/m/m/mm4151ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/guantes-kali-mission.html"
+  },
+  {
+    "id": 45,
+    "Tienda": "Oxford Store",
+    "Nombre": "GUANTES KALI CASCADE",
+    "Precio": "$10.000",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/m/m/mm4142ba_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/guantes-kali-cascade.html"
+  },
+  {
+    "id": 46,
+    "Tienda": "Oxford Store",
+    "Nombre": "ANTIPARRA KALI TRINITY PERFORMANCE BLACK",
+    "Precio": "$46.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/m/m/mm4200ba_modi.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/antiparra-kali-trinity-performance-black.html"
+  },
+  {
+    "id": 47,
+    "Tienda": "Oxford Store",
+    "Nombre": "ANTIPARRA KALI SHASTA CLASSIC BLACK",
+    "Precio": "$32.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/m/m/mm4201ba.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/antiparra-kali-shasta-classic-black.html"
+  },
+  {
+    "id": 48,
+    "Tienda": "Oxford Store",
+    "Nombre": "POLERA FOX RANGER SS",
+    "Precio": "$31.490",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx3254ba_1_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/polera-fox-ranger-ss-t-s-flo-yellow-1.html"
+  },
+  {
+    "id": 49,
+    "Tienda": "Oxford Store",
+    "Nombre": "POLERA FOX RANGER  LS",
+    "Precio": "$40.490",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx3261ba_1_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/polera-fox-ranger-ls-switch-t-s-black-1.html"
+  },
+  {
+    "id": 50,
+    "Tienda": "Oxford Store",
+    "Nombre": "CASCO BERN TIGRE",
+    "Precio": "$30.000",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/m/h/mh1322ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/casco-bern-tigre.html"
+  },
+  {
+    "id": 51,
+    "Tienda": "Oxford Store",
+    "Nombre": "CASCO BERN NINO 2.0",
+    "Precio": "$30.000",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/m/h/mh1320ba_1_2.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/casco-bern-nino-2-0.html"
+  },
+  {
+    "id": 52,
+    "Tienda": "Oxford Store",
+    "Nombre": "CASCO BERN MACON 2.0",
+    "Precio": "$25.000",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/m/h/mh1304ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/casco-bern-macon-2-0.html"
+  },
+  {
+    "id": 53,
+    "Tienda": "Oxford Store",
+    "Nombre": "GUANTES FOX RANGER",
+    "Precio": "$20.000",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx3182ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/guantes-fox-ranger.html"
+  },
+  {
+    "id": 54,
+    "Tienda": "Oxford Store",
+    "Nombre": "ZAPATILLAS HOMBRE SERFAS MODELO LEADOUT TALLA 45 NEGRO",
+    "Precio": "$61.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/s/n/sn3005ba_0_6.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/zapatillas-hombre-serfas-modelo-leadout-talla-45-negro.html"
+  },
+  {
+    "id": 55,
+    "Tienda": "Oxford Store",
+    "Nombre": "JGO CALAS SPD SERFAS SCS-1",
+    "Precio": "$11.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/s/n/sn2701ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/jgo-calas-spd-serfas-scs-1.html"
+  },
+  {
+    "id": 56,
+    "Tienda": "Oxford Store",
+    "Nombre": "CASCO FOX FLIGHT SPORT",
+    "Precio": "$29.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx1060ba_0_1_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/casco-fox-flight-sport-talla-s-color-azul-1.html"
+  },
+  {
+    "id": 57,
+    "Tienda": "Oxford Store",
+    "Nombre": "CASCO KALI MODELO PACE SOLID",
+    "Precio": "$20.000",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/m/m/mm2666ba_0_1_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/casco-kali-modelo-pace-solid.html"
+  },
+  {
+    "id": 58,
+    "Tienda": "Oxford Store",
+    "Nombre": "CASCO NIÑO KALI MODELO CHAKRA CHILD",
+    "Precio": "$17.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/m/m/mm2682ba_0_1_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/casco-kali-chakra-youth-pixel-glosy-black-87.html"
+  },
+  {
+    "id": 59,
+    "Tienda": "Oxford Store",
+    "Nombre": "TRICOTA ENDURO NIÑO/A OXFORDSTORE 6-8 AÑOS",
+    "Precio": "$22.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/u/p/up2001ba_0_4.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/tricota-enduro-oxfordstore-kid-6-8-a-os-unisex-2020.html"
+  },
+  {
+    "id": 60,
+    "Tienda": "Oxford Store",
+    "Nombre": "RODILLERAS FOX MODELO ENDURO NEGRO",
+    "Precio": "$53.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx4208ba_0_3_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/rodilleras-fox-modelo-enduro-negro.html"
+  },
+  {
+    "id": 61,
+    "Tienda": "Oxford Store",
+    "Nombre": "CASCO BERN MODELO FL-1 LIBRE",
+    "Precio": "$30.000",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/m/h/mh1267ba_0_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/casco-bern-modelo-fl-1-libre-talla-m-color-satin-fuscia-1.html"
+  },
+  {
+    "id": 62,
+    "Tienda": "Oxford Store",
+    "Nombre": "MASCARILLA FOX CAMO",
+    "Precio": "$1.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx6003ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/mascarilla-fox-camo.html"
+  },
+  {
+    "id": 63,
+    "Tienda": "Oxford Store",
+    "Nombre": "CASCO KALI MODELO ZOKA",
+    "Precio": "$71.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/m/m/mm2805ba_0_1_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/casco-kali-modelo-zoka-dash-talla-l-mat-red-burdeo-141.html"
+  },
+  {
+    "id": 64,
+    "Tienda": "Oxford Store",
+    "Nombre": "CASCO KALI MODELO MAHA SOLID",
+    "Precio": "$15.000",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/m/m/mm2691ba_0_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/casco-kali-modelo-maha-solid.html"
+  },
+  {
+    "id": 65,
+    "Tienda": "Oxford Store",
+    "Nombre": "CASCO CON VISOR BERN MODELO BRENTWOOD 2.0",
+    "Precio": "$40.000",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/m/h/mh1282ba_0_1_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/casco-con-visor-bern-modelo-brentwood-2-0-talla-s-negro-mate-1.html"
+  },
+  {
+    "id": 66,
+    "Tienda": "Oxford Store",
+    "Nombre": "CASCO BERN ALLSTON FLIP VISOR",
+    "Precio": "$30.000",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/m/h/mh1242ba_0_1_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/casco-bern-allston-t-l-matte-orange-w-flip-visor-1.html"
+  },
+  {
+    "id": 67,
+    "Tienda": "Oxford Store",
+    "Nombre": "ZAPATILLAS MUJER SERFAS MODELO TRAX TALLA 36",
+    "Precio": "$59.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/s/n/sn3026ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/zapatillas-mujer-serfas-modelo-trax-talla-36.html"
+  },
+  {
+    "id": 68,
+    "Tienda": "Oxford Store",
+    "Nombre": "GUANTES DEDO CORTO HOMBRE ZERFAS MODELO STARTER",
+    "Precio": "$10.000",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/s/n/sn3252ba_0_3_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/guantes-dedo-corto-hombre-zerfas-modelo-starter-talla-l-fluor-1.html"
+  },
+  {
+    "id": 69,
+    "Tienda": "Oxford Store",
+    "Nombre": "GUANTES HOMBRE SERFAS MODELO STARTER",
+    "Precio": "$11.890",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/s/n/sn3256ba_0_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/guantes-hombre-serfas-modelo-starter.html"
+  },
+  {
+    "id": 70,
+    "Tienda": "Oxford Store",
+    "Nombre": "RODILLERAS FOX MODELO LAUNCH D30 NEGRO",
+    "Precio": "$71.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx4211ba_0_3_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/rodilleras-fox-modelo-launch-d30-negro.html"
+  },
+  {
+    "id": 71,
+    "Tienda": "Oxford Store",
+    "Nombre": "ZAPATILLAS SERFAS MEN TRAX T/46 SMT-160B-46",
+    "Precio": "$5.000",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/s/n/sn3025ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/zapatillas-serfas-men-trax-t-46-smt-160b-46.html"
+  },
+  {
+    "id": 72,
+    "Tienda": "Oxford Store",
+    "Nombre": "ZAPATILLAS SERFAS WOMEN TRAX T/37 SWT-160B-37",
+    "Precio": "$5.000",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/s/n/sn3027ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/zapatillas-serfas-women-trax-t-37-swt-160b-37.html"
+  },
+  {
+    "id": 73,
+    "Tienda": "Oxford Store",
+    "Nombre": "ANTIPARRA FOX MAIN BARREN FLUOR YELLOW",
+    "Precio": "$35.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx2034ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/antiparra-fox-main-barren-fluor-yellow.html"
+  },
+  {
+    "id": 74,
+    "Tienda": "Oxford Store",
+    "Nombre": "CASCO OXFORD MODELO URBANO MOONSTONE",
+    "Precio": "$16.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/m/m/mm5012ba_0_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/casco-oxford-modelo-urbano-moonstone.html"
+  },
+  {
+    "id": 75,
+    "Tienda": "Oxford Store",
+    "Nombre": "SHORT NIÑO FOX MODELO RANGER",
+    "Precio": "$44.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx3037ba_0_4_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/short-fox-ranger-ni-o-t-24-negro-1.html"
+  },
+  {
+    "id": 76,
+    "Tienda": "Oxford Store",
+    "Nombre": "SHORT INTERIOR FOX MODELO TECBASE",
+    "Precio": "$53.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx3225ba_0_2_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/short-interior-fox-tecbase-t-m-negro-1.html"
+  },
+  {
+    "id": 77,
+    "Tienda": "Oxford Store",
+    "Nombre": "SHORT FOX RANGER CAMO",
+    "Precio": "$62.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx3228ba_0_2_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/short-fox-ranger-t-30-camo-1.html"
+  },
+  {
+    "id": 78,
+    "Tienda": "Oxford Store",
+    "Nombre": "BIB SHORT REPLICA CANNONDALE FACTORY RACING NEGRO",
+    "Precio": "$51.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/w/h/wh000009_0_2.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/bib-short-cannondale-shimano-cfr-replica-t-s-black.html"
+  },
+  {
+    "id": 79,
+    "Tienda": "Oxford Store",
+    "Nombre": "TRICOTA RÉPLICA CANNONDALE FACTORY RACING",
+    "Precio": "$45.490",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/w/h/wh000008_0_2.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/tricota-cannondale-shimano-cfr-replica-ss-white.html"
+  },
+  {
+    "id": 80,
+    "Tienda": "Oxford Store",
+    "Nombre": "GUANTES DEDO CORTO OXFORD",
+    "Precio": "$10.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/w/gw1005ba_0_2_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/guantes-dedo-corto-oxford.html"
+  },
+  {
+    "id": 81,
+    "Tienda": "Oxford Store",
+    "Nombre": "RODILLERAS FOX LAUNCH D30 NIÑO RENTAL NEGRO",
+    "Precio": "$62.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx4205ba_0_4.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/rodilleras-fox-launch-d30-ni-o-rental-negro.html"
+  },
+  {
+    "id": 82,
+    "Tienda": "Oxford Store",
+    "Nombre": "CASCO OXFORD MODELO TRAIL EVEREST",
+    "Precio": "$27.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/m/m/mm5004ba_0_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/casco-oxford-modelo-trail-everest.html"
+  },
+  {
+    "id": 83,
+    "Tienda": "Oxford Store",
+    "Nombre": "CASCO OXFORD MODELO MTB HIMALAYA",
+    "Precio": "$23.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/m/m/mm5010ba_0_1_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/casco-oxford-modelo-mtb-himalaya.html"
+  },
+  {
+    "id": 84,
+    "Tienda": "Oxford Store",
+    "Nombre": "CASCO FOX MAINFRAME YOUTH",
+    "Precio": "$62.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx1136ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/casco-fox-mainframe-youth-black-gold-1.html"
+  },
+  {
+    "id": 85,
+    "Tienda": "Oxford Store",
+    "Nombre": "CASCO FOX SPEEDFRAME MIPS",
+    "Precio": "$107.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx1124ba_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/casco-fox-speedframe-mips-t-l-black-yellow-1.html"
+  },
+  {
+    "id": 86,
+    "Tienda": "Oxford Store",
+    "Nombre": "CASCO KALI CHAKRA SOLO SOLID",
+    "Precio": "$23.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/m/m/mm2625ba_0_1_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/casco-kali-chakra-solo-solid.html"
+  },
+  {
+    "id": 87,
+    "Tienda": "Oxford Store",
+    "Nombre": "CASCO FOX MODELO SPEEDFRAME PRO",
+    "Precio": "$125.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx1105ba_0_1_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/casco-fox-speedframe-pro-t-m-black-green-1.html"
+  },
+  {
+    "id": 88,
+    "Tienda": "Oxford Store",
+    "Nombre": "CASCO KALI MODELO CENTRAL SOLID",
+    "Precio": "$41.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/m/m/mm2822ba_0_1_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/casco-kali-central-solid-t-s-m-mat-thunder-1.html"
+  },
+  {
+    "id": 89,
+    "Tienda": "Oxford Store",
+    "Nombre": "CASCO NIÑO KALI MODELO CHAKRA YOUTH",
+    "Precio": "$23.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/m/m/mm2821ba_0_1_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/casco-kali-chakra-youth.html"
+  },
+  {
+    "id": 90,
+    "Tienda": "Oxford Store",
+    "Nombre": "CASCO KALI MODELO PACE CAMO",
+    "Precio": "$20.000",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/m/m/mm2818ba_0_1_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/casco-kali-pace-camo-t-s-m-mat-thunder-1.html"
+  },
+  {
+    "id": 91,
+    "Tienda": "Oxford Store",
+    "Nombre": "CASCO KALI MAYA 3.0 CAMO",
+    "Precio": "$58.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/m/m/mm2812ba_0_1_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/casco-kali-maya-3-0-camo-t-s-m-mat-red-bur-1.html"
+  },
+  {
+    "id": 92,
+    "Tienda": "Oxford Store",
+    "Nombre": "CASCO KALI MAYA 3.0 SOLID",
+    "Precio": "$58.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/m/m/mm2810ba_0_1_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/casco-kali-maya-3-0-solid-t-s-m-mat-moss-silver-1.html"
+  },
+  {
+    "id": 93,
+    "Tienda": "Oxford Store",
+    "Nombre": "CASCO FOX MODELO SPEEDFRAME MIPS",
+    "Precio": "$107.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx1103ba_0_1_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/casco-fox-speedframe-mips-t-m-flo-yellow-1.html"
+  },
+  {
+    "id": 94,
+    "Tienda": "Oxford Store",
+    "Nombre": "CASCO KALI CRUZ SOLID",
+    "Precio": "$29.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/m/m/mm2836ba_0_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/casco-kali-cruz-solid-t-s-m-black-144.html"
+  },
+  {
+    "id": 95,
+    "Tienda": "Oxford Store",
+    "Nombre": "CASCO KALI MODELO INVADER 2.0",
+    "Precio": "$119.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/m/m/mm2830ba_0_1.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/casco-kali-modelo-invader-2-0.html"
+  },
+  {
+    "id": 96,
+    "Tienda": "Oxford Store",
+    "Nombre": "CASCO FOX SPEEDFRAME PRO 2022",
+    "Precio": "$143.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/f/x/fx1095ba_1_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/casco-fox-speedframe-pro-t-s-black-1.html"
+  }
+]

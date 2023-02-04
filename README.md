@@ -12,8 +12,10 @@ Articulos que se muestran en la plataforma:
 * Ropa/indumentaria
 * Accesorios
 * Artículos de mantenimiento
+* Componentes
+* Nutrición deportiva
 
-## Tiendas que se muestran en la plataforma
+## Tiendas listas con scraping
 
 * [Crossmountain](https://www.crossmountain.cl/)
 * [OxfordStore](https://www.oxfordstore.cl/)
@@ -21,7 +23,7 @@ Articulos que se muestran en la plataforma:
 * [Evobikes](https://evobikes.cl/cl/)
 * [Pedal Pro](https://pedalpro.cl/)
 
-## Páginas que no permitieron scraping :(
+## Páginas que no permitieron scraping sencillo (usar alternativas que simulen navegación) :(
 
 Estas páginas deben ser scrapeadas simulando una navegación.
 * [5norte](https://www.5norte.cl/)

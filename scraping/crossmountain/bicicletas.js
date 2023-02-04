@@ -1,49 +1,24 @@
 import fetch from "node-fetch";
-import * as cheerio from "cheerio";
-import { writeFile} from "node:fs/promises";
-import path from "node:path"; 
+import { writeFile } from "node:fs/promises";
+import path from "node:path";
 
-const source = "https://crossmountain.cl/";
+import { scrape } from "./utils/functions.js";
 
-const URLS = "https://crossmountain.cl/c/4/bicicletas";
+import { indexar } from "../utils/functions.js";
+import { info } from "../utils/info.js";
 
-const res = await fetch(URLS);
-const html = await res.text();
+const bicicletas = [];
 
-const firstPrice = (price) => {
-  const Precios = price.split(" ");
-  const rawPrecio = Precios[0];
-  return rawPrecio;
-};
+for (let i = 0; i < info.crossmountain.URLS.bicicletas.length; i++) {
+  const res = await fetch(info.crossmountain.URLS.bicicletas[i]);
+  const html = await res.text();
 
-const bicicletas = []
-
-const $ = cheerio.load(html);
-$(".itemProduct").each((index, el) => {
-  const id = index + 1;
-  const rawNombre = $(el).find(".item-title").text();
-  const Nombre = rawNombre.replace(/[\n\t]+/g, "");
-  const rawPrecio = $(el).find("span.item-price").text();
-  const Precio = firstPrice(rawPrecio);
-  const imgURL = $(el).find(".imageContainer img").attr("src");
-  const URLproducto = source + $(el).find(".imageContainer a").attr("href");
-
-  const data = {
-    id,
-    Nombre,
-    Precio,
-    imgURL,
-    URLproducto,
-  };
-
-  bicicletas.push(data);
-});
-
-for (let i = 0; i < bicicletas.length; i++) {
-  bicicletas[i] = { id: i + 1, ...bicicletas[i] };
+  scrape(html, bicicletas, info.crossmountain.nombre);
 }
 
-const data = JSON.stringify(bicicletas, null, 2);
+const lista = indexar(bicicletas);
+
+const data = JSON.stringify(lista, null, 2);
 const filePath = path.join(process.cwd(), "./db/crossmountain/bicicletas.json");
 
-await writeFile(filePath, data, 'utf-8')
+await writeFile(filePath, data, "utf-8");

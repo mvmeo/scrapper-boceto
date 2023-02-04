@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMÁTICO PIRELLI P7 SPORT",
     "Precio": "$32.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/p7_01.jpg",
@@ -8,6 +9,7 @@
   },
   {
     "id": 2,
+    "Tienda": "Evobikes",
     "Nombre": "CAMBIO SHIMANO ACERA RD-M360 7/8V",
     "Precio": "$24.900 – $25.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/cambio-shimano-acera-rd-m360-7-8v-negro-630x630.jpg",
@@ -15,6 +17,7 @@
   },
   {
     "id": 3,
+    "Tienda": "Evobikes",
     "Nombre": "CÁMARA PIRELLI SPORTUBE",
     "Precio": "$6.500 – $7.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/sportube-630x630.jpg",
@@ -22,6 +25,7 @@
   },
   {
     "id": 4,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMÁTICO PIRELLI SCORPION XC M",
     "Precio": "$67.900 – $72.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/scorpion_xc_m_01.jpg",
@@ -29,6 +33,7 @@
   },
   {
     "id": 5,
+    "Tienda": "Evobikes",
     "Nombre": "CALAS SHIMANO RUTA SM-SH11",
     "Precio": "$18.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/Y42U98010_SM-SH11_2_750_750-630x630.jpeg",
@@ -36,6 +41,7 @@
   },
   {
     "id": 6,
+    "Tienda": "Evobikes",
     "Nombre": "PASTILLA FRENO SHIMANO K03S RESINA",
     "Precio": "$9.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/Y8Y898010_K03S_1_750_750-630x630.jpeg",
@@ -43,6 +49,7 @@
   },
   {
     "id": 7,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMÁTICO PIRELLI CINTURATO VELO TLR",
     "Precio": "$70.900 – $74.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/cinturato_velo_tlr_01.jpg",
@@ -50,6 +57,7 @@
   },
   {
     "id": 8,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMÁTICO PIRELLI P ZERO RACE TLR",
     "Precio": "$81.900 – $85.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/RACE_TLR_01.jpg",
@@ -57,6 +65,7 @@
   },
   {
     "id": 9,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMÁTICO PIRELLI P ZERO RACE TLR SL",
     "Precio": "$76.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/RACE_SL_TLR_01.jpg",
@@ -64,6 +73,7 @@
   },
   {
     "id": 10,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMÁTICO PIRELLI P ZERO ROAD",
     "Precio": "$49.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/proad_01.jpg",
@@ -71,6 +81,7 @@
   },
   {
     "id": 11,
+    "Tienda": "Evobikes",
     "Nombre": "CAMBIO SHIMANO XT RD-M8000 11V",
     "Precio": "$122.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-RD-M8000-SGS_12888_1_750_750-630x630.jpeg",
@@ -78,6 +89,7 @@
   },
   {
     "id": 12,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMATICO VITTORIA ZAFFIRO PRO",
     "Precio": "$32.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/04/ZAFFIRO_PRO_01-630x630.jpg",
@@ -85,6 +97,7 @@
   },
   {
     "id": 13,
+    "Tienda": "Evobikes",
     "Nombre": "PIÑON SHIMANO 105 CS-R7000 11V",
     "Precio": "$71.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-CS-R7000_BC19Nd0062_750_750-630x630.jpeg",
@@ -92,6 +105,7 @@
   },
   {
     "id": 14,
+    "Tienda": "Evobikes",
     "Nombre": "CADENA SHIMANO SLX CN-M7100 12V",
     "Precio": "$41.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/CN-M7100_C260_1_750_750-630x630.jpeg",
@@ -99,6 +113,7 @@
   },
   {
     "id": 15,
+    "Tienda": "Evobikes",
     "Nombre": "RUEDAS FULCRUM ROAD RACING 4 DB C17",
     "Precio": "$454.900 – $475.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/11/racing4db-1.jpg",
@@ -106,6 +121,7 @@
   },
   {
     "id": 16,
+    "Tienda": "Evobikes",
     "Nombre": "CÁMARA PIRELLI P ZERO™ SMARTUBE",
     "Precio": "$29.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/pzero-smartube-630x630.jpg",
@@ -113,6 +129,7 @@
   },
   {
     "id": 17,
+    "Tienda": "Evobikes",
     "Nombre": "PEDAL SHIMANO 105 PD-R7000",
     "Precio": "$149.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-PD-R7000_2019NPP0021_750_750-630x630.jpeg",
@@ -120,6 +137,7 @@
   },
   {
     "id": 18,
+    "Tienda": "Evobikes",
     "Nombre": "CAMBIO SHIMANO CLARIS RD-R2000 SS 8V",
     "Precio": "$25.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-RD-R2000-GS_15933_1_750_750-630x630.jpeg",
@@ -127,6 +145,7 @@
   },
   {
     "id": 19,
+    "Tienda": "Evobikes",
     "Nombre": "CADENA SHIMANO CN-HG40",
     "Precio": "$13.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-CN-HG40_10805_1_750_750-630x630.jpeg",
@@ -134,6 +153,7 @@
   },
   {
     "id": 20,
+    "Tienda": "Evobikes",
     "Nombre": "CINTA MANUBRIO WOLF TOOTH SUPPLE BAR TAPE – BLACK",
     "Precio": "$37.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/WT_SuppleBarTape_BLK_packaging_590x.jpg",
@@ -141,6 +161,7 @@
   },
   {
     "id": 21,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMATICO VITTORIA MEZCAL III TAN COLOR",
     "Precio": "$55.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/mezcal_skin.jpg",
@@ -148,6 +169,7 @@
   },
   {
     "id": 22,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMÁTICO PIRELLI P ZERO RACE",
     "Precio": "$64.900 – $69.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/pzero_race_01.jpg",
@@ -155,6 +177,7 @@
   },
   {
     "id": 23,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMÁTICO PIRELLI SCORPION XC H",
     "Precio": "$67.900 – $72.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/scorpion_xc_h_01.jpg",
@@ -162,6 +185,7 @@
   },
   {
     "id": 24,
+    "Tienda": "Evobikes",
     "Nombre": "VÁLVULAS TUBOLIGHT",
     "Precio": "$21.900 – $25.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/06/TL_valves-blue.jpg",
@@ -169,6 +193,7 @@
   },
   {
     "id": 25,
+    "Tienda": "Evobikes",
     "Nombre": "CAMBIO SRAM GX EAGLE LUNAR 12V",
     "Precio": "$133.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/05/pata-de-cambio-sram-gx-eagle-12v-lunar-630x630.jpg",
@@ -176,6 +201,7 @@
   },
   {
     "id": 26,
+    "Tienda": "Evobikes",
     "Nombre": "CADENA SHIMANO DEORE M6100 12V",
     "Precio": "$27.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/CN-M6100_2_750_750-630x630.jpeg",
@@ -183,6 +209,7 @@
   },
   {
     "id": 27,
+    "Tienda": "Evobikes",
     "Nombre": "CINTA DE MANUBRIO SUPACAZ SUPER STICKY KUSH STAR FADE – RED",
     "Precio": "$34.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/02-800x800-1-630x630.jpg",
@@ -190,6 +217,7 @@
   },
   {
     "id": 28,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMÁTICO PIRELLI CINTURATO GRAVEL M",
     "Precio": "$67.900 – $69.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/cinturato_gravel_m_01.jpg",
@@ -197,6 +225,7 @@
   },
   {
     "id": 29,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMÁTICO PIRELLI SCORPION XC R",
     "Precio": "$67.900 – $72.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/scorpion_xc_r_01.jpg",
@@ -204,6 +233,7 @@
   },
   {
     "id": 30,
+    "Tienda": "Evobikes",
     "Nombre": "RUEDAS FULCRUM RACING 900 C17",
     "Precio": "$234.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/04/racing900-630x630.jpg",
@@ -211,6 +241,7 @@
   },
   {
     "id": 31,
+    "Tienda": "Evobikes",
     "Nombre": "PIÑON SRAM GX EAGLE 10/50 12V",
     "Precio": "$215.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/cassette_sram_gx_eagle_1050-630x630.jpg",
@@ -218,6 +249,7 @@
   },
   {
     "id": 32,
+    "Tienda": "Evobikes",
     "Nombre": "ROTOR SHIMANO SM-RT86",
     "Precio": "$49.900 – $58.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-SM-RT86-M_mig0048_1_750_750-630x630.jpeg",
@@ -225,6 +257,7 @@
   },
   {
     "id": 33,
+    "Tienda": "Evobikes",
     "Nombre": "ROTOR SHIMANO XTR RT-MT900",
     "Precio": "$82.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-RT-MT900_BC19Nd0176_750_750-630x630.jpeg",
@@ -232,6 +265,7 @@
   },
   {
     "id": 34,
+    "Tienda": "Evobikes",
     "Nombre": "CALAS SHIMANO RUTA SM-SH12",
     "Precio": "$18.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/Y40B98140_SM-SH12_2_750_750-630x630.jpeg",
@@ -239,6 +273,7 @@
   },
   {
     "id": 35,
+    "Tienda": "Evobikes",
     "Nombre": "CALAS SHIMANO MTB SM-SH56",
     "Precio": "$14.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/Y41S98092_SM-SH56_2_750_750-630x630.jpeg",
@@ -246,6 +281,7 @@
   },
   {
     "id": 36,
+    "Tienda": "Evobikes",
     "Nombre": "CALAS SHIMANO MTB SM-SH51",
     "Precio": "$14.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/sm-sh51.jpg",
@@ -253,6 +289,7 @@
   },
   {
     "id": 37,
+    "Tienda": "Evobikes",
     "Nombre": "CADENA SHIMANO CN-HG901 11V",
     "Precio": "$49.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-CN-HG901-11_14326_1_750_750-630x630.jpeg",
@@ -260,6 +297,7 @@
   },
   {
     "id": 38,
+    "Tienda": "Evobikes",
     "Nombre": "CADENA SHIMANO CN-HG601 11V",
     "Precio": "$34.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-CN-HG601-11_14320_1_750_750-630x630.jpeg",
@@ -267,6 +305,7 @@
   },
   {
     "id": 39,
+    "Tienda": "Evobikes",
     "Nombre": "SHIFTMOUNT WOLF TOOTH MM-ISEV",
     "Precio": "$28.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/ShiftMount_MM-ISEV_01_f95c1fda-6fc4-40df-80a9-5cd88ca6c59a_590x.jpg",
@@ -274,6 +313,7 @@
   },
   {
     "id": 40,
+    "Tienda": "Evobikes",
     "Nombre": "CAMBIO SHIMANO TOURNEY RD-TY300 6/7V",
     "Precio": "$9.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-RD-TY300-SGS_11126_1_750_750-630x630.jpeg",
@@ -281,6 +321,7 @@
   },
   {
     "id": 41,
+    "Tienda": "Evobikes",
     "Nombre": "CAMBIO SHIMANO SLX RD-M7000 GS 11V",
     "Precio": "$84.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-RD-M7000-11-GS_14134_1_750_750-630x630.jpeg",
@@ -288,6 +329,7 @@
   },
   {
     "id": 42,
+    "Tienda": "Evobikes",
     "Nombre": "PIÑON SHIMANO ULTEGRA CS-R8000 11V",
     "Precio": "$92.900 – $96.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-CS-R8000_15992_1_750_750-630x630.jpeg",
@@ -295,6 +337,7 @@
   },
   {
     "id": 43,
+    "Tienda": "Evobikes",
     "Nombre": "PIÑON SHIMANO CS-HG500-10 TIAGRA 10V",
     "Precio": "$48.900 – $52.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-CS-HG500-10_11-32-630x630.jpeg",
@@ -302,6 +345,7 @@
   },
   {
     "id": 44,
+    "Tienda": "Evobikes",
     "Nombre": "VOLANTE SHIMANO SLX FC-M7100 SIN CORONA 12V",
     "Precio": "$109.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/VOLANTE_shimano_m7100.jpg",
@@ -309,6 +353,7 @@
   },
   {
     "id": 45,
+    "Tienda": "Evobikes",
     "Nombre": "TOPES MANUBRIO WOLF TOOTH",
     "Precio": "$2.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/WT-GRIPS-Black-04_720x-1-630x630.jpg",
@@ -316,6 +361,7 @@
   },
   {
     "id": 46,
+    "Tienda": "Evobikes",
     "Nombre": "CINTA DE MANUBRIO SUPACAZ SUPER STICKY KUSH – COFFEE",
     "Precio": "$34.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/classic-coffee-800x800-1-630x630.jpg",
@@ -323,6 +369,7 @@
   },
   {
     "id": 47,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMÁTICO VITTORIA BARZO",
     "Precio": "$45.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/barzo.jpg",
@@ -330,6 +377,7 @@
   },
   {
     "id": 48,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMATICO CONTINENTAL ULTRA SPORT III",
     "Precio": "$28.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/ultrasport3.jpg",
@@ -337,6 +385,7 @@
   },
   {
     "id": 49,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMÁTICO PIRELLI P ZERO VELO",
     "Precio": "$57.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/p-zero-velo-grey_01.jpg",
@@ -344,6 +393,7 @@
   },
   {
     "id": 50,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMÁTICO PIRELLI SCORPION XC S",
     "Precio": "$67.900 – $69.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/scorpion_xc_s_01.jpg",
@@ -351,6 +401,7 @@
   },
   {
     "id": 51,
+    "Tienda": "Evobikes",
     "Nombre": "RUEDAS FULCRUM RED ZONE 5 29",
     "Precio": "$404.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/11/redzone5.jpg",
@@ -358,6 +409,7 @@
   },
   {
     "id": 52,
+    "Tienda": "Evobikes",
     "Nombre": "ROTOR SRAM CENTERLINE 2 PARTES 160MM 6P",
     "Precio": "$62.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/SR01978_1.jpg",
@@ -365,6 +417,7 @@
   },
   {
     "id": 53,
+    "Tienda": "Evobikes",
     "Nombre": "CUBETAS DE MOTOR SHIMANO BB-MT800 INTEGRADO",
     "Precio": "$28.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-BB-MT800_12905_1_750_750-630x630.jpeg",
@@ -372,6 +425,7 @@
   },
   {
     "id": 54,
+    "Tienda": "Evobikes",
     "Nombre": "RUEDAS SHIMANO WH-RS100 700C",
     "Precio": "$189.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/WH-RS100_01-630x630.jpg",
@@ -379,6 +433,7 @@
   },
   {
     "id": 55,
+    "Tienda": "Evobikes",
     "Nombre": "PEDAL SHIMANO PD-RS500",
     "Precio": "$68.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/PD-RS500_C260_1_750_750-630x630.jpeg",
@@ -386,6 +441,7 @@
   },
   {
     "id": 56,
+    "Tienda": "Evobikes",
     "Nombre": "CAMBIO SHIMANO GRX RD-RX810 11V",
     "Precio": "$132.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/RD-RX810_C219_1_750_750-630x630.jpeg",
@@ -393,6 +449,7 @@
   },
   {
     "id": 57,
+    "Tienda": "Evobikes",
     "Nombre": "PIÑON SHIMANO CS-HG201 11/34 9V",
     "Precio": "$27.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-CS-HG201-9-630x630.jpeg",
@@ -400,6 +457,7 @@
   },
   {
     "id": 58,
+    "Tienda": "Evobikes",
     "Nombre": "PIÑON SHIMANO ACERA CS-HG41 11/32 – 8V",
     "Precio": "$19.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/Shimano_CS-HG41-8-630x630.jpg",
@@ -407,6 +465,7 @@
   },
   {
     "id": 59,
+    "Tienda": "Evobikes",
     "Nombre": "PIÑON SHIMANO SLX CS-M7100 10/51 12V",
     "Precio": "$159.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/CS-M7100-12_10-51T_C260_1_750_750-630x630.jpeg",
@@ -414,6 +473,7 @@
   },
   {
     "id": 60,
+    "Tienda": "Evobikes",
     "Nombre": "TOPES MANUBRIO WOLF TOOTH AL – BLACK",
     "Precio": "$21.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/BARPLUG-AL-BLK_590x.jpg",
@@ -421,6 +481,7 @@
   },
   {
     "id": 61,
+    "Tienda": "Evobikes",
     "Nombre": "CINTA DE MANUBRIO SUPACAZ PRIZMATIK – PINK",
     "Precio": "$36.900 $33.210",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/supacaz-prizmatik-pink-1-630x630.jpg",
@@ -428,6 +489,7 @@
   },
   {
     "id": 62,
+    "Tienda": "Evobikes",
     "Nombre": "CINTA DE MANUBRIO SUPACAZ PRIZMATIK – PURPLE",
     "Precio": "$36.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/prizmatik-purple-2-800x800-1-630x630.jpg",
@@ -435,6 +497,7 @@
   },
   {
     "id": 63,
+    "Tienda": "Evobikes",
     "Nombre": "CINTA DE MANUBRIO SUPACAZ SUPER STICKY KUSH STAR FADE – NEON BLUE",
     "Precio": "$34.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/01-800x800-1-630x630.jpg",
@@ -442,6 +505,7 @@
   },
   {
     "id": 64,
+    "Tienda": "Evobikes",
     "Nombre": "CINTA DE MANUBRIO SUPACAZ SUPER STICKY KUSH STAR FADE – PLATINUM",
     "Precio": "$34.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/05-800x800-1-630x630.jpg",
@@ -449,6 +513,7 @@
   },
   {
     "id": 65,
+    "Tienda": "Evobikes",
     "Nombre": "CINTA DE MANUBRIO SUPACAZ SUPER STICKY KUSH – BLACK",
     "Precio": "$35.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/supacaz-super-sticky-kush-black-BT-01-800x800-1-630x630.jpg",
@@ -456,6 +521,7 @@
   },
   {
     "id": 66,
+    "Tienda": "Evobikes",
     "Nombre": "PUÑOS WOLF TOOTH KARV CAM",
     "Precio": "$21.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/WT_Grip_Karv_Cam_RED_1.jpg",
@@ -463,6 +529,7 @@
   },
   {
     "id": 67,
+    "Tienda": "Evobikes",
     "Nombre": "PUÑOS WOLF TOOTH MEGA FAT PAW CAM",
     "Precio": "$29.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/WT_MegaFatPaw_Cam_BLK_1.jpg",
@@ -470,6 +537,7 @@
   },
   {
     "id": 68,
+    "Tienda": "Evobikes",
     "Nombre": "PUÑOS WOLF TOOTH MEGA FAT PAW",
     "Precio": "$29.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/WT_Grip_FATPAW_MEGA_BLK_2.jpg",
@@ -477,6 +545,7 @@
   },
   {
     "id": 69,
+    "Tienda": "Evobikes",
     "Nombre": "PUÑOS WOLF TOOTH FAT PAW",
     "Precio": "$25.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/WT_Grip_FatPaw_TEA_1.jpg",
@@ -484,6 +553,7 @@
   },
   {
     "id": 70,
+    "Tienda": "Evobikes",
     "Nombre": "PUÑOS WOLF TOOTH RAZER",
     "Precio": "$18.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/WT_Grip_Razer_PRP_1.jpg",
@@ -491,6 +561,7 @@
   },
   {
     "id": 71,
+    "Tienda": "Evobikes",
     "Nombre": "PUÑOS WOLF TOOTH KARV",
     "Precio": "$20.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/WT_Grip_Karv_BLU_1.jpg",
@@ -498,6 +569,7 @@
   },
   {
     "id": 72,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMATICO MAXXIS PURSUER",
     "Precio": "$29.990",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/pursuer.jpg",
@@ -505,6 +577,7 @@
   },
   {
     "id": 73,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMATICO RALCO R3153",
     "Precio": "$15.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/r3153.jpg",
@@ -512,6 +585,7 @@
   },
   {
     "id": 74,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMATICO VITTORIA TERRENO MIX",
     "Precio": "$34.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/terreno_mix.jpg",
@@ -519,6 +593,7 @@
   },
   {
     "id": 75,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMATICO CONTINENTAL CROSS KING PERFORMANCE TLR",
     "Precio": "$41.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/crossking.jpg",
@@ -526,6 +601,7 @@
   },
   {
     "id": 76,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMÁTICO PIRELLI CINTURATO GRAVEL H",
     "Precio": "$67.900 – $69.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/cinturato_gravel_h_01.jpg",
@@ -533,6 +609,7 @@
   },
   {
     "id": 77,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMÁTICO PIRELLI SCORPION XC RC",
     "Precio": "$67.900 – $72.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/Scorpion_xc_rc_01.jpg",
@@ -540,6 +617,7 @@
   },
   {
     "id": 78,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMÁTICO PIRELLI SCORPION E-MTB S",
     "Precio": "$84.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/Scorpion_Enduro_ES_01.jpg",
@@ -547,6 +625,7 @@
   },
   {
     "id": 79,
+    "Tienda": "Evobikes",
     "Nombre": "RUEDAS FULCRUM RED ZONE 7 29",
     "Precio": "$349.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/11/redzone7.jpg",
@@ -554,6 +633,7 @@
   },
   {
     "id": 80,
+    "Tienda": "Evobikes",
     "Nombre": "PIÑON SRAM PG-1130 11/32 11V",
     "Precio": "$54.990",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2023/01/pinon-pg1130-630x630.jpg",
@@ -561,6 +641,7 @@
   },
   {
     "id": 81,
+    "Tienda": "Evobikes",
     "Nombre": "VOLANTE SHIMANO GRX FC-RX600 46/30 172.5 11V",
     "Precio": "$169.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/12/FC-RX600-11_46-30T_C219_1_750_750-630x630.jpeg",
@@ -568,6 +649,7 @@
   },
   {
     "id": 82,
+    "Tienda": "Evobikes",
     "Nombre": "CALAS LOOK MTB X-TRACK EASY",
     "Precio": "$19.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/11/x-track_cleats_easy_01.jpg",
@@ -575,6 +657,7 @@
   },
   {
     "id": 83,
+    "Tienda": "Evobikes",
     "Nombre": "PEDAL LOOK X-TRACK RACE CARBON TI",
     "Precio": "$239.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/11/x-track_race_carbon_ti_01.jpg",
@@ -582,6 +665,7 @@
   },
   {
     "id": 84,
+    "Tienda": "Evobikes",
     "Nombre": "PEDAL LOOK X-TRACK RACE CARBON",
     "Precio": "$139.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/11/x-track_race_carbon_01.jpg",
@@ -589,6 +673,7 @@
   },
   {
     "id": 85,
+    "Tienda": "Evobikes",
     "Nombre": "PEDAL LOOK KEO BLADE CARBON",
     "Precio": "$179.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/11/keo_blade_carbon_01.jpg",
@@ -596,6 +681,7 @@
   },
   {
     "id": 86,
+    "Tienda": "Evobikes",
     "Nombre": "PEDAL LOOK KEO 2 MAX CARBON",
     "Precio": "$139.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/11/keo2max_carbon_blk_01.jpg",
@@ -603,6 +689,7 @@
   },
   {
     "id": 87,
+    "Tienda": "Evobikes",
     "Nombre": "COLLARIN WOLF TOOTH",
     "Precio": "$27.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/06/WT_SeatClamp_ORG-630x630.png",
@@ -610,6 +697,7 @@
   },
   {
     "id": 88,
+    "Tienda": "Evobikes",
     "Nombre": "CORONA WOLF TOOTH SHIMANO GRX",
     "Precio": "$92.900 – $97.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/06/WT-DROPSTOP_B-SH11044-GR-630x630.png",
@@ -617,6 +705,7 @@
   },
   {
     "id": 89,
+    "Tienda": "Evobikes",
     "Nombre": "EJE WOLF TOOTH – TRASERO",
     "Precio": "$39.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/06/WT_Rearaxle_15x172-630x630.png",
@@ -624,6 +713,7 @@
   },
   {
     "id": 90,
+    "Tienda": "Evobikes",
     "Nombre": "EXTENSIÓN VÁLVULA SUPACAZ",
     "Precio": "$10.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/06/SUPACAZ-EXTENDER-VALVE_OIL-630x630.png",
@@ -631,6 +721,7 @@
   },
   {
     "id": 91,
+    "Tienda": "Evobikes",
     "Nombre": "HORQUILLA ROCKSHOX SID SELECT SL TWISTLOC 29 100MM",
     "Precio": "$799.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/05/rockshox_sid_sl_select_01-1-630x630.jpg",
@@ -638,6 +729,7 @@
   },
   {
     "id": 92,
+    "Tienda": "Evobikes",
     "Nombre": "CORONA WOLF TOOTH 104 BCD",
     "Precio": "$65.900 – $81.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/05/CORONA-WT-104BCD-630x630.png",
@@ -645,6 +737,7 @@
   },
   {
     "id": 93,
+    "Tienda": "Evobikes",
     "Nombre": "PIÑON SRAM EAGLE XX1 XG-1299 RAINBOW 10/52 12V",
     "Precio": "$449.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/xg-1299-eagle-10-52t-rainbow1.jpg",
@@ -652,6 +745,7 @@
   },
   {
     "id": 94,
+    "Tienda": "Evobikes",
     "Nombre": "PIÑON SRAM GX EAGLE XG-1275 10/52 12V",
     "Precio": "$229.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/GX-1275-10-52T_01.jpg",
@@ -659,6 +753,7 @@
   },
   {
     "id": 95,
+    "Tienda": "Evobikes",
     "Nombre": "PUÑOS WOLF TOOTH FAT PAW CAM",
     "Precio": "$25.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/KARV-CAM-RED.png",
@@ -666,6 +761,7 @@
   },
   {
     "id": 96,
+    "Tienda": "Evobikes",
     "Nombre": "RUEDAS FULCRUM WIND 40C",
     "Precio": "$1.349.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/WIND-40C-630x630.png",
@@ -673,6 +769,7 @@
   },
   {
     "id": 97,
+    "Tienda": "Evobikes",
     "Nombre": "RUEDAS FULCRUM RAPID RED 5 DB",
     "Precio": "$464.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/RAPID-RED-5-630x630.png",
@@ -680,6 +777,7 @@
   },
   {
     "id": 98,
+    "Tienda": "Evobikes",
     "Nombre": "CADENA KMC X11 SILVER/BLACK 11V",
     "Precio": "$50.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/02/x11-sil-blk_02-600x630.jpg",
@@ -687,6 +785,7 @@
   },
   {
     "id": 99,
+    "Tienda": "Evobikes",
     "Nombre": "ROTOR SHIMANO SLX SM-RT70",
     "Precio": "$32.900 – $38.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-SM-RT70-S_14211_1_750_750-630x630.jpeg",
@@ -694,6 +793,7 @@
   },
   {
     "id": 100,
+    "Tienda": "Evobikes",
     "Nombre": "CUBETAS DE MOTOR SHIMANO SM-BB52 INTEGRADO",
     "Precio": "$17.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-SM-BB52_unkMY0011_750_750-630x630.jpeg",
@@ -701,6 +801,7 @@
   },
   {
     "id": 101,
+    "Tienda": "Evobikes",
     "Nombre": "PASTILLA FRENO SHIMANO G03TI METAL",
     "Precio": "$13.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/G03TI.jpg",
@@ -708,6 +809,7 @@
   },
   {
     "id": 102,
+    "Tienda": "Evobikes",
     "Nombre": "PASTILLA FRENO SHIMANO G03S RESINA",
     "Precio": "$9.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/g03s.jpg",
@@ -715,6 +817,7 @@
   },
   {
     "id": 103,
+    "Tienda": "Evobikes",
     "Nombre": "PASTILLA FRENO SHIMANO H03C METAL DISIPADOR",
     "Precio": "$29.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/Y8VT98020_H03C_2_750_750-630x630.jpeg",
@@ -722,6 +825,7 @@
   },
   {
     "id": 104,
+    "Tienda": "Evobikes",
     "Nombre": "PEDAL SHIMANO PD-M520",
     "Precio": "$62.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/shimano-pd-m520-mtb-spd-pedals--630x630.jpg",
@@ -729,6 +833,7 @@
   },
   {
     "id": 105,
+    "Tienda": "Evobikes",
     "Nombre": "PEDAL SHIMANO PD-M505-L",
     "Precio": "$49.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/shimano-pedales-m505-spd.jpg",
@@ -736,6 +841,7 @@
   },
   {
     "id": 106,
+    "Tienda": "Evobikes",
     "Nombre": "DESVIADOR SHIMANO ACERA FD-M3000-TS6 9V",
     "Precio": "$20.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-FD-M3000-TS6_12864_1_750_750-630x630.jpeg",
@@ -743,6 +849,7 @@
   },
   {
     "id": 107,
+    "Tienda": "Evobikes",
     "Nombre": "DESVIADOR SHIMANO DEORE FD-M6025-L 10V",
     "Precio": "$20.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-FD-M6025-L_16986_1_750_750-630x630.jpeg",
@@ -750,6 +857,7 @@
   },
   {
     "id": 108,
+    "Tienda": "Evobikes",
     "Nombre": "DESVIADOR SHIMANO DEORE XT FD-M8025-H 11V",
     "Precio": "$33.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-FD-M8025-H_12898_1_750_750-630x630.jpeg",
@@ -757,6 +865,7 @@
   },
   {
     "id": 109,
+    "Tienda": "Evobikes",
     "Nombre": "MANILLA CAMBIO FRENO HIDRAULICO SHIMANO ULTEGRA R8020 11V",
     "Precio": "$501.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/st-r8020.jpg",
@@ -764,6 +873,7 @@
   },
   {
     "id": 110,
+    "Tienda": "Evobikes",
     "Nombre": "CAMBIO SHIMANO DEORE RD-M615-L SGS 10V",
     "Precio": "$49.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-RD-M615-GS_3948_1_750_750-630x630.jpeg",
@@ -771,6 +881,7 @@
   },
   {
     "id": 111,
+    "Tienda": "Evobikes",
     "Nombre": "CAMBIO SHIMANO DEORE XT SILVER RD-M781-GS 10V",
     "Precio": "$87.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-RD-M781-GS_2013products0267_750_750-630x630.jpeg",
@@ -778,6 +889,7 @@
   },
   {
     "id": 112,
+    "Tienda": "Evobikes",
     "Nombre": "CAMBIO SHIMANO ALTUS RD-M310 7/8V",
     "Precio": "$19.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/m310-L.jpg",
@@ -785,6 +897,7 @@
   },
   {
     "id": 113,
+    "Tienda": "Evobikes",
     "Nombre": "CAMBIO SHIMANO ALTUS RD-M370 9V",
     "Precio": "$24.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-RD-M370-SGS_3945_1_750_750-630x630.jpeg",
@@ -792,6 +905,7 @@
   },
   {
     "id": 114,
+    "Tienda": "Evobikes",
     "Nombre": "CAMBIO SHIMANO TOURNEY RD-TX800 7/8V",
     "Precio": "$16.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-RD-TX800_3233_1_750_750-630x630.jpeg",
@@ -799,6 +913,7 @@
   },
   {
     "id": 115,
+    "Tienda": "Evobikes",
     "Nombre": "CAMBIO SHIMANO 105 RD-R7000 11V",
     "Precio": "$71.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-RD-R7000-SS_BC19Nd0172_750_750-630x630.jpeg",
@@ -806,6 +921,7 @@
   },
   {
     "id": 116,
+    "Tienda": "Evobikes",
     "Nombre": "CAMBIO SHIMANO TIAGRA RD-4700 10V",
     "Precio": "$48.900 – $53.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-RD-4700-GS_12844_1_750_750-630x630.jpeg",
@@ -813,6 +929,7 @@
   },
   {
     "id": 117,
+    "Tienda": "Evobikes",
     "Nombre": "PIÑON SHIMANO CS-HG50 11/36 10V",
     "Precio": "$38.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-CS-HG50-10_10935_1_750_750-630x630.jpeg",
@@ -820,6 +937,7 @@
   },
   {
     "id": 118,
+    "Tienda": "Evobikes",
     "Nombre": "CAMBIO SHIMANO DEORE M6100 SGS 12V",
     "Precio": "$65.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/RD-M6100-SGS-630x630.jpeg",
@@ -827,6 +945,7 @@
   },
   {
     "id": 119,
+    "Tienda": "Evobikes",
     "Nombre": "MANILLA CAMBIO SHIMANO DEORE M6100 12V",
     "Precio": "$35.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/SL-M6100-R_C219_1_750_750-630x630.jpeg",
@@ -834,6 +953,7 @@
   },
   {
     "id": 120,
+    "Tienda": "Evobikes",
     "Nombre": "PIÑON SHIMANO DEORE XT CS-M8100 10/51 12V",
     "Precio": "$201.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/CS-M8100-12_10-51T_C260_1_750_750-630x630.jpeg",
@@ -841,6 +961,7 @@
   },
   {
     "id": 121,
+    "Tienda": "Evobikes",
     "Nombre": "CORONA WOLF TOOTH SRAM DM",
     "Precio": "$67.900 – $72.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/SDM-40T-5spoke_Black-FT_d64f1133-5965-4188-b120-8977680a4fc1_2000x-630x630.jpg",
@@ -848,6 +969,7 @@
   },
   {
     "id": 122,
+    "Tienda": "Evobikes",
     "Nombre": "CORONA WOLF TOOTH SHIMANO GRX OVALADA",
     "Precio": "$85.900 – $89.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/WT_GR8_110_BCD_38T_FT_02_590x.jpg",
@@ -855,6 +977,7 @@
   },
   {
     "id": 123,
+    "Tienda": "Evobikes",
     "Nombre": "CINTA DE MANUBRIO SUPACAZ PRIZMATIK – FULL OIL",
     "Precio": "$36.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/Supacaz-prizmatik-oil-slick-21_1800x-630x630.jpg",
@@ -862,6 +985,7 @@
   },
   {
     "id": 124,
+    "Tienda": "Evobikes",
     "Nombre": "TOPES MANUBRIO WOLF TOOTH AL – RED",
     "Precio": "$21.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/BARPLUG-AL-RED_590x.jpg",
@@ -869,6 +993,7 @@
   },
   {
     "id": 125,
+    "Tienda": "Evobikes",
     "Nombre": "CINTA DE MANUBRIO SUPACAZ PRIZMATIK – BLUE",
     "Precio": "$36.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/supacaz-prizmatik-blue-1-630x630.jpg",
@@ -876,6 +1001,7 @@
   },
   {
     "id": 126,
+    "Tienda": "Evobikes",
     "Nombre": "CINTA DE MANUBRIO SUPACAZ SUPER STICKY KUSH GALAXY – OIL SLICK",
     "Precio": "$34.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/super-sticky-kush-galaxy-oil-slick-side-800x800-1-630x630.jpg",
@@ -883,6 +1009,7 @@
   },
   {
     "id": 127,
+    "Tienda": "Evobikes",
     "Nombre": "CINTA DE MANUBRIO SUPACAZ SUPER STICKY KUSH GALAXY – NEON YELLOW",
     "Precio": "$34.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/supacaz-super-sticky-kush-galaxy-neon-yellow-side-800x800-1-630x630.jpg",
@@ -890,6 +1017,7 @@
   },
   {
     "id": 128,
+    "Tienda": "Evobikes",
     "Nombre": "CINTA DE MANUBRIO SUPACAZ SUPER STICKY KUSH STAR FADE – NEON PINK",
     "Precio": "$34.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/03-800x800-1-630x630.jpg",
@@ -897,6 +1025,7 @@
   },
   {
     "id": 129,
+    "Tienda": "Evobikes",
     "Nombre": "HORQUILLA FOX 2022 FLOAT 32 FIT 4 STEP CAST ARO 29",
     "Precio": "$1.456.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/fox322022ora.jpg",
@@ -904,6 +1033,7 @@
   },
   {
     "id": 130,
+    "Tienda": "Evobikes",
     "Nombre": "RUEDAS FULCRUM RED METAL 5",
     "Precio": "$379.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/11/redmetal5.jpg",
@@ -911,6 +1041,7 @@
   },
   {
     "id": 131,
+    "Tienda": "Evobikes",
     "Nombre": "RUEDAS FULCRUM WIND 40 DB",
     "Precio": "$1.424.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/11/wind40_2021.jpg",
@@ -918,6 +1049,7 @@
   },
   {
     "id": 132,
+    "Tienda": "Evobikes",
     "Nombre": "RUEDAS FULCRUM RACING 5 DB",
     "Precio": "$468.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/11/racing5db_2021.jpg",
@@ -925,6 +1057,7 @@
   },
   {
     "id": 133,
+    "Tienda": "Evobikes",
     "Nombre": "CADENA SRAM X01 EAGLE 12V",
     "Precio": "$84.990",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2023/01/cadena_sram_x01_eagle-630x630.jpg",
@@ -932,6 +1065,7 @@
   },
   {
     "id": 134,
+    "Tienda": "Evobikes",
     "Nombre": "CADENA SRAM NX EAGLE 12V",
     "Precio": "$39.990",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2023/01/cadena_sram_nx_eagle-630x630.jpg",
@@ -939,6 +1073,7 @@
   },
   {
     "id": 135,
+    "Tienda": "Evobikes",
     "Nombre": "CADENA SRAM GX EAGLE 12V",
     "Precio": "$49.990",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2023/01/cadena_sram_gx_eagle-630x630.jpg",
@@ -946,6 +1081,7 @@
   },
   {
     "id": 136,
+    "Tienda": "Evobikes",
     "Nombre": "PIÑON SHIMANO DURA-ACE CS-R9100 11/30 11V",
     "Precio": "$314.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2023/01/P-CS-R9100_14388_1_750_750-630x630.jpeg",
@@ -953,6 +1089,7 @@
   },
   {
     "id": 137,
+    "Tienda": "Evobikes",
     "Nombre": "CAMBIO SHIMANO DEORE XT RD-M8100 SGS 12V",
     "Precio": "$144.900 $124.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2023/01/RD-M8100-SGS_C219_1_750_750-630x630.jpeg",
@@ -960,6 +1097,7 @@
   },
   {
     "id": 138,
+    "Tienda": "Evobikes",
     "Nombre": "ROTOR SHIMANO SM-RT66",
     "Precio": "$25.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2023/01/P-SM-RT66_160-630x630.jpeg",
@@ -967,6 +1105,7 @@
   },
   {
     "id": 139,
+    "Tienda": "Evobikes",
     "Nombre": "MANUBRIO SHIMANO PRO LT LOW RISE 720MM",
     "Precio": "$47.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2023/01/manillar_mtb_lt_72_20.jpg",
@@ -974,6 +1113,7 @@
   },
   {
     "id": 140,
+    "Tienda": "Evobikes",
     "Nombre": "MANUBRIO RUTA SHIMANO PRO LT COMPACT",
     "Precio": "$47.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2023/01/manillar_ruta_lt_420.jpg",
@@ -981,6 +1121,7 @@
   },
   {
     "id": 141,
+    "Tienda": "Evobikes",
     "Nombre": "TUBO SILLIN SHIMANO PRO THARSIS XC",
     "Precio": "$142.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2023/01/tubo_sillin_spro_tharsis_xc_01.jpg",
@@ -988,6 +1129,7 @@
   },
   {
     "id": 142,
+    "Tienda": "Evobikes",
     "Nombre": "TUBO SILLIN SHIMANO PRO LT",
     "Precio": "$42.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2023/01/tubo_sillin_spro_lt_01.jpg",
@@ -995,6 +1137,7 @@
   },
   {
     "id": 143,
+    "Tienda": "Evobikes",
     "Nombre": "SHIFTER SHIMANO DEORE XT SL-M8100 12V",
     "Precio": "$79.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/12/SL-M8100-R_C219_1_750_750-630x630.jpeg",
@@ -1002,6 +1145,7 @@
   },
   {
     "id": 144,
+    "Tienda": "Evobikes",
     "Nombre": "PASTILLA FRENO SHIMANO G05S-RX",
     "Precio": "$9.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/12/EBPG05SRXA-G05S-RX-primary_1_750_750-630x630.jpeg",
@@ -1009,6 +1153,7 @@
   },
   {
     "id": 145,
+    "Tienda": "Evobikes",
     "Nombre": "ROTOR SHIMANO RT-EM810",
     "Precio": "$72.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/12/RT-EM810_M_180_1_750_750-630x630.jpeg",
@@ -1016,6 +1161,7 @@
   },
   {
     "id": 146,
+    "Tienda": "Evobikes",
     "Nombre": "ROTOR SHIMANO RT-MT800",
     "Precio": "$56.900 – $57.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/12/RT-MT800_160_1_750_750-630x630.jpeg",
@@ -1023,6 +1169,7 @@
   },
   {
     "id": 147,
+    "Tienda": "Evobikes",
     "Nombre": "CAMBIO SHIMANO GRX RD-RX810-LE 11V",
     "Precio": "$135.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/12/RD-RX810-LE-shic219-primary_1_750_750-630x630.jpeg",
@@ -1030,6 +1177,7 @@
   },
   {
     "id": 148,
+    "Tienda": "Evobikes",
     "Nombre": "CAMBIO SHIMANO GRX RD-RX812-LE 11V",
     "Precio": "$137.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/12/RD-RX812-LE-shic219-primary_1_750_750-630x630.jpeg",
@@ -1037,6 +1185,7 @@
   },
   {
     "id": 149,
+    "Tienda": "Evobikes",
     "Nombre": "BLOQUEO REMOTO SUNTOUR DOBLE (SHOCK/HORQUILLA)",
     "Precio": "$39.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/12/bloqueo_doble_suntour-630x630.jpg",
@@ -1044,6 +1193,7 @@
   },
   {
     "id": 150,
+    "Tienda": "Evobikes",
     "Nombre": "BLOQUEO REMOTO SUNTOUR HORQUILLA XC",
     "Precio": "$29.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/12/bloqueo_suntour_xcm-630x630.jpg",
@@ -1051,6 +1201,7 @@
   },
   {
     "id": 151,
+    "Tienda": "Evobikes",
     "Nombre": "PEDAL SHIMANO DURA ACE PD-R9100 CARBON",
     "Precio": "$294.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/12/P-PD-R9100_14127_1_750_750-630x630.jpeg",
@@ -1058,6 +1209,7 @@
   },
   {
     "id": 152,
+    "Tienda": "Evobikes",
     "Nombre": "MANILLA CAMBIO FRENO SHIMANO 105 ST-R7000 2X11V",
     "Precio": "$275.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/12/st-r7000-dual-control-630x630.jpg",
@@ -1065,6 +1217,7 @@
   },
   {
     "id": 153,
+    "Tienda": "Evobikes",
     "Nombre": "VOLANTE SHIMANO ZEE FC-M640 36T 170MM 10V",
     "Precio": "$165.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/12/P-FC-M640_4216_1_750_750-630x630.jpeg",
@@ -1072,6 +1225,7 @@
   },
   {
     "id": 154,
+    "Tienda": "Evobikes",
     "Nombre": "FRENOS SRAM LEVEL TLM",
     "Precio": "$360.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/12/level_tlm-630x630.jpg",
@@ -1079,6 +1233,7 @@
   },
   {
     "id": 155,
+    "Tienda": "Evobikes",
     "Nombre": "ROTOR DISCO SRAM CENTERLINE XR",
     "Precio": "$135.900 $105.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/12/centerline_xr_140_cl-630x630.jpg",
@@ -1086,6 +1241,7 @@
   },
   {
     "id": 156,
+    "Tienda": "Evobikes",
     "Nombre": "PASTILLA FRENO GALFER SRAM LEVEL ULTIMATE",
     "Precio": "$13.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/12/galfer_sram_level_ult_pads.jpg",
@@ -1093,6 +1249,7 @@
   },
   {
     "id": 157,
+    "Tienda": "Evobikes",
     "Nombre": "PASTILLA FRENO GALFER SRAM GUIDE",
     "Precio": "$13.900 – $25.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/12/galfer_sram_guide_pads.jpg",
@@ -1100,6 +1257,7 @@
   },
   {
     "id": 158,
+    "Tienda": "Evobikes",
     "Nombre": "ROTOR GALFER ROAD DISC WAVE CL",
     "Precio": "$49.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/12/galfer_discwave_140mm-630x630.jpg",
@@ -1107,6 +1265,7 @@
   },
   {
     "id": 159,
+    "Tienda": "Evobikes",
     "Nombre": "PASTILLA FRENO GALFER MAGURA MT",
     "Precio": "$12.900 – $20.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/12/galfer_magura_mt_pads.jpg",
@@ -1114,6 +1273,7 @@
   },
   {
     "id": 160,
+    "Tienda": "Evobikes",
     "Nombre": "FRENOS SHIMANO DEORE M6100",
     "Precio": "$233.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/12/bl-m6100-br-m6100-630x630.jpg",
@@ -1121,6 +1281,7 @@
   },
   {
     "id": 161,
+    "Tienda": "Evobikes",
     "Nombre": "VOLANTE SHIMANO DEORE FC-M6100 32T 175MM 12V",
     "Precio": "$115.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/12/FC-M6100-1_32T_C219_1_750_750-630x630.jpeg",
@@ -1128,6 +1289,7 @@
   },
   {
     "id": 162,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMÁTICO PIRELLI SCORPION E-MTB M",
     "Precio": "$84.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/12/scorpion_emtb_m_01-630x630.jpg",
@@ -1135,6 +1297,7 @@
   },
   {
     "id": 163,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMÁTICO PIRELLI P ZERO RACE 4S",
     "Precio": "$74.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/12/p_zero_race_4s_01-630x630.jpg",
@@ -1142,6 +1305,7 @@
   },
   {
     "id": 164,
+    "Tienda": "Evobikes",
     "Nombre": "KIT LOOK KEO BLADE 12",
     "Precio": "$24.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/11/blade_kit_composite_02.jpg",
@@ -1149,6 +1313,7 @@
   },
   {
     "id": 165,
+    "Tienda": "Evobikes",
     "Nombre": "KIT LOOK KEO BLADE 8",
     "Precio": "$24.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/11/blade_kit_composite_01.jpg",
@@ -1156,6 +1321,7 @@
   },
   {
     "id": 166,
+    "Tienda": "Evobikes",
     "Nombre": "KIT LOOK KEO BLADE CARBON 20",
     "Precio": "$49.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/11/blade_kit_carbon_04.jpg",
@@ -1163,6 +1329,7 @@
   },
   {
     "id": 167,
+    "Tienda": "Evobikes",
     "Nombre": "KIT LOOK KEO BLADE CARBON 16",
     "Precio": "$49.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/11/blade_kit_carbon_03.jpg",
@@ -1170,6 +1337,7 @@
   },
   {
     "id": 168,
+    "Tienda": "Evobikes",
     "Nombre": "KIT LOOK KEO BLADE CARBON 12",
     "Precio": "$49.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/11/blade_kit_carbon_01.jpg",
@@ -1177,6 +1345,7 @@
   },
   {
     "id": 169,
+    "Tienda": "Evobikes",
     "Nombre": "CALAS LOOK RUTA KEO GRIP RED",
     "Precio": "$24.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/11/keo_cleats_grip_red_01.jpg",
@@ -1184,6 +1353,7 @@
   },
   {
     "id": 170,
+    "Tienda": "Evobikes",
     "Nombre": "CALAS LOOK RUTA KEO GRIP GREY",
     "Precio": "$24.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/11/keo_cleats_grip_grey_01.jpg",
@@ -1191,6 +1361,7 @@
   },
   {
     "id": 171,
+    "Tienda": "Evobikes",
     "Nombre": "CALAS LOOK RUTA KEO GRIP BLACK",
     "Precio": "$24.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/11/keo_cleats_grip_blk_01.jpg",
@@ -1198,6 +1369,7 @@
   },
   {
     "id": 172,
+    "Tienda": "Evobikes",
     "Nombre": "CALAS LOOK RUTA KEO BLACK",
     "Precio": "$19.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/11/keo_cleats_blk_01.jpg",
@@ -1205,6 +1377,7 @@
   },
   {
     "id": 173,
+    "Tienda": "Evobikes",
     "Nombre": "PEDAL LOOK POTENCIOMETRO EXAKT DUAL LOOK-SRM",
     "Precio": "$1.999.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/11/exakt_dual_01.jpg",
@@ -1212,6 +1385,7 @@
   },
   {
     "id": 174,
+    "Tienda": "Evobikes",
     "Nombre": "CALAS LOOK MTB X-TRACK",
     "Precio": "$19.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/11/x-track_cleats_01.jpg",
@@ -1219,6 +1393,7 @@
   },
   {
     "id": 175,
+    "Tienda": "Evobikes",
     "Nombre": "PEDAL LOOK X-TRACK EN-RAGE PLUS",
     "Precio": "$139.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/11/x-track_enrage_plus_bronze_01.jpg",
@@ -1226,6 +1401,7 @@
   },
   {
     "id": 176,
+    "Tienda": "Evobikes",
     "Nombre": "PEDAL LOOK X-TRACK RACE",
     "Precio": "$90.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/11/x-track_race_01.jpg",
@@ -1233,6 +1409,7 @@
   },
   {
     "id": 177,
+    "Tienda": "Evobikes",
     "Nombre": "PEDAL LOOK X-TRACK GRAVEL EDITION",
     "Precio": "$59.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/11/x-track_gravel_01.jpg",
@@ -1240,6 +1417,7 @@
   },
   {
     "id": 178,
+    "Tienda": "Evobikes",
     "Nombre": "PEDAL LOOK X-TRACK",
     "Precio": "$59.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/11/x-track_01.jpg",
@@ -1247,6 +1425,7 @@
   },
   {
     "id": 179,
+    "Tienda": "Evobikes",
     "Nombre": "PEDAL LOOK KEO BLADE CARBON CERAMIQUE",
     "Precio": "$269.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/11/keo_blade_carbon_ceramic_01.jpg",
@@ -1254,6 +1433,7 @@
   },
   {
     "id": 180,
+    "Tienda": "Evobikes",
     "Nombre": "PEDAL LOOK KEO CLASSIC 3 PLUS",
     "Precio": "$89.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/11/keo_classic3_plus_01.jpg",
@@ -1261,6 +1441,7 @@
   },
   {
     "id": 181,
+    "Tienda": "Evobikes",
     "Nombre": "PEDAL LOOK KEO 2 MAX",
     "Precio": "$109.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/11/keo2max_blk_01.jpg",
@@ -1268,6 +1449,7 @@
   },
   {
     "id": 182,
+    "Tienda": "Evobikes",
     "Nombre": "PEDAL LOOK KEO CLASSIC 3",
     "Precio": "$69.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/11/keo_classic3_blk_01.jpg",
@@ -1275,6 +1457,7 @@
   },
   {
     "id": 183,
+    "Tienda": "Evobikes",
     "Nombre": "PEDAL WOLF TOOTH WAVEFORM",
     "Precio": "$234.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/11/PDL-WF-BLK-01_800x-630x630.webp",
@@ -1282,6 +1465,7 @@
   },
   {
     "id": 184,
+    "Tienda": "Evobikes",
     "Nombre": "TUBO SILLIN RETRACTIL WOLF TOOTH RESOLVE",
     "Precio": "$464.900 – $499.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/11/WT_RES-309-125_07-1_800x-630x630.webp",
@@ -1289,6 +1473,7 @@
   },
   {
     "id": 185,
+    "Tienda": "Evobikes",
     "Nombre": "HORQUILLA ROCKSHOX SID 35 ULTIMATE 29 120MM",
     "Precio": "$1.039.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/11/SID_ULT_35_02-630x630.jpg",
@@ -1296,6 +1481,7 @@
   },
   {
     "id": 186,
+    "Tienda": "Evobikes",
     "Nombre": "CINTA DE MANUBRIO SUPACAZ SUPER STICKY KUSH GALAXY – OIL SLICK & OIL SLICK PLUGS",
     "Precio": "$39.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/super-sticky-kush-galaxy-oil-slick-side-800x800-1-630x630.jpg",
@@ -1303,6 +1489,7 @@
   },
   {
     "id": 187,
+    "Tienda": "Evobikes",
     "Nombre": "CINTA DE MANUBRIO SUPACAZ SUPER STICKY KUSH GRAVEL – BLACK",
     "Precio": "$35.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/supacaz-super-sticky-kush-black-BT-01-800x800-1-630x630.jpg",
@@ -1310,6 +1497,7 @@
   },
   {
     "id": 188,
+    "Tienda": "Evobikes",
     "Nombre": "FRENOS SHIMANO MT200",
     "Precio": "$70.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/09/frenos_mt200.jpg",
@@ -1317,6 +1505,7 @@
   },
   {
     "id": 189,
+    "Tienda": "Evobikes",
     "Nombre": "SILLIN SCOTT BELCARRA V 2.0 CUT OUT",
     "Precio": "$100.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/08/belcarra_v2_cut_01-630x630.jpg",
@@ -1324,6 +1513,7 @@
   },
   {
     "id": 190,
+    "Tienda": "Evobikes",
     "Nombre": "HORQUILLA FOX 2022 FLOAT 34 FIT 4 STEP CAST ARO 29",
     "Precio": "$1.456.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/08/fox34SC2022ora-630x630.jpg",
@@ -1331,6 +1521,7 @@
   },
   {
     "id": 191,
+    "Tienda": "Evobikes",
     "Nombre": "HORQUILLA LAUF TRAIL RACER 29",
     "Precio": "$779.900 $545.930",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/08/LAUF-Matte-630x630.jpg",
@@ -1338,6 +1529,7 @@
   },
   {
     "id": 192,
+    "Tienda": "Evobikes",
     "Nombre": "HORQUILLA FOX 2022 FLOAT 38 GRIP 2 ARO 29",
     "Precio": "$1.694.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/07/fox382022BLK-630x630.jpg",
@@ -1345,6 +1537,7 @@
   },
   {
     "id": 193,
+    "Tienda": "Evobikes",
     "Nombre": "HORQUILLA FOX 2022 FLOAT 34 GRIP 2 140MM",
     "Precio": "$1.456.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/07/fox342022ora-630x630.jpg",
@@ -1352,6 +1545,7 @@
   },
   {
     "id": 194,
+    "Tienda": "Evobikes",
     "Nombre": "RUEDAS FULCRUM RACING 5 C17",
     "Precio": "$378.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/07/racing5c17-630x630.jpg",
@@ -1359,6 +1553,7 @@
   },
   {
     "id": 195,
+    "Tienda": "Evobikes",
     "Nombre": "RUEDAS FULCRUM RED ZONE CARBON 29",
     "Precio": "$1.649.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/07/redzonecarbon03-630x630.jpg",
@@ -1366,6 +1561,7 @@
   },
   {
     "id": 196,
+    "Tienda": "Evobikes",
     "Nombre": "RUEDAS FULCRUM RED ZONE 3 29",
     "Precio": "$749.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/07/redzone3-630x630.jpg",
@@ -1373,6 +1569,7 @@
   },
   {
     "id": 197,
+    "Tienda": "Evobikes",
     "Nombre": "RUEDAS FULCRUM ROAD RACING 4 C17 CLINCHER",
     "Precio": "$454.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/07/racing4c17-630x630.jpg",
@@ -1380,6 +1577,7 @@
   },
   {
     "id": 198,
+    "Tienda": "Evobikes",
     "Nombre": "PASTILLA FRENO SHIMANO D03S",
     "Precio": "$16.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/07/D03S_901_750_750-630x630.jpeg",
@@ -1387,6 +1585,7 @@
   },
   {
     "id": 199,
+    "Tienda": "Evobikes",
     "Nombre": "DIRECCIÓN WOLF TOOTH PERFORMANCE IS",
     "Precio": "$32.900 – $43.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/07/IS41-28.6-7MM-BLK-630x630.jpg",
@@ -1394,6 +1593,7 @@
   },
   {
     "id": 200,
+    "Tienda": "Evobikes",
     "Nombre": "DIRECCIÓN WOLF TOOTH PERFORMANCE ZS",
     "Precio": "$38.900 – $48.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/06/PERFORMANCE-ZS-UPPER-ZS44-28.6-6MM-BLK-630x630.jpg",
@@ -1401,6 +1601,7 @@
   },
   {
     "id": 201,
+    "Tienda": "Evobikes",
     "Nombre": "DIRECCIÓN WOLF TOOTH PERFORMANCE EC",
     "Precio": "$38.900 – $48.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/06/EC-UPPER-EC34-28.6-16MM-BLK-630x630.jpg",
@@ -1408,6 +1609,7 @@
   },
   {
     "id": 202,
+    "Tienda": "Evobikes",
     "Nombre": "COLLARIN SUPACLAMP",
     "Precio": "$24.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/06/SUPACLAM_OILSICK_35-630x630.png",
@@ -1415,6 +1617,7 @@
   },
   {
     "id": 203,
+    "Tienda": "Evobikes",
     "Nombre": "EJE WOLF TOOTH – HORQUILLA ROCKSHOX",
     "Precio": "$43.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/06/WT_RSAXLE_BOOST_PRP-630x630.png",
@@ -1422,6 +1625,7 @@
   },
   {
     "id": 204,
+    "Tienda": "Evobikes",
     "Nombre": "EJE WOLF TOOTH – HORQUILLA FOX",
     "Precio": "$43.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/06/WT_FOXAXLE_BOOST_ORG-630x630.png",
@@ -1429,6 +1633,7 @@
   },
   {
     "id": 205,
+    "Tienda": "Evobikes",
     "Nombre": "SHIFTMOUNT WOLF TOOTH ISEV-22",
     "Precio": "$43.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/06/WT_SHIFTMOUNT_ISEV22_1-630x630.png",
@@ -1436,6 +1641,7 @@
   },
   {
     "id": 206,
+    "Tienda": "Evobikes",
     "Nombre": "CONTROL WOLF TOOTH DROPPER REMOTE LIGHT ACTION",
     "Precio": "$76.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/06/WT_remote_la-630x630.png",
@@ -1443,6 +1649,7 @@
   },
   {
     "id": 207,
+    "Tienda": "Evobikes",
     "Nombre": "ADAPTADOR WOLF TOOTH ROADLINK 10/11 SPD",
     "Precio": "$23.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/06/WT-Roadlink-01_800x-630x630.webp",
@@ -1450,6 +1657,7 @@
   },
   {
     "id": 208,
+    "Tienda": "Evobikes",
     "Nombre": "GUIA CADENA WOLF TOOTH GNARWOLF BRAZE ON MOUNT",
     "Precio": "$76.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/06/WT_GnarWolf_BOM_1-630x630.png",
@@ -1457,6 +1665,7 @@
   },
   {
     "id": 209,
+    "Tienda": "Evobikes",
     "Nombre": "GUIA CADENA WOLF TOOTH GNARWOLF ISCG 05 MOUNT",
     "Precio": "$76.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/06/WT_GNARWOLF_ISCG05_1-630x630.png",
@@ -1464,6 +1673,7 @@
   },
   {
     "id": 210,
+    "Tienda": "Evobikes",
     "Nombre": "TOPES MANUBRIO WOLF TOOTH AL – ORANGE",
     "Precio": "$21.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/06/WT_BARPLUG-AL-ORG-630x630.png",
@@ -1471,6 +1681,7 @@
   },
   {
     "id": 211,
+    "Tienda": "Evobikes",
     "Nombre": "TUBO SILLIN RETRACTIL BIKEYOKE DIVINE SL",
     "Precio": "$459.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/06/divine_sl-630x630.jpg",
@@ -1478,6 +1689,7 @@
   },
   {
     "id": 212,
+    "Tienda": "Evobikes",
     "Nombre": "CAMBIO SRAM XX1 EAGLE LUNAR 12V",
     "Precio": "$299.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/05/CAMBIO_SRAM_XX1_LUNAR_12V-630x630.png",
@@ -1485,6 +1697,7 @@
   },
   {
     "id": 213,
+    "Tienda": "Evobikes",
     "Nombre": "TRANSMISION SRAM GX EAGLE LUNAR DUB 12V",
     "Precio": "$577.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/05/SRAM-Kit-GX-EAGLE-1x12-s-12-velocidades-10-52T-DUB-170mm-175mm-gatillo-cambiador-desviador.jpg_Q90.jpg_-630x630.webp",
@@ -1492,6 +1705,7 @@
   },
   {
     "id": 214,
+    "Tienda": "Evobikes",
     "Nombre": "HORQUILLA ROCKSHOX SID SL ULTIMATE RD R TWISTLOC 29 100MM",
     "Precio": "$1.089.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/05/sid_sl_ult_twi-630x630.jpg",
@@ -1499,6 +1713,7 @@
   },
   {
     "id": 215,
+    "Tienda": "Evobikes",
     "Nombre": "HORQUILLA ROCKSHOX SID SL ULTIMATE 29 100MM",
     "Precio": "$899.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/05/rockshox_sid_ult_blu_01-1-630x630.jpg",
@@ -1506,6 +1721,7 @@
   },
   {
     "id": 216,
+    "Tienda": "Evobikes",
     "Nombre": "CAMBIO SHIMANO DEORE RD-M6000 10V",
     "Precio": "$79.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/05/P-RD-M6000-SGS_15969_1_750_750-630x630.jpeg",
@@ -1513,6 +1729,7 @@
   },
   {
     "id": 217,
+    "Tienda": "Evobikes",
     "Nombre": "CAMBIO SHIMANO GRX RD-RX400 10V",
     "Precio": "$71.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/05/RD-RX400_C219_1_750_750-630x630.jpeg",
@@ -1520,6 +1737,7 @@
   },
   {
     "id": 218,
+    "Tienda": "Evobikes",
     "Nombre": "VOLANTE SHIMANO 105 FC-R7000 11V",
     "Precio": "$179.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/05/P-FC-R7000_BC19Nd0115_750_750-630x630.jpeg",
@@ -1527,6 +1745,7 @@
   },
   {
     "id": 219,
+    "Tienda": "Evobikes",
     "Nombre": "CORONA WOLF TOOTH OVALADA 104 BCD",
     "Precio": "$78.900 – $87.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/05/1-630x630.png",
@@ -1534,6 +1753,7 @@
   },
   {
     "id": 220,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMATICO VITTORIA MEZCAL III ANT/BLK",
     "Precio": "$52.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/04/mezcal_blk_01-630x630.jpg",
@@ -1541,6 +1761,7 @@
   },
   {
     "id": 221,
+    "Tienda": "Evobikes",
     "Nombre": "PEDAL RUTA PROMEND",
     "Precio": "$62.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/04/Hc22fbf20b70949cfad3e4a0634bcd4eb3-630x630.webp",
@@ -1548,6 +1769,7 @@
   },
   {
     "id": 222,
+    "Tienda": "Evobikes",
     "Nombre": "ROTOR SHIMANO SM-RT76",
     "Precio": "$41.900 – $45.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/SM-RT76_S_1_750_750-630x630.jpeg",
@@ -1555,6 +1777,7 @@
   },
   {
     "id": 223,
+    "Tienda": "Evobikes",
     "Nombre": "CUBETA DE MOTOR SRAM DUB PF30 MTB 73MM",
     "Precio": "$46.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/SR00110_1.jpg",
@@ -1562,6 +1785,7 @@
   },
   {
     "id": 224,
+    "Tienda": "Evobikes",
     "Nombre": "HORQUILLA ROCK SHOX ZEB SELECT 29 170MM",
     "Precio": "$849.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/fs-zeb-select-a1_3.png",
@@ -1569,6 +1793,7 @@
   },
   {
     "id": 225,
+    "Tienda": "Evobikes",
     "Nombre": "CINTA MANUBRIO WOLF TOOTH SUPPLE LITE BAR TAPE",
     "Precio": "$28.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/WT_SLITE-BARTAPE-BLK_01.png",
@@ -1576,6 +1801,7 @@
   },
   {
     "id": 226,
+    "Tienda": "Evobikes",
     "Nombre": "TUERCA WOLF TOOTH CENTERLOCK",
     "Precio": "$17.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/WT_CENTERLOCK_RED.png",
@@ -1583,6 +1809,7 @@
   },
   {
     "id": 227,
+    "Tienda": "Evobikes",
     "Nombre": "SHIFTER SRAM NX EAGLE 12V",
     "Precio": "$45.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/ShifterNXeagletrigger_1.jpg",
@@ -1590,6 +1817,7 @@
   },
   {
     "id": 228,
+    "Tienda": "Evobikes",
     "Nombre": "PIÑON SRAM NX EAGLE PG-1230 11-50T 12V",
     "Precio": "$109.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/SRAMnx11-50t.jpg",
@@ -1597,6 +1825,7 @@
   },
   {
     "id": 229,
+    "Tienda": "Evobikes",
     "Nombre": "VOLANTE TRUVATIV STYLO EAGLE DUB CARBON BOOST",
     "Precio": "$275.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/SR01136_0.jpg",
@@ -1604,6 +1833,7 @@
   },
   {
     "id": 230,
+    "Tienda": "Evobikes",
     "Nombre": "ROTOR SRAM CENTERLINE 160MM",
     "Precio": "$47.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/rotor-disco-sram-centerline-160mm-1.jpg",
@@ -1611,6 +1841,7 @@
   },
   {
     "id": 231,
+    "Tienda": "Evobikes",
     "Nombre": "RUEDAS FULCRUM RACING ZERO DB",
     "Precio": "$1.124.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/fulcrum-racing-zero-db-disc-630x630.png",
@@ -1618,6 +1849,7 @@
   },
   {
     "id": 232,
+    "Tienda": "Evobikes",
     "Nombre": "RUEDAS FULCRUM WIND 40/55 DB",
     "Precio": "$1.475.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/wind-combo-db-630x630.png",
@@ -1625,6 +1857,7 @@
   },
   {
     "id": 233,
+    "Tienda": "Evobikes",
     "Nombre": "CÁMARA PIRELLI SCORPION™ SMARTUBE",
     "Precio": "$29.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/scorpion-smartube-630x630.jpg",
@@ -1632,6 +1865,7 @@
   },
   {
     "id": 234,
+    "Tienda": "Evobikes",
     "Nombre": "CÁMARA PIRELLI CINTURATO™ SMARTUBE",
     "Precio": "$29.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/cinturato-smartube-630x630.jpg",
@@ -1639,6 +1873,7 @@
   },
   {
     "id": 235,
+    "Tienda": "Evobikes",
     "Nombre": "CONECTOR CADENA KMC 2 UNIDADES 12V",
     "Precio": "$13.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/02/missing_12v-630x630.jpg",
@@ -1646,6 +1881,7 @@
   },
   {
     "id": 236,
+    "Tienda": "Evobikes",
     "Nombre": "CONECTOR CADENA KMC 2 UNIDADES 11V",
     "Precio": "$13.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/02/missing_11v-630x630.jpg",
@@ -1653,6 +1889,7 @@
   },
   {
     "id": 237,
+    "Tienda": "Evobikes",
     "Nombre": "CONECTOR CADENA KMC 2 UNIDADES 10V",
     "Precio": "$10.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/02/missing_10v-630x630.jpg",
@@ -1660,6 +1897,7 @@
   },
   {
     "id": 238,
+    "Tienda": "Evobikes",
     "Nombre": "CADENA KMC X9 SILVER/GRAY 9V",
     "Precio": "$28.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/02/X9_SILVER_GRAY-630x630.jpg",
@@ -1667,6 +1905,7 @@
   },
   {
     "id": 239,
+    "Tienda": "Evobikes",
     "Nombre": "CADENA KMC X10 SILVER/BLACK 10V",
     "Precio": "$33.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/02/x10-sil-blk_02.jpg",
@@ -1674,6 +1913,7 @@
   },
   {
     "id": 240,
+    "Tienda": "Evobikes",
     "Nombre": "CADENA KMC X12 SILVER/BLACK 12V",
     "Precio": "$59.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/02/x12-sil-blk_02.jpg",
@@ -1681,6 +1921,7 @@
   },
   {
     "id": 241,
+    "Tienda": "Evobikes",
     "Nombre": "RUEDAS RETROSPEC RS-50CB CARBON HG11 QR",
     "Precio": "$659.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/02/retrospec_carbon_patin_02-630x630.jpg",
@@ -1688,6 +1929,7 @@
   },
   {
     "id": 242,
+    "Tienda": "Evobikes",
     "Nombre": "HERRADURAS SHIMANO 105 BR-R7000 SILVER (PAR)",
     "Precio": "$105.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/02/P-BR-R7000_BC19Nd0033_750_750-630x630.jpeg",
@@ -1695,6 +1937,7 @@
   },
   {
     "id": 243,
+    "Tienda": "Evobikes",
     "Nombre": "RUEDAS RETROSPEC RS-50CB CARBON HG11 TA DISC",
     "Precio": "$699.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/02/retrospec_carbon_disc_01-630x630.jpg",
@@ -1702,6 +1945,7 @@
   },
   {
     "id": 244,
+    "Tienda": "Evobikes",
     "Nombre": "RUEDAS FULCRUM RED ZONE 500 29",
     "Precio": "$404.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/11/redzone5.jpg",
@@ -1709,6 +1953,7 @@
   },
   {
     "id": 245,
+    "Tienda": "Evobikes",
     "Nombre": "PIÑON SUNRACE MZ902 11/51 12V",
     "Precio": "$129.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/csmz902.jpg",
@@ -1716,6 +1961,7 @@
   },
   {
     "id": 246,
+    "Tienda": "Evobikes",
     "Nombre": "PIÑON SUNRACE MZ800 11/51 12V",
     "Precio": "$99.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/mz800-630x630.jpg",
@@ -1723,6 +1969,7 @@
   },
   {
     "id": 247,
+    "Tienda": "Evobikes",
     "Nombre": "PIÑON SUNRACE M90 11/36 9V",
     "Precio": "$17.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/csm90.jpg",
@@ -1730,6 +1977,7 @@
   },
   {
     "id": 248,
+    "Tienda": "Evobikes",
     "Nombre": "ROTOR SHIMANO SM-RT56",
     "Precio": "$10.900 – $14.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-SM-RT56-S_mig0047_1_750_750-630x630.jpeg",
@@ -1737,6 +1985,7 @@
   },
   {
     "id": 249,
+    "Tienda": "Evobikes",
     "Nombre": "ROTOR SHIMANO SM-RT30",
     "Precio": "$9.900 – $15.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/SM-RT30_L_C260_1_750_750-630x630.jpeg",
@@ -1744,6 +1993,7 @@
   },
   {
     "id": 250,
+    "Tienda": "Evobikes",
     "Nombre": "FRENOS SHIMANO SLX M7100",
     "Precio": "$261.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/frenos_shimano_m7100.jpg",
@@ -1751,6 +2001,7 @@
   },
   {
     "id": 251,
+    "Tienda": "Evobikes",
     "Nombre": "ROTOR SHIMANO SM-RT26",
     "Precio": "$8.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-SM-RT26_13435_1_750_750-630x630.jpeg",
@@ -1758,6 +2009,7 @@
   },
   {
     "id": 252,
+    "Tienda": "Evobikes",
     "Nombre": "ROTOR SHIMANO SM-RT10",
     "Precio": "$8.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-SM-RT10_13623_1_750_750-630x630.jpeg",
@@ -1765,6 +2017,7 @@
   },
   {
     "id": 253,
+    "Tienda": "Evobikes",
     "Nombre": "CALAS SHIMANO RUTA SM-SH10",
     "Precio": "$18.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/Y42U98020_SM-SH10_2_750_750-630x630.jpeg",
@@ -1772,6 +2025,7 @@
   },
   {
     "id": 254,
+    "Tienda": "Evobikes",
     "Nombre": "CUBETAS DE MOTOR SHIMANO BB-R9100 INTEGRADO",
     "Precio": "$41.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-BB-R9100_13587_1_750_750-630x630.jpeg",
@@ -1779,6 +2033,7 @@
   },
   {
     "id": 255,
+    "Tienda": "Evobikes",
     "Nombre": "CADENA SHIMANO DEORE CN-HG54 10V",
     "Precio": "$22.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-CN-HG54_10808_1_750_750-630x630.jpeg",
@@ -1786,6 +2041,7 @@
   },
   {
     "id": 256,
+    "Tienda": "Evobikes",
     "Nombre": "CADENA SHIMANO CN-HG93 9V",
     "Precio": "$20.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-CN-HG93_2002products0005_750_750-630x630.jpeg",
@@ -1793,6 +2049,7 @@
   },
   {
     "id": 257,
+    "Tienda": "Evobikes",
     "Nombre": "CADENA SHIMANO ULTEGRA CN-6701 10V",
     "Precio": "$32.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/cn-6701.jpg",
@@ -1800,6 +2057,7 @@
   },
   {
     "id": 258,
+    "Tienda": "Evobikes",
     "Nombre": "CADENA SHIMANO CN-HG701 11V",
     "Precio": "$45.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-CN-HG701-11_14323_1_750_750-630x630.jpeg",
@@ -1807,6 +2065,7 @@
   },
   {
     "id": 259,
+    "Tienda": "Evobikes",
     "Nombre": "MANILLA CAMBIO SRAM X01 EAGLE GRIP SHIFT 12V",
     "Precio": "$99.990",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/manilla_cambio_sram_x01_12v.jpg",
@@ -1814,6 +2073,7 @@
   },
   {
     "id": 260,
+    "Tienda": "Evobikes",
     "Nombre": "MANILLA CAMBIO SRAM X01 GRIP SHIFT 11V",
     "Precio": "$99.990",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/manilla_cambio_sram_x01_11v.jpg",
@@ -1821,6 +2081,7 @@
   },
   {
     "id": 261,
+    "Tienda": "Evobikes",
     "Nombre": "CAMBIO SRAM SX EAGLE 12V",
     "Precio": "$84.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/cambio_sram_sx_12v.jpg",
@@ -1828,6 +2089,7 @@
   },
   {
     "id": 262,
+    "Tienda": "Evobikes",
     "Nombre": "CAMBIO SRAM XX1 EAGLE TYPE 3 12V",
     "Precio": "$299.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/cambio_sram_xx1_t3.jpg",
@@ -1835,6 +2097,7 @@
   },
   {
     "id": 263,
+    "Tienda": "Evobikes",
     "Nombre": "CAMBIO SRAM NX 11V",
     "Precio": "$89.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/sram_nx.11v.jpg",
@@ -1842,6 +2105,7 @@
   },
   {
     "id": 264,
+    "Tienda": "Evobikes",
     "Nombre": "CAMBIO SRAM GX 11V",
     "Precio": "$119.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/cambio-sram-gx-1x11-x-horizon-long-rojo-630x630.jpg",
@@ -1849,6 +2113,7 @@
   },
   {
     "id": 265,
+    "Tienda": "Evobikes",
     "Nombre": "SHIFTMOUNT WOLF TOOTH MM-ISII",
     "Precio": "$28.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/ShiftMount_MM-ISII_01_648f8128-7d50-4239-af75-3cb881d15138_590x.jpg",
@@ -1856,6 +2121,7 @@
   },
   {
     "id": 266,
+    "Tienda": "Evobikes",
     "Nombre": "PEDAL SUPACAZ ORBITRON – CNC ALLOY PURPLE",
     "Precio": "$124.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/ORBITRON_PURPLE_01-630x630.jpg",
@@ -1863,6 +2129,7 @@
   },
   {
     "id": 267,
+    "Tienda": "Evobikes",
     "Nombre": "PEDAL SHIMANO PD-R550",
     "Precio": "$83.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-PD-R550_3924_1_750_750-630x630.jpeg",
@@ -1870,6 +2137,7 @@
   },
   {
     "id": 268,
+    "Tienda": "Evobikes",
     "Nombre": "PEDAL SHIMANO XTR PD-M9100",
     "Precio": "$185.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-PD-M9100_BC19Nd0163_750_750-630x630.jpeg",
@@ -1877,6 +2145,7 @@
   },
   {
     "id": 269,
+    "Tienda": "Evobikes",
     "Nombre": "DESVIADOR SHIMANO 105 FD-R7000-F 11V",
     "Precio": "$71.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-FD-R7000-F_BC19Nd0131_750_750-630x630.jpeg",
@@ -1884,6 +2153,7 @@
   },
   {
     "id": 270,
+    "Tienda": "Evobikes",
     "Nombre": "DESVIADOR SHIMANO SLX FD-M671-A-D 10V",
     "Precio": "$22.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-FD-M671-A-D_2014products0263_750_750-630x630.jpeg",
@@ -1891,6 +2161,7 @@
   },
   {
     "id": 271,
+    "Tienda": "Evobikes",
     "Nombre": "DESVIADOR SHIMANO SORA FD-3503-F 9V",
     "Precio": "$16.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-FD-3503-F_4239_1_750_750-630x630.jpeg",
@@ -1898,6 +2169,7 @@
   },
   {
     "id": 272,
+    "Tienda": "Evobikes",
     "Nombre": "DESVIADOR SHIMANO XT FD-M780-A-E 10V",
     "Precio": "$29.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-FD-M780-A-E_2014products0265_750_750-630x630.jpeg",
@@ -1905,6 +2177,7 @@
   },
   {
     "id": 273,
+    "Tienda": "Evobikes",
     "Nombre": "DESVIADOR SHIMANO ULTEGRA FD-R8000-F 11V",
     "Precio": "$54.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-FD-R8000-F_15998_1_750_750-630x630.jpeg",
@@ -1912,6 +2185,7 @@
   },
   {
     "id": 274,
+    "Tienda": "Evobikes",
     "Nombre": "DESVIADOR SHIMANO DEORE FD-M618-D DIRECT 10V",
     "Precio": "$18.000 – $22.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-FD-M618-D_12948_1_750_750-630x630.jpeg",
@@ -1919,6 +2193,7 @@
   },
   {
     "id": 275,
+    "Tienda": "Evobikes",
     "Nombre": "PEDAL SUPACAZ ORBITRON – CNC ALLOY BLK",
     "Precio": "$116.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/OrbitronDH_Black.jpg",
@@ -1926,6 +2201,7 @@
   },
   {
     "id": 276,
+    "Tienda": "Evobikes",
     "Nombre": "PEDAL SUPACAZ SMASH – THERMOPOLY RED",
     "Precio": "$49.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/PD-03RED.jpg",
@@ -1933,6 +2209,7 @@
   },
   {
     "id": 277,
+    "Tienda": "Evobikes",
     "Nombre": "DESVIADOR SHIMANO SLX FD-M677-L 10V",
     "Precio": "$28.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-FD-M677-L_12931_1_750_750-630x630.jpeg",
@@ -1940,6 +2217,7 @@
   },
   {
     "id": 278,
+    "Tienda": "Evobikes",
     "Nombre": "DESVIADOR SHIMANO SLX FD-M677-H 10V",
     "Precio": "$26.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-FD-M677-H_12930_1_750_750-630x630.jpeg",
@@ -1947,6 +2225,7 @@
   },
   {
     "id": 279,
+    "Tienda": "Evobikes",
     "Nombre": "DESVIADOR SHIMANO SLX FD-M672-H 10V",
     "Precio": "$26.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-FD-M672-H_12926_1_750_750-630x630.jpeg",
@@ -1954,6 +2233,7 @@
   },
   {
     "id": 280,
+    "Tienda": "Evobikes",
     "Nombre": "DESVIADOR SHIMANO DEORE XT FD-M8025-E 11V",
     "Precio": "$32.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-FD-M8025-E_12901_1_750_750-630x630.jpeg",
@@ -1961,6 +2241,7 @@
   },
   {
     "id": 281,
+    "Tienda": "Evobikes",
     "Nombre": "DESVIADOR SHIMANO XTR FD-M9025-H 11V",
     "Precio": "$85.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-FD-M9025-H_3532_1_750_750-630x630.jpeg",
@@ -1968,6 +2249,7 @@
   },
   {
     "id": 282,
+    "Tienda": "Evobikes",
     "Nombre": "DESVIADOR SHIMANO XTR FD-M9020-H 11V",
     "Precio": "$99.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-FD-M9020-H_3526_1_750_750-630x630.jpeg",
@@ -1975,6 +2257,7 @@
   },
   {
     "id": 283,
+    "Tienda": "Evobikes",
     "Nombre": "MANILLA CAMBIO FRENO SHIMANO ULTEGRA ST-R8000 11V",
     "Precio": "$385.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/st-r8000.jpg",
@@ -1982,6 +2265,7 @@
   },
   {
     "id": 284,
+    "Tienda": "Evobikes",
     "Nombre": "PEDAL SUPACAZ ORBITRON – CNC ALLOY OIL SLICK",
     "Precio": "$124.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/OrbitronDH_OilSlick.jpg",
@@ -1989,6 +2273,7 @@
   },
   {
     "id": 285,
+    "Tienda": "Evobikes",
     "Nombre": "MANILLA CAMBIO FRENO SHIMANO DURA-ACE ST-R9100 11V",
     "Precio": "$706.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/st-r9100.jpg",
@@ -1996,6 +2281,7 @@
   },
   {
     "id": 286,
+    "Tienda": "Evobikes",
     "Nombre": "PEDAL SUPACAZ SMASH – THERMOPOLY BLUE",
     "Precio": "$49.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/PD-02BLUE.jpg",
@@ -2003,6 +2289,7 @@
   },
   {
     "id": 287,
+    "Tienda": "Evobikes",
     "Nombre": "MANILLA CAMBIO FRENO SHIMANO ST-EF417 7V (PAR)",
     "Precio": "$26.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/EF-417.jpg",
@@ -2010,6 +2297,7 @@
   },
   {
     "id": 288,
+    "Tienda": "Evobikes",
     "Nombre": "MANILLA CAMBIO SHIMANO DEORE SL-M610-I SPEC B – 10V (PAR)",
     "Precio": "$45.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/sl-m610-i.jpg",
@@ -2017,6 +2305,7 @@
   },
   {
     "id": 289,
+    "Tienda": "Evobikes",
     "Nombre": "MANILLA CAMBIO SHIMANO ZEE SL-M640 10V",
     "Precio": "$40.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-SL-M640_4399_1_750_750-630x630.jpeg",
@@ -2024,6 +2313,7 @@
   },
   {
     "id": 290,
+    "Tienda": "Evobikes",
     "Nombre": "MANILLA CAMBIO SHIMANO XT SL-M8000-I DIRECT II",
     "Precio": "$99.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/m8000-ispectii-630x630.jpg",
@@ -2031,6 +2321,7 @@
   },
   {
     "id": 291,
+    "Tienda": "Evobikes",
     "Nombre": "CAMBIO SHIMANO 105 RD-5701-SS 10V",
     "Precio": "$57.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/RD-5701-SS.jpg",
@@ -2038,6 +2329,7 @@
   },
   {
     "id": 292,
+    "Tienda": "Evobikes",
     "Nombre": "CAMBIO SHIMANO ZEE RD-M640-SS 10V",
     "Precio": "$77.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-RD-M640-SS_4336_1_750_750-630x630.jpeg",
@@ -2045,6 +2337,7 @@
   },
   {
     "id": 293,
+    "Tienda": "Evobikes",
     "Nombre": "CAMBIO SHIMANO DEORE XT RD-M786 SGS 10V",
     "Precio": "$103.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-RD-M786-SGS_2013products0273_750_750-630x630.jpeg",
@@ -2052,6 +2345,7 @@
   },
   {
     "id": 294,
+    "Tienda": "Evobikes",
     "Nombre": "CAMBIO SHIMANO TOURNEY RD-TY500 6/7V",
     "Precio": "$13.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-RD-TY500-SGS_12821_1_750_750-630x630.jpeg",
@@ -2059,6 +2353,7 @@
   },
   {
     "id": 295,
+    "Tienda": "Evobikes",
     "Nombre": "CAMBIO SHIMANO RD-5800-SS 11V",
     "Precio": "$50.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-RD-5800-SS_3224_1_750_750-630x630.jpeg",
@@ -2066,6 +2361,7 @@
   },
   {
     "id": 296,
+    "Tienda": "Evobikes",
     "Nombre": "PIÑON SHIMANO DURA ACE CS-7900 10V",
     "Precio": "$242.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/cs-7900-11-28.jpg",
@@ -2073,6 +2369,7 @@
   },
   {
     "id": 297,
+    "Tienda": "Evobikes",
     "Nombre": "MANILLA DE CAMBIO IZQUIERDA SHIMANO SL-M9100-IL DIRECT 2 X 12V",
     "Precio": "$144.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-SL-M9100-IL_BC19Nd0197_750_750-630x630.jpeg",
@@ -2080,6 +2377,7 @@
   },
   {
     "id": 298,
+    "Tienda": "Evobikes",
     "Nombre": "VOLANTE SHIMANO FC-MT610 175MM 30T 12V",
     "Precio": "$112.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/FC-MT610_32T_C6_1_750_750-630x630.jpeg",
@@ -2087,6 +2385,7 @@
   },
   {
     "id": 299,
+    "Tienda": "Evobikes",
     "Nombre": "PIÑON SHIMANO DEORE M6100 10/51 12V",
     "Precio": "$138.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/Cassette-CS-M6100-12-Deore-12V-10-51t-630x630.jpg",
@@ -2094,6 +2393,7 @@
   },
   {
     "id": 300,
+    "Tienda": "Evobikes",
     "Nombre": "PIÑON SHIMANO XTR CS-M9100 10/51 12V",
     "Precio": "$518.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/P-CS-M9100-12_BC19Nd0057_750_750-630x630.jpeg",
@@ -2101,6 +2401,7 @@
   },
   {
     "id": 301,
+    "Tienda": "Evobikes",
     "Nombre": "VOLANTE SHIMANO DEORE XT FC-M8100 SIN CORONA 12V",
     "Precio": "$192.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/volante_m8100.jpg",
@@ -2108,6 +2409,7 @@
   },
   {
     "id": 302,
+    "Tienda": "Evobikes",
     "Nombre": "PIÑON SHIMANO CS-HG31 8V 11/32",
     "Precio": "$14.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/hg31.jpg",
@@ -2115,6 +2417,7 @@
   },
   {
     "id": 303,
+    "Tienda": "Evobikes",
     "Nombre": "MANILLA CAMBIO SHIMANO SLX SL-M7100 12V",
     "Precio": "$59.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/SL-M7100-R_C219_2_750_750-630x630.jpeg",
@@ -2122,6 +2425,7 @@
   },
   {
     "id": 304,
+    "Tienda": "Evobikes",
     "Nombre": "RUEDAS FULCRUM SPEED 40 CMPTZN DB",
     "Precio": "$2.849.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/fulcrum-speed-40-cmptzn-db-2wf-c19-630x630.jpg",
@@ -2129,6 +2433,7 @@
   },
   {
     "id": 305,
+    "Tienda": "Evobikes",
     "Nombre": "CORONA WOLF TOOTH RACE FACE CINCH DM OVALADA",
     "Precio": "$67.900 – $78.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/WT-Powertrac-RFC-28T-Black-02_590x.jpg",
@@ -2136,6 +2441,7 @@
   },
   {
     "id": 306,
+    "Tienda": "Evobikes",
     "Nombre": "CORONA WOLF TOOTH RACE FACE CINCH DM",
     "Precio": "$67.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/RFC-28T-Black-02_1024x1024_3ba07f6f-11f2-4146-b368-56bc3bea9232_590x.jpg",
@@ -2143,6 +2449,7 @@
   },
   {
     "id": 307,
+    "Tienda": "Evobikes",
     "Nombre": "CORONA WOLF TOOTH SRAM DM OVALADA",
     "Precio": "$67.900 – $72.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/WT_OVAL_SDM_42_FT_01_590x.jpg",
@@ -2150,6 +2457,7 @@
   },
   {
     "id": 308,
+    "Tienda": "Evobikes",
     "Nombre": "CORONA WOLF TOOTH SHIMANO DM OVALADA",
     "Precio": "$78.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/WT_Powertrac_SHDM_32T_SH12_BLK_02_f5e9f400-7c73-4fda-8e5d-43745d1bd79f_590x.jpg",
@@ -2157,6 +2465,7 @@
   },
   {
     "id": 309,
+    "Tienda": "Evobikes",
     "Nombre": "CORONA WOLF TOOTH SHIMANO DM",
     "Precio": "$76.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/WT_DropStop_A_BST_SHDM32T_BLK_02_590x-1.jpg",
@@ -2164,6 +2473,7 @@
   },
   {
     "id": 310,
+    "Tienda": "Evobikes",
     "Nombre": "RUEDAS FULCRUM RACING 6 C17",
     "Precio": "$295.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/racing6c17.jpg",
@@ -2171,6 +2481,7 @@
   },
   {
     "id": 311,
+    "Tienda": "Evobikes",
     "Nombre": "TOPES MANUBRIO WOLF TOOTH AL – PURPLE",
     "Precio": "$21.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/BARPLUG-AL-PRP_590x.jpg",
@@ -2178,6 +2489,7 @@
   },
   {
     "id": 312,
+    "Tienda": "Evobikes",
     "Nombre": "TOPES MANUBRIO WOLF TOOTH AL – BLUE",
     "Precio": "$21.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/BARPLUG-AL-BLU_590x.jpg",
@@ -2185,6 +2497,7 @@
   },
   {
     "id": 313,
+    "Tienda": "Evobikes",
     "Nombre": "CINTA MANUBRIO WOLF TOOTH SUPPLE BAR TAPE – BROWN",
     "Precio": "$37.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/WT_SuppleBarTape_BRN_packaging_590x.jpg",
@@ -2192,6 +2505,7 @@
   },
   {
     "id": 314,
+    "Tienda": "Evobikes",
     "Nombre": "CINTA MANUBRIO WOLF TOOTH SUPPLE BAR TAPE – ORANGE",
     "Precio": "$37.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/WT_SuppleBarTape_ORG_packaging_590x.jpg",
@@ -2199,6 +2513,7 @@
   },
   {
     "id": 315,
+    "Tienda": "Evobikes",
     "Nombre": "CINTA MANUBRIO WOLF TOOTH SUPPLE BAR TAPE – RED",
     "Precio": "$37.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/WT_SuppleBarTape_RED_packaging_590x.jpg",
@@ -2206,6 +2521,7 @@
   },
   {
     "id": 316,
+    "Tienda": "Evobikes",
     "Nombre": "CINTA MANUBRIO WOLF TOOTH SUPPLE BAR TAPE – BLUE",
     "Precio": "$37.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/WT_SuppleBarTape_BLU_packaging_590x.jpg",
@@ -2213,6 +2529,7 @@
   },
   {
     "id": 317,
+    "Tienda": "Evobikes",
     "Nombre": "CINTA DE MANUBRIO SUPACAZ BLING – REFLECTIVE OIL SLICK",
     "Precio": "$36.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/sup-0503-017-630x630.jpg",
@@ -2220,6 +2537,7 @@
   },
   {
     "id": 318,
+    "Tienda": "Evobikes",
     "Nombre": "CINTA DE MANUBRIO SUPACAZ PRIZMATIK – RED",
     "Precio": "$36.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/supacaz-prizmatik-red-1-630x630.jpg",
@@ -2227,6 +2545,7 @@
   },
   {
     "id": 319,
+    "Tienda": "Evobikes",
     "Nombre": "CINTA DE MANUBRIO SUPACAZ PRIZMATIK – OIL SLICK",
     "Precio": "$36.900 $33.210",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/8c814f5518d0462588d3f7886a8c10f3_600.jpg",
@@ -2234,6 +2553,7 @@
   },
   {
     "id": 320,
+    "Tienda": "Evobikes",
     "Nombre": "CINTA DE MANUBRIO SUPACAZ SUPER STICKY KUSH – RED",
     "Precio": "$34.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/classic-red-800x800-1-630x630.jpg",
@@ -2241,6 +2561,7 @@
   },
   {
     "id": 321,
+    "Tienda": "Evobikes",
     "Nombre": "CINTA DE MANUBRIO SUPACAZ SUPER STICKY KUSH GALAXY – WHITE",
     "Precio": "$34.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/galaxy-white-800x800-1-630x630.jpg",
@@ -2248,6 +2569,7 @@
   },
   {
     "id": 322,
+    "Tienda": "Evobikes",
     "Nombre": "CINTA DE MANUBRIO SUPACAZ SUPER STICKY KUSH GALAXY – RED",
     "Precio": "$34.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/galaxy-red-800x800-1-630x630.jpg",
@@ -2255,6 +2577,7 @@
   },
   {
     "id": 323,
+    "Tienda": "Evobikes",
     "Nombre": "CINTA DE MANUBRIO SUPACAZ SUPER STICKY KUSH – WHITE",
     "Precio": "$34.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/classic-white-800x800-1-630x630.jpg",
@@ -2262,6 +2585,7 @@
   },
   {
     "id": 324,
+    "Tienda": "Evobikes",
     "Nombre": "CINTA DE MANUBRIO SUPACAZ SUPER STICKY KUSH STAR FADE BLING – OIL SLICK",
     "Precio": "$36.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/sup-0503-016-800x800-1-630x630.jpeg",
@@ -2269,6 +2593,7 @@
   },
   {
     "id": 325,
+    "Tienda": "Evobikes",
     "Nombre": "PUÑOS SUPACAZ GRIZIPS",
     "Precio": "$20.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/SUPA_Grip_Grizips_YEL_1.jpg",
@@ -2276,6 +2601,7 @@
   },
   {
     "id": 326,
+    "Tienda": "Evobikes",
     "Nombre": "HORQUILLA FOX 2022 FLOAT 36 ARO 29",
     "Precio": "$1.405.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/fox362022blk.jpg",
@@ -2283,6 +2609,7 @@
   },
   {
     "id": 327,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMATICO MAXXIS REKON RACE",
     "Precio": "$49.990",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/rekonrace.jpg",
@@ -2290,6 +2617,7 @@
   },
   {
     "id": 328,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMATICO MAXXIS CROSSMARK II",
     "Precio": "$45.990",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/crossmarkii.jpg",
@@ -2297,6 +2625,7 @@
   },
   {
     "id": 329,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMATICO MAXXIS ARDENT RACE",
     "Precio": "$45.990",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/ardentrace.jpg",
@@ -2304,6 +2633,7 @@
   },
   {
     "id": 330,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMATICO CHAOYANG PHANTOM DRY",
     "Precio": "$28.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/PHANTOMDRY-1.jpg",
@@ -2311,6 +2641,7 @@
   },
   {
     "id": 331,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMATICO CHAOYANG FAST LANE",
     "Precio": "$29.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/PHANTOMDRY.jpg",
@@ -2318,6 +2649,7 @@
   },
   {
     "id": 332,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMATICO CONTINENTAL TRAIL KING RS",
     "Precio": "$39.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/trailking.jpg",
@@ -2325,6 +2657,7 @@
   },
   {
     "id": 333,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMATICO CONTINENTAL MOUNTAIN KING II PROTECTION",
     "Precio": "$45.900 – $62.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/mountainkingprotect.jpg",
@@ -2332,6 +2665,7 @@
   },
   {
     "id": 334,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMATICO CONTINENTAL RACE KING PERFORMANCE TLR",
     "Precio": "$41.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/raceking.jpg",
@@ -2339,6 +2673,7 @@
   },
   {
     "id": 335,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMATICO CONTINENTAL GATORSKIN",
     "Precio": "$63.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/gatorskin.jpg",
@@ -2346,6 +2681,7 @@
   },
   {
     "id": 336,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMÁTICO PIRELLI CINTURATO CROSS H",
     "Precio": "$59.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/cinturato_cross_h.jpg",
@@ -2353,6 +2689,7 @@
   },
   {
     "id": 337,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMÁTICO PIRELLI CINTURATO CROSS M",
     "Precio": "$59.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/cinturato_cros_m_01.jpg",
@@ -2360,6 +2697,7 @@
   },
   {
     "id": 338,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMÁTICO PIRELLI P ZERO VELO TUBULAR",
     "Precio": "$79.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/velo_tub_01.jpg",
@@ -2367,6 +2705,7 @@
   },
   {
     "id": 339,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMÁTICO PIRELLI P ZERO VELO TT",
     "Precio": "$45.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/velo_tt_01.jpg",
@@ -2374,6 +2713,7 @@
   },
   {
     "id": 340,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMÁTICO PIRELLI SCORPION E-MTB R",
     "Precio": "$84.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/Scorpion_Enduro_ER_01.jpg",
@@ -2381,6 +2721,7 @@
   },
   {
     "id": 341,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMÁTICO PIRELLI SCORPION TRAIL H",
     "Precio": "$69.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/scorpion_trail_h_01.jpg",
@@ -2388,6 +2729,7 @@
   },
   {
     "id": 342,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMÁTICO PIRELLI SCORPION TRAIL R",
     "Precio": "$69.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/Scorpion_Trail_R_01.jpg",
@@ -2395,6 +2737,7 @@
   },
   {
     "id": 343,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMÁTICO PIRELLI SCORPION TRAIL S",
     "Precio": "$69.900 – $74.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/Scorpion_Trail_S_01.jpg",
@@ -2402,6 +2745,7 @@
   },
   {
     "id": 344,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMÁTICO PIRELLI SCORPION TRAIL M",
     "Precio": "$69.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/Scorpion_Trail_M_01.png",
@@ -2409,6 +2753,7 @@
   },
   {
     "id": 345,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMÁTICO PIRELLI SCORPION ENDURO H",
     "Precio": "$79.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/Scorpion_Enduro_H_01.jpg",
@@ -2416,6 +2761,7 @@
   },
   {
     "id": 346,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMÁTICO PIRELLI SCORPION ENDURO R",
     "Precio": "$79.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/Scorpion_Enduro_R_01.jpg",
@@ -2423,6 +2769,7 @@
   },
   {
     "id": 347,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMÁTICO PIRELLI SCORPION ENDURO S",
     "Precio": "$79.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/Scorpion_Enduro_S_01.jpg",
@@ -2430,6 +2777,7 @@
   },
   {
     "id": 348,
+    "Tienda": "Evobikes",
     "Nombre": "NEUMÁTICO PIRELLI SCORPION ENDURO M",
     "Precio": "$79.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/Scorpion_Enduro_M_01.jpg",
@@ -2437,6 +2785,7 @@
   },
   {
     "id": 349,
+    "Tienda": "Evobikes",
     "Nombre": "RUEDAS FULCRUM RACING ZERO C17 2WF",
     "Precio": "$1.079.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/11/racingzero2wf.jpg",
@@ -2444,6 +2793,7 @@
   },
   {
     "id": 350,
+    "Tienda": "Evobikes",
     "Nombre": "RUEDAS FULCRUM RED POWER HP 27R",
     "Precio": "$299.900 $244.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/11/redpowerhp27.jpg",
@@ -2451,6 +2801,7 @@
   },
   {
     "id": 351,
+    "Tienda": "Evobikes",
     "Nombre": "RUEDAS FULCRUM RED POWER XL 26",
     "Precio": "$299.900 $209.930",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/11/redpowerxl.jpg",
@@ -2458,6 +2809,7 @@
   },
   {
     "id": 352,
+    "Tienda": "Evobikes",
     "Nombre": "RUEDAS FULCRUM RED FIRE 5 27R",
     "Precio": "$399.900 $339.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/11/redfire5.jpg",
@@ -2465,6 +2817,7 @@
   },
   {
     "id": 353,
+    "Tienda": "Evobikes",
     "Nombre": "RUEDAS FULCRUM RED METAL XRP 650B",
     "Precio": "$1.099.900 $769.930",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/11/REDMETLXRP650.jpg",
@@ -2472,6 +2825,7 @@
   },
   {
     "id": 354,
+    "Tienda": "Evobikes",
     "Nombre": "RUEDAS FULCRUM RED PASSION 27R",
     "Precio": "$899.900 $699.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/11/redpassion27r.jpg",
@@ -2479,6 +2833,7 @@
   },
   {
     "id": 355,
+    "Tienda": "Evobikes",
     "Nombre": "RUEDAS FULCRUM RED PASSION 3 27R",
     "Precio": "$529.900 $450.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/11/redpassion3.jpg",
@@ -2486,6 +2841,7 @@
   },
   {
     "id": 356,
+    "Tienda": "Evobikes",
     "Nombre": "RUEDAS FULCRUM RED PASSION 3 29",
     "Precio": "$539.900 $458.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/11/redpassion3.jpg",
@@ -2493,6 +2849,7 @@
   },
   {
     "id": 357,
+    "Tienda": "Evobikes",
     "Nombre": "RUEDAS FULCRUM RAPID RED 3 DB",
     "Precio": "$714.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/11/rapidred3db.jpg",
@@ -2500,6 +2857,7 @@
   },
   {
     "id": 358,
+    "Tienda": "Evobikes",
     "Nombre": "RUEDAS FULCRUM WIND 75 DB",
     "Precio": "$1.749.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/11/wind75c19.jpg",
@@ -2507,6 +2865,7 @@
   },
   {
     "id": 359,
+    "Tienda": "Evobikes",
     "Nombre": "RUEDAS FULCRUM ROAD RACING 3 C17",
     "Precio": "$649.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/11/racing3c17.jpg",
@@ -2514,6 +2873,7 @@
   },
   {
     "id": 360,
+    "Tienda": "Evobikes",
     "Nombre": "RUEDAS FULCRUM RACING ZERO CARBON CMPTZN DB",
     "Precio": "$2.499.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/11/racingzerocarboncmptzndb.jpg",
@@ -2521,6 +2881,7 @@
   },
   {
     "id": 361,
+    "Tienda": "Evobikes",
     "Nombre": "RUEDAS FULCRUM RACING ZERO CARBON DB",
     "Precio": "$2.249.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/11/racingzerocarbondb.jpg",
@@ -2528,6 +2889,7 @@
   },
   {
     "id": 362,
+    "Tienda": "Evobikes",
     "Nombre": "RUEDAS FULCRUM RACING ZERO CARBON C17",
     "Precio": "$2.150.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/11/racing-zero-carbon-c17.jpg",
@@ -2535,6 +2897,7 @@
   },
   {
     "id": 363,
+    "Tienda": "Evobikes",
     "Nombre": "RUEDAS FULCRUM ROAD RACING 3 DB",
     "Precio": "$794.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/11/racing3db_2019.jpg",
@@ -2542,6 +2905,7 @@
   },
   {
     "id": 364,
+    "Tienda": "Evobikes",
     "Nombre": "RUEDAS FULCRUM WIND 55 DB",
     "Precio": "$1.524.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/11/wind55_2021.jpg",
@@ -2549,6 +2913,7 @@
   },
   {
     "id": 365,
+    "Tienda": "Evobikes",
     "Nombre": "RUEDAS FULCRUM RACING 6 DB",
     "Precio": "$396.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/11/racing6db_2021.jpg",
@@ -2556,6 +2921,7 @@
   },
   {
     "id": 366,
+    "Tienda": "Evobikes",
     "Nombre": "RUEDAS FULCRUM ROAD RACING 4 DB C19",
     "Precio": "$524.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/11/racing4db_2021.jpg",

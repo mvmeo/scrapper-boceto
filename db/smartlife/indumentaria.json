@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "Tienda": "Smartlife",
     "Nombre": "Tricota Stamina Classy – Slim fit",
     "Precio": "$58.500",
     "Genero": "Mujer",
@@ -9,6 +10,7 @@
   },
   {
     "id": 2,
+    "Tienda": "Smartlife",
     "Nombre": "Tricota Stamina Never Quit – Slim fit",
     "Precio": "$58.500",
     "Genero": "Mujer",
@@ -17,6 +19,7 @@
   },
   {
     "id": 3,
+    "Tienda": "Smartlife",
     "Nombre": "Tricota Stamina Never Quit Lila – Slim fit",
     "Precio": "$58.500",
     "Genero": "Mujer",
@@ -25,6 +28,7 @@
   },
   {
     "id": 4,
+    "Tienda": "Smartlife",
     "Nombre": "Tricota Stamina Rose Gradient – Slim fit",
     "Precio": "$58.500",
     "Genero": "Mujer",
@@ -33,6 +37,7 @@
   },
   {
     "id": 5,
+    "Tienda": "Smartlife",
     "Nombre": "Tricota Summer White – Slim fit",
     "Precio": "$42.000",
     "Genero": "Mujer",
@@ -41,6 +46,7 @@
   },
   {
     "id": 6,
+    "Tienda": "Smartlife",
     "Nombre": "Tricota Stamina Citrus – Slim fit",
     "Precio": "$52.500",
     "Genero": "Mujer",
@@ -49,6 +55,7 @@
   },
   {
     "id": 7,
+    "Tienda": "Smartlife",
     "Nombre": "Tricota Stamina Vino – Slim fit",
     "Precio": "$58.500",
     "Genero": "Mujer",
@@ -57,22 +64,7 @@
   },
   {
     "id": 8,
-    "Nombre": "Tricota Butterfly – Classic Fit",
-    "Precio": "$44.500",
-    "Genero": "Mujer",
-    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/10/tricota-ciclismo-mujer-butterfly-450x450.jpeg",
-    "URLproducto": "https://smartlife-sports.cl/producto/tricota-butterfly-classic-fit-nueva/"
-  },
-  {
-    "id": 9,
-    "Nombre": "Tricota Spandex Colors – Slim Fit -25% OFF",
-    "Precio": "$40.875",
-    "Genero": "Mujer",
-    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/09/tricota-ciclismo-mujer-colors-450x450.jpg",
-    "URLproducto": "https://smartlife-sports.cl/producto/tricota-spandex-colors/"
-  },
-  {
-    "id": 10,
+    "Tienda": "Smartlife",
     "Nombre": "Tricota Spandex Bloomish Slim Fit -10% OFF",
     "Precio": "$49.050",
     "Genero": "Mujer",
@@ -80,7 +72,8 @@
     "URLproducto": "https://smartlife-sports.cl/producto/tricota-spandex-bloomish-primavera/"
   },
   {
-    "id": 11,
+    "id": 9,
+    "Tienda": "Smartlife",
     "Nombre": "Tricota Spandex Onyx – Slim fit",
     "Precio": "$48.500",
     "Genero": "Mujer",
@@ -88,7 +81,8 @@
     "URLproducto": "https://smartlife-sports.cl/producto/tricota-spandex-onix-slim-fit/"
   },
   {
-    "id": 12,
+    "id": 10,
+    "Tienda": "Smartlife",
     "Nombre": "Tricota Spandex Onyx Animal Print",
     "Precio": "$52.500",
     "Genero": "Mujer",
@@ -96,47 +90,62 @@
     "URLproducto": "https://smartlife-sports.cl/producto/tricota-spandex-onyx-animal-print/"
   },
   {
-    "id": 13,
+    "id": 11,
+    "Tienda": "Smartlife",
     "Nombre": "Tricota Spandex Vino Animal Print",
     "Precio": "$52.500",
     "Genero": "Mujer",
     "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/10/tricota-ciclismo-mujer-vino-animal-print-450x450.jpg",
     "URLproducto": "https://smartlife-sports.cl/producto/tricota-spandex-vino-animal-print-nueva/"
+  },
+  {
+    "id": 12,
+    "Tienda": "Smartlife",
+    "Nombre": "Tricota Spandex Animal Print Turquesa -30% OFF",
+    "Precio": "$38.150",
+    "Genero": "Mujer",
+    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/09/tricota-ciclismo-mujer-animal-print-turquesa-450x450.jpg",
+    "URLproducto": "https://smartlife-sports.cl/producto/tricota-spandex-animal-print-turquesa-slim-fit/"
+  },
+  {
+    "id": 13,
+    "Tienda": "Smartlife",
+    "Nombre": "Tricota Spandex Animal Print Coral -30% OFF",
+    "Precio": "$38.150",
+    "Genero": "Mujer",
+    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/09/tricota-ciclismo-mujer-animal-print-coral-450x450.jpg",
+    "URLproducto": "https://smartlife-sports.cl/producto/tricota-animal-print-coral/"
   },
   {
     "id": 14,
-    "Nombre": "Tricota Spandex Animal Print Turquesa -30% OFF",
-    "Precio": "$38.150",
+    "Tienda": "Smartlife",
+    "Nombre": "Tricota Stilo Aero Blue – Race fit",
+    "Precio": "$68.500",
     "Genero": "Mujer",
-    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/09/tricota-ciclismo-mujer-animal-print-turquesa-450x450.jpg",
-    "URLproducto": "https://smartlife-sports.cl/producto/tricota-spandex-animal-print-turquesa-slim-fit/"
+    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/01/tricota-mujer-aero-race-blue-450x450.jpg",
+    "URLproducto": "https://smartlife-sports.cl/producto/tricota-stilo-aero-blue-race-fit/"
   },
   {
     "id": 15,
-    "Nombre": "Tricota Spandex Animal Print Coral -30% OFF",
-    "Precio": "$38.150",
+    "Tienda": "Smartlife",
+    "Nombre": "Tricota Stamina Purple – Slim Fit",
+    "Precio": "",
     "Genero": "Mujer",
-    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/09/tricota-ciclismo-mujer-animal-print-coral-450x450.jpg",
-    "URLproducto": "https://smartlife-sports.cl/producto/tricota-animal-print-coral/"
+    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/01/tricota-mujer-stamina-purple-450x450.jpg",
+    "URLproducto": "https://smartlife-sports.cl/producto/tricota-stamina-purple-slim-fit/"
   },
   {
     "id": 16,
-    "Nombre": "Tricota Stilo Aero Blue – Race fit",
-    "Precio": "$68.500",
+    "Tienda": "Smartlife",
+    "Nombre": "Tricota Butterfly – Classic Fit",
+    "Precio": "$42.500",
     "Genero": "Mujer",
-    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/01/tricota-mujer-aero-race-blue-450x450.jpg",
-    "URLproducto": "https://smartlife-sports.cl/producto/tricota-stilo-aero-blue-race-fit/"
+    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/10/tricota-ciclismo-mujer-butterfly-450x450.jpeg",
+    "URLproducto": "https://smartlife-sports.cl/producto/tricota-butterfly-classic-fit-nueva/"
   },
   {
     "id": 17,
-    "Nombre": "Tricota Spandex Black Roses",
-    "Precio": "$58.500",
-    "Genero": "Mujer",
-    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/03/060F2D70-3E90-4249-B710-3F316FFCFC09-450x450.jpeg",
-    "URLproducto": "https://smartlife-sports.cl/producto/tricota-spandex-manga-larga-roses/"
-  },
-  {
-    "id": 18,
+    "Tienda": "Smartlife",
     "Nombre": "Tricota Spandex Burdeo Slim Fit -15%",
     "Precio": "$46.325",
     "Genero": "Mujer",
@@ -144,7 +153,8 @@
     "URLproducto": "https://smartlife-sports.cl/producto/tricota-spandex-mujer-burdeo/"
   },
   {
-    "id": 19,
+    "id": 18,
+    "Tienda": "Smartlife",
     "Nombre": "Tricota Vino Deluxe – Slim fit",
     "Precio": "$64.500",
     "Genero": "Mujer",
@@ -152,7 +162,8 @@
     "URLproducto": "https://smartlife-sports.cl/producto/tricota-spandex-vino-deluxe-slim-fit/"
   },
   {
-    "id": 20,
+    "id": 19,
+    "Tienda": "Smartlife",
     "Nombre": "Tricota Classic Fit – Dots Pale Mint",
     "Precio": "$58.500",
     "Genero": "Mujer",
@@ -160,15 +171,17 @@
     "URLproducto": "https://smartlife-sports.cl/producto/tricota-dots-pale-mint/"
   },
   {
-    "id": 21,
-    "Nombre": "Tricota Spandex Animal Print Green",
+    "id": 20,
+    "Tienda": "Smartlife",
+    "Nombre": "Tricota Spandex Animal Print Green – ¡Nueva!",
     "Precio": "$58.500",
     "Genero": "Mujer",
     "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2023/01/tricota-ciclismo-mujer-animal-print-verde-450x450.jpg",
     "URLproducto": "https://smartlife-sports.cl/producto/tricota-spandex-animal-print-forest/"
   },
   {
-    "id": 22,
+    "id": 21,
+    "Tienda": "Smartlife",
     "Nombre": "Tricota Petrol Deluxe – Slim fit",
     "Precio": "$64.500",
     "Genero": "Mujer",
@@ -176,7 +189,8 @@
     "URLproducto": "https://smartlife-sports.cl/producto/tricota-petrol-deluxe-slim-fit/"
   },
   {
-    "id": 23,
+    "id": 22,
+    "Tienda": "Smartlife",
     "Nombre": "Tricota Spandex Purple Roses 40% off",
     "Precio": "$35.100",
     "Genero": "Mujer",
@@ -184,7 +198,8 @@
     "URLproducto": "https://smartlife-sports.cl/producto/tricota-spandex-manga-larga-morada/"
   },
   {
-    "id": 24,
+    "id": 23,
+    "Tienda": "Smartlife",
     "Nombre": "Tricota Classic Fit – Dots Lavanda",
     "Precio": "$58.500",
     "Genero": "Mujer",
@@ -192,23 +207,17 @@
     "URLproducto": "https://smartlife-sports.cl/producto/tricota-manga-larga-lavanda/"
   },
   {
-    "id": 25,
-    "Nombre": "Tricota Spandex Vino Animal Print",
+    "id": 24,
+    "Tienda": "Smartlife",
+    "Nombre": "Tricota Spandex Onyx manga larga",
     "Precio": "$52.500",
     "Genero": "Mujer",
-    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/10/tricota-ciclismo-mujer-vino-animal-print-450x450.jpg",
-    "URLproducto": "https://smartlife-sports.cl/producto/tricota-spandex-vino-animal-print-nueva/"
+    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/01/tricota-mujer-onix-manga-larga-450x450.jpg",
+    "URLproducto": "https://smartlife-sports.cl/producto/tricota-spandex-mujer-negra-manga-larga/"
   },
   {
-    "id": 26,
-    "Nombre": "Tricota Spandex Animal Print Turquesa -30% OFF",
-    "Precio": "$38.150",
-    "Genero": "Mujer",
-    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/09/tricota-ciclismo-mujer-animal-print-turquesa-450x450.jpg",
-    "URLproducto": "https://smartlife-sports.cl/producto/tricota-spandex-animal-print-turquesa-slim-fit/"
-  },
-  {
-    "id": 27,
+    "id": 25,
+    "Tienda": "Smartlife",
     "Nombre": "Tricota Spandex Animal Print Coral -30% OFF",
     "Precio": "$38.150",
     "Genero": "Mujer",
@@ -216,7 +225,8 @@
     "URLproducto": "https://smartlife-sports.cl/producto/tricota-animal-print-coral/"
   },
   {
-    "id": 28,
+    "id": 26,
+    "Tienda": "Smartlife",
     "Nombre": "Tricota Stilo Aero Blue – Race fit",
     "Precio": "$68.500",
     "Genero": "Mujer",
@@ -224,15 +234,26 @@
     "URLproducto": "https://smartlife-sports.cl/producto/tricota-stilo-aero-blue-race-fit/"
   },
   {
-    "id": 29,
-    "Nombre": "Tricota Spandex Black Roses",
-    "Precio": "$58.500",
+    "id": 27,
+    "Tienda": "Smartlife",
+    "Nombre": "Tricota Stamina Purple – Slim Fit",
+    "Precio": "",
     "Genero": "Mujer",
-    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/03/060F2D70-3E90-4249-B710-3F316FFCFC09-450x450.jpeg",
-    "URLproducto": "https://smartlife-sports.cl/producto/tricota-spandex-manga-larga-roses/"
+    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/01/tricota-mujer-stamina-purple-450x450.jpg",
+    "URLproducto": "https://smartlife-sports.cl/producto/tricota-stamina-purple-slim-fit/"
   },
   {
-    "id": 30,
+    "id": 28,
+    "Tienda": "Smartlife",
+    "Nombre": "Tricota Butterfly – Classic Fit",
+    "Precio": "$42.500",
+    "Genero": "Mujer",
+    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/10/tricota-ciclismo-mujer-butterfly-450x450.jpeg",
+    "URLproducto": "https://smartlife-sports.cl/producto/tricota-butterfly-classic-fit-nueva/"
+  },
+  {
+    "id": 29,
+    "Tienda": "Smartlife",
     "Nombre": "Tricota Spandex Burdeo Slim Fit -15%",
     "Precio": "$46.325",
     "Genero": "Mujer",
@@ -240,7 +261,8 @@
     "URLproducto": "https://smartlife-sports.cl/producto/tricota-spandex-mujer-burdeo/"
   },
   {
-    "id": 31,
+    "id": 30,
+    "Tienda": "Smartlife",
     "Nombre": "Tricota Vino Deluxe – Slim fit",
     "Precio": "$64.500",
     "Genero": "Mujer",
@@ -248,7 +270,8 @@
     "URLproducto": "https://smartlife-sports.cl/producto/tricota-spandex-vino-deluxe-slim-fit/"
   },
   {
-    "id": 32,
+    "id": 31,
+    "Tienda": "Smartlife",
     "Nombre": "Tricota Classic Fit – Dots Pale Mint",
     "Precio": "$58.500",
     "Genero": "Mujer",
@@ -256,15 +279,17 @@
     "URLproducto": "https://smartlife-sports.cl/producto/tricota-dots-pale-mint/"
   },
   {
-    "id": 33,
-    "Nombre": "Tricota Spandex Animal Print Green",
+    "id": 32,
+    "Tienda": "Smartlife",
+    "Nombre": "Tricota Spandex Animal Print Green – ¡Nueva!",
     "Precio": "$58.500",
     "Genero": "Mujer",
     "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2023/01/tricota-ciclismo-mujer-animal-print-verde-450x450.jpg",
     "URLproducto": "https://smartlife-sports.cl/producto/tricota-spandex-animal-print-forest/"
   },
   {
-    "id": 34,
+    "id": 33,
+    "Tienda": "Smartlife",
     "Nombre": "Tricota Petrol Deluxe – Slim fit",
     "Precio": "$64.500",
     "Genero": "Mujer",
@@ -272,7 +297,8 @@
     "URLproducto": "https://smartlife-sports.cl/producto/tricota-petrol-deluxe-slim-fit/"
   },
   {
-    "id": 35,
+    "id": 34,
+    "Tienda": "Smartlife",
     "Nombre": "Tricota Spandex Purple Roses 40% off",
     "Precio": "$35.100",
     "Genero": "Mujer",
@@ -280,7 +306,8 @@
     "URLproducto": "https://smartlife-sports.cl/producto/tricota-spandex-manga-larga-morada/"
   },
   {
-    "id": 36,
+    "id": 35,
+    "Tienda": "Smartlife",
     "Nombre": "Tricota Classic Fit – Dots Lavanda",
     "Precio": "$58.500",
     "Genero": "Mujer",
@@ -288,7 +315,17 @@
     "URLproducto": "https://smartlife-sports.cl/producto/tricota-manga-larga-lavanda/"
   },
   {
+    "id": 36,
+    "Tienda": "Smartlife",
+    "Nombre": "Tricota Spandex Onyx manga larga",
+    "Precio": "$52.500",
+    "Genero": "Mujer",
+    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/01/tricota-mujer-onix-manga-larga-450x450.jpg",
+    "URLproducto": "https://smartlife-sports.cl/producto/tricota-spandex-mujer-negra-manga-larga/"
+  },
+  {
     "id": 37,
+    "Tienda": "Smartlife",
     "Nombre": "Chaqueta Purple con reflectantes M y XL",
     "Precio": "$52.500",
     "Genero": "Mujer",
@@ -297,6 +334,7 @@
   },
   {
     "id": 38,
+    "Tienda": "Smartlife",
     "Nombre": "Jacket térmica Tropical",
     "Precio": "$49.500",
     "Genero": "Mujer",
@@ -305,6 +343,7 @@
   },
   {
     "id": 39,
+    "Tienda": "Smartlife",
     "Nombre": "Jacket Tropical Purple",
     "Precio": "$68.500",
     "Genero": "Mujer",
@@ -313,6 +352,7 @@
   },
   {
     "id": 40,
+    "Tienda": "Smartlife",
     "Nombre": "Jacket térmica Ciclismo Onyx",
     "Precio": "$49.500",
     "Genero": "Mujer",
@@ -321,6 +361,7 @@
   },
   {
     "id": 41,
+    "Tienda": "Smartlife",
     "Nombre": "Jacket Ciclismo Leaves",
     "Precio": "$68.500",
     "Genero": "Mujer",
@@ -329,6 +370,7 @@
   },
   {
     "id": 42,
+    "Tienda": "Smartlife",
     "Nombre": "Jacket Ciclismo Turquesa -20%",
     "Precio": "$54.800",
     "Genero": "Mujer",
@@ -337,6 +379,7 @@
   },
   {
     "id": 43,
+    "Tienda": "Smartlife",
     "Nombre": "Calza Ciclismo Tirantes – Bib Shorts Summer White",
     "Precio": "$79.500",
     "Genero": "Mujer",
@@ -345,6 +388,7 @@
   },
   {
     "id": 44,
+    "Tienda": "Smartlife",
     "Nombre": "Calza Tirantes – Bib Shorts Stay Wild",
     "Precio": "$86.500",
     "Genero": "Mujer",
@@ -353,6 +397,7 @@
   },
   {
     "id": 45,
+    "Tienda": "Smartlife",
     "Nombre": "Calza Tirantes – Bib Shorts Deep Purple -25% OFF",
     "Precio": "$59.625",
     "Genero": "Mujer",
@@ -361,6 +406,7 @@
   },
   {
     "id": 46,
+    "Tienda": "Smartlife",
     "Nombre": "Calza Tirantes – Bib Shorts Pink",
     "Precio": "$79.500",
     "Genero": "Mujer",
@@ -369,6 +415,7 @@
   },
   {
     "id": 47,
+    "Tienda": "Smartlife",
     "Nombre": "Calza Tirantes – Bib Shorts Navy",
     "Precio": "$79.500",
     "Genero": "Mujer",
@@ -377,6 +424,7 @@
   },
   {
     "id": 48,
+    "Tienda": "Smartlife",
     "Nombre": "Calza Tirantes – Bib Shorts Forest",
     "Precio": "$79.500",
     "Genero": "Mujer",
@@ -385,6 +433,7 @@
   },
   {
     "id": 49,
+    "Tienda": "Smartlife",
     "Nombre": "Calza Tirantes – Bib Shorts Smartlife",
     "Precio": "$79.500",
     "Genero": "Mujer",
@@ -393,6 +442,7 @@
   },
   {
     "id": 50,
+    "Tienda": "Smartlife",
     "Nombre": "Calza Ciclismo Tirantes – Bib Shorts Onyx",
     "Precio": "$63.600",
     "Genero": "Mujer",
@@ -401,6 +451,7 @@
   },
   {
     "id": 51,
+    "Tienda": "Smartlife",
     "Nombre": "Calza Lycra Larga Tirantes Forest",
     "Precio": "$84.500",
     "Genero": "Mujer",
@@ -409,6 +460,7 @@
   },
   {
     "id": 52,
+    "Tienda": "Smartlife",
     "Nombre": "Calza Lycra Larga Tirantes Deep Purple",
     "Precio": "$84.500",
     "Genero": "Mujer",
@@ -417,6 +469,7 @@
   },
   {
     "id": 53,
+    "Tienda": "Smartlife",
     "Nombre": "Calza Lycra Larga Tirantes Navy",
     "Precio": "$84.500",
     "Genero": "Mujer",
@@ -425,6 +478,7 @@
   },
   {
     "id": 54,
+    "Tienda": "Smartlife",
     "Nombre": "Calza Ciclismo Lycra Larga Tirantes",
     "Precio": "$84.500",
     "Genero": "Mujer",
@@ -433,6 +487,7 @@
   },
   {
     "id": 55,
+    "Tienda": "Smartlife",
     "Nombre": "Calza Ciclismo Lycra Larga",
     "Precio": "$69.500",
     "Genero": "Mujer",
@@ -441,6 +496,7 @@
   },
   {
     "id": 56,
+    "Tienda": "Smartlife",
     "Nombre": "Calza Ciclismo Térmica Tirantes",
     "Precio": "$84.500",
     "Genero": "Mujer",
@@ -449,6 +505,7 @@
   },
   {
     "id": 57,
+    "Tienda": "Smartlife",
     "Nombre": "Calza Ciclismo Tirantes – Bib Shorts Onyx",
     "Precio": "$63.600",
     "Genero": "Mujer",
@@ -457,6 +514,7 @@
   },
   {
     "id": 58,
+    "Tienda": "Smartlife",
     "Nombre": "Primera capa",
     "Precio": "$19.500",
     "Genero": "Mujer",
@@ -465,6 +523,7 @@
   },
   {
     "id": 59,
+    "Tienda": "Smartlife",
     "Nombre": "Cortaviento Ciclismo Mujer – Onyx",
     "Precio": "$44.500",
     "Genero": "Mujer",
@@ -473,6 +532,7 @@
   },
   {
     "id": 60,
+    "Tienda": "Smartlife",
     "Nombre": "Manguilla Onyx",
     "Precio": "$25.500",
     "Genero": "Mujer",
@@ -481,6 +541,7 @@
   },
   {
     "id": 61,
+    "Tienda": "Smartlife",
     "Nombre": "Manguilla Summer White",
     "Precio": "$25.500",
     "Genero": "Mujer",
@@ -489,6 +550,7 @@
   },
   {
     "id": 62,
+    "Tienda": "Smartlife",
     "Nombre": "Body / Skinsuit / Enterito ciclismo Pale Mint",
     "Precio": "$124.500",
     "Genero": "Mujer",
@@ -497,6 +559,7 @@
   },
   {
     "id": 63,
+    "Tienda": "Smartlife",
     "Nombre": "Body / Skinsuit / Enterito Aero – Racing Team",
     "Precio": "$124.500",
     "Genero": "Mujer",
@@ -505,6 +568,7 @@
   },
   {
     "id": 64,
+    "Tienda": "Smartlife",
     "Nombre": "Body / Skinsuit / Enterito ciclismo Rose Gradient",
     "Precio": "$119.500",
     "Genero": "Mujer",
@@ -513,6 +577,7 @@
   },
   {
     "id": 65,
+    "Tienda": "Smartlife",
     "Nombre": "Body / Skinsuit / Enterito ciclismo Mint",
     "Precio": "$119.500",
     "Genero": "Mujer",
@@ -521,6 +586,7 @@
   },
   {
     "id": 66,
+    "Tienda": "Smartlife",
     "Nombre": "Trisuit Leaves",
     "Precio": "$98.500",
     "Genero": "Mujer",
@@ -529,6 +595,7 @@
   },
   {
     "id": 67,
+    "Tienda": "Smartlife",
     "Nombre": "Trisuit Stay Wild",
     "Precio": "$98.500",
     "Genero": "Mujer",
@@ -537,6 +604,7 @@
   },
   {
     "id": 68,
+    "Tienda": "Smartlife",
     "Nombre": "Trisuit Smartlife – 25% OFF",
     "Precio": "$73.875",
     "Genero": "Mujer",
@@ -545,46 +613,7 @@
   },
   {
     "id": 69,
-    "Nombre": "Tricota Giro Peach – Classic Fit",
-    "Precio": "$42.500",
-    "Genero": "Hombre",
-    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/01/tricota-hombre-giro-peach-450x450.jpg",
-    "URLproducto": "https://smartlife-sports.cl/producto/tricota-giro-peach-classic-fit/"
-  },
-  {
-    "id": 70,
-    "Nombre": "Tricota Spandex Colors – Slim Fit -25% OFF",
-    "Precio": "$40.875",
-    "Genero": "Hombre",
-    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/09/tricota-ciclismo-colors-hombre-450x450.jpg",
-    "URLproducto": "https://smartlife-sports.cl/producto/tricota-spandex-colors-slim-fit/"
-  },
-  {
-    "id": 71,
-    "Nombre": "Tricota Spandex Sprint – Slim Fit",
-    "Precio": "$54.500",
-    "Genero": "Hombre",
-    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/09/tricota-ciclismo-hombre-sprint-spandex-450x450.jpeg",
-    "URLproducto": "https://smartlife-sports.cl/producto/tricota-spandex-sprint-slim-fit/"
-  },
-  {
-    "id": 72,
-    "Nombre": "Tricota Spandex Vino – Slim Fit",
-    "Precio": "$48.500",
-    "Genero": "Hombre",
-    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/12/tricota-ciclismo-hombre-spandex-vino-2-450x450.jpeg",
-    "URLproducto": "https://smartlife-sports.cl/producto/tricota-spandex-vino-slim-fit/"
-  },
-  {
-    "id": 73,
-    "Nombre": "Tricota Stamina Classy – Slim fit -25% off",
-    "Precio": "$43.875",
-    "Genero": "Hombre",
-    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/09/tricota-ciclismo-classy-hombre-450x450.jpeg",
-    "URLproducto": "https://smartlife-sports.cl/producto/tricota-stamina-classy-slim-fit/"
-  },
-  {
-    "id": 74,
+    "Tienda": "Smartlife",
     "Nombre": "Tricota Stamina Classy Navy – Slim fit -25% off",
     "Precio": "$43.875",
     "Genero": "Hombre",
@@ -592,7 +621,26 @@
     "URLproducto": "https://smartlife-sports.cl/producto/tricota-ciclismo-hombre-classy-navy/"
   },
   {
-    "id": 75,
+    "id": 70,
+    "Tienda": "Smartlife",
+    "Nombre": "Tricota Stamina Classy – Slim fit -25% off",
+    "Precio": "$43.875",
+    "Genero": "Hombre",
+    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/09/tricota-ciclismo-classy-hombre-450x450.jpeg",
+    "URLproducto": "https://smartlife-sports.cl/producto/tricota-stamina-classy-slim-fit/"
+  },
+  {
+    "id": 71,
+    "Tienda": "Smartlife",
+    "Nombre": "Tricota Spandex Colors – Slim Fit -25% OFF",
+    "Precio": "$40.875",
+    "Genero": "Hombre",
+    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/09/tricota-ciclismo-colors-hombre-450x450.jpg",
+    "URLproducto": "https://smartlife-sports.cl/producto/tricota-spandex-colors-slim-fit/"
+  },
+  {
+    "id": 72,
+    "Tienda": "Smartlife",
     "Nombre": "Tricota Stamina Ivory – Slim fit ¡Nueva!",
     "Precio": "$58.500",
     "Genero": "Hombre",
@@ -600,55 +648,8 @@
     "URLproducto": "https://smartlife-sports.cl/producto/tricota-stamina-ivory-slim-fit/"
   },
   {
-    "id": 76,
-    "Nombre": "Tricota Spandex Nebula – Slim Fit – ¡Nueva!",
-    "Precio": "$54.500",
-    "Genero": "Hombre",
-    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/09/tricota-ciclismo-hombre-nebula-spandex-450x450.jpeg",
-    "URLproducto": "https://smartlife-sports.cl/producto/tricota-spandex-nebula-slim-fit/"
-  },
-  {
-    "id": 77,
-    "Nombre": "Tricota Stamina Vino – Slim fit",
-    "Precio": "$58.500",
-    "Genero": "Hombre",
-    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/01/8E7DAF4F-B7EB-4F97-A550-14C4E382EEAF-450x450.jpeg",
-    "URLproducto": "https://smartlife-sports.cl/producto/tricota-stamina-vino-slim-fit/"
-  },
-  {
-    "id": 78,
-    "Nombre": "Tricota Spandex Onyx – Slim fit",
-    "Precio": "$48.500",
-    "Genero": "Hombre",
-    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/01/8B153FC4-79F7-4BDB-9807-7C2343B7C188-450x450.jpeg",
-    "URLproducto": "https://smartlife-sports.cl/producto/tricota-spandex-onix-slim-fit-2/"
-  },
-  {
-    "id": 79,
-    "Nombre": "Tricota Stamina Waves Red – Slim fit",
-    "Precio": "$49.500",
-    "Genero": "Hombre",
-    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/01/A5A45CD1-7047-4E4C-903A-3375A5A0F35C-450x450.jpeg",
-    "URLproducto": "https://smartlife-sports.cl/producto/tricota-stamina-waves-red-slim-fit/"
-  },
-  {
-    "id": 80,
-    "Nombre": "Tricota Summer White – Slim fit",
-    "Precio": "$42.000",
-    "Genero": "Hombre",
-    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/01/tricota-hombre-summer-white-450x450.jpg",
-    "URLproducto": "https://smartlife-sports.cl/producto/tricota-summer-white-slim-fit-2/"
-  },
-  {
-    "id": 81,
-    "Nombre": "Tricota Stamina Waves B&W – Slim fit",
-    "Precio": "$58.500",
-    "Genero": "Hombre",
-    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/01/B662CDD4-E82E-4AB6-8262-DCFA0CEF3137-450x450.jpeg",
-    "URLproducto": "https://smartlife-sports.cl/producto/tricota-hombre-waves-bw-slim-fit/"
-  },
-  {
-    "id": 82,
+    "id": 73,
+    "Tienda": "Smartlife",
     "Nombre": "Tricota Stamina Citrus – Slim fit",
     "Precio": "$48.500",
     "Genero": "Hombre",
@@ -656,7 +657,71 @@
     "URLproducto": "https://smartlife-sports.cl/producto/tricota-stamina-citrus-slim-fit/"
   },
   {
-    "id": 83,
+    "id": 74,
+    "Tienda": "Smartlife",
+    "Nombre": "Tricota Stamina Vino – Slim fit",
+    "Precio": "$58.500",
+    "Genero": "Hombre",
+    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/01/8E7DAF4F-B7EB-4F97-A550-14C4E382EEAF-450x450.jpeg",
+    "URLproducto": "https://smartlife-sports.cl/producto/tricota-stamina-vino-slim-fit/"
+  },
+  {
+    "id": 75,
+    "Tienda": "Smartlife",
+    "Nombre": "Tricota Spandex Sprint – Slim Fit",
+    "Precio": "$54.500",
+    "Genero": "Hombre",
+    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/09/tricota-ciclismo-hombre-sprint-spandex-450x450.jpeg",
+    "URLproducto": "https://smartlife-sports.cl/producto/tricota-spandex-sprint-slim-fit/"
+  },
+  {
+    "id": 76,
+    "Tienda": "Smartlife",
+    "Nombre": "Tricota Stamina Waves Red – Slim fit -30% OFF",
+    "Precio": "$40.950",
+    "Genero": "Hombre",
+    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/01/A5A45CD1-7047-4E4C-903A-3375A5A0F35C-450x450.jpeg",
+    "URLproducto": "https://smartlife-sports.cl/producto/tricota-stamina-waves-red-slim-fit/"
+  },
+  {
+    "id": 77,
+    "Tienda": "Smartlife",
+    "Nombre": "Tricota Summer White – Slim fit",
+    "Precio": "$52.500",
+    "Genero": "Hombre",
+    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/01/tricota-hombre-summer-white-450x450.jpg",
+    "URLproducto": "https://smartlife-sports.cl/producto/tricota-summer-white-slim-fit-2/"
+  },
+  {
+    "id": 78,
+    "Tienda": "Smartlife",
+    "Nombre": "Tricota Spandex Nebula – Slim Fit",
+    "Precio": "$54.500",
+    "Genero": "Hombre",
+    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/09/tricota-ciclismo-hombre-nebula-spandex-450x450.jpeg",
+    "URLproducto": "https://smartlife-sports.cl/producto/tricota-spandex-nebula-slim-fit/"
+  },
+  {
+    "id": 79,
+    "Tienda": "Smartlife",
+    "Nombre": "Tricota Spandex Burdeo – Slim Fit",
+    "Precio": "$48.500",
+    "Genero": "Hombre",
+    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/12/tricota-ciclismo-hombre-spandex-vino-2-450x450.jpeg",
+    "URLproducto": "https://smartlife-sports.cl/producto/tricota-spandex-vino-slim-fit/"
+  },
+  {
+    "id": 80,
+    "Tienda": "Smartlife",
+    "Nombre": "Tricota Spandex Onyx – Slim fit",
+    "Precio": "$48.500",
+    "Genero": "Hombre",
+    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/01/8B153FC4-79F7-4BDB-9807-7C2343B7C188-450x450.jpeg",
+    "URLproducto": "https://smartlife-sports.cl/producto/tricota-spandex-onix-slim-fit-2/"
+  },
+  {
+    "id": 81,
+    "Tienda": "Smartlife",
     "Nombre": "Tricota Pedal On – Classic Fit",
     "Precio": "$42.500",
     "Genero": "Hombre",
@@ -664,7 +729,17 @@
     "URLproducto": "https://smartlife-sports.cl/producto/tricota-pedal-on-classic-fit/"
   },
   {
-    "id": 84,
+    "id": 82,
+    "Tienda": "Smartlife",
+    "Nombre": "Tricota Giro Peach – Classic Fit",
+    "Precio": "$42.500",
+    "Genero": "Hombre",
+    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/01/tricota-hombre-giro-peach-450x450.jpg",
+    "URLproducto": "https://smartlife-sports.cl/producto/tricota-giro-peach-classic-fit/"
+  },
+  {
+    "id": 83,
+    "Tienda": "Smartlife",
     "Nombre": "Tricota Deluxe Petrol – Slim fit",
     "Precio": "$64.500",
     "Genero": "Hombre",
@@ -672,31 +747,17 @@
     "URLproducto": "https://smartlife-sports.cl/producto/tricota-deluxe-petrol-slim-fit/"
   },
   {
-    "id": 85,
-    "Nombre": "Tricota Spandex Style 2.0 -25% OFF",
-    "Precio": "$39.875",
-    "Genero": "Hombre",
-    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/04/tricota-ciclismo-hombre-style-manga-larga-450x450.jpeg",
-    "URLproducto": "https://smartlife-sports.cl/producto/tricota-ciclismo-spandex-style-manga-larga/"
-  },
-  {
-    "id": 86,
-    "Nombre": "Tricota Spandex Style 2.0 Green",
-    "Precio": "$58.500",
-    "Genero": "Hombre",
-    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/04/tricota-ciclismo-hombre-style-green-manga-larga-450x450.jpeg",
-    "URLproducto": "https://smartlife-sports.cl/producto/tricota-spandex-style-2-0-green-m-larga/"
-  },
-  {
-    "id": 87,
+    "id": 84,
+    "Tienda": "Smartlife",
     "Nombre": "Tricota Spandex Onyx manga larga – Slim fit",
-    "Precio": "$42.500",
+    "Precio": "$52.500",
     "Genero": "Hombre",
     "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/01/FB55CFB1-EF01-4D83-B346-46B121134276-450x450.jpeg",
     "URLproducto": "https://smartlife-sports.cl/producto/tricota-manga-larga-hombre-onyx/"
   },
   {
-    "id": 88,
+    "id": 85,
+    "Tienda": "Smartlife",
     "Nombre": "Tricota Deluxe Vino – Slim fit",
     "Precio": "$64.500",
     "Genero": "Hombre",
@@ -704,39 +765,8 @@
     "URLproducto": "https://smartlife-sports.cl/producto/tricota-deluxe-vino-slim-fit/"
   },
   {
-    "id": 89,
-    "Nombre": "Tricota Spandex Boreal",
-    "Precio": "$58.500",
-    "Genero": "Hombre",
-    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/03/1BE14800-3AF5-4B51-9611-C5E51FA77767-450x450.jpeg",
-    "URLproducto": "https://smartlife-sports.cl/producto/tricota-lycra-manga-larga-boreal/"
-  },
-  {
-    "id": 90,
-    "Nombre": "Tricota Spandex Hexa – Slim fit",
-    "Precio": "$56.500",
-    "Genero": "Hombre",
-    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/01/E877F4AE-A01A-41E2-A93E-4A3B2187A176-450x450.jpeg",
-    "URLproducto": "https://smartlife-sports.cl/producto/tricota-spandex-hexa-slim-fit/"
-  },
-  {
-    "id": 91,
-    "Nombre": "Tricota Patagonia – Classic Fit",
-    "Precio": "$49.500",
-    "Genero": "Hombre",
-    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/01/tricota-hombre-patagonia-manga-larga-02-450x450.jpg",
-    "URLproducto": "https://smartlife-sports.cl/producto/tricota-patagonia-classic-fit/"
-  },
-  {
-    "id": 92,
-    "Nombre": "Tricota Patagonia – Classic Fit",
-    "Precio": "$46.500",
-    "Genero": "Hombre",
-    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/01/tricota-hombre-patagonia-450x450.jpg",
-    "URLproducto": "https://smartlife-sports.cl/producto/tricota-patagonia-m-larga-classic-fit/"
-  },
-  {
-    "id": 93,
+    "id": 86,
+    "Tienda": "Smartlife",
     "Nombre": "Tricota Stilo Aero Blue – Race fit",
     "Precio": "$68.500",
     "Genero": "Hombre",
@@ -744,47 +774,26 @@
     "URLproducto": "https://smartlife-sports.cl/producto/tricota-stilo-aero-blue-race-fit-2/"
   },
   {
-    "id": 94,
-    "Nombre": "Tricota Stilo Aero Pale Green – Race fit",
-    "Precio": "$68.500",
-    "Genero": "Hombre",
-    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/01/C4E5D9DC-9331-46A9-B430-0BEE08727480-450x450.jpeg",
-    "URLproducto": "https://smartlife-sports.cl/producto/tricota-stilo-aero-pale-green-race-fit-2/"
-  },
-  {
-    "id": 95,
-    "Nombre": "Tricota Spandex Style 2.0 Green – Slim fit",
-    "Precio": "$52.500",
-    "Genero": "Hombre",
-    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/01/77A78F4C-BAA2-459B-A07C-82489266A552-450x450.jpeg",
-    "URLproducto": "https://smartlife-sports.cl/producto/tricota-spandex-style-2-0-green-slim-fit/"
-  },
-  {
-    "id": 96,
-    "Nombre": "Tricota Spandex Style 2.0 – Slim fit",
-    "Precio": "$52.500",
-    "Genero": "Hombre",
-    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/01/9F7951AB-E310-4963-8B03-825714257507-450x450.jpeg",
-    "URLproducto": "https://smartlife-sports.cl/producto/tricota-styleblue/"
-  },
-  {
-    "id": 97,
-    "Nombre": "Tricota Hill Killer Pink – Classic Fit",
+    "id": 87,
+    "Tienda": "Smartlife",
+    "Nombre": "Tricota Patagonia – Classic Fit",
     "Precio": "$49.500",
     "Genero": "Hombre",
-    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/01/tricota-hombre-hill-killer-pink-450x450.jpeg",
-    "URLproducto": "https://smartlife-sports.cl/producto/tricota-geo/"
+    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/01/tricota-hombre-patagonia-manga-larga-02-450x450.jpg",
+    "URLproducto": "https://smartlife-sports.cl/producto/tricota-patagonia-classic-fit/"
   },
   {
-    "id": 98,
-    "Nombre": "Tricota Stamina Petrol – Slim fit",
-    "Precio": "$58.500",
+    "id": 88,
+    "Tienda": "Smartlife",
+    "Nombre": "Tricota Patagonia – Classic Fit",
+    "Precio": "$46.500",
     "Genero": "Hombre",
-    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/01/F1A6FC8B-C478-496C-BAF8-85898096A062-450x450.jpeg",
-    "URLproducto": "https://smartlife-sports.cl/producto/tricota-stamina-petrol-slim-fit-2/"
+    "imgURL": "https://smartlife-sports.cl/wp-content/uploads/2022/01/tricota-hombre-patagonia-450x450.jpg",
+    "URLproducto": "https://smartlife-sports.cl/producto/tricota-patagonia-m-larga-classic-fit/"
   },
   {
-    "id": 99,
+    "id": 89,
+    "Tienda": "Smartlife",
     "Nombre": "Jacket Ciclismo Onyx",
     "Precio": "$49.500",
     "Genero": "Hombre",
@@ -792,7 +801,8 @@
     "URLproducto": "https://smartlife-sports.cl/producto/jacket-ciclismo-onyx/"
   },
   {
-    "id": 100,
+    "id": 90,
+    "Tienda": "Smartlife",
     "Nombre": "Jacket Ciclismo Hexa Petrol",
     "Precio": "$68.500",
     "Genero": "Hombre",
@@ -800,7 +810,8 @@
     "URLproducto": "https://smartlife-sports.cl/producto/jacket-ciclismo-termica-hexa-petrol/"
   },
   {
-    "id": 101,
+    "id": 91,
+    "Tienda": "Smartlife",
     "Nombre": "Jacket Ciclismo Hexa Blue",
     "Precio": "$68.500",
     "Genero": "Hombre",
@@ -808,7 +819,8 @@
     "URLproducto": "https://smartlife-sports.cl/producto/jacket-ciclismo-hexa-blue/"
   },
   {
-    "id": 102,
+    "id": 92,
+    "Tienda": "Smartlife",
     "Nombre": "Windstopper térmico e impermeable Fluor",
     "Precio": "$52.500",
     "Genero": "Hombre",
@@ -816,7 +828,8 @@
     "URLproducto": "https://smartlife-sports.cl/producto/chaqueta-termico-impermeable-fluor/"
   },
   {
-    "id": 103,
+    "id": 93,
+    "Tienda": "Smartlife",
     "Nombre": "Jacket Ciclismo Camo Green",
     "Precio": "$68.500",
     "Genero": "Hombre",
@@ -824,7 +837,8 @@
     "URLproducto": "https://smartlife-sports.cl/producto/jacket-ciclismo-camo-green/"
   },
   {
-    "id": 104,
+    "id": 94,
+    "Tienda": "Smartlife",
     "Nombre": "Jacket Ciclismo Camo Grey -25% OFF",
     "Precio": "$51.375",
     "Genero": "Hombre",
@@ -832,7 +846,8 @@
     "URLproducto": "https://smartlife-sports.cl/producto/jacket-ciclismo-hombre-camuflaje-gris/"
   },
   {
-    "id": 105,
+    "id": 95,
+    "Tienda": "Smartlife",
     "Nombre": "Windstopper térmico impermeable",
     "Precio": "$52.500",
     "Genero": "Hombre",
@@ -840,7 +855,8 @@
     "URLproducto": "https://smartlife-sports.cl/producto/windstopper-termico-e-impermeable/"
   },
   {
-    "id": 106,
+    "id": 96,
+    "Tienda": "Smartlife",
     "Nombre": "Cortaviento ciclismo -50% OFF! Tallas XS – S – M",
     "Precio": "$29.250",
     "Genero": "Hombre",
@@ -848,7 +864,8 @@
     "URLproducto": "https://smartlife-sports.cl/producto/jacket-ciclismo-cortaviento/"
   },
   {
-    "id": 107,
+    "id": 97,
+    "Tienda": "Smartlife",
     "Nombre": "Windstopper térmico e impermeable",
     "Precio": "$62.500",
     "Genero": "Hombre",
@@ -856,7 +873,8 @@
     "URLproducto": "https://smartlife-sports.cl/producto/jacket-cortaviento-termico-e-impermeable/"
   },
   {
-    "id": 108,
+    "id": 98,
+    "Tienda": "Smartlife",
     "Nombre": "Windstopper térmico e impermeable",
     "Precio": "$62.500",
     "Genero": "Hombre",
@@ -864,7 +882,8 @@
     "URLproducto": "https://smartlife-sports.cl/producto/windstopper-termico-e-impermeable-green/"
   },
   {
-    "id": 109,
+    "id": 99,
+    "Tienda": "Smartlife",
     "Nombre": "Calza Ciclismo Tirantes Deep Purple -25% OFF",
     "Precio": "$59.625",
     "Genero": "Hombre",
@@ -872,7 +891,8 @@
     "URLproducto": "https://smartlife-sports.cl/producto/calza-ciclismo-tirantes-deep-purple/"
   },
   {
-    "id": 110,
+    "id": 100,
+    "Tienda": "Smartlife",
     "Nombre": "Calza Ciclismo Tirantes Forest",
     "Precio": "$79.500",
     "Genero": "Hombre",
@@ -880,7 +900,8 @@
     "URLproducto": "https://smartlife-sports.cl/producto/calza-ciclismo-tirantes-forest/"
   },
   {
-    "id": 111,
+    "id": 101,
+    "Tienda": "Smartlife",
     "Nombre": "Calza Ciclismo Tirantes – Bib Shorts Onyx",
     "Precio": "$63.600",
     "Genero": "Hombre",
@@ -888,7 +909,8 @@
     "URLproducto": "https://smartlife-sports.cl/producto/calza-tirantes-hombre-bibshorts-negro/"
   },
   {
-    "id": 112,
+    "id": 102,
+    "Tienda": "Smartlife",
     "Nombre": "Calza Ciclismo Tirantes – Bib Shorts Summer White",
     "Precio": "$79.500",
     "Genero": "Hombre",
@@ -896,7 +918,8 @@
     "URLproducto": "https://smartlife-sports.cl/producto/calza-ciclismo-hombre-tirantes-bib-shorts-blanco/"
   },
   {
-    "id": 113,
+    "id": 103,
+    "Tienda": "Smartlife",
     "Nombre": "Calza Tirantes – Bib Shorts Navy",
     "Precio": "$79.500",
     "Genero": "Hombre",
@@ -904,7 +927,8 @@
     "URLproducto": "https://smartlife-sports.cl/producto/calza-tirantes-bib-shorts-petroleo/"
   },
   {
-    "id": 114,
+    "id": 104,
+    "Tienda": "Smartlife",
     "Nombre": "Calza Ciclismo Corta",
     "Precio": "$56.500",
     "Genero": "Hombre",
@@ -912,7 +936,8 @@
     "URLproducto": "https://smartlife-sports.cl/producto/calza-ciclismo-corta/"
   },
   {
-    "id": 115,
+    "id": 105,
+    "Tienda": "Smartlife",
     "Nombre": "Calza Ciclismo Larga Tirantes Forest",
     "Precio": "$84.500",
     "Genero": "Hombre",
@@ -920,7 +945,8 @@
     "URLproducto": "https://smartlife-sports.cl/producto/calza-ciclismo-larga-tirantes-forest/"
   },
   {
-    "id": 116,
+    "id": 106,
+    "Tienda": "Smartlife",
     "Nombre": "Calza Ciclismo Larga Tirantes Navy",
     "Precio": "$84.500",
     "Genero": "Hombre",
@@ -928,7 +954,8 @@
     "URLproducto": "https://smartlife-sports.cl/producto/calza-ciclismo-larga-tirantes-navy/"
   },
   {
-    "id": 117,
+    "id": 107,
+    "Tienda": "Smartlife",
     "Nombre": "Calza Ciclismo Larga Tirantes Deep Purple",
     "Precio": "$84.500",
     "Genero": "Hombre",
@@ -936,7 +963,8 @@
     "URLproducto": "https://smartlife-sports.cl/producto/calza-ciclismo-larga-tirantes-deep-purple/"
   },
   {
-    "id": 118,
+    "id": 108,
+    "Tienda": "Smartlife",
     "Nombre": "Calza Ciclismo Lycra Larga",
     "Precio": "$69.500",
     "Genero": "Hombre",
@@ -944,7 +972,8 @@
     "URLproducto": "https://smartlife-sports.cl/producto/calza-ciclismo-larga/"
   },
   {
-    "id": 119,
+    "id": 109,
+    "Tienda": "Smartlife",
     "Nombre": "Calza Ciclismo Larga Tirantes Onyx",
     "Precio": "$84.500",
     "Genero": "Hombre",
@@ -952,7 +981,8 @@
     "URLproducto": "https://smartlife-sports.cl/producto/calza-ciclismo-lycra-larga-tirantes/"
   },
   {
-    "id": 120,
+    "id": 110,
+    "Tienda": "Smartlife",
     "Nombre": "Calza Ciclismo Térmica",
     "Precio": "$69.500",
     "Genero": "Hombre",
@@ -960,7 +990,8 @@
     "URLproducto": "https://smartlife-sports.cl/producto/calza-ciclismo-termica/"
   },
   {
-    "id": 121,
+    "id": 111,
+    "Tienda": "Smartlife",
     "Nombre": "Calza Ciclismo Térmica Tirantes",
     "Precio": "$84.500",
     "Genero": "Hombre",
@@ -968,7 +999,8 @@
     "URLproducto": "https://smartlife-sports.cl/producto/calza-ciclismo-termica-tirantes/"
   },
   {
-    "id": 122,
+    "id": 112,
+    "Tienda": "Smartlife",
     "Nombre": "Manguilla Onyx",
     "Precio": "$25.500",
     "Genero": "Hombre",
@@ -976,7 +1008,8 @@
     "URLproducto": "https://smartlife-sports.cl/producto/manguilla-ciclismo-negra-hombre/"
   },
   {
-    "id": 123,
+    "id": 113,
+    "Tienda": "Smartlife",
     "Nombre": "Manguilla Summer White",
     "Precio": "$25.500",
     "Genero": "Hombre",
@@ -984,7 +1017,8 @@
     "URLproducto": "https://smartlife-sports.cl/producto/manguilla-ciclismo-lycra-blanca/"
   },
   {
-    "id": 124,
+    "id": 114,
+    "Tienda": "Smartlife",
     "Nombre": "Skinsuit Aero – Racing Team",
     "Precio": "$119.500",
     "Genero": "Hombre",
@@ -992,7 +1026,8 @@
     "URLproducto": "https://smartlife-sports.cl/producto/skinsuit-aero/"
   },
   {
-    "id": 125,
+    "id": 115,
+    "Tienda": "Smartlife",
     "Nombre": "Trisuit Stilo Blue Race",
     "Precio": "$92.500",
     "Genero": "Hombre",

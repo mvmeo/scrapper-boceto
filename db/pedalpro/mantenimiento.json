@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "Tienda": "Pedal Pro",
     "Nombre": "LÍQUIDO DE FRENOS-Juice Lubes",
     "Precio": "$12.900",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/04/LIQUIDO-DE-FRENOS-300x300.jpg",
@@ -8,6 +9,7 @@
   },
   {
     "id": 2,
+    "Tienda": "Pedal Pro",
     "Nombre": "LUBRICANTE ALL – VIKING JUICE – 130ML",
     "Precio": "$12.900",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/04/LUBRICANTE-ALL-VIKING-JUICE-–-130ML-300x300.jpg",
@@ -15,6 +17,7 @@
   },
   {
     "id": 3,
+    "Tienda": "Pedal Pro",
     "Nombre": "LUBRICANTE DE CADENA DE CERA",
     "Precio": "",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/04/LUBRICANTE-DE-CADENA-DE-CERA-300x300.jpg",
@@ -22,6 +25,7 @@
   },
   {
     "id": 4,
+    "Tienda": "Pedal Pro",
     "Nombre": "LUBRICANTE DE CADENA DE CERÁMICA",
     "Precio": "$12.900",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/04/LUBRICANTE-DE-CADENA-DE-CERAMICA-300x300.jpg",

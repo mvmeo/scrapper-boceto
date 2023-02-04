@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA CANNONDALE 29 SCALPEL HT CRB 2 2022",
     "Precio": "$4.499.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/c/2/c21_c25231u_scalpel_ht_crb_2_prh_pd_1.jpg",
@@ -8,6 +9,7 @@
   },
   {
     "id": 2,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA GT 29 FORCE SPORT 2022",
     "Precio": "$2.999.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/2/g21_g23201u_29_u_force_sport_blk_pd_1_1_1.jpg",
@@ -15,6 +17,7 @@
   },
   {
     "id": 3,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA KONA KAHUNA 2023",
     "Precio": "$1.599.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/m/y/my23_kahuna_1_1.jpg",
@@ -22,6 +25,7 @@
   },
   {
     "id": 4,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA KONA MAHUNA 2023",
     "Precio": "$1.199.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/m/y/my23_mahuna_1_1_1.jpg",
@@ -29,6 +33,7 @@
   },
   {
     "id": 5,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA CANNONDALE 29 TRAIL SL 4",
     "Precio": "$1.199.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/c/2/c21_c26451m_trail_sl_4_gry_pd_1_1_1_1.jpg",
@@ -36,6 +41,7 @@
   },
   {
     "id": 6,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA CANNONDALE 29 TRAIL SL 2",
     "Precio": "$1.999.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/c/2/c21_c26251m_trail_sl_2_mdn_pd_1_1_1_1.jpg",
@@ -43,6 +49,7 @@
   },
   {
     "id": 7,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA ARO 29 POLUX 7",
     "Precio": "$599.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/b/a/ba2952_polux_7_29_negro_2022_01_2_1_1.png",
@@ -50,6 +57,7 @@
   },
   {
     "id": 8,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA KONA LANA'I 29 2022",
     "Precio": "$399.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/l/a/lanai_1_2_1.jpg",
@@ -57,6 +65,7 @@
   },
   {
     "id": 9,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA CANNONDALE 29 TRAIL 5",
     "Precio": "$599.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/c/2/c21_c26501m_trail_5_gra_pd_1_1_1_1_1.jpg",
@@ -64,6 +73,7 @@
   },
   {
     "id": 10,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA CANNONDALE 27.5 TRAIL 7 BLACK",
     "Precio": "$479.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/c/2/c21_c26701m_trail_7_blk_pd_3_1.jpg",
@@ -71,6 +81,7 @@
   },
   {
     "id": 11,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA KONA PROCESS 153 29 GLOSS METALLIC MAUVE 2022",
     "Precio": "$2.999.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/m/y/my22_process_153_29_1_2.jpg",
@@ -78,6 +89,7 @@
   },
   {
     "id": 12,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA KONA PROCESS 153 27.5 DRAGONFLY GREEN 2022",
     "Precio": "$2.999.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/m/y/my22_process_153_275_1_1_1.jpg",
@@ -85,6 +97,7 @@
   },
   {
     "id": 13,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA CANNONDALE 27.5 TRAIL 5",
     "Precio": "$599.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/c/2/c21_c26501m_trail_5_gra_pd_1_2.jpg",
@@ -92,6 +105,7 @@
   },
   {
     "id": 14,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA CANNONDALE ARO 29 HABIT 3",
     "Precio": "$3.499.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/c/2/c21_c23401m_habit_3_crd_pd_1_1.jpg",
@@ -99,6 +113,7 @@
   },
   {
     "id": 15,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA ARO 27.5 FROST",
     "Precio": "$179.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/b/a/ba2779_frost_27_azul_2023_01_1.png",
@@ -106,6 +121,7 @@
   },
   {
     "id": 16,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA ARO 29 FROST",
     "Precio": "$179.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/b/a/ba2979_frost_29_rojo_2023_01_1.png",
@@ -113,6 +129,7 @@
   },
   {
     "id": 17,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA ARO 27.5 MIST",
     "Precio": "$179.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/b/a/ba2778_mist_27.5_negro_2023_01_1.png",
@@ -120,6 +137,7 @@
   },
   {
     "id": 18,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA KONA PROCESS 153 DL 29 2022",
     "Precio": "$3.999.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/p/r/process_153_dl_29_1_1.jpg",
@@ -127,6 +145,7 @@
   },
   {
     "id": 19,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA KONA LANA'I 27.5 2022",
     "Precio": "$399.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/l/a/lanai_1_1.jpg",
@@ -134,6 +153,7 @@
   },
   {
     "id": 20,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA ARO 29 AURA 6 LILA",
     "Precio": "$399.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/b/a/ba2764_aura_6_27_5_lila_2021_01_cable_9_.png",
@@ -141,6 +161,7 @@
   },
   {
     "id": 21,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA CANNONDALE 29 TRAIL 7 BLACK",
     "Precio": "$479.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/c/2/c21_c26701m_trail_7_blk_pd_2.jpg",
@@ -148,6 +169,7 @@
   },
   {
     "id": 22,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA ARO 29 ORION 6 GRAFITO",
     "Precio": "$399.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/b/a/ba2965_orion_6_29_grafito_2021222_2.jpg",
@@ -155,6 +177,7 @@
   },
   {
     "id": 23,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA ARO 27.5 AURA 6 LILA",
     "Precio": "$399.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/b/a/ba2764_aura_6_27_5_lila_2021_01_cable_9__1.png",
@@ -162,6 +185,7 @@
   },
   {
     "id": 24,
+    "Tienda": "Oxford Store",
     "Nombre": "Bicicleta Aro 27.5 Aura 5 Morado/Turquesa",
     "Precio": "$349.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/b/a/ba2762_aura_5_27_5_morado-turquesa_2021_01__cable_19_.png",
@@ -169,6 +193,7 @@
   },
   {
     "id": 25,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA KONA LAVA DOME 29 2022",
     "Precio": "$699.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/l/a/lava_dome_opt_3.jpg",
@@ -176,6 +201,7 @@
   },
   {
     "id": 26,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA KONA HONZO 29 2022",
     "Precio": "$1.299.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/h/o/honzo_3.jpg",
@@ -183,6 +209,7 @@
   },
   {
     "id": 27,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA GT 29 AVALANCHE EXPERT",
     "Precio": "$799.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/t/gt-avalanche-expert-pur-01_2.jpg",
@@ -190,6 +217,7 @@
   },
   {
     "id": 28,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA KONA MAHUNA 29 2022",
     "Precio": "$999.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/m/a/mahuna_1_1.jpg",
@@ -197,6 +225,7 @@
   },
   {
     "id": 29,
+    "Tienda": "Oxford Store",
     "Nombre": "Bicicleta Aro 29 Aura 5 Grafito",
     "Precio": "$349.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/b/a/ba2762_aura_5_27_5_grafito_2021_01_cable_15__3.png",
@@ -204,6 +233,7 @@
   },
   {
     "id": 30,
+    "Tienda": "Oxford Store",
     "Nombre": "Bicicleta Aro 29 Orion 6 Azul",
     "Precio": "$399.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/4/0/404ba2965fa185_0_3_1.jpg",
@@ -211,6 +241,7 @@
   },
   {
     "id": 31,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA CANNONDALE ARO 29 SCALPEL CARBON 2",
     "Precio": "$4.999.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/s/c/scalpelcrb2gra-01_1_1.jpg",
@@ -218,6 +249,7 @@
   },
   {
     "id": 32,
+    "Tienda": "Oxford Store",
     "Nombre": "Bicicleta Aro 29 Orion 5 Dark Purple",
     "Precio": "$349.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/b/a/ba2963_orion_5_29_dark_purple_2021_01_cable_1.png",
@@ -225,6 +257,7 @@
   },
   {
     "id": 33,
+    "Tienda": "Oxford Store",
     "Nombre": "Bicicleta Aro 29 Orion 5 Azul Naranja",
     "Precio": "$349.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/b/a/ba2763_orion_5_29azul-naranja_01__1.jpg",
@@ -232,6 +265,7 @@
   },
   {
     "id": 34,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA GT 27.5 AVALANCHE SPORT BLUE",
     "Precio": "$399.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/2/g21_g27401m_29_m_avalanche_sport_blu_pd_1_1_1.jpg",
@@ -239,6 +273,7 @@
   },
   {
     "id": 35,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA GT 27.5 AVALANCHE SPORT GREY",
     "Precio": "$399.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/2/g21_g27401m_29_m_avalanche_sport_gry_pd_1_1_1_1.jpg",
@@ -246,6 +281,7 @@
   },
   {
     "id": 36,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA GT 29 OUTPOST COMP AQUA 2021",
     "Precio": "$279.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/2/g21_g28201m_29_m_aggressor_comp_aqu_pd.jpg",
@@ -253,6 +289,7 @@
   },
   {
     "id": 37,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA GT 29 AVALANCHE COMP BLACK",
     "Precio": "$449.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/2/g21_g27301m_29_m_avalanche_comp_blk_pd.jpg",
@@ -260,6 +297,7 @@
   },
   {
     "id": 38,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA GT 29 AVALANCHE COMP AQUA",
     "Precio": "$449.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/2/g21_g27301m_29_m_avalanche_comp_aqu_pd_1.jpg",
@@ -267,6 +305,7 @@
   },
   {
     "id": 39,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA GT 29 OUTPOST SPORT 2021",
     "Precio": "$269.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/2/g21_g28301m_29_m_aggressor_sport_gun_pd.jpg",
@@ -274,6 +313,7 @@
   },
   {
     "id": 40,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA GT 29 OUTPOST COMP BLACK",
     "Precio": "$279.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/2/g21_g28201m_29_m_aggressor_comp_blk_pd.jpg",
@@ -281,6 +321,7 @@
   },
   {
     "id": 41,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA CANNONDALE 29 F-SI CARBON 4 ALP",
     "Precio": "$2.799.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/c/d/cdcdb21c25501m10sm_0_1.jpg",
@@ -288,6 +329,7 @@
   },
   {
     "id": 42,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA ARO 27.5 RAPTOR 2",
     "Precio": "$199.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/b/d/bd2715_raptor_2_27.5_negro_2022_01.jpg",
@@ -295,6 +337,7 @@
   },
   {
     "id": 43,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA GT 27.5 AVALANCHE COMP BLACK",
     "Precio": "$449.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/2/g21_g27301m_29_m_avalanche_comp_blk_pd_2_1.jpg",
@@ -302,6 +345,7 @@
   },
   {
     "id": 44,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA ARO 27,5 VENUS 1 TITANIO 2022",
     "Precio": "$249.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/6/0/604ba2752za155_0_1.jpg",
@@ -309,6 +353,7 @@
   },
   {
     "id": 45,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA CANNONDALE 29 TRAIL 6 ORANGE",
     "Precio": "$499.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/c/2/c21_c26601m_trail_6_ior_pd_2.jpg",
@@ -316,6 +361,7 @@
   },
   {
     "id": 46,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA GT 29 SENSOR SPORT RED",
     "Precio": "$1.999.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/c/d/cdgtb21g24501m10sm_5.jpg",
@@ -323,6 +369,7 @@
   },
   {
     "id": 47,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA ARO 27.5 MUJER OXFORD JADE",
     "Precio": "$199.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/b/a/ba2734_halley_27.5_al_blanco_2022_01_1.png",
@@ -330,6 +377,7 @@
   },
   {
     "id": 48,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA GT 27.5 AVALANCHE ELITE VERDE",
     "Precio": "$599.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/2/g21_g27201m_29-m-avalanche-elite_mgn_pd_6.jpg",
@@ -337,6 +385,7 @@
   },
   {
     "id": 49,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA GT 29 AVALANCHE ELITE ROJO",
     "Precio": "$599.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/2/g21_g27201m_29-m-avalanche-elite_red_pd_1.jpg",
@@ -344,6 +393,7 @@
   },
   {
     "id": 50,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA GT 27.5 AVALANCHE ELITE ROJO",
     "Precio": "$599.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/2/g21_g27201m_29-m-avalanche-elite_red_pd.jpg",
@@ -351,6 +401,7 @@
   },
   {
     "id": 51,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA ARO 27.5 OXFORD HALLEY",
     "Precio": "$199.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/1/_/1_-ba2735_halley_27.5_al_rojo_2022_01.jpg",
@@ -358,6 +409,7 @@
   },
   {
     "id": 52,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA CANNONDALE ARO 29 F-SI CARBON 4",
     "Precio": "$2.799.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/c/2/c21_c25501m_f-si_crb_4_slv_pd_3_1.jpg",
@@ -365,6 +417,7 @@
   },
   {
     "id": 53,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA ARO 27.5 OXFORD EMERALD",
     "Precio": "$199.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/b/a/ba2731_emerald_27.5_negro-celeste_2022_01_1_1.jpg",
@@ -372,6 +425,7 @@
   },
   {
     "id": 54,
+    "Tienda": "Oxford Store",
     "Nombre": "Bicicleta Aro 29 Orion 5 celeste 2021",
     "Precio": "$349.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/4/0/404ba2963na170_0_3_1.jpg",
@@ -379,6 +433,7 @@
   },
   {
     "id": 55,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA RAKO ARO 27.5",
     "Precio": "$199.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/b/a/ba2721_rako_27_al_amarillo_2022_01_1.jpg",
@@ -386,6 +441,7 @@
   },
   {
     "id": 56,
+    "Tienda": "Oxford Store",
     "Nombre": "Bicicleta Aro 29 Orion 5 Rojo 2021",
     "Precio": "$349.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/b/a/ba2963_orion_5_29_rojo_2020-21_01.png",
@@ -393,6 +449,7 @@
   },
   {
     "id": 57,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA ARO 29  EMERALD 2022",
     "Precio": "$199.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/b/a/ba2931_emerald_29_negro_2022_01_1.jpg",
@@ -400,6 +457,7 @@
   },
   {
     "id": 58,
+    "Tienda": "Oxford Store",
     "Nombre": "Bicicleta Aro 27.5 Aura 5 Burdeo",
     "Precio": "$349.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/4/0/404ba2762ha155_0_3_1.jpg",
@@ -407,6 +465,7 @@
   },
   {
     "id": 59,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA ARO 29  RAKO 2022",
     "Precio": "$199.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/r/a/rako_29_1.jpg",
@@ -414,6 +473,7 @@
   },
   {
     "id": 60,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA ARO 29 HELIOS XC",
     "Precio": "$1.499.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/b/a/ba2999_helios_29_m-l_amarillo_negro_2022_01_1_3.jpg",
@@ -421,6 +481,7 @@
   },
   {
     "id": 61,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA EVEREST ARO 29",
     "Precio": "$299.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/b/a/ba2923_everest_29_al_negro_2022_01_1_1.jpg",
@@ -428,6 +489,7 @@
   },
   {
     "id": 62,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA ARO 27.5 MERAK 1 AZUL/BLANCO",
     "Precio": "$249.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/6/0/604ba2751fa160_0_2_1.jpg",
@@ -435,6 +497,7 @@
   },
   {
     "id": 63,
+    "Tienda": "Oxford Store",
     "Nombre": "Bicicleta Aro 29 Polux 7",
     "Precio": "$599.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/4/0/404ba2981ja185_0_1.jpg",
@@ -442,6 +505,7 @@
   },
   {
     "id": 64,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA ARO 29 VENUS 1 NEGRO CORAL",
     "Precio": "$249.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/6/0/604ba2952ca170_0_1.jpg",
@@ -449,6 +513,7 @@
   },
   {
     "id": 65,
+    "Tienda": "Oxford Store",
     "Nombre": "Bicicleta Aro 27.5 Aura 5 Grafito",
     "Precio": "$349.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/b/a/ba2762_aura_5_27_5_grafito_2021_01_cable_15__1.png",
@@ -456,6 +521,7 @@
   },
   {
     "id": 66,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA ARO 29 VENUS 1 ROSADA",
     "Precio": "$249.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/6/0/604ba2952ka170_0_1.jpg",
@@ -463,6 +529,7 @@
   },
   {
     "id": 67,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA ARO 29 VENUS 1 TITANIO",
     "Precio": "$249.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/6/0/604ba2952za170_0_1.jpg",
@@ -470,6 +537,7 @@
   },
   {
     "id": 68,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA ARO 27.5 VENUS 1 VERDE",
     "Precio": "$249.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/6/0/604ba2752ja155_0_1.jpg",
@@ -477,6 +545,7 @@
   },
   {
     "id": 69,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA ARO 29 VENUS 1 VERDE",
     "Precio": "$249.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/6/0/604ba2952ja170_0_1.jpg",
@@ -484,6 +553,7 @@
   },
   {
     "id": 70,
+    "Tienda": "Oxford Store",
     "Nombre": "Bicicleta Aro 29 Orion 5 Celeste",
     "Precio": "$349.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/b/a/ba2963_orion_5_29_celeste_2021_01_cable.png",
@@ -491,6 +561,7 @@
   },
   {
     "id": 71,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA ARO 27.5 VENUS 1 ROSADA",
     "Precio": "$249.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/6/0/604ba2752ka155_0_1.jpg",
@@ -498,6 +569,7 @@
   },
   {
     "id": 72,
+    "Tienda": "Oxford Store",
     "Nombre": "Bicicleta Aro 29 Orion 5 Rojo",
     "Precio": "$349.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/b/a/ba2963_orion_5_29_rojo_01_cable_2.png",
@@ -505,6 +577,7 @@
   },
   {
     "id": 73,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA ARO 29 MERAK 1 AZUL/BLANCO",
     "Precio": "$249.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/6/0/604ba2951fa185_0_1.jpg",
@@ -512,6 +585,7 @@
   },
   {
     "id": 74,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA ARO 29 ORION 4 AZUL CYAN",
     "Precio": "$299.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/6/0/604ba2961fb170_0_1.jpg",
@@ -519,6 +593,7 @@
   },
   {
     "id": 75,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA ARO 27.5 ORION 4 AZUL CYAN",
     "Precio": "$299.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/6/0/604ba2961fb170_0_1_1.jpg",
@@ -526,6 +601,7 @@
   },
   {
     "id": 76,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA ARO 29 ORION 4 TITANIO",
     "Precio": "$299.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/6/0/604ba2961za170_0_1.jpg",
@@ -533,6 +609,7 @@
   },
   {
     "id": 77,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA ARO 27.5 ORION 4 AZUL",
     "Precio": "$299.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/6/0/604ba2761fa170_0_1.jpg",
@@ -540,6 +617,7 @@
   },
   {
     "id": 78,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA ARO 29 ORION 4 AZUL",
     "Precio": "$299.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/6/0/604ba2961fa170_0_1.jpg",
@@ -547,6 +625,7 @@
   },
   {
     "id": 79,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA ARO 27.5 ORION 4 ROJO",
     "Precio": "$299.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/6/0/604ba2761ha170_0_1.jpg",
@@ -554,6 +633,7 @@
   },
   {
     "id": 80,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA ARO 29 ORION 4 ROJO",
     "Precio": "$299.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/6/0/604ba2961ha170_0_1.jpg",
@@ -561,6 +641,7 @@
   },
   {
     "id": 81,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA ARO 29 MERAK 1 AZUL ÍNDIGO",
     "Precio": "$249.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/6/0/604ba2951fb185_0_1.jpg",
@@ -568,6 +649,7 @@
   },
   {
     "id": 82,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA ARO 27.5 MERAK 1 AZUL ÍNDIGO",
     "Precio": "$249.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/6/0/604ba2751fb160_0_1.jpg",
@@ -575,6 +657,7 @@
   },
   {
     "id": 83,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA ARO 29 MERAK 1 ROJA",
     "Precio": "$249.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/6/0/604ba2951ha185_0_1.jpg",
@@ -582,6 +665,7 @@
   },
   {
     "id": 84,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA ARO 27.5 MERAK 1 ROJA",
     "Precio": "$249.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/6/0/604ba2751ha145_0_1.jpg",
@@ -589,6 +673,7 @@
   },
   {
     "id": 85,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA ARO 29 MERAK 1 NARANJA",
     "Precio": "$249.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/6/0/604ba2951ga185_0_1.jpg",
@@ -596,6 +681,7 @@
   },
   {
     "id": 86,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA ARO 27.5 MERAK 1 NARANJA",
     "Precio": "$249.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/6/0/604ba2751ga160_0_1.jpg",
@@ -603,6 +689,7 @@
   },
   {
     "id": 87,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA ARO 29 MERAK 1 NEGRA",
     "Precio": "$249.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/6/0/604ba2951ca185_0_1.jpg",
@@ -610,6 +697,7 @@
   },
   {
     "id": 88,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA ARO 27.5 MERAK 1 NEGRA",
     "Precio": "$249.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/6/0/604ba2751ca145_0_1.jpg",
@@ -617,6 +705,7 @@
   },
   {
     "id": 89,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA ARO 26 RAINFALL 6V",
     "Precio": "$129.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/b/p/bp2604_rainfall_26_morado_2023_01_1_1.png",
@@ -624,6 +713,7 @@
   },
   {
     "id": 90,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA GT 700 M TRANSEO SPORT 2022",
     "Precio": "$299.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/2/g22_g32301m_700_m_transeo_sport_blk_md_blk_pd_1_1_1_1.jpg",
@@ -631,6 +721,7 @@
   },
   {
     "id": 91,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA KONA DEW 2022",
     "Precio": "$449.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/d/e/dew_opt_2.jpg",
@@ -638,6 +729,7 @@
   },
   {
     "id": 92,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA COSMOPOLITAN ARO 26",
     "Precio": "$149.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/b/p/bp2630_cosmopolitan_26_verde_2022_01_1.jpg",
@@ -645,6 +737,7 @@
   },
   {
     "id": 93,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA ARO 700 CAPITAL AZUL",
     "Precio": "$179.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/6/0/604bp2953fa170_0_1.jpg",
@@ -652,6 +745,7 @@
   },
   {
     "id": 94,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA ARO 700 CITISPEED NICKEL",
     "Precio": "$179.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/6/0/604bp2883ba195_0_1.jpg",
@@ -659,6 +753,7 @@
   },
   {
     "id": 95,
+    "Tienda": "Oxford Store",
     "Nombre": "Bicicleta Eléctrica Aro 27.5 Freeway Negro Amarillo",
     "Precio": "$699.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/4/0/408eb2731ra175_0_1.jpg",
@@ -666,6 +761,7 @@
   },
   {
     "id": 96,
+    "Tienda": "Oxford Store",
     "Nombre": "Bicicleta Eléctrica Aro 27.5 Freeway Grafito",
     "Precio": "$699.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/e/b/eb2731_freeway_grafito_2023_01_3.jpg",
@@ -673,6 +769,7 @@
   },
   {
     "id": 97,
+    "Tienda": "Oxford Store",
     "Nombre": "Bicicleta Eléctrica Aro 27.5 Freeway Negro",
     "Precio": "$699.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/e/b/eb2731_freeway_negro_2023_01_3.jpg",
@@ -680,6 +777,7 @@
   },
   {
     "id": 98,
+    "Tienda": "Oxford Store",
     "Nombre": "Bicicleta Eléctrica Aro 27.5 Freeway Negro Azul",
     "Precio": "$699.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/4/0/408eb2731rb175_0_1.jpg",
@@ -687,6 +785,7 @@
   },
   {
     "id": 99,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA ARO 28 CITYFIXER 3",
     "Precio": "$149.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/5/0/508bp2823za195_0_1.jpg",
@@ -694,6 +793,7 @@
   },
   {
     "id": 100,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA ARO 28 CITYFIXER 1",
     "Precio": "$139.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/5/0/508bp2821ca205_0_1.jpg",
@@ -701,6 +801,7 @@
   },
   {
     "id": 101,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA OXFORD 26 CYCLOTOUR 6V",
     "Precio": "$169.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/5/0/504bp2648ga160_0_1.jpg",
@@ -708,6 +809,7 @@
   },
   {
     "id": 102,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA CANNONDALE 700 TOPSTONE CRB 4 2023",
     "Precio": "$2.999.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/c/2/c22_c15402u_topstone_crb_4_sbk_pd_1_1_1_1_1.jpg",
@@ -715,6 +817,7 @@
   },
   {
     "id": 103,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA CANNONDALE 700 TOPSTONE 4 2023",
     "Precio": "$999.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/c/2/c22_c15902u_topstone_4_mgo_pd_1_1_1_1_1.jpg",
@@ -722,6 +825,7 @@
   },
   {
     "id": 104,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA CANNONDALE 700 TOPSTONE 2 2023",
     "Precio": "$1.999.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/c/2/c22_c15702u_topstone_2_mdn_1_1_1_1_1.jpg",
@@ -729,6 +833,7 @@
   },
   {
     "id": 105,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA CANNONDALE 700 Synapse Crb 2 RL",
     "Precio": "$5.499.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/c/2/c22_c12251u_synapse_crb_2_rl_bpl_pd_1_1_1.jpg",
@@ -736,6 +841,7 @@
   },
   {
     "id": 106,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA CANNONDALE 700 SYNAPSE 2",
     "Precio": "$1.199.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/c/2/c21_c12601u_synapse_2_cmt_pd_1_1_1_1_1.jpg",
@@ -743,6 +849,7 @@
   },
   {
     "id": 107,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA CANNONDALE ARO 700 SUPERSIX EVO CRB DISC ULT DI2",
     "Precio": "$4.999.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/c/2/c21_c11551m_supersix_evo_crb_mrc_pd_1_1_1_1.jpg",
@@ -750,6 +857,7 @@
   },
   {
     "id": 108,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA CANNONDALE ARO 700 TOPSTONE 2 GRIS",
     "Precio": "$1.799.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/c/2/c21_c15861m_topstone_2_sgy_pd_1_1_1_1.jpg",
@@ -757,6 +865,7 @@
   },
   {
     "id": 109,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA CANNONDALE 700 SUPERSIX EVO CRB DISC RIVAL AXS",
     "Precio": "$3.999.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/c/2/c21_c11631u_supersix_evo_crb_disc_rival_axs_mat_pd_1_1_1_1.jpg",
@@ -764,6 +873,7 @@
   },
   {
     "id": 110,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA CANNONDALE 700 TOPSTONE 4",
     "Precio": "$999.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/c/2/c22_c15902u_topstone_4_blk_pd_1_1_1_1.jpg",
@@ -771,6 +881,7 @@
   },
   {
     "id": 111,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA CANNONDALE 700 TOPSTONE 3",
     "Precio": "$1.299.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/c/2/c21_c15871m_topstone_3_bch_pd_1_1_1.jpg",
@@ -778,6 +889,7 @@
   },
   {
     "id": 112,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA CANNONDALE 700 TOPSTONE CRB 6",
     "Precio": "$1.999.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/c/2/c21_c15601u_topstone_crb_6_abb_pd_1_1_1_1.jpg",
@@ -785,6 +897,7 @@
   },
   {
     "id": 113,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA KONA ROVE AL 650 2022",
     "Precio": "$749.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/r/o/rove_al_650_2_1-3.jpg",
@@ -792,6 +905,7 @@
   },
   {
     "id": 114,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA KONA ROVE AL 700 2022",
     "Precio": "$749.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/r/o/rove_al_700_5_1.jpg",
@@ -799,6 +913,7 @@
   },
   {
     "id": 115,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA KONA LIBRE 700 2022",
     "Precio": "$1.499.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/l/i/libre.jpg",
@@ -806,6 +921,7 @@
   },
   {
     "id": 116,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA CANNONDALE ARO 700 TOPSTONE 2 MORADO",
     "Precio": "$1.799.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/c/2/c21_c15861m_topstone_2_rbt_pd_4.jpg",
@@ -813,6 +929,7 @@
   },
   {
     "id": 117,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA CANNONDALE ARO 700 CAAD OPTIMO 4",
     "Precio": "$799.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/c/2/c21_c14401m_caad_optimo_4_slv_pd_4_1.jpg",
@@ -820,6 +937,7 @@
   },
   {
     "id": 118,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA STARDUST 5",
     "Precio": "$599.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/5/0/504br2887ea210_0_1.jpg",
@@ -827,6 +945,7 @@
   },
   {
     "id": 119,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA CANNONDALE ARO 700 TOPSTONE 3",
     "Precio": "$1.299.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/c/2/c21_c15871m_topstone_3_gra_pd_5.jpg",
@@ -834,6 +953,7 @@
   },
   {
     "id": 120,
+    "Tienda": "Oxford Store",
     "Nombre": "BICICLETA STARDUST 4",
     "Precio": "$449.990",
     "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/5/0/504br2885ja210_0_1.jpg",

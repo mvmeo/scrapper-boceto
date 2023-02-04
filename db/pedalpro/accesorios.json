@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "Tienda": "Pedal Pro",
     "Nombre": "AIRWAY SPORT SIDEPULL R- Portacaramagiola",
     "Precio": "$11.490",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/12/490000150-AIRWAY-SPORT-SIDEPULL-R-CAGE-BLACK-GRAY-300x300.jpg",
@@ -8,6 +9,7 @@
   },
   {
     "id": 2,
+    "Tienda": "Pedal Pro",
     "Nombre": "BOMBIN-CONTROL TOWER 2 BLACK-",
     "Precio": "$59.900",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/11/610000137-CONTROL-TOWER-2-BLACK-300x300.jpg",
@@ -15,6 +17,7 @@
   },
   {
     "id": 3,
+    "Tienda": "Pedal Pro",
     "Nombre": "BOMBIN-CONTROL TOWER 3 BLACK",
     "Precio": "$33.900",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/11/7-300x300.jpg",
@@ -22,6 +25,7 @@
   },
   {
     "id": 4,
+    "Tienda": "Pedal Pro",
     "Nombre": "BOTELLA PODIUM CHILL 620ML",
     "Precio": "$13.900",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/04/Botella-Podium-Chill-620ml-300x300.jpg",
@@ -29,6 +33,7 @@
   },
   {
     "id": 5,
+    "Tienda": "Pedal Pro",
     "Nombre": "BOTELLA PODIUM DIRT SERIES CHILL 620ML",
     "Precio": "$16.900",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/04/BOTELLA-PODIUM-DIRT-SERIES-CHILL-620ML-300x300.jpg",
@@ -36,6 +41,7 @@
   },
   {
     "id": 6,
+    "Tienda": "Pedal Pro",
     "Nombre": "BOTELLA PODIUM® 620ML",
     "Precio": "$9.900",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/04/Botella-Podium®-620ml-300x300.jpg",
@@ -43,6 +49,7 @@
   },
   {
     "id": 7,
+    "Tienda": "Pedal Pro",
     "Nombre": "BOTELLA PODIUM® 710ML",
     "Precio": "$16.990",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/04/BOTELLA-PODIUM®-710ML-300x300.jpg",
@@ -50,6 +57,7 @@
   },
   {
     "id": 8,
+    "Tienda": "Pedal Pro",
     "Nombre": "CALAS DE FÁCIL TENSIÓN SPEEDPLAY",
     "Precio": "",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/04/CALAS-DE-FACIL-TENSION-SPEEDPLAY-300x300.jpg",
@@ -57,6 +65,7 @@
   },
   {
     "id": 9,
+    "Tienda": "Pedal Pro",
     "Nombre": "Casco REV COMP Mips-Giant",
     "Precio": "$89.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/10/product_image_800001684_1.jpg",
@@ -64,6 +73,7 @@
   },
   {
     "id": 10,
+    "Tienda": "Pedal Pro",
     "Nombre": "CICLOCOMPUTADOR GPS ELEMNT BOLT",
     "Precio": "",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/04/CICLOCOMPUTADOR-GPS-ELEMNT-BOLT-300x300.jpg",
@@ -71,6 +81,7 @@
   },
   {
     "id": 11,
+    "Tienda": "Pedal Pro",
     "Nombre": "CICLOCOMPUTADOR GPS ELEMNT ROAM",
     "Precio": "",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/04/CICLOCOMPUTADOR-GPS-ELEMNT-ROAM-300x300.jpg",
@@ -78,6 +89,7 @@
   },
   {
     "id": 12,
+    "Tienda": "Pedal Pro",
     "Nombre": "CINTA MANILLAR CONFORT CLÁSICO",
     "Precio": "$17.900",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/04/CINTA-CONFORT-CLASICO-300x300.jpg",
@@ -85,6 +97,7 @@
   },
   {
     "id": 13,
+    "Tienda": "Pedal Pro",
     "Nombre": "CINTA MANILLAR SPORT CONTROL PRO",
     "Precio": "$14.900",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/04/CINTA-CONTROL-DEPORTIVA-300x300.jpg",
@@ -92,6 +105,7 @@
   },
   {
     "id": 14,
+    "Tienda": "Pedal Pro",
     "Nombre": "FLEET SL- Sillín Giant",
     "Precio": "$69.900",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/12/product_image_False_893.jpg",
@@ -99,6 +113,7 @@
   },
   {
     "id": 15,
+    "Tienda": "Pedal Pro",
     "Nombre": "GUARDABARROS MUCKY NUTZ DELANTERO",
     "Precio": "$14.900",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/04/GUARDABARROS-MUCKY-NUTZ-DELANTERO-300x300.jpg",
@@ -106,6 +121,7 @@
   },
   {
     "id": 16,
+    "Tienda": "Pedal Pro",
     "Nombre": "MICRO INFLADOR DE CO2",
     "Precio": "$19.900",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/04/MICRO-INFLADOR-DE-CO2-300x300.jpg",
@@ -113,6 +129,7 @@
   },
   {
     "id": 17,
+    "Tienda": "Pedal Pro",
     "Nombre": "PEDALES SPEEDPLAY AEROPEDALES SPEEDPLAY ZEROPULSÓMETRO TICKRPULSÓMETRO TICKR FITPULSÓMETRO TICKR XRODILLO KICKR COREROMERO SADDLE – Sillín Giant",
     "Precio": "$54.900$81.900$984.900$29.990",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/04/PEDALES-SPEEDPLAY-AERO-300x300.jpg",
@@ -120,6 +137,7 @@
   },
   {
     "id": 18,
+    "Tienda": "Pedal Pro",
     "Nombre": "PEDALES SPEEDPLAY AERO",
     "Precio": "",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/04/PEDALES-SPEEDPLAY-AERO-300x300.jpg",
@@ -127,6 +145,7 @@
   },
   {
     "id": 19,
+    "Tienda": "Pedal Pro",
     "Nombre": "PEDALES SPEEDPLAY ZERO",
     "Precio": "",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/04/PEDALES-SPEEDPLAY-ZERO-300x300.jpg",
@@ -134,6 +153,7 @@
   },
   {
     "id": 20,
+    "Tienda": "Pedal Pro",
     "Nombre": "PULSÓMETRO TICKR",
     "Precio": "$54.900",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/04/PULSOMETRO-TICKR-300x300.jpg",
@@ -141,6 +161,7 @@
   },
   {
     "id": 21,
+    "Tienda": "Pedal Pro",
     "Nombre": "PULSÓMETRO TICKR FIT",
     "Precio": "",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/04/PULSOMETRO-TICKR-FIT-300x300.jpg",
@@ -148,6 +169,7 @@
   },
   {
     "id": 22,
+    "Tienda": "Pedal Pro",
     "Nombre": "PULSÓMETRO TICKR X",
     "Precio": "$81.900",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/04/PULSOMETRO-TICKR-X-300x300.jpg",
@@ -155,6 +177,7 @@
   },
   {
     "id": 23,
+    "Tienda": "Pedal Pro",
     "Nombre": "RODILLO KICKR CORE",
     "Precio": "$984.900",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/04/RODILLO-KICKR-CORE-300x300.jpg",
@@ -162,6 +185,7 @@
   },
   {
     "id": 24,
+    "Tienda": "Pedal Pro",
     "Nombre": "ROMERO SADDLE – Sillín Giant",
     "Precio": "$29.990",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/12/120000189-ROMERO-SADDLE-300x300.jpg",

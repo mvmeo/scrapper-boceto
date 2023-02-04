@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "Tienda": "Pedal Pro",
     "Nombre": "ANIMATOR F/W 16",
     "Precio": "$299.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/05/Imagen81-300x300.jpg",
@@ -8,6 +9,7 @@
   },
   {
     "id": 2,
+    "Tienda": "Pedal Pro",
     "Nombre": "AVAIL ADVANCED 2",
     "Precio": "$2.990.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/11/2200050103-AVAIL-ADVANCED-2-TWILIGHT-MAUVE-XS-300x300.jpg",
@@ -15,6 +17,7 @@
   },
   {
     "id": 3,
+    "Tienda": "Pedal Pro",
     "Nombre": "AVAIL ADVANCED PRO 1",
     "Precio": "$6.790.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/11/2200052103-AVAIL-ADVANCED-PRO-1-300x300.jpg",
@@ -22,6 +25,7 @@
   },
   {
     "id": 4,
+    "Tienda": "Pedal Pro",
     "Nombre": "Casco PATH Mips- Giant",
     "Precio": "$65.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/10/product_image_800002568_3144_1-1-300x300.jpg",
@@ -29,6 +33,7 @@
   },
   {
     "id": 5,
+    "Tienda": "Pedal Pro",
     "Nombre": "DEFY ADVANCED 1",
     "Precio": "$3.290.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/05/2200062105-DEFY-ADVANCED-1-M-300x300.jpg",
@@ -36,6 +41,7 @@
   },
   {
     "id": 6,
+    "Tienda": "Pedal Pro",
     "Nombre": "DEFY ADVANCED 2",
     "Precio": "$2.890.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/05/2200063105-DEFY-ADVANCED-2-M-300x300.jpg",
@@ -43,6 +49,7 @@
   },
   {
     "id": 7,
+    "Tienda": "Pedal Pro",
     "Nombre": "DEFY ADVANCED PRO 1",
     "Precio": "$6.490.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/05/Imagen7-1-300x300.jpg",
@@ -50,6 +57,7 @@
   },
   {
     "id": 8,
+    "Tienda": "Pedal Pro",
     "Nombre": "ENVILIV ADVANCED Pro 1 DISC",
     "Precio": "$5.590.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/11/2200072103-ENVILIV-ADVANCED-PRO-1-DISC-XS-300x300.jpg",
@@ -57,6 +65,7 @@
   },
   {
     "id": 9,
+    "Tienda": "Pedal Pro",
     "Nombre": "ENVILIV ADVANCED Pro 2 DISC",
     "Precio": "$4.290.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/11/2200303103-ENVILIV-ADVANCED-PRO-2-DISC-XS-300x300.jpg",
@@ -64,6 +73,7 @@
   },
   {
     "id": 10,
+    "Tienda": "Pedal Pro",
     "Nombre": "LAGMA ADVANCED 1 DISC",
     "Precio": "$3.390.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/11/2200076103-LANGMA-ADVANCED-1-DISC-QOM-XS-300x300.jpg",
@@ -71,6 +81,7 @@
   },
   {
     "id": 11,
+    "Tienda": "Pedal Pro",
     "Nombre": "LAGMA ADVANCED 1+ DISC",
     "Precio": "$3.949.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/11/2200077103-LANGMA-ADVANCED-1-DISC-XS-300x300.jpg",
@@ -78,6 +89,7 @@
   },
   {
     "id": 12,
+    "Tienda": "Pedal Pro",
     "Nombre": "LAGMA ADVANCED 2",
     "Precio": "$2.249.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/11/2200098103-LANGMA-ADVANCED-2-XS-300x300.jpg",
@@ -85,6 +97,7 @@
   },
   {
     "id": 13,
+    "Tienda": "Pedal Pro",
     "Nombre": "LAGMA ADVANCED 2 DISC",
     "Precio": "$2.990.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/11/LANGMA-ADVANCED-2-DISC-QOM-300x300.jpg",
@@ -92,6 +105,7 @@
   },
   {
     "id": 14,
+    "Tienda": "Pedal Pro",
     "Nombre": "LAGMA ADVANCED 3 DISC- QOM",
     "Precio": "$2.699.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/11/2200317103-LANGMA-ADVANCED-3-DISC-QOM-XS-300x300.jpg",
@@ -99,6 +113,7 @@
   },
   {
     "id": 15,
+    "Tienda": "Pedal Pro",
     "Nombre": "LAGMA ADVANCED Pro 0 DISC",
     "Precio": "$6.389.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/11/2200083103-LANGMA-ADVANCED-PRO-0-DISC-QOM-XS-300x300.jpg",
@@ -106,6 +121,7 @@
   },
   {
     "id": 16,
+    "Tienda": "Pedal Pro",
     "Nombre": "PROPEL ADVANCED 1 DISC",
     "Precio": "$4.990.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/05/Imagen9-300x287.jpg",
@@ -113,6 +129,7 @@
   },
   {
     "id": 17,
+    "Tienda": "Pedal Pro",
     "Nombre": "PROPEL ADVANCED 1 DISCPROPEL ADVANCED 2 DISCPROPEL ADVANCED PRO 1 DISCREVOLT ADVANCED 3REVOLT ADVANCED PRO 1STANCE 29 1STANCE 29 2TALON 29 2TALON 5TCR ADVANCED 0 Disc-Pro CompactTCR ADVANCED 1 DISC Pro compactTCR ADVANCED 1+ DISC Pro compactTCR ADVANCED 2 DISCTCR ADVANCED 2 DISC Pro compactTCR ADVANCED 2 DISC-SETCR ADVANCED 3 DISC",
     "Precio": "$4.990.000$3.190.000$5.590.000$2.390.000$5.190.000$1.990.000$2.590.000$1.990.000$1.690.000$629.000$499.000$479.000$399.000$5.190.000$3.390.000$3.890.000$2.990.000$2.990.000$3.199.000$2.649.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/11/2200088105-PROPEL-ADVANCED-1-DISC-M-1-300x300.jpg",
@@ -120,6 +137,7 @@
   },
   {
     "id": 18,
+    "Tienda": "Pedal Pro",
     "Nombre": "PROPEL ADVANCED 1 DISC",
     "Precio": "$4.990.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/11/2200088105-PROPEL-ADVANCED-1-DISC-M-1-300x300.jpg",
@@ -127,6 +145,7 @@
   },
   {
     "id": 19,
+    "Tienda": "Pedal Pro",
     "Nombre": "PROPEL ADVANCED 2 DISC",
     "Precio": "$3.190.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/11/2200090105-PROPEL-ADVANCED-2-DISC-M-300x300.jpg",
@@ -134,6 +153,7 @@
   },
   {
     "id": 20,
+    "Tienda": "Pedal Pro",
     "Nombre": "PROPEL ADVANCED PRO 1 DISC",
     "Precio": "$5.590.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/05/2200094104-PROPEL-ADVANCED-PRO-1-DISC-S-1-300x300.jpg",
@@ -141,6 +161,7 @@
   },
   {
     "id": 21,
+    "Tienda": "Pedal Pro",
     "Nombre": "REVOLT ADVANCED 3",
     "Precio": "$2.390.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/05/2202011205-REVOLT-ADVANCED-3-TERRACOTTA-M-300x300.jpg",
@@ -148,6 +169,7 @@
   },
   {
     "id": 22,
+    "Tienda": "Pedal Pro",
     "Nombre": "REVOLT ADVANCED PRO 1",
     "Precio": "$5.190.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/05/Imagen78-300x300.jpg",
@@ -155,6 +177,7 @@
   },
   {
     "id": 23,
+    "Tienda": "Pedal Pro",
     "Nombre": "STANCE 29 1",
     "Precio": "$1.990.000$2.590.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/05/2201005105-STANCE-29-1-M-300x300.jpg",
@@ -162,6 +185,7 @@
   },
   {
     "id": 24,
+    "Tienda": "Pedal Pro",
     "Nombre": "STANCE 29 2",
     "Precio": "$1.990.000$1.690.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/05/Imagen58-300x300.jpg",
@@ -169,6 +193,7 @@
   },
   {
     "id": 25,
+    "Tienda": "Pedal Pro",
     "Nombre": "TALON 29 2",
     "Precio": "$629.000$499.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/05/2201112125-TALON-29-2-KNIGHT-SHIELD-M-300x300.jpg",
@@ -176,6 +201,7 @@
   },
   {
     "id": 26,
+    "Tienda": "Pedal Pro",
     "Nombre": "TALON 5",
     "Precio": "$479.000$399.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/05/2221151125-TALON-29-5-M-300x300.png",
@@ -183,6 +209,7 @@
   },
   {
     "id": 27,
+    "Tienda": "Pedal Pro",
     "Nombre": "TCR ADVANCED 0 Disc-Pro Compact",
     "Precio": "$5.190.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/11/2200058105-TCR-ADVANCED-0-DISC-PRO-COMPACT-M-300x300.jpg",
@@ -190,6 +217,7 @@
   },
   {
     "id": 28,
+    "Tienda": "Pedal Pro",
     "Nombre": "TCR ADVANCED 1 DISC Pro compact",
     "Precio": "$3.390.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/11/2200013105-TCR-ADVANCED-1-DISC-PRO-COMPACT-M-1-300x300.jpg",
@@ -197,6 +225,7 @@
   },
   {
     "id": 29,
+    "Tienda": "Pedal Pro",
     "Nombre": "TCR ADVANCED 1+ DISC Pro compact",
     "Precio": "$3.890.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/11/2200014105-TCR-ADVANCED-1-DISC-PRO-COMPACT-M-300x300.jpg",
@@ -204,6 +233,7 @@
   },
   {
     "id": 30,
+    "Tienda": "Pedal Pro",
     "Nombre": "TCR ADVANCED 2 DISC",
     "Precio": "$2.990.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/11/2200023205-TCR-ADVANCED-2-DISC-KOM-HEMATITE-M-300x300.jpg",
@@ -211,6 +241,7 @@
   },
   {
     "id": 31,
+    "Tienda": "Pedal Pro",
     "Nombre": "TCR ADVANCED 2 DISC Pro compact",
     "Precio": "$2.990.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/11/2200017104-TCR-ADVANCED-2-DISC-PRO-COMPACT-CARBON-S-300x300.jpg",
@@ -218,6 +249,7 @@
   },
   {
     "id": 32,
+    "Tienda": "Pedal Pro",
     "Nombre": "TCR ADVANCED 2 DISC-SE",
     "Precio": "$3.199.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/05/2200018105-TCR-ADVANCED-2-DISC-SE-M-300x300.jpg",
@@ -225,6 +257,7 @@
   },
   {
     "id": 33,
+    "Tienda": "Pedal Pro",
     "Nombre": "TCR ADVANCED 3 DISC",
     "Precio": "$2.649.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/05/2200021105-TCR-ADVANCED-3-DISC-M-300x300.jpg",
@@ -232,6 +265,7 @@
   },
   {
     "id": 34,
+    "Tienda": "Pedal Pro",
     "Nombre": "TCR ADVANCED Pro 1 DISCTCR ADVANCED SL 0 DISC-DATCR ADVANCED SL 1 DISCTEMPT 29′ 2TEMPT 29′ 4TEMPT 29′ 5TRANCE  29 2TRANCE 29 1TRANCE X 29 1TRANCE X 29 2XTC JR DISC 24",
     "Precio": "$5.349.000$11.900.000$8.390.000$629.000$509.000$479.000$2.490.000$3.190.000$2.990.000$3.970.000$3.479.000$2.690.000$449.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/05/2200008104-TCR-ADVANCED-PRO-1-DISC-S-300x300.jpg",
@@ -239,6 +273,7 @@
   },
   {
     "id": 35,
+    "Tienda": "Pedal Pro",
     "Nombre": "TCR ADVANCED Pro 1 DISC",
     "Precio": "$5.349.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/05/2200008104-TCR-ADVANCED-PRO-1-DISC-S-300x300.jpg",
@@ -246,6 +281,7 @@
   },
   {
     "id": 36,
+    "Tienda": "Pedal Pro",
     "Nombre": "TCR ADVANCED SL 0 DISC-DA",
     "Precio": "$11.900.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/05/2200312104-TCR-ADVANCED-SL-0-DISC-DA-300x300.jpg",
@@ -253,6 +289,7 @@
   },
   {
     "id": 37,
+    "Tienda": "Pedal Pro",
     "Nombre": "TCR ADVANCED SL 1 DISC",
     "Precio": "$8.390.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/05/2200002105-TCR-ADVANCED-SL-1-DISC-M-300x300.jpg",
@@ -260,6 +297,7 @@
   },
   {
     "id": 38,
+    "Tienda": "Pedal Pro",
     "Nombre": "TEMPT 29′ 2",
     "Precio": "$629.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/11/2201119125-TEMPT-29-2-LIQUID-METAL-M-1-300x300.jpg",
@@ -267,6 +305,7 @@
   },
   {
     "id": 39,
+    "Tienda": "Pedal Pro",
     "Nombre": "TEMPT 29′ 4",
     "Precio": "$509.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/11/2201121225-TEMPT-29-4-TERRA-ROZA-M-1-300x300.jpg",
@@ -274,6 +313,7 @@
   },
   {
     "id": 40,
+    "Tienda": "Pedal Pro",
     "Nombre": "TEMPT 29′ 5",
     "Precio": "$479.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/11/2221155125-TEMPT-29-5-M-300x300.png",
@@ -281,6 +321,7 @@
   },
   {
     "id": 41,
+    "Tienda": "Pedal Pro",
     "Nombre": "TRANCE  29 2",
     "Precio": "$2.490.000$3.190.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/11/2201043105-TRANCE-29-2-METALLIC-BLACK-M-300x300.jpg",
@@ -288,6 +329,7 @@
   },
   {
     "id": 42,
+    "Tienda": "Pedal Pro",
     "Nombre": "TRANCE 29 1",
     "Precio": "$2.990.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/05/2201042205-TRANCE-29-1-HEMATITE-M-300x300.jpg",
@@ -295,6 +337,7 @@
   },
   {
     "id": 43,
+    "Tienda": "Pedal Pro",
     "Nombre": "TRANCE X 29 1",
     "Precio": "$3.970.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/05/2201049108-TRANCE-X-29-1-PANTHER-XL-300x300.jpg",
@@ -302,6 +345,7 @@
   },
   {
     "id": 44,
+    "Tienda": "Pedal Pro",
     "Nombre": "TRANCE X 29 2",
     "Precio": "$3.479.000$2.690.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/05/Imagen36.jpg",
@@ -309,6 +353,7 @@
   },
   {
     "id": 45,
+    "Tienda": "Pedal Pro",
     "Nombre": "XTC JR DISC 24",
     "Precio": "$449.000",
     "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/05/Imagen90-300x300.jpg",

@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "Tienda": "Oxford Store",
+    "Nombre": "LLAVERO TORQUE/ALLEN OXFORD 2-10NM 2/2.5/3/4/5/6/8MM+-T10/25",
+    "Precio": "$21.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/c/d/cd5001ba_2.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/llavero-torque-allen-oxford-2-10nm-2-2-5-3-4-5-6-8mm-t10-25.html"
+  },
+  {
+    "id": 2,
+    "Tienda": "Oxford Store",
+    "Nombre": "TIRA RAYO ICETOOLZ 8-GROOVE FOR 10-15G MULTI MEDIDA 12F8",
+    "Precio": "$4.190",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/c/gc1006ba.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/tira-rayo-icetoolz-8-groove-for-10-15g-multi-medida-12f8.html"
+  },
+  {
+    "id": 3,
+    "Tienda": "Oxford Store",
+    "Nombre": "ACEITE LUBRICANTE ZEFAL E-BIKE LUBE ALL CONDITIONS 120ML 961",
+    "Precio": "$9.090",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz3014ba.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/aceite-lubricante-zefal-e-bike-lube-all-conditions-120ml-961.html"
+  },
+  {
+    "id": 4,
+    "Tienda": "Oxford Store",
+    "Nombre": "ADAPTADOR LLAVE EXTRACTOR MOTOR ICETOOLZ P/HOLLOWTECH 11F3",
+    "Precio": "$8.390",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/c/gc1005ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/adaptador-llave-extractor-motor-icetoolz-p-hollowtech-11f3.html"
+  },
+  {
+    "id": 5,
+    "Tienda": "Oxford Store",
+    "Nombre": "DADO PARA CUBETA MOTOR HOLLOWTECH 2 ICETOOLZ M091",
+    "Precio": "$8.390",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/c/gc1086ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/dado-para-cubeta-motor-hollowtech-2-icetoolz-m091.html"
+  },
+  {
+    "id": 6,
+    "Tienda": "Oxford Store",
+    "Nombre": "EXTRACTOR MOTOR ICETOOLZ P/SHIMANO-ISIS DRIVER 11B3",
+    "Precio": "$6.490",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/c/gc1003ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/extractor-motor-icetoolz-p-shimano-isis-driver-11b3.html"
+  },
+  {
+    "id": 7,
+    "Tienda": "Oxford Store",
+    "Nombre": "HUASCA ICETOOLZ C/LLAVE PEDAL 15MM 34S4",
+    "Precio": "$8.390",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/c/gc1016ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/huasca-icetoolz-c-llave-pedal-15mm-34s4.html"
+  },
+  {
+    "id": 8,
+    "Tienda": "Oxford Store",
+    "Nombre": "KIT LIMPIEZA ICETOOLZ LIMPIADOR CADENA + DESCENGRASANTE C212",
+    "Precio": "$11.690",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/c/gc1055ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/kit-limpieza-icetoolz-limpiador-cadena-descengrasante-c212.html"
+  },
+  {
+    "id": 9,
+    "Tienda": "Oxford Store",
+    "Nombre": "KIT REPARACION CAMARA ICETOOLZ 65A1",
+    "Precio": "$4.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/c/gc1024ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/kit-reparacion-camara-icetoolz-65a1.html"
+  },
+  {
+    "id": 10,
+    "Tienda": "Oxford Store",
+    "Nombre": "LLAVE PEDAL ICETOOLZ 15MM 33S1",
+    "Precio": "$8.390",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/c/gc1015ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/33s1.html"
+  },
+  {
+    "id": 11,
+    "Tienda": "Oxford Store",
+    "Nombre": "MALETA HERRAMIENTA ICETOOLZ ULTIMATE 82A8",
+    "Precio": "$64.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/c/gc1037ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/maleta-herramienta-icetoolz-ultimate-82a8.html"
+  },
+  {
+    "id": 12,
+    "Tienda": "Oxford Store",
+    "Nombre": "LLAVE ALLEN ICETOOLZ 4.0MM PUNTA REDONDA 7M40",
+    "Precio": "$3.190",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/c/gc1032ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/llave-allen-icetoolz-4-0mm-punta-redonda-7m40.html"
+  },
+  {
+    "id": 13,
+    "Tienda": "Oxford Store",
+    "Nombre": "LLAVE ALLEN ICETOOLZ 6.0MM PUNTA REDONDA 7M60",
+    "Precio": "$4.190",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/c/gc1034ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/llave-allen-icetoolz-6-0mm-punta-redonda-7m60.html"
+  },
+  {
+    "id": 14,
+    "Tienda": "Oxford Store",
+    "Nombre": "LLAVE ALLEN ICETOOLZ 8.0MM PUNTA REDONDA 7M80",
+    "Precio": "$4.190",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/c/gc1035ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/llave-allen-icetoolz-8-0mm-punta-redonda-7m80.html"
+  },
+  {
+    "id": 15,
+    "Tienda": "Oxford Store",
+    "Nombre": "LLAVE ALLEN ICETOOLZ 5.0MM PUNTA REDONDA 7M50",
+    "Precio": "$3.190",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/c/gc1033ba_0_6.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/7m50.html"
+  },
+  {
+    "id": 16,
+    "Tienda": "Oxford Store",
+    "Nombre": "LLAVERO ALLEN ICETOOLZ POCKET-22 8/6/5/4/3/+/T25/CORTA 91A4",
+    "Precio": "$13.000",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/c/gc1041ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/llavero-allen-icetoolz-pocket-22-8-6-5-4-3-t25-corta-91a4.html"
+  },
+  {
+    "id": 17,
+    "Tienda": "Oxford Store",
+    "Nombre": "LLAVERO ALLEN ICETOOLZ AMAZE-11 8/6/5/4/3/2.5/2/1.5/+ 95A5",
+    "Precio": "$8.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/c/gc1044ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/llavero-allen-icetoolz-amaze-11-8-6-5-4-3-2-5-2-1-5-95a5.html"
+  },
+  {
+    "id": 18,
+    "Tienda": "Oxford Store",
+    "Nombre": "EXTRACTOR DE VOLANTE ICETOOLZ C/ADAPTADOR P/ESTRIADO 04C2",
+    "Precio": "$6.490",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/c/gc1090ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/extractor-de-volante-icetoolz-c-adaptador-p-estriado-04c2.html"
+  },
+  {
+    "id": 19,
+    "Tienda": "Oxford Store",
+    "Nombre": "KIT EXTRACTOR DE VOLANTE ICETOOLZ C/DADOS Y ALLEN 8MMM 04D2",
+    "Precio": "$8.390",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/c/gc1091ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/kit-extractor-de-volante-icetoolz-c-dados-y-allen-8mmm-04d2.html"
+  },
+  {
+    "id": 20,
+    "Tienda": "Oxford Store",
+    "Nombre": "KIT REPARACION PEDAL ICETOOLZ E521",
+    "Precio": "$129.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/c/gc1113ba_0_5.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/kit-reparacion-pedal-icetoolz-e521.html"
+  },
+  {
+    "id": 21,
+    "Tienda": "Oxford Store",
+    "Nombre": "LLAVE EXTRACTOR ICETOOLZ PERNO VOLANTE SHIMANO HOLLOW2 04T1",
+    "Precio": "$3.190",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/c/gc1115ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/llave-extractor-icetoolz-perno-volante-shimano-hollow2-04t1.html"
+  },
+  {
+    "id": 22,
+    "Tienda": "Oxford Store",
+    "Nombre": "EXTRACTOR PIÑON ICETOOLZ P/SHIMANO MF 09B3",
+    "Precio": "$4.190",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/c/gc1117ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/extractor-pi-on-icetoolz-p-shimano-mf-09b3.html"
+  },
+  {
+    "id": 23,
+    "Tienda": "Oxford Store",
+    "Nombre": "EXTRACTOR CASSETTE/LOCKRING ICETOOLZ P/SHIMANO 09C3",
+    "Precio": "$4.190",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/c/gc1119ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/extractor-cassette-lockring-icetoolz-p-shimano-09c3.html"
+  },
+  {
+    "id": 24,
+    "Tienda": "Oxford Store",
+    "Nombre": "EXTRACTOR MOTOR ICETOOLZ P/SHIMANO-ISIS DRIVER 11B1",
+    "Precio": "$8.390",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/c/gc1120ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/extractor-motor-icetoolz-p-shimano-isis-driver-11b1.html"
+  },
+  {
+    "id": 25,
+    "Tienda": "Oxford Store",
+    "Nombre": "LIMPIADOR ZEFAL BIKE WASH 1 LITRO 9973",
+    "Precio": "$10.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz3030ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/limpiador-zefal-bike-wash-1-litro-9973.html"
+  },
+  {
+    "id": 26,
+    "Tienda": "Oxford Store",
+    "Nombre": "DESENGRASANTE ZEFAL BIKE BIO 1L 9982",
+    "Precio": "$14.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz3031ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/desengrasante-zefal-bike-bio-1l-9982.html"
+  },
+  {
+    "id": 27,
+    "Tienda": "Oxford Store",
+    "Nombre": "CINTA ANTIPINCHAZO ZEFA Z-LINER MTB 29/27.5/26 50MM VIO 9723",
+    "Precio": "$13.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz3035ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/cinta-antipinchazo-zefa-z-liner-mtb-29-27-5-26-50mm-vio-9723.html"
+  },
+  {
+    "id": 28,
+    "Tienda": "Oxford Store",
+    "Nombre": "DESENGRASANTE LUBRICANTE SPRAY ZEFAL ALL-IN-1 150ML 9750",
+    "Precio": "$7.690",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz3036ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/desengrasante-lubricante-spray-zefal-all-in-1-150ml-9750.html"
+  },
+  {
+    "id": 29,
+    "Tienda": "Oxford Store",
+    "Nombre": "CORTA CADENA ICETOOLZ PORTABLE PARA 5-12 VEL. 61M1",
+    "Precio": "$10.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/c/gc1164ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/corta-cadena-icetoolz-portable-para-5-12-vel-61m1.html"
+  },
+  {
+    "id": 30,
+    "Tienda": "Oxford Store",
+    "Nombre": "CORTA CADENA ICETOOLZ PRO SHOP PARA E-BIKE 62B7",
+    "Precio": "$17.490",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/c/gc1166ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/corta-cadena-icetoolz-pro-shop-para-e-bike-62b7.html"
+  },
+  {
+    "id": 31,
+    "Tienda": "Oxford Store",
+    "Nombre": "ACEITE LUBRICANTE ZEFAL PRO WET LUBE 120ML 9611",
+    "Precio": "$6.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz3013ba_0_5.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/aceite-lubricante-zefal-pro-wet-lube-120ml-9611.html"
+  },
+  {
+    "id": 32,
+    "Tienda": "Oxford Store",
+    "Nombre": "ACEITE LUBRICANTE ZEFAL PRO DRY LUBE 120ML 9610",
+    "Precio": "$6.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz3037ba_0_5.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/aceite-lubricante-zefal-pro-dry-lube-120ml-9610.html"
+  },
+  {
+    "id": 33,
+    "Tienda": "Oxford Store",
+    "Nombre": "ACEITE LUBRICANTE ZEFAL EXTRA WET LUBE 120ML 9613",
+    "Precio": "$7.690",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz3038ba_0_5.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/aceite-lubricante-zefal-extra-wet-lube-120ml-9613.html"
+  },
+  {
+    "id": 34,
+    "Tienda": "Oxford Store",
+    "Nombre": "ACEITE LUBRICANTE ZEFAL EXTRA DRY MAX 120ML 9612",
+    "Precio": "$7.690",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz3039ba_0_5.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/aceite-lubricante-zefal-extra-dry-max-120ml-9612.html"
+  },
+  {
+    "id": 35,
+    "Tienda": "Oxford Store",
+    "Nombre": "BOLSA DE HERRAMIENTAS ICETOOLZ",
+    "Precio": "$36.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/c/gc1176ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/bolsa-herramienta-icetoolz.html"
+  },
+  {
+    "id": 36,
+    "Tienda": "Oxford Store",
+    "Nombre": "GRASA ZEFAL LITIO PRO II GREASE 150ML 9605",
+    "Precio": "$5.590",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz3010ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/grasa-zefal-litio-pro-ii-grease-150ml-9605.html"
+  },
+  {
+    "id": 37,
+    "Tienda": "Oxford Store",
+    "Nombre": "CORTA CADENA ICETOOLZ ECO 5-12 VELOCIDADES 29M2",
+    "Precio": "$8.390",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/c/gc1172ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/corta-cadena-icetoolz-eco-5-12-velocidades-29m2.html"
+  },
+  {
+    "id": 38,
+    "Tienda": "Oxford Store",
+    "Nombre": "DADO PARA CUBETA MOTOR 12-TOOTH RACE FACE ICETOOLZ M097",
+    "Precio": "$8.390",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/c/gc1178ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/dado-para-cubeta-motor-12-tooth-race-face-icetoolz-m097.html"
+  },
+  {
+    "id": 39,
+    "Tienda": "Oxford Store",
+    "Nombre": "EXTRACTOR CASSETTE/LOCKRING ICETOOLZ P/SHIMANO/SRAM 09C5",
+    "Precio": "$4.190",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/c/gc1181ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/extractor-cassette-lockring-icetoolz-p-shimano-sram-09c5.html"
+  },
+  {
+    "id": 40,
+    "Tienda": "Oxford Store",
+    "Nombre": "EXTRACTOR DE VALVULA ICETOOLZ PRESTA/SCHRADER 66V1",
+    "Precio": "$4.190",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/c/gc1182ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/extractor-de-valvula-icetoolz-presta-schrader-66v1.html"
+  },
+  {
+    "id": 41,
+    "Tienda": "Oxford Store",
+    "Nombre": "GUIA DE RUTEADO INTERNO ICETOOLZ 67R1",
+    "Precio": "$24.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/c/gc1183ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/guia-de-ruteado-interno-icetoolz-67r1.html"
+  },
+  {
+    "id": 42,
+    "Tienda": "Oxford Store",
+    "Nombre": "LLAVE ALLEN ICETOOLZ 2.0MM PUNTA REDONDA 7M20",
+    "Precio": "$3.190",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/c/gc1211ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/llave-allen-icetoolz-2-0mm-punta-redonda-7m20.html"
+  },
+  {
+    "id": 43,
+    "Tienda": "Oxford Store",
+    "Nombre": "LLAVE ALLEN ICETOOLZ 2.5MM PUNTA REDONDA 7M25",
+    "Precio": "$3.190",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/c/gc1212ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/llave-allen-icetoolz-2-5mm-punta-redonda-7m25.html"
+  },
+  {
+    "id": 44,
+    "Tienda": "Oxford Store",
+    "Nombre": "LLAVE TORX ICETOOLZ T-25 7T25",
+    "Precio": "$4.190",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/c/gc1189ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/llave-torx-icetoolz-t-25-7t25.html"
+  },
+  {
+    "id": 45,
+    "Tienda": "Oxford Store",
+    "Nombre": "LLAVERO ALLEN ICETOOLZ 1.5/2/2.5/3/4/5/6/+/- TORX T25 95A3",
+    "Precio": "$8.390",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/c/gc1191ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/llavero-allen-icetoolz-1-5-2-2-5-3-4-5-6-torx-t25-95a3.html"
+  },
+  {
+    "id": 46,
+    "Tienda": "Oxford Store",
+    "Nombre": "LLAVE DE CONO ICETOOLZ 13X14MM 37A1",
+    "Precio": "$3.190",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/c/gc1195ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/llave-de-cono-icetoolz-13x14mm-37a1.html"
+  },
+  {
+    "id": 47,
+    "Tienda": "Oxford Store",
+    "Nombre": "MALETA HERRAMIENTA ICETOOLZ ADVANCE 85A5",
+    "Precio": "$142.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/c/gc1198ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/maleta-herramienta-icetoolz-advance-85a5.html"
+  },
+  {
+    "id": 48,
+    "Tienda": "Oxford Store",
+    "Nombre": "PARCHES ICETOOLZ 6PCS 56P6",
+    "Precio": "$2.590",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/c/gc1201ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/parches-icetoolz-6pcs-56p6.html"
+  },
+  {
+    "id": 49,
+    "Tienda": "Oxford Store",
+    "Nombre": "PASTA ANTI-DESLIZANTE ICETOOLZ 5ML C145",
+    "Precio": "$3.190",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/c/gc1217ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/pasta-anti-deslizante-icetoolz-5ml-c145.html"
+  },
+  {
+    "id": 50,
+    "Tienda": "Oxford Store",
+    "Nombre": "SET LLAVE ALLEN REDONDA ICETOOLZ 2/2.5/3/4/5/6/8MM  36Q1",
+    "Precio": "$4.190",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/c/gc1206ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/set-llave-allen-redonda-icetoolz-2-2-5-3-4-5-6-8mm-36q1.html"
+  },
+  {
+    "id": 51,
+    "Tienda": "Oxford Store",
+    "Nombre": "ACEITE LUBRICANTE ZEFAL EXTRA WET LUBE 10ML 9615",
+    "Precio": "$1.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz3050ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/aceite-lubricante-zefal-extra-wet-lube-10ml-9615.html"
+  },
+  {
+    "id": 52,
+    "Tienda": "Oxford Store",
+    "Nombre": "LLAVERO ALLEN ICE TOOLZ ECO 2/2 5/3/4/5/6+/- 92A1",
+    "Precio": "$5.000",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/c/gc1220ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/llavero-allen-ice-toolz-eco-2-2-5-3-4-5-6-92a1.html"
+  },
+  {
+    "id": 53,
+    "Tienda": "Oxford Store",
+    "Nombre": "DESMONTADORES ZEFAL BLACK 2001A",
+    "Precio": "$1.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz3046ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/desmontadores-zefal-black-2001a.html"
+  },
+  {
+    "id": 54,
+    "Tienda": "Oxford Store",
+    "Nombre": "LLAVERO OXFORD MULTI-HERRAMIENTAS 12 FUNCIONES",
+    "Precio": "$9.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/w/gw1001ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/llavero-oxford-multi-herramientas-12-funciones.html"
+  },
+  {
+    "id": 55,
+    "Tienda": "Oxford Store",
+    "Nombre": "ACEITE LUBRICANTE ZEFAL EXTRA DRY WAX 10ML 9614",
+    "Precio": "$1.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz3051ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/aceite-lubricante-zefal-extra-dry-wax-10ml-9614.html"
+  },
+  {
+    "id": 56,
+    "Tienda": "Oxford Store",
+    "Nombre": "REMOVEDOR BODY MAZA ICETOOLZ 14X15MM 37H3",
+    "Precio": "$4.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/c/gc1205ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/removedor-body-maza-icetoolz-14x15mm-37h3.html"
+  },
+  {
+    "id": 57,
+    "Tienda": "Oxford Store",
+    "Nombre": "LLAVE BIELA TL-FC22 HEXALOBULAR  T-40 Y13098240",
+    "Precio": "$5.000",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/h/c/hc2403ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/llave-biela-tl-fc22-hexalobular-t-40-y13098240.html"
+  },
+  {
+    "id": 58,
+    "Tienda": "Oxford Store",
+    "Nombre": "LLAVE CONO TL-HS23 18X28MM Y20W04000",
+    "Precio": "$1.000",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/h/c/hc2418ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/llave-cono-tl-hs23-18x28mm-y20w04000.html"
+  },
+  {
+    "id": 59,
+    "Tienda": "Oxford Store",
+    "Nombre": "LLAVE CONO TL-HS33 13MM Y23098000",
+    "Precio": "$5.000",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/h/c/hc2411ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/llave-cono-tl-hs33-13mm-y23098000.html"
+  },
+  {
+    "id": 60,
+    "Tienda": "Oxford Store",
+    "Nombre": "LLAVE CONO TL-HS34 14MM Y23098010",
+    "Precio": "$5.000",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/h/c/hc2412ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/llave-cono-tl-hs34-14mm-y23098010.html"
+  },
+  {
+    "id": 61,
+    "Tienda": "Oxford Store",
+    "Nombre": "LLAVE CONO TL-HS37 17MM Y23098030",
+    "Precio": "$5.000",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/h/c/hc2414ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/llave-cono-tl-hs37-17mm-y23098030.html"
+  },
+  {
+    "id": 62,
+    "Tienda": "Oxford Store",
+    "Nombre": "SELLANTE OKO ANTIPINCHAZO MAGIC MILK 5 LITRO",
+    "Precio": "$59.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/g/d/gd0207ba.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/sellante-oko-antipinchazo-magic-milk-5-litro.html"
+  },
+  {
+    "id": 63,
+    "Tienda": "Oxford Store",
+    "Nombre": "ACEITE MINERAL RESPONSE 100ML FBK-06",
+    "Precio": "$5.000",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/e/v/ev2019ba_0.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/aceite-mineral-response-100ml-fbk-06.html"
+  },
+  {
+    "id": 64,
+    "Tienda": "Oxford Store",
+    "Nombre": "SET CEPILLOS ZEFAL ZB LIMPIEZA 1197",
+    "Precio": "$18.890",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/z/b/zb-set.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/set-cepillos-zefal-zb-limpieza-1197.html"
+  },
+  {
+    "id": 65,
+    "Tienda": "Oxford Store",
+    "Nombre": "LIMPIA DISCO SPRAY ZEFAL DISC BRAKE 400ML 9986",
+    "Precio": "$10.990",
+    "imgURL": "https://www.oxfordstore.cl/media/catalog/product/cache/cb1ea22e42c95eeb3d4e77abf38ffa96/t/z/tz3042ba_0_3.jpg",
+    "URLproducto": "https://www.oxfordstore.cl/limpia-disco-spray-zefal-disc-brake-400ml-9986.html"
+  }
+]

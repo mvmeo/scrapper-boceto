@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "Tienda": "Evobikes",
+    "Nombre": "GEL NUTREND CARBOSNACK SACHET",
+    "Precio": "$2.290",
+    "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/04/carbosnack_sachet.png",
+    "URLproducto": "https://evobikes.cl/cl/gel-nutrend-carbosnack/"
+  },
+  {
+    "id": 2,
+    "Tienda": "Evobikes",
+    "Nombre": "GEL SPONSER LIQUID ENERGY SALTY",
+    "Precio": "$2.090",
+    "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/04/liquid_energy_salty_sachet_1.png",
+    "URLproducto": "https://evobikes.cl/cl/gel-sponser-liquid-energy-salty/"
+  },
+  {
+    "id": 3,
+    "Tienda": "Evobikes",
+    "Nombre": "GEL NUTREND CARBOSNACK SACHET CAFEÍNA",
+    "Precio": "$2.290",
+    "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/04/carbosnack_sachet_Cafe.png",
+    "URLproducto": "https://evobikes.cl/cl/gel-nutrend-carbosnack-sachet-cafeina/"
+  },
+  {
+    "id": 4,
+    "Tienda": "Evobikes",
+    "Nombre": "ISOTONICO NUTREND ISO DRINX TABLETAS (TUBO 12 UNIDADES)",
+    "Precio": "$7.900",
+    "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/04/isodrinx-tablety-ora-630x630.jpg",
+    "URLproducto": "https://evobikes.cl/cl/isotonico-nutrend-iso-drinx/"
+  },
+  {
+    "id": 5,
+    "Tienda": "Evobikes",
+    "Nombre": "SOBRE SPONSER ISOTONIC RED ORANGE 60 G",
+    "Precio": "$2.300",
+    "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/05/ISOTONIC-RED-ORANGE-630x630.png",
+    "URLproducto": "https://evobikes.cl/cl/sobre-sponser-isotonic-red-orange-60-grs/"
+  },
+  {
+    "id": 6,
+    "Tienda": "Evobikes",
+    "Nombre": "SOBRE SPONSER CARBO LOADER CITRUS/ORANGE 75G",
+    "Precio": "$2.690",
+    "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/05/CARBO-LOADER-630x630.png",
+    "URLproducto": "https://evobikes.cl/cl/sobre-sponser-carbo-loader-citrus-orange-75g/"
+  },
+  {
+    "id": 7,
+    "Tienda": "Evobikes",
+    "Nombre": "CÁPSULAS SPONSER CAFFEINE CAPS 90 U",
+    "Precio": "$25.990",
+    "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/05/CAFFEINE-CAPS-630x630.jpg",
+    "URLproducto": "https://evobikes.cl/cl/capsulas-sponser-caffeine-caps-90-u/"
+  },
+  {
+    "id": 8,
+    "Tienda": "Evobikes",
+    "Nombre": "CAPSULAS SPONSER SALT CAPS",
+    "Precio": "$27.900",
+    "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/04/SALT-CAPS-630x630.jpg",
+    "URLproducto": "https://evobikes.cl/cl/capsulas-sponser-salt-caps/"
+  },
+  {
+    "id": 9,
+    "Tienda": "Evobikes",
+    "Nombre": "GEL SPONSER LIQUID ENERGY BCAA",
+    "Precio": "$3.350",
+    "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/04/PROTONE-630x630.png",
+    "URLproducto": "https://evobikes.cl/cl/gel-sponser-liquid-energy-bcaa/"
+  },
+  {
+    "id": 10,
+    "Tienda": "Evobikes",
+    "Nombre": "TABLETAS SPONSER ELECTROLYTES",
+    "Precio": "$9.350",
+    "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/04/SPONSER-ELECTROLITES.png",
+    "URLproducto": "https://evobikes.cl/cl/tabletas-sponser-electrolytes-fruit/"
+  },
+  {
+    "id": 11,
+    "Tienda": "Evobikes",
+    "Nombre": "SPONSER POWER GUMS",
+    "Precio": "$3.290",
+    "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/04/Power-Gums-v2-2-630x630.png",
+    "URLproducto": "https://evobikes.cl/cl/sponser-power-gums/"
+  },
+  {
+    "id": 12,
+    "Tienda": "Evobikes",
+    "Nombre": "GEL SPONSER LIQUID ENERGY PLUS",
+    "Precio": "$3.350",
+    "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/04/Sponser-liquid-energy-plus.png",
+    "URLproducto": "https://evobikes.cl/cl/gel-sponser-liquid-energy-plus-20x70-gr/"
+  },
+  {
+    "id": 13,
+    "Tienda": "Evobikes",
+    "Nombre": "BARRA NUTREND DELUXE",
+    "Precio": "$2.600",
+    "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/04/deluxe-bar-panna-cotta-2020-fin-630x630.jpg",
+    "URLproducto": "https://evobikes.cl/cl/barra-nutrend-deluxe/"
+  },
+  {
+    "id": 14,
+    "Tienda": "Evobikes",
+    "Nombre": "BARRA NUTREND PROTEIN",
+    "Precio": "$2.000",
+    "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/04/protein-bar-chocolate-2020-630x630.jpg",
+    "URLproducto": "https://evobikes.cl/cl/barra-nutrend-protein/"
+  },
+  {
+    "id": 15,
+    "Tienda": "Evobikes",
+    "Nombre": "MAGNESIO NUTREND MAGNESLIFE 25ML (UNIDAD)",
+    "Precio": "$2.190",
+    "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/04/magneslife-630x630.jpg",
+    "URLproducto": "https://evobikes.cl/cl/magnesio-nutrend-magneslife/"
+  },
+  {
+    "id": 16,
+    "Tienda": "Evobikes",
+    "Nombre": "CREATINA NUTREND MONOHIDRATADA",
+    "Precio": "$29.900",
+    "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/04/nutrend-creatine-monohydrat-630x630.webp",
+    "URLproducto": "https://evobikes.cl/cl/creatina-nutrend-monohidratada/"
+  }
+]

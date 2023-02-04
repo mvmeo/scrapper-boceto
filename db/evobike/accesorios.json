@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "Tienda": "Evobikes",
     "Nombre": "KIT ACCESORIOS SCOTT SYN RIDER SET",
     "Precio": "$48.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/08/synrideracc-630x630.jpg",
@@ -8,6 +9,7 @@
   },
   {
     "id": 2,
+    "Tienda": "Evobikes",
     "Nombre": "ENVASE MULTIFUNCION SHIMANO PRO",
     "Precio": "$6.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/EnvaseMultifucional_Pro500.jpg",
@@ -15,6 +17,7 @@
   },
   {
     "id": 3,
+    "Tienda": "Evobikes",
     "Nombre": "BOLSO WOLF TOOTH B-RAD TEKLITE ROLL-TOP",
     "Precio": "$44.900 – $49.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/WT_TK-RTB_1.jpg",
@@ -22,6 +25,7 @@
   },
   {
     "id": 4,
+    "Tienda": "Evobikes",
     "Nombre": "BOLSO KOMODO TERMICO DELIVERY 40 X 40",
     "Precio": "$49.000",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/12/bolso_40x40_01_web.jpg",
@@ -29,6 +33,7 @@
   },
   {
     "id": 5,
+    "Tienda": "Evobikes",
     "Nombre": "BOLSO KOMODO AERO COMPACT",
     "Precio": "$95.000",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/KOMODO_AeroCompact_1.jpg",
@@ -36,6 +41,7 @@
   },
   {
     "id": 6,
+    "Tienda": "Evobikes",
     "Nombre": "BOLSO KOMODO FULL AERO",
     "Precio": "$195.000",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/KOMODO_FullAero_1.jpg",
@@ -43,6 +49,7 @@
   },
   {
     "id": 7,
+    "Tienda": "Evobikes",
     "Nombre": "CUBRE PICK UP SCOTT TRUCK PAD SMALL 54",
     "Precio": "$134.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/08/CUBRE_PICK_UP_SCOTT_TRUCK_PAD_SMALL_54-630x630.jpg",
@@ -50,6 +57,7 @@
   },
   {
     "id": 8,
+    "Tienda": "Evobikes",
     "Nombre": "BOMBIN ONE S.PUMP 50",
     "Precio": "$39.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/SUPERIOR_S.Pump50_1-630x630.jpg",
@@ -57,6 +65,7 @@
   },
   {
     "id": 9,
+    "Tienda": "Evobikes",
     "Nombre": "CARTRIDGE CO2 SHIMANO PRO 25G",
     "Precio": "$7.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/05/C02-630x630.png",
@@ -64,6 +73,7 @@
   },
   {
     "id": 10,
+    "Tienda": "Evobikes",
     "Nombre": "BOMBIN SUPACAZ SUAVEAIR – OIL SLICK",
     "Precio": "$149.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/SUPACAZ_SuaveAir_2-630x630.jpg",
@@ -71,6 +81,7 @@
   },
   {
     "id": 11,
+    "Tienda": "Evobikes",
     "Nombre": "CANDADO ON GUARD U-LOCK BULLDOG LS",
     "Precio": "$25.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/C882-630x630.jpg",
@@ -78,6 +89,7 @@
   },
   {
     "id": 12,
+    "Tienda": "Evobikes",
     "Nombre": "CANDADO ON GUARD U-LOCK BULLDOG STD LM",
     "Precio": "$23.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/07/C1080.jpg",
@@ -85,6 +97,7 @@
   },
   {
     "id": 13,
+    "Tienda": "Evobikes",
     "Nombre": "CANDADO ON GUARD U-LOCK NEON STD NEGRO",
     "Precio": "$16.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/C2391-onguard-ns-std-negro.jpg",
@@ -92,6 +105,7 @@
   },
   {
     "id": 14,
+    "Tienda": "Evobikes",
     "Nombre": "CANDADO ON GUARD U-LOCK NEON STD VERDE",
     "Precio": "$16.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/C2154-onguard-ns-std-verde.jpg",
@@ -99,6 +113,7 @@
   },
   {
     "id": 15,
+    "Tienda": "Evobikes",
     "Nombre": "CANDADO ON GUARD U-LOCK NEON STD NARANJO",
     "Precio": "$16.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/C2155-onguard-ns-std-naranjo.jpg",
@@ -106,6 +121,7 @@
   },
   {
     "id": 16,
+    "Tienda": "Evobikes",
     "Nombre": "CANDADO ON GUARD U-LOCK NEON STD AZUL",
     "Precio": "$16.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/C2137-onguard-ns-std-azul.jpg",
@@ -113,6 +129,7 @@
   },
   {
     "id": 17,
+    "Tienda": "Evobikes",
     "Nombre": "CANDADO ON GUARD U-LOCK NEON STD AMARILLO",
     "Precio": "$16.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/C2430-onguard-ns-std-amarillo.jpg",
@@ -120,6 +137,7 @@
   },
   {
     "id": 18,
+    "Tienda": "Evobikes",
     "Nombre": "CARAMAGIOLA WOLF TOOTH PURIST",
     "Precio": "$8.900 – $10.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/WT_PURIST_BC.jpg",
@@ -127,6 +145,7 @@
   },
   {
     "id": 19,
+    "Tienda": "Evobikes",
     "Nombre": "PERNOS WOLF TOOTH CARAMAGIOLA TITANIO",
     "Precio": "$16.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/06/WT_Waterbottle-cage-Bolts_TI_RNBLP-630x630.png",
@@ -134,6 +153,7 @@
   },
   {
     "id": 20,
+    "Tienda": "Evobikes",
     "Nombre": "PERNOS WOLF TOOTH CARAMAGIOLA",
     "Precio": "$7.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/06/WT_Waterbottle-cage-Bolts_ORG-630x630.png",
@@ -141,6 +161,7 @@
   },
   {
     "id": 21,
+    "Tienda": "Evobikes",
     "Nombre": "CARAMAGIOLA SANTIC BASIL",
     "Precio": "$9.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/145_720x-630x630.jpg",
@@ -148,6 +169,7 @@
   },
   {
     "id": 22,
+    "Tienda": "Evobikes",
     "Nombre": "CARAMAGIOLA WOLF TOOTH ECHO",
     "Precio": "$8.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/WT_echo_BC.jpg",
@@ -155,6 +177,7 @@
   },
   {
     "id": 23,
+    "Tienda": "Evobikes",
     "Nombre": "CARAMAGIOLA WOLF TOOTH MATRIX",
     "Precio": "$8.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/0.6-L-5.jpg",
@@ -162,6 +185,7 @@
   },
   {
     "id": 24,
+    "Tienda": "Evobikes",
     "Nombre": "FUNDA GARMIN EDGE 1030 SILICONE",
     "Precio": "$19.990",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/04/funda_1030.jpg",
@@ -169,6 +193,7 @@
   },
   {
     "id": 25,
+    "Tienda": "Evobikes",
     "Nombre": "CICLOCOMPUTADOR GARMIN EDGE 130 PLUS SOLO",
     "Precio": "$209.990",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/04/EDGE_130_SOLO-630x630.jpg",
@@ -176,6 +201,7 @@
   },
   {
     "id": 26,
+    "Tienda": "Evobikes",
     "Nombre": "CICLOCOMPUTADOR GARMIN EDGE 130 PLUS BUNDLE",
     "Precio": "$299.990",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/CICLOCOMPUTADOR-GARMIN-EDGE-130-PLUS-BUNDLE.jpg",
@@ -183,6 +209,7 @@
   },
   {
     "id": 27,
+    "Tienda": "Evobikes",
     "Nombre": "FUNDA GARMIN EDGE 530 SILICONE",
     "Precio": "$19.990",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/FUNDA-GARMIN-EDGE-530-SILICONE-RED.jpg",
@@ -190,6 +217,7 @@
   },
   {
     "id": 28,
+    "Tienda": "Evobikes",
     "Nombre": "CICLOCOMPUTADOR GARMIN EDGE 530 SOLO",
     "Precio": "$379.990",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/04/edge_530_solo.jpg",
@@ -197,6 +225,7 @@
   },
   {
     "id": 29,
+    "Tienda": "Evobikes",
     "Nombre": "CICLOCOMPUTADOR GARMIN EDGE 830 SOLO",
     "Precio": "$479.990",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/04/edge_830_solo.jpg",
@@ -204,6 +233,7 @@
   },
   {
     "id": 30,
+    "Tienda": "Evobikes",
     "Nombre": "CICLOCOMPUTADOR GARMIN EDGE 1030 PLUS BUNDLE S.A.",
     "Precio": "$849.990",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/CICLOCOMPUTADOR-GARMIN-EDGE-1030-PLUS-BUNDLE-S.A..jpg",
@@ -211,6 +241,7 @@
   },
   {
     "id": 31,
+    "Tienda": "Evobikes",
     "Nombre": "CICLOCOMPUTADOR GARMIN EDGE 830 BUNDLE S.A.",
     "Precio": "$629.990",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/CICLOCOMPUTADOR-GARMIN-EDGE-830-BUNDLE-S.A..jpg",
@@ -218,6 +249,7 @@
   },
   {
     "id": 32,
+    "Tienda": "Evobikes",
     "Nombre": "CICLOCOMPUTADOR GARMIN EDGE 530 SENSOR BUNDLE S.A.",
     "Precio": "$479.990",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/CICLOCOMPUTADOR-GARMIN-EDGE-530-SENSOR-BUNDLE-S.A..jpg",
@@ -225,6 +257,7 @@
   },
   {
     "id": 33,
+    "Tienda": "Evobikes",
     "Nombre": "FUNDA GARMIN EDGE 830 SILICONE",
     "Precio": "$19.990",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/FUNDA-GARMIN-EDGE-830-SILICONE-BLUE.jpg",
@@ -232,6 +265,7 @@
   },
   {
     "id": 34,
+    "Tienda": "Evobikes",
     "Nombre": "SENSOR GARMIN BIKE CADENCE SENSOR 2",
     "Precio": "$44.990",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/SENSOR-GARMIN-BIKE-CADENCE-SENSOR-2.jpg",
@@ -239,6 +273,7 @@
   },
   {
     "id": 35,
+    "Tienda": "Evobikes",
     "Nombre": "SENSOR GARMIN BIKE SPEED SENSOR 2",
     "Precio": "$44.990",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/Sensor-de-velocidad-2.jpg",
@@ -246,6 +281,7 @@
   },
   {
     "id": 36,
+    "Tienda": "Evobikes",
     "Nombre": "SENSOR GARMIN BIKE SPEED AND CADENCE SENSOR 2",
     "Precio": "$74.990",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/BIKE-SPEED-AND-CADENCE-SENSOR-2.jpg",
@@ -253,6 +289,7 @@
   },
   {
     "id": 37,
+    "Tienda": "Evobikes",
     "Nombre": "SOPORTE GARMIN QUARTER TURN BIKE",
     "Precio": "$9.990",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/SOPORTE-GARMIN-QUARTER-TURN-BIKE.jpg",
@@ -260,6 +297,7 @@
   },
   {
     "id": 38,
+    "Tienda": "Evobikes",
     "Nombre": "SOPORTE GARMIN EXTENDED BIKE MOUNT",
     "Precio": "$39.990",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/GARMIN-EXTENDED-BIKE-MOUNT.jpg",
@@ -267,6 +305,7 @@
   },
   {
     "id": 39,
+    "Tienda": "Evobikes",
     "Nombre": "SOPORTE GARMIN EDGE MOUNTAIN BIKE MOUNT",
     "Precio": "$39.990",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/03/EDGE-MOUNTAIN-BIKE-MOUNT_1.jpg",
@@ -274,6 +313,7 @@
   },
   {
     "id": 40,
+    "Tienda": "Evobikes",
     "Nombre": "LUCES KNOG COBBER LIL TWINPACK",
     "Precio": "$73.900 $65.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/Knog_Cobber.jpg",
@@ -281,6 +321,7 @@
   },
   {
     "id": 41,
+    "Tienda": "Evobikes",
     "Nombre": "LUZ TRASERA KNOG BLINDER ROAD R70 BLK",
     "Precio": "$49.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/02/road_r70-630x630.jpg",
@@ -288,6 +329,7 @@
   },
   {
     "id": 42,
+    "Tienda": "Evobikes",
     "Nombre": "LUCES KNOG PLUG SET DELANTERA 250LM / TRASERA 10LM",
     "Precio": "$42.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/02/PLUG_TWINPACK.jpg",
@@ -295,6 +337,7 @@
   },
   {
     "id": 43,
+    "Tienda": "Evobikes",
     "Nombre": "LUZ DELANTERA KNOG PLUS FREE",
     "Precio": "$14.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/Knog_PlusFree.jpg",
@@ -302,6 +345,7 @@
   },
   {
     "id": 44,
+    "Tienda": "Evobikes",
     "Nombre": "LUZ DELANTERA KNOG BLINDER ROAD 600",
     "Precio": "$68.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/Knog_BlinderRoad600.jpg",
@@ -309,6 +353,7 @@
   },
   {
     "id": 45,
+    "Tienda": "Evobikes",
     "Nombre": "LUCES KNOG BLINDER MINI SQUARE TWINPACK",
     "Precio": "$57.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/Knog_MiniBlinder.jpg",
@@ -316,6 +361,7 @@
   },
   {
     "id": 46,
+    "Tienda": "Evobikes",
     "Nombre": "LUCES KNOG BLINDER SQUARE TWINPACK",
     "Precio": "$62.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/Knog_BlinderO.jpg",
@@ -323,6 +369,7 @@
   },
   {
     "id": 47,
+    "Tienda": "Evobikes",
     "Nombre": "LUCES KNOG BLINDER X TWINPACK",
     "Precio": "$62.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/Knog_BlinderX.jpg",
@@ -330,6 +377,7 @@
   },
   {
     "id": 48,
+    "Tienda": "Evobikes",
     "Nombre": "LUCES KNOG PLUS TWINPACK TRANSLUCENT",
     "Precio": "$27.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/LucesKnog_TwinpackTranslucent.jpg",
@@ -337,6 +385,7 @@
   },
   {
     "id": 49,
+    "Tienda": "Evobikes",
     "Nombre": "LUZ TRASERA KNOG PLUS",
     "Precio": "$15.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/LuzTrasera_KnogPlus.jpg",
@@ -344,6 +393,7 @@
   },
   {
     "id": 50,
+    "Tienda": "Evobikes",
     "Nombre": "LUZ DELANTERA KNOG PLUS",
     "Precio": "$15.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2022/01/LuzDelantera_KnogPlus.jpg",
@@ -351,6 +401,7 @@
   },
   {
     "id": 51,
+    "Tienda": "Evobikes",
     "Nombre": "LUZ ONE F.LIGHT 50",
     "Precio": "$39.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/F.LIGHT_50.jpg",
@@ -358,6 +409,7 @@
   },
   {
     "id": 52,
+    "Tienda": "Evobikes",
     "Nombre": "LUZ ONE S.LIGHT 40",
     "Precio": "$29.900",
     "imgURL": "https://evobikes.cl/cl/wp-content/uploads/2021/12/S.LIGHT_40.jpg",

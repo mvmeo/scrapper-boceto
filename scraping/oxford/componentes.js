@@ -7,20 +7,18 @@ import { scrape } from "./utils/functions.js";
 import { indexar } from "../utils/functions.js";
 import { info } from "../utils/info.js";
 
-const indumentaria = [];
+const componentes = [];
 
-for (let i = 0; i < info.pedalpro.URLS.indumentaria.length; i++) {
-  const res = await fetch(info.pedalpro.URLS.indumentaria[i]);
+for (let i = 0; i < info.oxford.URLS.componentes.length; i++) {
+  const res = await fetch(info.oxford.URLS.componentes[i]);
   const html = await res.text();
 
-  scrape(html, indumentaria, info.pedalpro.nombre);
+  scrape(html, componentes, info.oxford.nombre);
 }
 
-indumentaria.shift();
-
-const lista = indexar(indumentaria)
+const lista = indexar(componentes);
 
 const data = JSON.stringify(lista, null, 2);
-const filePath = path.join(process.cwd(), "./db/pedalpro/indumentaria.json");
+const filePath = path.join(process.cwd(), "./db/oxford/componentes.json");
 
 await writeFile(filePath, data, "utf-8");
