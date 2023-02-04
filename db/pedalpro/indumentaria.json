@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "Nombre": "CALCETÍN SRAM",
+    "Precio": "$9.900",
+    "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/04/CALCETIN-SRAM-300x300.jpg",
+    "URLproducto": "https://pedalpro.cl/producto/calcetin-sram/"
+  },
+  {
+    "id": 2,
+    "Nombre": "CALCETIN SRAM NEGRO",
+    "Precio": "$9.900",
+    "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/04/CALCETIN-SRAM-NEGRO-COOLPLUS-300x300.jpg",
+    "URLproducto": "https://pedalpro.cl/producto/calcetin-sram-negro/"
+  },
+  {
+    "id": 3,
+    "Nombre": "CALCETIN SRAM NEGRO COOLPLUS",
+    "Precio": "$9.900",
+    "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/04/CALCETIN-SRAM-NEGRO-COOLPLUS-300x300.jpg",
+    "URLproducto": "https://pedalpro.cl/producto/calcetin-sram-negro-coolplus/"
+  },
+  {
+    "id": 4,
+    "Nombre": "Casco PATH Mips- Giant",
+    "Precio": "$65.000",
+    "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/10/product_image_800002568_3144_1-1-300x300.jpg",
+    "URLproducto": "https://pedalpro.cl/producto/casco-path-mips-giant/"
+  },
+  {
+    "id": 5,
+    "Nombre": "Casco REV COMP Mips-Giant",
+    "Precio": "$89.000",
+    "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/10/product_image_800001684_1.jpg",
+    "URLproducto": "https://pedalpro.cl/producto/casco-rev-comp-mips-giant/"
+  },
+  {
+    "id": 6,
+    "Nombre": "Casco REV MIPS- GIANT",
+    "Precio": "$125.000",
+    "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/11/800001539-REV-MIPS-MATTE-METALLIC-SILVER-MATTE-BLACK-M-300x300.jpg",
+    "URLproducto": "https://pedalpro.cl/producto/casco-rev-mips-giant/"
+  },
+  {
+    "id": 7,
+    "Nombre": "Casco REV Pro- GIANT",
+    "Precio": "$193.000",
+    "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/10/REV-PRO-MIPS-MATTE-METALLIC-BLACK-1_500x-300x300.webp",
+    "URLproducto": "https://pedalpro.cl/producto/casco-southpark-gris-matte/"
+  },
+  {
+    "id": 8,
+    "Nombre": "Casco RILEY Mips – GIANT",
+    "Precio": "$57.900",
+    "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/10/800002586-RELAY-MIPS-GLOSS-WHITE-S-M-1-300x300.jpg",
+    "URLproducto": "https://pedalpro.cl/producto/casco-riley-mips-giant/"
+  },
+  {
+    "id": 9,
+    "Nombre": "MOCHILA DE HIDRATACION EVOC CC 3L RACE+2L BLADDER",
+    "Precio": "$64.500",
+    "imgURL": "https://pedalpro.cl/wp-content/uploads/2022/04/MOCHILA-DE-HIDRATACION-EVOC-CC-3L-RACE2L-BLADDER-300x300.jpg",
+    "URLproducto": "https://pedalpro.cl/producto/mochila-de-hidratacion-evoc-cc-3l-race2l-bladder/"
+  }
+]
