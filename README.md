@@ -22,18 +22,10 @@ Articulos que se muestran en la plataforma:
 * [Smartlife](https://smartlife-sports.cl/)
 * [Evobikes](https://evobikes.cl/cl/)
 * [Pedal Pro](https://pedalpro.cl/)
-
-## Páginas que no permitieron scraping sencillo (usar alternativas que simulen navegación) :(
-
-Estas páginas deben ser scrapeadas simulando una navegación.
 * [5norte](https://www.5norte.cl/)
-* [Decathlon](https://www.decathlon.cl/)
-* [Serjaf](https://www.serjaf.cl/)
 * [Velo Boutique](https://veloboutique.cl/)
+* [Decathlon](https://www.decathlon.cl/)
 * [Specialized](https://www.specialized.com/cl/es/shop/c/shop)
-
-Esta página tiene detalles en su código fuente que se podría solucionar para extraer los datos:
-* [Montonsports](https://www.montonsports.cl/)
 
 
 ## Tecnologías

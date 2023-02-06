@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "Tienda": "Velo Boutique",
+    "Nombre": "Tubo S-Road 700C",
+    "Precio": "$29.900",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/capa9_18a709f2-c427-4d12-bbb7-314a8dd44540_600x.png?v=1646790053",
+    "URLproducto": "https://www.veloboutique.cl/collections/tubolito/products/tubo-road-700c"
+  },
+  {
+    "id": 2,
+    "Tienda": "Velo Boutique",
+    "Nombre": "MC-FLY",
+    "Precio": "$149.000",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/capa58_71b3c8c3-aa9a-4261-b830-4a14b191da9d_600x.png?v=1646799025",
+    "URLproducto": "https://www.veloboutique.cl/collections/tatze/products/mc-fly"
+  },
+  {
+    "id": 3,
+    "Tienda": "Velo Boutique",
+    "Nombre": "Roldanas Kogel 12/14T oversized pulleys for SHIM R9100 - Full Ceramic (Gold)",
+    "Precio": "$348.990",
+    "imgURL": "",
+    "URLproducto": "https://www.veloboutique.cl/collections/kogel/products/roldanas-kogel-12-14t-oversized-pulleys-for-shim-r9100-full-ceramic-gold"
+  },
+  {
+    "id": 4,
+    "Tienda": "Velo Boutique",
+    "Nombre": "Roldanas Kogel 12/14T oversized pulleys for SHIMANO R9100-Road Raw",
+    "Precio": "$348.990",
+    "imgURL": "",
+    "URLproducto": "https://www.veloboutique.cl/collections/kogel/products/roldanas-kogel-12-14t-oversized-pulleys-for-shimano-r9100-road-raw-1"
+  },
+  {
+    "id": 5,
+    "Tienda": "Velo Boutique",
+    "Nombre": "Roldanas Kogel 12/14T oversized pulleys for SHIMANO R9100 - Road Red",
+    "Precio": "$348.990",
+    "imgURL": "",
+    "URLproducto": "https://www.veloboutique.cl/collections/kogel/products/roldanas-kogel-12-14t-oversized-pulleys-for-shimano-r9100-road-red"
+  },
+  {
+    "id": 6,
+    "Tienda": "Velo Boutique",
+    "Nombre": "Roldanas Kogel 12/12T pulley set for WIFLI-Road Black",
+    "Precio": "$348.990",
+    "imgURL": "",
+    "URLproducto": "https://www.veloboutique.cl/collections/kogel/products/roldanas-kogel-12-12t-pulley-set-for-wifli-road-black"
+  },
+  {
+    "id": 7,
+    "Tienda": "Velo Boutique",
+    "Nombre": "Roldanas Kogel 12/12T pulley set for WIFLI-Road Blue",
+    "Precio": "$348.990",
+    "imgURL": "",
+    "URLproducto": "https://www.veloboutique.cl/collections/kogel/products/roldanas-kogel-12-12t-pulley-set-for-wifli-road-blue"
+  },
+  {
+    "id": 8,
+    "Tienda": "Velo Boutique",
+    "Nombre": "Roldanas Kogel 12/12T Full Ceramic pulley set for WIFLI-Road Gold",
+    "Precio": "$348.990",
+    "imgURL": "",
+    "URLproducto": "https://www.veloboutique.cl/collections/kogel/products/roldanas-kogel-12-12t-full-ceramic-pulley-set-for-wifli-road-gold"
+  },
+  {
+    "id": 9,
+    "Tienda": "Velo Boutique",
+    "Nombre": "Perno de fijación del brazo de biela Shimano / Short Red Tamaño Unico",
+    "Precio": "$22.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/Capa18_26bd5f3a-4f07-4a21-8572-a37521eb4065_600x.png?v=1661785290",
+    "URLproducto": "https://www.veloboutique.cl/collections/kogel/products/perno-de-fijacion-del-brazo-de-biela-shimano-short-red-tamano-unico"
+  },
+  {
+    "id": 10,
+    "Tienda": "Velo Boutique",
+    "Nombre": "Perno de fijación del brazo de biela Shimano / Short Raw Tamaño Unico",
+    "Precio": "$22.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/Capa10_8e3f5617-2bd7-4efa-a10c-6f0dc34213e9_600x.png?v=1661785131",
+    "URLproducto": "https://www.veloboutique.cl/collections/kogel/products/perno-de-fijacion-del-brazo-de-biela-shimano-short-raw-tamano-unico"
+  },
+  {
+    "id": 11,
+    "Tienda": "Velo Boutique",
+    "Nombre": "Perno de fijación del brazo de biela Shimano / Short Gold Tamaño Unico",
+    "Precio": "$22.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/Capa12_6d6cd834-782b-4ece-ad41-a5167aae58d3_600x.png?v=1661784946",
+    "URLproducto": "https://www.veloboutique.cl/collections/kogel/products/perno-de-fijacion-del-brazo-de-biela-shimano-short-gold-tamano-unico"
+  },
+  {
+    "id": 12,
+    "Tienda": "Velo Boutique",
+    "Nombre": "Perno de fijación del brazo de biela Shimano / Long Raw Tamaño Unico",
+    "Precio": "$22.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/Capa10_d816384b-6e97-495d-a39b-e0e8c32652b2_600x.png?v=1661782955",
+    "URLproducto": "https://www.veloboutique.cl/collections/kogel/products/perno-de-fijacion-del-brazo-de-biela-shimano-long-raw-tamano-unico"
+  },
+  {
+    "id": 13,
+    "Tienda": "Velo Boutique",
+    "Nombre": "Sram Red y Force eTap AXS Jaula de cambio de gran tamaño - Negro",
+    "Precio": "$522.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/Capa6_1c7a16fa-430c-4083-9963-ff8c31fd3ac4_600x.png?v=1661866498",
+    "URLproducto": "https://www.veloboutique.cl/collections/kogel/products/sram-red-y-force-etap-axs-jaula-de-cambio-de-gran-tamano-negro"
+  },
+  {
+    "id": 14,
+    "Tienda": "Velo Boutique",
+    "Nombre": "Jaula de cambio de gran tamaño Shimano - Dura Ace R9100 y Ultegra R8000 - Midas Gold",
+    "Precio": "$522.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/Capa1_52bd864c-5bb4-4c7e-b0c4-9af6037aa251_600x.png?v=1661780497",
+    "URLproducto": "https://www.veloboutique.cl/collections/kogel/products/jaula-de-cambio-de-gran-tamano-shimano-dura-ace-r9100-y-ultegra-r8000-midas-gold"
+  }
+]

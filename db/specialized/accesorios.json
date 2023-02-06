@@ -1,0 +1,594 @@
+[
+  {
+    "id": 1,
+    "Tienda": "Specialized",
+    "Nombre": "Flux 250R Taillight",
+    "Precio": "$60.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/49120-250_LGHT_FLUX-250R-TAILLIGHT_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/flux-250r-taillight/p/173395?color=270194-173395"
+  },
+  {
+    "id": 2,
+    "Tienda": "Specialized",
+    "Nombre": "Flashback Trasero",
+    "Precio": "$30.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/49120-240_LGHT_FLASHBACK-TAILLIGHT_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/flashback-trasero/p/173305?color=270048-173305"
+  },
+  {
+    "id": 3,
+    "Tienda": "Specialized",
+    "Nombre": "Flash Combo Delantera/Trasera",
+    "Precio": "$50.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/49120-241_LGHT_FLASH-COMBO-HEADLIGHT-TAILLIGHT_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/flash-combo-delantera-trasera/p/184041?color=291020-184041"
+  },
+  {
+    "id": 4,
+    "Tienda": "Specialized",
+    "Nombre": "Flash 500 Headlight",
+    "Precio": "$60.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/49121-145_LGHT_FLASH-500-HEADLIGHT_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/flash-500-headlight/p/187372?color=300500-187372"
+  },
+  {
+    "id": 5,
+    "Tienda": "Specialized",
+    "Nombre": "Flux™ 850 Headlight",
+    "Precio": "$110.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/49119-161_LGHT_FLUX-1200-HEADLIGHT_MOUNT?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/flux-850-headlight/p/187420?color=300741-187420"
+  },
+  {
+    "id": 6,
+    "Tienda": "Specialized",
+    "Nombre": "Flux™ 1250 Headlight",
+    "Precio": "$140.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/49119-161_LGHT_FLUX-1200-HEADLIGHT_MOUNT?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/flux-1250-headlight/p/187419?color=300762-187419"
+  },
+  {
+    "id": 7,
+    "Tienda": "Specialized",
+    "Nombre": "Paquete Stix Switch 2",
+    "Precio": "$60.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/49119-400_LGHT_STIX-SWITCH-COMBO-HEADLIGHT-TAILLIGHT_HERO-2?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/paquete-stix-switch-2/p/184042?color=291021-184042"
+  },
+  {
+    "id": 8,
+    "Tienda": "Specialized",
+    "Nombre": "Stix Switch Headlight/Taillight Combo",
+    "Precio": "$40.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/49119-400_LGHT_STIX-SWITCH-COMBO-HEADLIGHT-TAILLIGHT_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/stix-switch-headlight-taillight-combo/p/170437?color=261642-170437"
+  },
+  {
+    "id": 9,
+    "Tienda": "Specialized",
+    "Nombre": "Stix Arm/Leg Band Mount",
+    "Precio": "$14.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/49116-937_LGHT_STIX-ARM-LEG-BAND-MOUNT_BLK?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/stix-arm-leg-band-mount/p/172018?color=266572-172018"
+  },
+  {
+    "id": 10,
+    "Tienda": "Specialized",
+    "Nombre": "Stix Reflector Mount",
+    "Precio": "$5.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/49116-936_LGHT_STIX-REFLECTOR-RACK-MOUNT_BLK?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/stix-reflector-mount/p/172721?color=268349-172721"
+  },
+  {
+    "id": 11,
+    "Tienda": "Specialized",
+    "Nombre": "Montaje en Espaciador para Stix Headset",
+    "Precio": "$5.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/49116-933_LGHT_STIX-HEADSET-SPACER-MOUNT-WITH-10MM-SPACER_BLK?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/montaje-en-espaciador-para-stix-headset/p/172832?color=268756-172832"
+  },
+  {
+    "id": 12,
+    "Tienda": "Specialized",
+    "Nombre": "Stix Fabric Clip Mount",
+    "Precio": "$5.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/49116-930_LGHT_STIX-FABRIC-CLIP-MOUNT_BLK?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/stix-fabric-clip-mount/p/172357?color=267461-172357"
+  },
+  {
+    "id": 13,
+    "Tienda": "Specialized",
+    "Nombre": "Flash 300 Headlight",
+    "Precio": "$45.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/49120-140_LGHT_FLASH-300-HEADLIGHT_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/flash-300-headlight/p/184321?color=292840-184321"
+  },
+  {
+    "id": 14,
+    "Tienda": "Specialized",
+    "Nombre": "Flash Pack Headlight/Taillight Combo",
+    "Precio": "$65.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/49121-360_LGHT_FLASH-PACK-HEADLIGHT-TAILLIGHT_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/flash-pack-headlight-taillight-combo/p/187374?color=300523-187374"
+  },
+  {
+    "id": 15,
+    "Tienda": "Specialized",
+    "Nombre": "Stix Switch Delantera/Trasera",
+    "Precio": "$40.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/49119-400_LGHT_STIX-SWITCH-COMBO-HEADLIGHT-TAILLIGHT_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/stix-switch-delantera-trasera/p/173324?color=270091-173324"
+  },
+  {
+    "id": 16,
+    "Tienda": "Specialized",
+    "Nombre": "Flux™ Headlight Camera-Style Mount",
+    "Precio": "$3.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/49119-922_LGHT_FLUX-900-1200-CAMERA-STYLE-MOUNT_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/flux-headlight-camera-style-mount/p/173362?color=270152-173362"
+  },
+  {
+    "id": 17,
+    "Tienda": "Specialized",
+    "Nombre": "Stix Saddle Mount",
+    "Precio": "$5.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/49116-935_LGHT_STIX-SADDLE-MOUNT_BLK?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/stix-saddle-mount/p/156518?color=228088-156518"
+  },
+  {
+    "id": 18,
+    "Tienda": "Specialized",
+    "Nombre": "Air Tool Shock Pump",
+    "Precio": "$55.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/472E-300_PUMP_AIR-TOOL-SHOCK-PUMP-BLK_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/air-tool-shock-pump/p/172465?color=267750-172465"
+  },
+  {
+    "id": 19,
+    "Tienda": "Specialized",
+    "Nombre": "Air Tool Comp V2",
+    "Precio": "$63.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/47220-210_PUMP_AIR-TOOL-COMP-FLR-PUMP-RKTRED_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/air-tool-comp-v2/p/174143?color=277400-174143"
+  },
+  {
+    "id": 20,
+    "Tienda": "Specialized",
+    "Nombre": "CPRO2 Trigger",
+    "Precio": "$21.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/4722-405_PUMP_AIR-TOOL-CPRO2-TRIGGER-BLK_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/cpro2-trigger/p/172045?color=266654-172045"
+  },
+  {
+    "id": 21,
+    "Tienda": "Specialized",
+    "Nombre": "Inflador Air Tool Road",
+    "Precio": "$25.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/47218-400_PUMP_AIR-TOOL-ROAD-FRAME_BLK_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/inflador-air-tool-road/p/171908?color=266279-171908"
+  },
+  {
+    "id": 22,
+    "Tienda": "Specialized",
+    "Nombre": "Inflador de Pie Air Tool Sport SwitchHitter II",
+    "Precio": "$45.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/47214-2252_PUMP_AIR-TOOL-SPORT-STEEL-FLR_BLK?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/inflador-de-pie-air-tool-sport-switchhitter-ii/p/172194?color=229735-172194"
+  },
+  {
+    "id": 23,
+    "Tienda": "Specialized",
+    "Nombre": "Inflador Air Tool Switch Comp",
+    "Precio": "$30.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/47216-3430_PUMP_AIR-TOOL-SWITCH-COMP_BLK?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/inflador-air-tool-switch-comp/p/171897?color=266260-171897"
+  },
+  {
+    "id": 24,
+    "Tienda": "Specialized",
+    "Nombre": "Inflador Air Tool Switch Sport",
+    "Precio": "$23.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/47216-3430_PUMP_AIR-TOOL-SWITCH-SPORT_BLK?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/inflador-air-tool-switch-sport/p/171675?color=265762-171675"
+  },
+  {
+    "id": 25,
+    "Tienda": "Specialized",
+    "Nombre": "Inflador de pie de Air Tool UHP",
+    "Precio": "$100.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/11103?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/inflador-de-pie-de-air-tool-uhp/p/131288?color=218991-131288"
+  },
+  {
+    "id": 26,
+    "Tienda": "Specialized",
+    "Nombre": "Air Tool CO2 Mini Kit – 16g",
+    "Precio": "$16.800",
+    "imgURL": "https://assets.specialized.com/i/specialized/47214-4150_PUMP_AIR-TOOL-CO2-MINI-KIT-16G_BLK?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/air-tool-co2-mini-kit--16g/p/156391?color=230384-156391"
+  },
+  {
+    "id": 27,
+    "Tienda": "Specialized",
+    "Nombre": "Inflador Air Tool MTB",
+    "Precio": "$25.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/47218-300_PUMP_AIR-TOOL-MTB-FRAME_BLK_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/inflador-air-tool-mtb/p/172103?color=266791-172103"
+  },
+  {
+    "id": 28,
+    "Tienda": "Specialized",
+    "Nombre": "Cinta S-Wrap Classic",
+    "Precio": "$25.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/25517-2104_GRIP_S-WRAP-CLASSIC-TAPE_WHT-BLK?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/cinta-s-wrap-classic/p/155667?color=227886-155667"
+  },
+  {
+    "id": 29,
+    "Tienda": "Specialized",
+    "Nombre": "Cinta S-Wrap Cork",
+    "Precio": "$15.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/2554-2014_GRIP_S WRAP CORK TAPE_WHT?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/cinta-s-wrap-cork/p/155259?color=228101-155259"
+  },
+  {
+    "id": 30,
+    "Tienda": "Specialized",
+    "Nombre": "Cinta S-Wrap HD",
+    "Precio": "$30.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/25519-250_GRIP_S-WRAP-HD-TAPE_STRM-GRY-RKT-RED-LINES_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/cinta-s-wrap-hd/p/156301?color=236574-156301"
+  },
+  {
+    "id": 31,
+    "Tienda": "Specialized",
+    "Nombre": "Supacaz Egrip",
+    "Precio": "$22.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/25522-020_GRIP_EGRIP-BLK-CLR_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/supacaz-egrip/p/216831?color=349265-216831"
+  },
+  {
+    "id": 32,
+    "Tienda": "Specialized",
+    "Nombre": "Supacaz Grizips Grip",
+    "Precio": "$12.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/25522-013_GRIP_GRIZIPS-GRIP-RED_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/supacaz-grizips-grip/p/216832?color=349268-216832"
+  },
+  {
+    "id": 33,
+    "Tienda": "Specialized",
+    "Nombre": "Cinta de manillar Supacaz Super Sticky Kush",
+    "Precio": "$25.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/25522-316_SUPERSTCKYKUSH-GALAXY-SUPACAZ-WHTBLCK-BLCK_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/cinta-de-manillar-supacaz-super-sticky-kush/p/216828?color=361313-216828"
+  },
+  {
+    "id": 34,
+    "Tienda": "Specialized",
+    "Nombre": "Cinta Supacaz Super Sticky Kush Classic",
+    "Precio": "$25.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/25522-300_GRIP_SUPER-STICKY-KUSH-TAPE-CLASSIC-BLK-ANO-BLK-PLUGS_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/cinta-supacaz-super-sticky-kush-classic/p/216827?color=349246-216827"
+  },
+  {
+    "id": 35,
+    "Tienda": "Specialized",
+    "Nombre": "Supacaz Super Sticky Kush Star Fade Tape",
+    "Precio": "$25.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/25522-324_GRIP_SUPER-STICKY-KUSH-TAPE-STAR-FADE-OIL-SLICK-ANO-BLK-PLUGS_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/supacaz-super-sticky-kush-star-fade-tape/p/216829?color=349250-216829"
+  },
+  {
+    "id": 36,
+    "Tienda": "Specialized",
+    "Nombre": "Supacaz Super Sticky Kush Tape Gravel",
+    "Precio": "$25.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/25522-352_SUPERSTCKYKUSH-GRAVEL-SUPACAZ-COFFEE-BLCK_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/supacaz-super-sticky-kush-tape-gravel/p/220707?color=361255-220707"
+  },
+  {
+    "id": 37,
+    "Tienda": "Specialized",
+    "Nombre": "Supacaz Suave Tape",
+    "Precio": "$15.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/25522-340-TAPE-SUAVE-BLACK-SLBLACK-PLUGS_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/supacaz-suave-tape/p/220708?color=361314-220708"
+  },
+  {
+    "id": 38,
+    "Tienda": "Specialized",
+    "Nombre": "Puños Neutralizer",
+    "Precio": "$19.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/25519-140_GRIP_BG-NEUTRALIZER_ION-CHAR-LGXL_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/puos-neutralizer/p/155914?color=236594-155914"
+  },
+  {
+    "id": 39,
+    "Tienda": "Specialized",
+    "Nombre": "Cinta Supacaz Bling",
+    "Precio": "$25.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/25522-330_GRIP_BLING-TAPE-OIL-SLICK-ANO-BLK-PLUGS_PROFILE?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/cinta-supacaz-bling/p/216826?color=349269-216826"
+  },
+  {
+    "id": 40,
+    "Tienda": "Specialized",
+    "Nombre": "Bandit de ruta",
+    "Precio": "$28.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/27116-994_SDDL_ROAD-BANDIT-STRAP?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/bandit-de-ruta/p/156509?color=276820-156509"
+  },
+  {
+    "id": 41,
+    "Tienda": "Specialized",
+    "Nombre": "Supacaz Supa Strap",
+    "Precio": "$20.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/27122-980-STRAP-SUPASTRAP-BLCK-SUPACAZ_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/supacaz-supa-strap/p/220704?color=361308-220704"
+  },
+  {
+    "id": 42,
+    "Tienda": "Specialized",
+    "Nombre": "Tailwind",
+    "Precio": "$70.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/41122-610_BAG_TAILWIND-PANNIER-BLK-RIGHT_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/tailwind/p/205459?color=329950-205459"
+  },
+  {
+    "id": 43,
+    "Tienda": "Specialized",
+    "Nombre": "Burra Burra Spare Stabilizer Rack",
+    "Precio": "$26.600",
+    "imgURL": "https://assets.specialized.com/i/specialized/41118-5300_BAG_BURRA-BURRA-SPARE-STABILIZER-FOR-SEATPACK_BLK_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/burra-burra-spare-stabilizer-rack/p/155990?color=230535-155990"
+  },
+  {
+    "id": 44,
+    "Tienda": "Specialized",
+    "Nombre": "Coolcave Pannier",
+    "Precio": "$60.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/41122-600_BAG_COOLCAVE-BLK_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/coolcave-pannier/p/205428?color=330750-205428"
+  },
+  {
+    "id": 45,
+    "Tienda": "Specialized",
+    "Nombre": "Portabotellas con herramienta Rib Cage II with Tool – Derech...",
+    "Precio": "$50.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/43020-215_CAGE_ZEE-CAGE-II-SIDE-LOADING-RIGHT-DT-MATTE-BLK-W-TOOL_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/portabotellas-con-herramienta-rib-cage-ii-with-tool--derecho/p/172071?color=277091-172071"
+  },
+  {
+    "id": 46,
+    "Tienda": "Specialized",
+    "Nombre": "Zee Cage II – Izquierdo",
+    "Precio": "$25.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/43020-210_CAGE_ZEE-CAGE-II-SIDE-LOADING-LEFT-DT-GLOSS-BLK_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/zee-cage-ii--izquierdo/p/171461?color=274188-171461"
+  },
+  {
+    "id": 47,
+    "Tienda": "Specialized",
+    "Nombre": "Zee Cage II – Derecho",
+    "Precio": "$25.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/43020-211_CAGE_ZEE-CAGE-II-SIDE-LOADING-RIGHT-DT-CHAR-CAMO_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/zee-cage-ii--derecho/p/172378?color=274176-172378"
+  },
+  {
+    "id": 48,
+    "Tienda": "Specialized",
+    "Nombre": "Supacaz Fly Cage Poly",
+    "Precio": "$15.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/43022-803_FLYCAGE_POLY-SUPACAZ-NEONPNK_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/supacaz-fly-cage-poly/p/220698?color=361283-220698"
+  },
+  {
+    "id": 49,
+    "Tienda": "Specialized",
+    "Nombre": "Rib Cage II",
+    "Precio": "$25.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/43015-1000_CAGE_RIB-II-RD-MTN_BLK?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/rib-cage-ii/p/171590?color=265597-171590"
+  },
+  {
+    "id": 50,
+    "Tienda": "Specialized",
+    "Nombre": "Roll Cage",
+    "Precio": "$15.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/43116-3006_CAGE_NICK_MATTE-BLK?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/roll-cage/p/155437?color=229516-155437"
+  },
+  {
+    "id": 51,
+    "Tienda": "Specialized",
+    "Nombre": "S-Works Carbon Zee Cage II – Derecho",
+    "Precio": "$55.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/43020-050_CAGE_SW-ZEE-CAGE-II-CARBON-SIDE-LOADING-RIGHT-DT-MATTE-CARB_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/s-works-carbon-zee-cage-ii--derecho/p/173135?color=274179-173135"
+  },
+  {
+    "id": 52,
+    "Tienda": "Specialized",
+    "Nombre": "Supacaz Fly Cage Carbon",
+    "Precio": "$39.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/43023-890_FLYCAGE_CARBON-SUPACAZ-BLCK_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/supacaz-fly-cage-carbon/p/225708?color=367346-225708"
+  },
+  {
+    "id": 53,
+    "Tienda": "Specialized",
+    "Nombre": "Supacaz Fly Cage Ano",
+    "Precio": "$15.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/43122-800_FLYCAGE_ANO-SUPACAZ-BLCK_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/supacaz-fly-cage-ano/p/220697?color=361286-220697"
+  },
+  {
+    "id": 54,
+    "Tienda": "Specialized",
+    "Nombre": "Purist Insulated Chromatek WaterGate 23oz",
+    "Precio": "$17.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/44121-232_BTL_PURIST-INSULATED-CHROMATEK-WG-BTL-DIGI-23-OZ_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/purist-insulated-chromatek-watergate-23oz/p/186213?color=303671-186213"
+  },
+  {
+    "id": 55,
+    "Tienda": "Specialized",
+    "Nombre": "Purist Hydroflo Fixy Water Bottle",
+    "Precio": "$11.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/44319-234_BTL_PURIST-HYDROFLO-FIXY-BTL-SBC-TRANS-RED-DIFFUSE-23-OZ_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/purist-hydroflo-fixy-water-bottle/p/161966?color=248855-161966"
+  },
+  {
+    "id": 56,
+    "Tienda": "Specialized",
+    "Nombre": "Purist Insulated Watergate 23oz",
+    "Precio": "$17.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/44119-232_BTL_PURIST-INSULATED-WG-BTL-TRANS-BLK-RED-STRAIGHT-AWAY-23-OZ_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/purist-insulated-watergate-23oz/p/161970?color=248859-161970"
+  },
+  {
+    "id": 57,
+    "Tienda": "Specialized",
+    "Nombre": "Purist Insulated Fixy 23oz",
+    "Precio": "$17.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/44119-234_BTL_PURIST-INSULATED-FIXY-BTL-TRANS-BLU-HEX-23-OZ_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/purist-insulated-fixy-23oz/p/161971?color=248863-161971"
+  },
+  {
+    "id": 58,
+    "Tienda": "Specialized",
+    "Nombre": "Purist Insulated Chromatek Watergate 23oz",
+    "Precio": "$17.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/44119-232_BTL_PURIST-INSULATED-CHROMATEK-WG_BLUPNK-FADE_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/purist-insulated-chromatek-watergate-23oz/p/161973?color=291920-161973"
+  },
+  {
+    "id": 59,
+    "Tienda": "Specialized",
+    "Nombre": "Purist Insulated Chromatek MoFlo 23oz",
+    "Precio": "$17.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/44119-233_BTL_PURIST-INSULATED-CHROMATEK-MFLO_RED-CONCRETE_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/purist-insulated-chromatek-moflo-23oz/p/161976?color=291921-161976"
+  },
+  {
+    "id": 60,
+    "Tienda": "Specialized",
+    "Nombre": "Purist Fixy 22oz",
+    "Precio": "$10.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/44217-2240_BTL_PURIST-FIXY-BTL_GLD-BLK-CALIFORNIA-BEAR-22-OZ?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/purist-fixy-22oz/p/157660?color=236668-157660"
+  },
+  {
+    "id": 61,
+    "Tienda": "Specialized",
+    "Nombre": "Purist Hydroflo WaterGate Water Bottle",
+    "Precio": "$11.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/44319-232_BTL_PURIST-HYDROFLO-WG-BTL-TRANS-BLK-DIFFUSE-23-OZ_HERO-2?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/purist-hydroflo-watergate-water-bottle/p/161965?color=248847-161965"
+  },
+  {
+    "id": 62,
+    "Tienda": "Specialized",
+    "Nombre": "Little Big Mouth 21oz",
+    "Precio": "$8.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/44421-215_BTL_LBM-2ND-GEN-BTL-SBC-HYP-BLK-HEX-FADE-21-OZ_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/little-big-mouth-21oz/p/186088?color=303648-186088"
+  },
+  {
+    "id": 63,
+    "Tienda": "Specialized",
+    "Nombre": "Little Big Mouth 21oz",
+    "Precio": "$8.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/44418-2150_BTL_LBM-2ND-GEN_BLK-WHT-S-LOGO_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/little-big-mouth-21oz/p/161960?color=268541-161960"
+  },
+  {
+    "id": 64,
+    "Tienda": "Specialized",
+    "Nombre": "Purist MoFlo 26oz",
+    "Precio": "$12.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/44221-263_BTL_PURIST-MFLO-BTL-SBC-CLR-S-LOGO-26-OZ_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/purist-moflo-26oz/p/161984?color=303670-161984"
+  },
+  {
+    "id": 65,
+    "Tienda": "Specialized",
+    "Nombre": "Purist WaterGate Water Bottle",
+    "Precio": "$10.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/44220-222_BTL_PURIST-WG-BTL-ASH-PAPERCUT-22-OZ_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/purist-watergate-water-bottle/p/161979?color=291934-161979"
+  },
+  {
+    "id": 66,
+    "Tienda": "Specialized",
+    "Nombre": "KEG Storage Vessel 16oz",
+    "Precio": "$13.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/44021-160_BTL_KEG-STORAGE-VESSEL-WHT-GRY-STRIPE_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/keg-storage-vessel-16oz/p/171514?color=303650-171514"
+  },
+  {
+    "id": 67,
+    "Tienda": "Specialized",
+    "Nombre": "Shiv Hydration Fuelcell System",
+    "Precio": "$35.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/09319-101_CMPNT_SHIV-FUELSELAGE-II-S_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/shiv-hydration-fuelcell-system/p/170441?color=261703-170441"
+  },
+  {
+    "id": 68,
+    "Tienda": "Specialized",
+    "Nombre": "Purist MoFlo 22oz",
+    "Precio": "$10.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/44221-223_BTL_PURIST-MFLO-BTL-CLR-BLU-GRAVITY-22-OZ_HERO1?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/purist-moflo-22oz/p/157653?color=303669-157653"
+  },
+  {
+    "id": 69,
+    "Tienda": "Specialized",
+    "Nombre": "Purist WaterGate 26oz",
+    "Precio": "$12.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/44217-2620_BTL_PURIST-WG-BTL_SIL-BLK-S-LOGO-26-OZ?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/purist-watergate-26oz/p/161978?color=291960-161978"
+  },
+  {
+    "id": 70,
+    "Tienda": "Specialized",
+    "Nombre": "Purist WaterGate Water Bottle - S-Logo",
+    "Precio": "$10.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/552-11506_BTL_22-OZ-WG_SBC-TRANS?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/purist-watergate-water-bottle---s-logo/p/157650?color=236645-157650"
+  },
+  {
+    "id": 71,
+    "Tienda": "Specialized",
+    "Nombre": "SHIV FUELSELAGE II",
+    "Precio": "$35.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/09319-101_CMPNT_SHIV-FUELSELAGE-II-S_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/shiv-fuelselage-ii/p/173377?color=270175-173377"
+  },
+  {
+    "id": 72,
+    "Tienda": "Specialized",
+    "Nombre": "Botella Purist Hydroflo MoFlo",
+    "Precio": "$11.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/176143?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/botella-purist-hydroflo-moflo/p/132726?color=220409-132726"
+  },
+  {
+    "id": 73,
+    "Tienda": "Specialized",
+    "Nombre": "Shiv Fuelselage Hydration System",
+    "Precio": "$40.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/0932-1001_CMPNT_SHIV-FUELSELAGE_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/shiv-fuelselage-hydration-system/p/172535?color=267929-172535"
+  },
+  {
+    "id": 74,
+    "Tienda": "Specialized",
+    "Nombre": "Purist Fixy 26oz",
+    "Precio": "$12.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/44217-2640_BTL_PURIST-FIXY-BTL_TBLK-BLK-ADVENTURE-LOGO-26-OZ?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/purist-fixy-26oz/p/157651?color=236646-157651"
+  }
+]

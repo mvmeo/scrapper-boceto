@@ -1,0 +1,2999 @@
+[
+  {
+    "id": 1,
+    "Tienda": "Specialized",
+    "Nombre": "Women's Trail Short Sleeve Jersey",
+    "Genero": "Mujer",
+    "Precio": "$40.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64022-030_APP_TRAIL-JERSEY-SS-WMN-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-trail-short-sleeve-jersey/p/216757?color=349042-216757"
+  },
+  {
+    "id": 2,
+    "Tienda": "Specialized",
+    "Nombre": "Women's Trail Air Short Sleeve Jersey",
+    "Genero": "Mujer",
+    "Precio": "$45.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64021-010_APP_TRAIL-AIR-JERSEY-SS-WMN-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-trail-air-short-sleeve-jersey/p/189770?color=307863-189770"
+  },
+  {
+    "id": 3,
+    "Tienda": "Specialized",
+    "Nombre": "Women's Prime Short Sleeve Jersey",
+    "Genero": "Mujer",
+    "Precio": "$100.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64022-352_APP_PRIME-JERSEY-SS-WMN-CSTUMBR-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-prime-short-sleeve-jersey/p/216579?color=348921-216579"
+  },
+  {
+    "id": 4,
+    "Tienda": "Specialized",
+    "Nombre": "Andorra Air Long Sleeve Jersey",
+    "Genero": "Mujer",
+    "Precio": "$30.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64120-932_APP_ANDORRA-AIR-JERSEY-LS-WMN-CSTBLU-AQA-REFRACTION-S_HERO_FORM?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/andorra-air-long-sleeve-jersey/p/175010?color=280625-175010"
+  },
+  {
+    "id": 5,
+    "Tienda": "Specialized",
+    "Nombre": "Women's SL+ Logo Stripe Short Sleeve Jersey",
+    "Genero": "Mujer",
+    "Precio": "$60.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64022-733_APP_SL-LOGO-STRIPE-JERSEY-SS-WMN-VIVCRL-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-sl-logo-stripe-short-sleeve-jersey/p/218393?color=353792-218393"
+  },
+  {
+    "id": 6,
+    "Tienda": "Specialized",
+    "Nombre": "Women's RBX Comp Mirage Short Sleeve Jersey",
+    "Genero": "Mujer",
+    "Precio": "$60.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64022-430_APP_RBX-COMP-MIRAGE-JERSEY-SS-WMN-MRN-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-rbx-comp-mirage-short-sleeve-jersey/p/216777?color=348919-216777"
+  },
+  {
+    "id": 7,
+    "Tienda": "Specialized",
+    "Nombre": "Women's SL Solid Short Sleeve Jersey",
+    "Genero": "Mujer",
+    "Precio": "$70.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64022-641_APP_SL-SOLID-JERSEY-SS-WMN-MRN-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-sl-solid-short-sleeve-jersey/p/216786?color=349022-216786"
+  },
+  {
+    "id": 8,
+    "Tienda": "Specialized",
+    "Nombre": "Women's RBX Classic Short Sleeve Jersey",
+    "Genero": "Mujer",
+    "Precio": "$35.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64119-500_APP_RBX-CLASSIC-JERSEY-SS-WMN-BLK-M_HERO_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-rbx-classic-short-sleeve-jersey/p/161788?color=247628-161788"
+  },
+  {
+    "id": 9,
+    "Tienda": "Specialized",
+    "Nombre": "Women's ADV Short Sleeve Jersey",
+    "Genero": "Mujer",
+    "Precio": "$40.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64120-510_APP_RBX-ADV-JERSEY-SS-WMN-BLK-S_HERO_FORM?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-adv-short-sleeve-jersey/p/175045?color=280612-175045"
+  },
+  {
+    "id": 10,
+    "Tienda": "Specialized",
+    "Nombre": "Women's RBX+ Overrun Short Sleeve Jersey",
+    "Genero": "Mujer",
+    "Precio": "$40.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64022-710_APP_RBX-OVERRUN-JERSEY-SS-WMN-ARCTBLU-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-rbx-overrun-short-sleeve-jersey/p/218392?color=353786-218392"
+  },
+  {
+    "id": 11,
+    "Tienda": "Specialized",
+    "Nombre": "Women's RBX Logo Short Sleeve Jersey",
+    "Genero": "Mujer",
+    "Precio": "$50.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64022-472_APP_RBX-LOGO-JERSEY-SS-WMN-SIL-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-rbx-logo-short-sleeve-jersey/p/216652?color=348922-216652"
+  },
+  {
+    "id": 12,
+    "Tienda": "Specialized",
+    "Nombre": "Women's In Layers SL Jersey",
+    "Genero": "Mujer",
+    "Precio": "$60.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/63121-261_APP_IN-LAYERS-SL-JERSEY-SS-WMN-BLU-WHT-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-in-layers-sl-jersey/p/205862?color=336356-205862"
+  },
+  {
+    "id": 13,
+    "Tienda": "Specialized",
+    "Nombre": "Women's Trail Air Long Sleeve Jersey",
+    "Genero": "Mujer",
+    "Precio": "$50.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64121-310_APP_TRAIL-AIR-JERSEY-LS-WMN-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-trail-air-long-sleeve-jersey/p/189768?color=307858-189768"
+  },
+  {
+    "id": 14,
+    "Tienda": "Specialized",
+    "Nombre": "Women's Trail Long Sleeve Jersey",
+    "Genero": "Mujer",
+    "Precio": "$45.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64122-450_APP_TRAIL-JERSEY-LS-WMN-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-trail-long-sleeve-jersey/p/216630?color=348560-216630"
+  },
+  {
+    "id": 15,
+    "Tienda": "Specialized",
+    "Nombre": "Women's Trail Long Sleeve Jersey",
+    "Genero": "Mujer",
+    "Precio": "$45.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64123-450_APP_TRAIL-JERSEY-LS-WMN-HRVGLD-SPRAY_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-trail-long-sleeve-jersey/p/1000088336?color=1000092269-1000088336"
+  },
+  {
+    "id": 16,
+    "Tienda": "Specialized",
+    "Nombre": "Camiseta Trail de Manga Larga Butter de Mujer",
+    "Genero": "Mujer",
+    "Precio": "$35.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64122-271_APP_BUTTER-TRAIL-JERSEY-LS-WMN-BUTR-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/camiseta-trail-de-manga-larga-butter-de-mujer/p/216647?color=348756-216647"
+  },
+  {
+    "id": 17,
+    "Tienda": "Specialized",
+    "Nombre": "Women's RBX Expert Long Sleeve Thermal Jersey",
+    "Genero": "Mujer",
+    "Precio": "$90.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64122-240_APP_RBX-EXPERT-THERMAL-JERSEY-LS-WMN-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-rbx-expert-long-sleeve-thermal-jersey/p/200466?color=322948-200466"
+  },
+  {
+    "id": 18,
+    "Tienda": "Specialized",
+    "Nombre": "Gravity Long Sleeve Jersey",
+    "Genero": "Mujer",
+    "Precio": "$40.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64122-322_APP_GRAVITY-JERSEY-LS-IMPRED-M_HERO_CP?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/gravity-long-sleeve-jersey/p/216668?color=348898-216668"
+  },
+  {
+    "id": 19,
+    "Tienda": "Specialized",
+    "Nombre": "Gravity Race Long Sleeve Jersey",
+    "Genero": "Mujer",
+    "Precio": "$50.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64122-331_APP_GRAVITY-RACE-JERSEY-LS-WHTMTN-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/gravity-race-long-sleeve-jersey/p/216705?color=348985-216705"
+  },
+  {
+    "id": 20,
+    "Tienda": "Specialized",
+    "Nombre": "Youth Trail Long Sleeve Jersey",
+    "Genero": "Mujer",
+    "Precio": "$25.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64121-431_APP_TRAIL-JERSEY-LS-YTH-CSTBTLSHP-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/youth-trail-long-sleeve-jersey/p/189777?color=307881-189777"
+  },
+  {
+    "id": 21,
+    "Tienda": "Specialized",
+    "Nombre": "Women's Altered-Edition Trail Long Sleeve Jersey",
+    "Genero": "Mujer",
+    "Precio": "$20.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64122-620_APP_ALTERED-TRAIL-JERSEY-LS-WMN-BLSH-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-altered-edition-trail-long-sleeve-jersey/p/200468?color=322953-200468"
+  },
+  {
+    "id": 22,
+    "Tienda": "Specialized",
+    "Nombre": "Women's Trail Shorts",
+    "Genero": "Mujer",
+    "Precio": "$45.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64221-990_APP_TRAIL-SHORT-WMN-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-trail-shorts/p/189786?color=307902-189786"
+  },
+  {
+    "id": 23,
+    "Tienda": "Specialized",
+    "Nombre": "Women's Trail Shorts with Liner",
+    "Genero": "Mujer",
+    "Precio": "$60.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64221-810_APP_TRAIL-SHORT-W-LINER-WMN-BLK-S_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-trail-shorts-with-liner/p/189785?color=307899-189785"
+  },
+  {
+    "id": 24,
+    "Tienda": "Specialized",
+    "Nombre": "Women's Trail Cargo Shorts",
+    "Genero": "Mujer",
+    "Precio": "$60.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64221-670_APP_TRAIL-CARGO-SHORT-WMN-BLK-S_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-trail-cargo-shorts/p/189774?color=307874-189774"
+  },
+  {
+    "id": 25,
+    "Tienda": "Specialized",
+    "Nombre": "Women's Prime Bib Shorts",
+    "Genero": "Mujer",
+    "Precio": "$120.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64522-052_APP_PRIME-BIB-SHORT-WMN-DKMOS-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-prime-bib-shorts/p/216585?color=348614-216585"
+  },
+  {
+    "id": 26,
+    "Tienda": "Specialized",
+    "Nombre": "Women's SL Race Bib Shorts",
+    "Genero": "Mujer",
+    "Precio": "$90.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64219-950_APP_SL-R-BIB-SHORT-WMN-BLK-S_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-sl-race-bib-shorts/p/161862?color=247809-161862"
+  },
+  {
+    "id": 27,
+    "Tienda": "Specialized",
+    "Nombre": "Women's RBX Bib Shorts",
+    "Genero": "Mujer",
+    "Precio": "$60.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64219-920_APP_RBX-BIB-SHORT-WMN-BLK-S_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-rbx-bib-shorts/p/161848?color=247775-161848"
+  },
+  {
+    "id": 28,
+    "Tienda": "Specialized",
+    "Nombre": "Women's Butter Trail Air Shorts",
+    "Genero": "Mujer",
+    "Precio": "$45.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64222-730_APP_BUTTER-TRAIL-AIR-SHORT-WMN-BUTR-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-butter-trail-air-shorts/p/216612?color=349078-216612"
+  },
+  {
+    "id": 29,
+    "Tienda": "Specialized",
+    "Nombre": "Women's ADV Air Shorts",
+    "Genero": "Mujer",
+    "Precio": "$35.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64522-031_ADV_AIR_SHORT_WMN_TEAL_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-adv-air-shorts/p/216704?color=348982-216704"
+  },
+  {
+    "id": 30,
+    "Tienda": "Specialized",
+    "Nombre": "Women's Trail 3XDRY® Short",
+    "Genero": "Mujer",
+    "Precio": "$70.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64221-350_APP_TRAIL-SERIES-3XDRY-SHORT-WMN-BLK-S_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-trail-3xdry-short/p/187990?color=302367-187990"
+  },
+  {
+    "id": 31,
+    "Tienda": "Specialized",
+    "Nombre": "Women's SL Blur Bib Shorts",
+    "Genero": "Mujer",
+    "Precio": "$90.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64522-191_APP_SL-BLUR-BIB-SHORT-WMN-TRPTL-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-sl-blur-bib-shorts/p/216745?color=348931-216745"
+  },
+  {
+    "id": 32,
+    "Tienda": "Specialized",
+    "Nombre": "Women's RBX Shorts",
+    "Genero": "Mujer",
+    "Precio": "$45.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64219-930_APP_RBX-SHORT-WMN-BLK-S_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-rbx-shorts/p/161847?color=247771-161847"
+  },
+  {
+    "id": 33,
+    "Tienda": "Specialized",
+    "Nombre": "Women's RBX Mirage Bib Shorts",
+    "Genero": "Mujer",
+    "Precio": "$60.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64522-162_APP_RBX-MIRAGE-BIB-SHORT-WMN-SPR-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-rbx-mirage-bib-shorts/p/216679?color=348609-216679"
+  },
+  {
+    "id": 34,
+    "Tienda": "Specialized",
+    "Nombre": "Women's SL Bib Shorts",
+    "Genero": "Mujer",
+    "Precio": "$90.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64219-780_APP_SL-BIB-SHORT-WMN-BLK-M_HERO_CP?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-sl-bib-shorts/p/161856?color=247798-161856"
+  },
+  {
+    "id": 35,
+    "Tienda": "Specialized",
+    "Nombre": "Women's RBX Sun Lit Bib Shorts With SWAT™",
+    "Genero": "Mujer",
+    "Precio": "$50.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/63222-15_APP_SUN-LIT-RBX-BIB-SHORT-W-SWAT-WMN_GRY_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-rbx-sun-lit-bib-shorts-with-swat/p/218355?color=353163-218355"
+  },
+  {
+    "id": 36,
+    "Tienda": "Specialized",
+    "Nombre": "Women's RBX Logo Bib Shorts",
+    "Genero": "Mujer",
+    "Precio": "$60.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64522-142_APP_RBX-LOGO-BIB-SHORT-WMN-SIL-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-rbx-logo-bib-shorts/p/216776?color=349003-216776"
+  },
+  {
+    "id": 37,
+    "Tienda": "Specialized",
+    "Nombre": "Andorra Comp Shorts",
+    "Genero": "Mujer",
+    "Precio": "$70.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64220-540_APP_ANDORRA-COMP-SHORT-WMN-SLT-S_HERO_FORM?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/andorra-comp-shorts/p/174876?color=280633-174876"
+  },
+  {
+    "id": 38,
+    "Tienda": "Specialized",
+    "Nombre": "Gravity Shorts",
+    "Genero": "Mujer",
+    "Precio": "$70.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64222-7403_APP_GRAVITY-SHORT-BLK-32_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/gravity-shorts/p/216664?color=348670-216664"
+  },
+  {
+    "id": 39,
+    "Tienda": "Specialized",
+    "Nombre": "Women's Ultralight Liner Shorts with SWAT™",
+    "Genero": "Mujer",
+    "Precio": "$35.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64220-480_APP_ULTRALIGHT-LINER-SHORT-W-SWAT-WMN-BLK-S_HERO_FORM?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-ultralight-liner-shorts-with-swat/p/175056?color=280871-175056"
+  },
+  {
+    "id": 40,
+    "Tienda": "Specialized",
+    "Nombre": "Women's RBX Clouds Bib Shorts With SWAT™",
+    "Genero": "Mujer",
+    "Precio": "$50.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/63222-15_APP_CLOUD-RBX-BIB-SHORT-W-SWAT-WMN_BLUE_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-rbx-clouds-bib-shorts-with-swat/p/218282?color=352663-218282"
+  },
+  {
+    "id": 41,
+    "Tienda": "Specialized",
+    "Nombre": "Catenate- RBX Bib Short w/SWAT Women",
+    "Genero": "Mujer",
+    "Precio": "$50.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/63122-285_APP_CATENATE-RBX-JERSEY-SS-WMN_RED_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/catenate--rbx-bib-short-w-swat-women/p/218914?color=357084-218914"
+  },
+  {
+    "id": 42,
+    "Tienda": "Specialized",
+    "Nombre": "Women's Trail-Series Wind Jacket",
+    "Genero": "Mujer",
+    "Precio": "$90.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64421-860_APP_TRAIL-SERIES-WIND-JACKET-WMN-BLK-S_HERO_PLP?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-trail-series-wind-jacket/p/188001?color=302387-188001"
+  },
+  {
+    "id": 43,
+    "Tienda": "Specialized",
+    "Nombre": "Chaqueta Deflect™ Pac para Mujer",
+    "Genero": "Mujer",
+    "Precio": "$95.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64419-560_APP_DEFLECT-H2O-PAC-JACKET-WMN_BLKTEAL_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/chaqueta-deflect-pac-para-mujer/p/157434?color=234792-157434"
+  },
+  {
+    "id": 44,
+    "Tienda": "Specialized",
+    "Nombre": "Women's RBX Comp Rain Jacket",
+    "Genero": "Mujer",
+    "Precio": "$140.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64422-310_APP_RBX-COMP-RAIN-JACKET-WMN-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-rbx-comp-rain-jacket/p/200436?color=322889-200436"
+  },
+  {
+    "id": 45,
+    "Tienda": "Specialized",
+    "Nombre": "Women's Trail SWAT™ Jacket",
+    "Genero": "Mujer",
+    "Precio": "$100.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64422-931_APP_TRAIL-SWAT-JACKET-WMN-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-trail-swat-jacket/p/200448?color=322914-200448"
+  },
+  {
+    "id": 46,
+    "Tienda": "Specialized",
+    "Nombre": "Chaleco cortavientos SL Pro para mujer",
+    "Genero": "Mujer",
+    "Precio": "$60.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64421-220_APP_RACE-SERIES-WIND-GILET-WMN-BLK-S_HERO_PLP?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/chaleco-cortavientos-sl-pro-para-mujer/p/187963?color=302418-187963"
+  },
+  {
+    "id": 47,
+    "Tienda": "Specialized",
+    "Nombre": "Women's Race-Series Wind Jacket",
+    "Genero": "Mujer",
+    "Precio": "$80.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64421-710_APP_RACE-SERIES-WIND-JACKET-WMN-BLK-S_HERO_PLP?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-race-series-wind-jacket/p/187983?color=302424-187983"
+  },
+  {
+    "id": 48,
+    "Tienda": "Specialized",
+    "Nombre": "Women's Deflect™ Jacket w/ SWAT™",
+    "Genero": "Mujer",
+    "Precio": "$120.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64420-460_APP_DEFLECT-SWAT-JACKET-WMN-BLK-M_HERO_FORM-1?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-deflect-jacket-w-swat/p/171263?color=263369-171263"
+  },
+  {
+    "id": 49,
+    "Tienda": "Specialized",
+    "Nombre": "Women's Trail Rain Jacket",
+    "Genero": "Mujer",
+    "Precio": "$100.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64423-820_APP_TRAIL-RAIN-JACKET-WMN-DOVGRY_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-trail-rain-jacket/p/200446?color=1000093363-200446"
+  },
+  {
+    "id": 50,
+    "Tienda": "Specialized",
+    "Nombre": "Women’s Seamless Long Sleeve Baselayer",
+    "Genero": "Mujer",
+    "Precio": "$55.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64122-160_SEAMLESS_BASELAYER_LS_WMN_HERO_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-seamless-long-sleeve-baselayer/p/200383?color=322774-200383"
+  },
+  {
+    "id": 51,
+    "Tienda": "Specialized",
+    "Nombre": "Women's Seamless Sleeveless Base Layer",
+    "Genero": "Mujer",
+    "Precio": "$40.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64119-165_APP_SEAMLESS-BASELAYER-SVL-WMN_HTHR-GRY_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-seamless-sleeveless-base-layer/p/161996?color=250520-161996"
+  },
+  {
+    "id": 52,
+    "Tienda": "Specialized",
+    "Nombre": "Women's RBX Tights",
+    "Genero": "Mujer",
+    "Precio": "$35.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64221-151_APP_RBX-TIGHT-WMN-BLK-S_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-rbx-tights/p/189763?color=307395-189763"
+  },
+  {
+    "id": 53,
+    "Tienda": "Specialized",
+    "Nombre": "Women's RBX Knickers",
+    "Genero": "Mujer",
+    "Precio": "$50.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64221-250_APP_RBX-CYCLING-KNICKER-WMN-BLK-S_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-rbx-knickers/p/189753?color=307977-189753"
+  },
+  {
+    "id": 54,
+    "Tienda": "Specialized",
+    "Nombre": "Women's RBX Comp Thermal Bib Tights",
+    "Genero": "Mujer",
+    "Precio": "$120.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64222-025_APP_RBX-COMP-THERMAL-BIB-TIGHT_WMN_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-rbx-comp-thermal-bib-tights/p/200418?color=322847-200418"
+  },
+  {
+    "id": 55,
+    "Tienda": "Specialized",
+    "Nombre": "Women's Butter Trail Air Gloves",
+    "Genero": "Mujer",
+    "Precio": "$19.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/67122-471_GLV_BUTTER-TRAIL-AIR-GLOVE-LF-WMN-BUTR-L_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-butter-trail-air-gloves/p/216646?color=348990-216646"
+  },
+  {
+    "id": 56,
+    "Tienda": "Specialized",
+    "Nombre": "Women's Trail Gloves",
+    "Genero": "Mujer",
+    "Precio": "$20.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/67121-410_GLV_TRAIL-GLOVE-LF-WMN-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-trail-gloves/p/199019?color=317667-199019"
+  },
+  {
+    "id": 57,
+    "Tienda": "Specialized",
+    "Nombre": "Women's Prey Trail Air Gloves",
+    "Genero": "Mujer",
+    "Precio": "$20.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/67122-510_GLV_PREY-TRAIL-AIR-GLOVE-LF-WMN-RUM-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-prey-trail-air-gloves/p/216716?color=348843-216716"
+  },
+  {
+    "id": 58,
+    "Tienda": "Specialized",
+    "Nombre": "Guantes Body Geometry Sport de Mujer",
+    "Genero": "Mujer",
+    "Precio": "$18.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/67019-171_GLV_BG-SPORT-GEL-GLOVE-SF-WMN-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/guantes-body-geometry-sport-de-mujer/p/156992?color=348885-156992"
+  },
+  {
+    "id": 59,
+    "Tienda": "Specialized",
+    "Nombre": "Supacaz Supa G Short Glove",
+    "Genero": "Mujer",
+    "Precio": "$25.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/67022-800_GLOVE_SUPA-G-SF-OIL-SLICK-PLP_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/supacaz-supa-g-short-glove/p/220699?color=361320-220699"
+  },
+  {
+    "id": 60,
+    "Tienda": "Specialized",
+    "Nombre": "Women's Trail Air Gloves",
+    "Genero": "Mujer",
+    "Precio": "$20.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/67121-310_GLV_TRAIL-AIR-GLOVE-LF-WMN-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-trail-air-gloves/p/199016?color=317662-199016"
+  },
+  {
+    "id": 61,
+    "Tienda": "Specialized",
+    "Nombre": "Supacaz Supa G Long Glove",
+    "Genero": "Mujer",
+    "Precio": "$25.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/67122-800_GLOVE_SUPA-G-LF-OIL-SLICK-PLP_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/supacaz-supa-g-long-glove/p/220700?color=361298-220700"
+  },
+  {
+    "id": 62,
+    "Tienda": "Specialized",
+    "Nombre": "Supacaz Galactic Glove",
+    "Genero": "Mujer",
+    "Precio": "$22.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/67122-811_GLOVE_GALACTIC-LF-OILSLCK-PLP_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/supacaz-galactic-glove/p/220701?color=361297-220701"
+  },
+  {
+    "id": 63,
+    "Tienda": "Specialized",
+    "Nombre": "Guantes Body Geometry Grail Dedos Largos de Mujer",
+    "Genero": "Mujer",
+    "Precio": "$25.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/67119-130_GLV_BG-GRAIL-GLOVE-LF-WMN-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/guantes-body-geometry-grail-dedos-largos-de-mujer/p/156974?color=248789-156974"
+  },
+  {
+    "id": 64,
+    "Tienda": "Specialized",
+    "Nombre": "Women's Body Geometry Sport Gel Long Finger Gloves",
+    "Genero": "Mujer",
+    "Precio": "$20.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/67119-171_GLV_BG-SPORT-GEL-GLOVE-LF-WMN-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-body-geometry-sport-gel-long-finger-gloves/p/156972?color=248924-156972"
+  },
+  {
+    "id": 65,
+    "Tienda": "Specialized",
+    "Nombre": "Guantes de dedos largos con Gel Dual Body Gemometry de Mujer",
+    "Genero": "Mujer",
+    "Precio": "$20.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/67119-110_GLV_BG-DUAL-GEL-GLOVE-LF-WMN-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/guantes-de-dedos-largos-con-gel-dual-body-gemometry-de-mujer/p/156973?color=348975-156973"
+  },
+  {
+    "id": 66,
+    "Tienda": "Specialized",
+    "Nombre": "Men's Prey Trail Air Gloves",
+    "Genero": "Mujer",
+    "Precio": "$20.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/67122-500_GLV_PREY-TRAIL-AIR-GLOVE-LF-MEN-RUM-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-prey-trail-air-gloves/p/216653?color=348693-216653"
+  },
+  {
+    "id": 67,
+    "Tienda": "Specialized",
+    "Nombre": "Women's LoDown Gloves",
+    "Genero": "Mujer",
+    "Precio": "$18.200",
+    "imgURL": "https://assets.specialized.com/i/specialized/218236?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-lodown-gloves/p/151205?color=243647-151205"
+  },
+  {
+    "id": 68,
+    "Tienda": "Specialized",
+    "Nombre": "Women's LoDown Gloves",
+    "Genero": "Mujer",
+    "Precio": "$18.200",
+    "imgURL": "https://assets.specialized.com/i/specialized/218231?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-lodown-gloves/p/156889?color=233978-156889"
+  },
+  {
+    "id": 69,
+    "Tienda": "Specialized",
+    "Nombre": "Women's Ridge",
+    "Genero": "Mujer",
+    "Precio": "$22.400",
+    "imgURL": "https://assets.specialized.com/i/specialized/146952?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-ridge/p/105189?color=197998-105189"
+  },
+  {
+    "id": 70,
+    "Tienda": "Specialized",
+    "Nombre": "Women's Trail-Series Thermal Gloves",
+    "Genero": "Mujer",
+    "Precio": "$37.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/67221-430_GLV_TRAIL-SERIES-THERMAL-GLOVE-MEN-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-trail-series-thermal-gloves/p/187319?color=322795-187319"
+  },
+  {
+    "id": 71,
+    "Tienda": "Specialized",
+    "Nombre": "Therminal™ Liner Gloves",
+    "Genero": "Mujer",
+    "Precio": "$47.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/67222-340_GLV_THERMAL-LINER-GLOVE-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/therminal-liner-gloves/p/200371?color=322743-200371"
+  },
+  {
+    "id": 72,
+    "Tienda": "Specialized",
+    "Nombre": "Element Glove",
+    "Genero": "Mujer",
+    "Precio": "$58.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/67221-160_GLV_SOFTSHELL-DEEP-WINTER-GLOVE-BLK-M_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/element-glove/p/188257?color=322785-188257"
+  },
+  {
+    "id": 73,
+    "Tienda": "Specialized",
+    "Nombre": "Women's NeoShell Gloves",
+    "Genero": "Mujer",
+    "Precio": "$35.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/67223-470_APP_NEOSHELL-GLOVE-WMN-LF-BLK_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-neoshell-gloves/p/1000088522?color=1000088527-1000088522"
+  },
+  {
+    "id": 74,
+    "Tienda": "Specialized",
+    "Nombre": "Waterproof Gloves",
+    "Genero": "Mujer",
+    "Precio": "$40.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/67223-500_APP_WATERPROOF-GLOVE-LF-BLK_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/waterproof-gloves/p/1000088496?color=1000088501-1000088496"
+  },
+  {
+    "id": 75,
+    "Tienda": "Specialized",
+    "Nombre": "Butter Short Sleeve T-Shirt",
+    "Genero": "Mujer",
+    "Precio": "$12.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64622-150_APP-BUTTER-TEE-SS-MEN-BTR-S_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/butter-short-sleeve-t-shirt/p/216737?color=348903-216737"
+  },
+  {
+    "id": 76,
+    "Tienda": "Specialized",
+    "Nombre": "Women's Wordmark Short Sleeve T-Shirt",
+    "Genero": "Mujer",
+    "Precio": "$18.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64622-371_APP_WORDMARK-TEE-SS-WMN-CHAR-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-wordmark-short-sleeve-t-shirt/p/218662?color=355559-218662"
+  },
+  {
+    "id": 77,
+    "Tienda": "Specialized",
+    "Nombre": "Stoke Short Sleeve T-Shirt",
+    "Genero": "Mujer",
+    "Precio": "$20.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64622-451_APP_STOKE-TEE-SS-MRN-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/stoke-short-sleeve-t-shirt/p/216696?color=349053-216696"
+  },
+  {
+    "id": 78,
+    "Tienda": "Specialized",
+    "Nombre": "Stoke Long Sleeve T-Shirt",
+    "Genero": "Mujer",
+    "Precio": "$20.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64622-440_APP_STOKE-TEE-LS-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/stoke-long-sleeve-t-shirt/p/216602?color=349051-216602"
+  },
+  {
+    "id": 79,
+    "Tienda": "Specialized",
+    "Nombre": "Women's S-Logo Short Sleeve T-Shirt",
+    "Genero": "Mujer",
+    "Precio": "$20.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64622-033_APP_S-LOGO-TEE-SS-WMN-CHAR-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-s-logo-short-sleeve-t-shirt/p/218658?color=355539-218658"
+  },
+  {
+    "id": 80,
+    "Tienda": "Specialized",
+    "Nombre": "Women's Legacy Polo",
+    "Genero": "Mujer",
+    "Precio": "$25.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64922-160_APP_LEGACY-POLO-WMN-BLK_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-legacy-polo/p/218651?color=355546-218651"
+  },
+  {
+    "id": 81,
+    "Tienda": "Specialized",
+    "Nombre": "Women's Legacy Long Sleeve Crewneck",
+    "Genero": "Mujer",
+    "Precio": "$62.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64922-140_APP_LEGACY-CREWNECK-LS-WMN-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-legacy-long-sleeve-crewneck/p/218638?color=355520-218638"
+  },
+  {
+    "id": 82,
+    "Tienda": "Specialized",
+    "Nombre": "Women's Wordmark T-Shirt",
+    "Genero": "Mujer",
+    "Precio": "$18.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64621-374_APP_WORDMARK-TEE-SS-WMN-SMK-S_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-wordmark-t-shirt/p/189791?color=307921-189791"
+  },
+  {
+    "id": 83,
+    "Tienda": "Specialized",
+    "Nombre": "Men's SL Solid Short Sleeve Jersey",
+    "Genero": "Hombre",
+    "Precio": "$70.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64022-622_APP_SL-SOLID-JERSEY-SS-MEN-TRPTL-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-sl-solid-short-sleeve-jersey/p/216624?color=348780-216624"
+  },
+  {
+    "id": 84,
+    "Tienda": "Specialized",
+    "Nombre": "Men's Team SL Short Sleeve Jersey",
+    "Genero": "Hombre",
+    "Precio": "$70.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64022-660_APP_TEAM-SL-JERSEY-SS-MEN-TEAM-REPLICA-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-team-sl-short-sleeve-jersey/p/216754?color=348792-216754"
+  },
+  {
+    "id": 85,
+    "Tienda": "Specialized",
+    "Nombre": "Men's Trail Air Short Sleeve Jersey",
+    "Genero": "Hombre",
+    "Precio": "$45.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64021-001_APP_TRAIL-AIR-JERSEY-SS-MEN-REDWD-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-trail-air-short-sleeve-jersey/p/189769?color=307861-189769"
+  },
+  {
+    "id": 86,
+    "Tienda": "Specialized",
+    "Nombre": "Men's SL+ Logo Stripe Short Sleeve Jersey",
+    "Genero": "Hombre",
+    "Precio": "$60.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64022-721_APP_SL-LOGO-STRIPE-JERSEY-SS-MEN-DKMOS-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-sl-logo-stripe-short-sleeve-jersey/p/218398?color=353798-218398"
+  },
+  {
+    "id": 87,
+    "Tienda": "Specialized",
+    "Nombre": "Enduro Air Short Sleeve Jersey",
+    "Genero": "Hombre",
+    "Precio": "$30.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64120-574_APP_ENDURO-AIR-JERSEY-SS-MEN-CRMSN-RKTRED-REFRACTION-M_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/enduro-air-short-sleeve-jersey/p/175028?color=280688-175028"
+  },
+  {
+    "id": 88,
+    "Tienda": "Specialized",
+    "Nombre": "Men's SL Race Jersey",
+    "Genero": "Hombre",
+    "Precio": "$120.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64120-542_APP_SL-R-JERSEY-SS-CRMSN-RKTRED-TEAM-M_HERO_FORM?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-sl-race-jersey/p/174931?color=280836-174931"
+  },
+  {
+    "id": 89,
+    "Tienda": "Specialized",
+    "Nombre": "Men's RBX Comp Mirage Short Sleeve Jersey",
+    "Genero": "Hombre",
+    "Precio": "$60.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64022-422_APP_RBX-COMP-MIRAGE-JERSEY-SS-MEN-SPR-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-rbx-comp-mirage-short-sleeve-jersey/p/216650?color=348918-216650"
+  },
+  {
+    "id": 90,
+    "Tienda": "Specialized",
+    "Nombre": "Men's Trail Short  Sleeve Jersey",
+    "Genero": "Hombre",
+    "Precio": "$40.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64021-020_APP_TRAIL-JERSEY-SS-MEN-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-trail-short-sleeve-jersey/p/189778?color=307882-189778"
+  },
+  {
+    "id": 91,
+    "Tienda": "Specialized",
+    "Nombre": "Men's Trail Short Sleeve Jersey",
+    "Genero": "Hombre",
+    "Precio": "$40.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64022-020_APP_TRAIL-JERSEY-SS-MEN-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-trail-short-sleeve-jersey/p/216597?color=348721-216597"
+  },
+  {
+    "id": 92,
+    "Tienda": "Specialized",
+    "Nombre": "Men's SL Solid Short Sleeve Jersey",
+    "Genero": "Hombre",
+    "Precio": "$70.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64022-624_APP_SL-SOLID-JERSEY-SS-MEN-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-sl-solid-short-sleeve-jersey/p/216548?color=348856-216548"
+  },
+  {
+    "id": 93,
+    "Tienda": "Specialized",
+    "Nombre": "Men's Prime Short Sleeve Jersey",
+    "Genero": "Hombre",
+    "Precio": "$100.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64022-344_APP_PRIME-JERSEY-SS-MEN-OAKGRN-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-prime-short-sleeve-jersey/p/216617?color=348836-216617"
+  },
+  {
+    "id": 94,
+    "Tienda": "Specialized",
+    "Nombre": "Men's SL Race Logo Short Sleeve Jersey",
+    "Genero": "Hombre",
+    "Precio": "$90.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64021-180_APP_SL-R-LOGO-JERSEY-SS-MEN-BLZ-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-sl-race-logo-short-sleeve-jersey/p/189796?color=307819-189796"
+  },
+  {
+    "id": 95,
+    "Tienda": "Specialized",
+    "Nombre": "Men's SL Stripe Jersey",
+    "Genero": "Hombre",
+    "Precio": "$70.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64021-220_APP_SL-STRIPE-JERSEY-SS-MEN-BRSYYEL-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-sl-stripe-jersey/p/189802?color=307831-189802"
+  },
+  {
+    "id": 96,
+    "Tienda": "Specialized",
+    "Nombre": "Men's ADV Short Sleeve Jersey",
+    "Genero": "Hombre",
+    "Precio": "$40.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64120-360_APP_RBX-ADV-JERSEY-SS-MEN-BLK-M_HERO_FORM?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-adv-short-sleeve-jersey/p/175044?color=280610-175044"
+  },
+  {
+    "id": 97,
+    "Tienda": "Specialized",
+    "Nombre": "Men's RBX Comp Logo Short Sleeve Jersey",
+    "Genero": "Hombre",
+    "Precio": "$60.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64022-370_APP_RBX-COMP-LOGO-JERSEY-SS-MEN-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-rbx-comp-logo-short-sleeve-jersey/p/216618?color=348765-216618"
+  },
+  {
+    "id": 98,
+    "Tienda": "Specialized",
+    "Nombre": "Catenate - RBX Jersey SS",
+    "Genero": "Hombre",
+    "Precio": "$35.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/63122-274_APP_CATENATE-RBX-JERSEY-SS_RED_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/catenate---rbx-jersey-ss/p/218911?color=357083-218911"
+  },
+  {
+    "id": 99,
+    "Tienda": "Specialized",
+    "Nombre": "Men's RBX Marbled Jersey",
+    "Genero": "Hombre",
+    "Precio": "$50.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64021-063_APP_RBX-MARBLED-JERSEY-SS-MEN-REDWD-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-rbx-marbled-jersey/p/189756?color=307985-189756"
+  },
+  {
+    "id": 100,
+    "Tienda": "Specialized",
+    "Nombre": "Men's RBX Classic Short Sleeve Jersey",
+    "Genero": "Hombre",
+    "Precio": "$35.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64119-420_APP_RBX-CLASSIC-JERSEY-SS-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-rbx-classic-short-sleeve-jersey/p/161787?color=247623-161787"
+  },
+  {
+    "id": 101,
+    "Tienda": "Specialized",
+    "Nombre": "Gravity Race Long Sleeve Jersey",
+    "Genero": "Hombre",
+    "Precio": "$50.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64122-331_APP_GRAVITY-RACE-JERSEY-LS-WHTMTN-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/gravity-race-long-sleeve-jersey/p/216705?color=348985-216705"
+  },
+  {
+    "id": 102,
+    "Tienda": "Specialized",
+    "Nombre": "Gravity Long Sleeve Jersey",
+    "Genero": "Hombre",
+    "Precio": "$40.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64122-322_APP_GRAVITY-JERSEY-LS-IMPRED-M_HERO_CP?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/gravity-long-sleeve-jersey/p/216668?color=348898-216668"
+  },
+  {
+    "id": 103,
+    "Tienda": "Specialized",
+    "Nombre": "Camiseta Trail de Manga Larga Butter de Hombre",
+    "Genero": "Hombre",
+    "Precio": "$30.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64122-260_APP_BUTTER-TRAIL-JERSEY-LS-MEN-BUTR-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/camiseta-trail-de-manga-larga-butter-de-hombre/p/216708?color=348828-216708"
+  },
+  {
+    "id": 104,
+    "Tienda": "Specialized",
+    "Nombre": "Men's Trail Long Sleeve Jersey",
+    "Genero": "Hombre",
+    "Precio": "$45.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64121-440_APP_TRAIL-JERSEY-LS-MEN-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-trail-long-sleeve-jersey/p/189775?color=307876-189775"
+  },
+  {
+    "id": 105,
+    "Tienda": "Specialized",
+    "Nombre": "Men's Trail Air Long Sleeve Jersey",
+    "Genero": "Hombre",
+    "Precio": "$50.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64121-300_APP_TRAIL-AIR-JERSEY-LS-MEN-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-trail-air-long-sleeve-jersey/p/189767?color=307856-189767"
+  },
+  {
+    "id": 106,
+    "Tienda": "Specialized",
+    "Nombre": "Men's In Layers SL Jersey",
+    "Genero": "Hombre",
+    "Precio": "$60.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/63121-251_APP_IN-LAYERS-SL-JERSEY-SS-MEN-BLU-WHT-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-in-layers-sl-jersey/p/205849?color=336332-205849"
+  },
+  {
+    "id": 107,
+    "Tienda": "Specialized",
+    "Nombre": "Men's Trail Long Sleeve Jersey",
+    "Genero": "Hombre",
+    "Precio": "$45.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64123-441_APP_TRAIL-JERSEY-LS-MEN-TRPTL-SPRAY_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-trail-long-sleeve-jersey/p/1000088327?color=1000092248-1000088327"
+  },
+  {
+    "id": 108,
+    "Tienda": "Specialized",
+    "Nombre": "Men's Trail Long Sleeve Jersey",
+    "Genero": "Hombre",
+    "Precio": "$45.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64122-441_APP_TRAIL-JERSEY-LS-MEN-DOVGRY-SPRAY-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-trail-long-sleeve-jersey/p/216727?color=349145-216727"
+  },
+  {
+    "id": 109,
+    "Tienda": "Specialized",
+    "Nombre": "Men’s RBX Oh Canada Short Sleeve Jersey",
+    "Genero": "Hombre",
+    "Precio": "$35.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/63122-27_APP_OH-CANADA-RBX-JERSEY-SS_BLK_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-rbx-oh-canada-short-sleeve-jersey/p/218356?color=354060-218356"
+  },
+  {
+    "id": 110,
+    "Tienda": "Specialized",
+    "Nombre": "Men’s RBX Sun Lit Short Sleeve Jersey",
+    "Genero": "Hombre",
+    "Precio": "$35.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/63122-27_APP_SUN-LIT-RBX-JERSEY-SS_YEL_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-rbx-sun-lit-short-sleeve-jersey/p/218357?color=353166-218357"
+  },
+  {
+    "id": 111,
+    "Tienda": "Specialized",
+    "Nombre": "Youth Trail Long Sleeve Jersey",
+    "Genero": "Hombre",
+    "Precio": "$25.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64121-431_APP_TRAIL-JERSEY-LS-YTH-CSTBTLSHP-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/youth-trail-long-sleeve-jersey/p/189777?color=307881-189777"
+  },
+  {
+    "id": 112,
+    "Tienda": "Specialized",
+    "Nombre": "Men's RBX Expert Long Sleeve Thermal Jersey",
+    "Genero": "Hombre",
+    "Precio": "$90.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64122-230_APP_RBX-EXPERT-THERMAL-JERSEY-LS-MEN-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-rbx-expert-long-sleeve-thermal-jersey/p/200465?color=322945-200465"
+  },
+  {
+    "id": 113,
+    "Tienda": "Specialized",
+    "Nombre": "Men’s RBX Clouds Short Sleeve Jersey",
+    "Genero": "Hombre",
+    "Precio": "$35.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/63122-27_APP_CLOUD-RBX-JERSEY-SS_SLV_PNK_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-rbx-clouds-short-sleeve-jersey/p/218279?color=352661-218279"
+  },
+  {
+    "id": 114,
+    "Tienda": "Specialized",
+    "Nombre": "Men's Butter Trail Air Shorts",
+    "Genero": "Hombre",
+    "Precio": "$45.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64222-7203_APP_BUTTER-TRAIL-AIR-SHORT-MEN-BUTR-32_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-butter-trail-air-shorts/p/216772?color=348991-216772"
+  },
+  {
+    "id": 115,
+    "Tienda": "Specialized",
+    "Nombre": "Men's Trail Cargo Shorts",
+    "Genero": "Hombre",
+    "Precio": "$60.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64221-6603_APP_TRAIL-CARGO-SHORT-MEN-BLK-32_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-trail-cargo-shorts/p/189773?color=307872-189773"
+  },
+  {
+    "id": 116,
+    "Tienda": "Specialized",
+    "Nombre": "Men's Trail Shorts",
+    "Genero": "Hombre",
+    "Precio": "$45.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64221-9803_APP_TRAIL-SHORT-MEN-BLK-32_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-trail-shorts/p/189783?color=307893-189783"
+  },
+  {
+    "id": 117,
+    "Tienda": "Specialized",
+    "Nombre": "Men's Trail Shorts with Liner",
+    "Genero": "Hombre",
+    "Precio": "$60.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64221-8023_APP_TRAIL-SHORT-W-LINER-MEN-CSTUMBR-32_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-trail-shorts-with-liner/p/189784?color=307898-189784"
+  },
+  {
+    "id": 118,
+    "Tienda": "Specialized",
+    "Nombre": "Men's RBX Shorts",
+    "Genero": "Hombre",
+    "Precio": "$45.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64219-870_APP_RBX-SHORT-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-rbx-shorts/p/161846?color=247770-161846"
+  },
+  {
+    "id": 119,
+    "Tienda": "Specialized",
+    "Nombre": "Men's ADV Air Shorts",
+    "Genero": "Hombre",
+    "Precio": "$35.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64522-0213_APP_ADV-AIR-SHORT-MEN-TRCTA-32_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-adv-air-shorts/p/216669?color=348668-216669"
+  },
+  {
+    "id": 120,
+    "Tienda": "Specialized",
+    "Nombre": "Men's Trail CORDURA® Shorts",
+    "Genero": "Hombre",
+    "Precio": "$70.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64222-8203_APP_TRAIL-CORDURA-SHORT-MEN-BLK-32_HERO_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-trail-cordura-shorts/p/216697?color=348812-216697"
+  },
+  {
+    "id": 121,
+    "Tienda": "Specialized",
+    "Nombre": "Men's Team SL Bib Shorts",
+    "Genero": "Hombre",
+    "Precio": "$90.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64522-010_APP_TEAM-SL-BIB-SHORT-MEN-TEAM-REPLICA-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-team-sl-bib-shorts/p/216694?color=348870-216694"
+  },
+  {
+    "id": 122,
+    "Tienda": "Specialized",
+    "Nombre": "Men's RBX Comp Bib Knickers",
+    "Genero": "Hombre",
+    "Precio": "$50.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64222-280_APP_RBX-COMP-BIB-KNICKER-MEN-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-rbx-comp-bib-knickers/p/216622?color=349098-216622"
+  },
+  {
+    "id": 123,
+    "Tienda": "Specialized",
+    "Nombre": "Men's ADV Shorts",
+    "Genero": "Hombre",
+    "Precio": "$45.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64222-6303_APP_ADV-SHORT-MEN-DOP-32_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-adv-shorts/p/216539?color=348512-216539"
+  },
+  {
+    "id": 124,
+    "Tienda": "Specialized",
+    "Nombre": "Men's Prime Bib Shorts",
+    "Genero": "Hombre",
+    "Precio": "$120.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64522-040_APP_PRIME-BIB-SHORT-MEN-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-prime-bib-shorts/p/216655?color=348924-216655"
+  },
+  {
+    "id": 125,
+    "Tienda": "Specialized",
+    "Nombre": "Men's SL Race Bib Shorts",
+    "Genero": "Hombre",
+    "Precio": "$90.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64219-940_APP_SL-R-BIB-SHORT-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-sl-race-bib-shorts/p/161861?color=247807-161861"
+  },
+  {
+    "id": 126,
+    "Tienda": "Specialized",
+    "Nombre": "Men's SL Bib Shorts",
+    "Genero": "Hombre",
+    "Precio": "$90.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64219-750_APP_SL-BIB-SHORT-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-sl-bib-shorts/p/161855?color=247795-161855"
+  },
+  {
+    "id": 127,
+    "Tienda": "Specialized",
+    "Nombre": "Men's RBX Logo Bib Shorts",
+    "Genero": "Hombre",
+    "Precio": "$60.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64522-132_APP_RBX-LOGO-BIB-SHORT-MEN-OAKGRN-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-rbx-logo-bib-shorts/p/216775?color=348768-216775"
+  },
+  {
+    "id": 128,
+    "Tienda": "Specialized",
+    "Nombre": "Men's RBX Bib Shorts",
+    "Genero": "Hombre",
+    "Precio": "$60.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64219-860_APP_RBX-BIB-SHORT-BLK-M_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-rbx-bib-shorts/p/161845?color=247768-161845"
+  },
+  {
+    "id": 129,
+    "Tienda": "Specialized",
+    "Nombre": "Gravity Shorts",
+    "Genero": "Hombre",
+    "Precio": "$70.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64222-7403_APP_GRAVITY-SHORT-BLK-32_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/gravity-shorts/p/216664?color=348670-216664"
+  },
+  {
+    "id": 130,
+    "Tienda": "Specialized",
+    "Nombre": "Enduro Pro Shorts",
+    "Genero": "Hombre",
+    "Precio": "$38.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64220-501_APP_ENDURO-PRO-SHORT-MEN-AQA-32_HERO_FORM?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/enduro-pro-shorts/p/175031?color=280701-175031"
+  },
+  {
+    "id": 131,
+    "Tienda": "Specialized",
+    "Nombre": "Men's Ultralight Liner Shorts with SWAT™",
+    "Genero": "Hombre",
+    "Precio": "$35.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64220-580_APP_ULTRALIGHT-LINER-SHORT-W-SWAT-MEN-BLK-M_HERO_FORM?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-ultralight-liner-shorts-with-swat/p/175055?color=280870-175055"
+  },
+  {
+    "id": 132,
+    "Tienda": "Specialized",
+    "Nombre": "Men's Mountain Liner Bib Shorts with SWAT™",
+    "Genero": "Hombre",
+    "Precio": "$55.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64220-390_APP_MOUNTAIN-LINER-BIB-SHORT-W-SWAT-MEN-BLK-M_HERO_FORM?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-mountain-liner-bib-shorts-with-swat/p/175037?color=280718-175037"
+  },
+  {
+    "id": 133,
+    "Tienda": "Specialized",
+    "Nombre": "Men's In Layers SL Bib Shorts",
+    "Genero": "Hombre",
+    "Precio": "$90.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/63221-100_APP_IN-LAYERS-SL-BIB-SHORT-MEN-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-in-layers-sl-bib-shorts/p/205911?color=336357-205911"
+  },
+  {
+    "id": 134,
+    "Tienda": "Specialized",
+    "Nombre": "Men's Trail Wind Jacket",
+    "Genero": "Hombre",
+    "Precio": "$70.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64421-852_APP_TRAIL-WIND-JACKET-MEN-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-trail-wind-jacket/p/199631?color=319892-199631"
+  },
+  {
+    "id": 135,
+    "Tienda": "Specialized",
+    "Nombre": "Men's Race-Series Wind Gilet",
+    "Genero": "Hombre",
+    "Precio": "$60.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64421-200_APP_RACE-SERIES-WIND-GILET-MEN-BLK-M_HERO_PLP?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-race-series-wind-gilet/p/187981?color=302415-187981"
+  },
+  {
+    "id": 136,
+    "Tienda": "Specialized",
+    "Nombre": "Men's HyprViz SL Pro Wind Gilet",
+    "Genero": "Hombre",
+    "Precio": "$60.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64421-210_APP_RACE-SERIES-WIND-GILET-MEN-HYPERVIZ-M_HERO_PLP?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-hyprviz-sl-pro-wind-gilet/p/187982?color=302417-187982"
+  },
+  {
+    "id": 137,
+    "Tienda": "Specialized",
+    "Nombre": "Men's HyprViz SL Pro Wind Jacket",
+    "Genero": "Hombre",
+    "Precio": "$80.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64421-700_APP_RACE-SERIES-WIND-JACKET-MEN-HYPERVIZ-M_HERO_PLP?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-hyprviz-sl-pro-wind-jacket/p/187966?color=302423-187966"
+  },
+  {
+    "id": 138,
+    "Tienda": "Specialized",
+    "Nombre": "Men's RBX Comp Rain Jacket",
+    "Genero": "Hombre",
+    "Precio": "$130.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64422-300_APP_RBX-COMP-RAIN-JACKET-MEN-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-rbx-comp-rain-jacket/p/200435?color=322887-200435"
+  },
+  {
+    "id": 139,
+    "Tienda": "Specialized",
+    "Nombre": "Men's Trail-Series Rain Jacket",
+    "Genero": "Hombre",
+    "Precio": "$120.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64421-920_APP_TRAIL-SERIES-RAIN-JACKET-MEN-BLK-M_HERO_PLP?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-trail-series-rain-jacket/p/187994?color=302375-187994"
+  },
+  {
+    "id": 140,
+    "Tienda": "Specialized",
+    "Nombre": "Chaqueta Híbrida Deflect™",
+    "Genero": "Hombre",
+    "Precio": "$90.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64418-805_APP_DEFLECT-HYBRID-JACKET_DRKCARB_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/chaqueta-hbrida-deflect/p/156814?color=235895-156814"
+  },
+  {
+    "id": 141,
+    "Tienda": "Specialized",
+    "Nombre": "Men's Trail Rain Jacket",
+    "Genero": "Hombre",
+    "Precio": "$100.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64422-810_APP_TRAIL-RAIN-JACKET-MEN-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-trail-rain-jacket/p/200445?color=322909-200445"
+  },
+  {
+    "id": 142,
+    "Tienda": "Specialized",
+    "Nombre": "Men's Trail SWAT™ Jacket",
+    "Genero": "Hombre",
+    "Precio": "$100.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64422-921_APP_TRAIL-SWAT-JACKET-MEN-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-trail-swat-jacket/p/200447?color=322913-200447"
+  },
+  {
+    "id": 143,
+    "Tienda": "Specialized",
+    "Nombre": "Men's Race-Series Wind Jacket",
+    "Genero": "Hombre",
+    "Precio": "$80.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64421-690_APP_RACE-SERIES-WIND-JACKET-MEN-BLK-M_HERO_PLP?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-race-series-wind-jacket/p/187965?color=302421-187965"
+  },
+  {
+    "id": 144,
+    "Tienda": "Specialized",
+    "Nombre": "Men's Packable Down Jacket",
+    "Genero": "Hombre",
+    "Precio": "$200.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/65423-021_APP_PACKABLE-DOWN-JACKET-MEN-DOVGRY-SPLASH_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-packable-down-jacket/p/1000090535?color=1000095532-1000090535"
+  },
+  {
+    "id": 145,
+    "Tienda": "Specialized",
+    "Nombre": "Men's Trail-Series Wind Jacket",
+    "Genero": "Hombre",
+    "Precio": "$90.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64421-850_APP_TRAIL-SERIES-WIND-JACKET-MEN-BLK-M_HERO_PLP?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-trail-series-wind-jacket/p/188000?color=302385-188000"
+  },
+  {
+    "id": 146,
+    "Tienda": "Specialized",
+    "Nombre": "Chaqueta cortavientos para hombre - Colección Speed ​​of Lig...",
+    "Genero": "Hombre",
+    "Precio": "$50.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64421-580_APP_SPEED-OF-LIGHT-WIND JACKET-MEN-LIGHT-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/chaqueta-cortavientos-para-hombre---coleccin-speed-of-light/p/184212?color=292216-184212"
+  },
+  {
+    "id": 147,
+    "Tienda": "Specialized",
+    "Nombre": "Men’s Seamless Long Sleeve Baselayer",
+    "Genero": "Hombre",
+    "Precio": "$55.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64122-080_APP_SEAMLESS-BASELAYER-LS-MEN-GRY-S-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-seamless-long-sleeve-baselayer/p/200379?color=322770-200379"
+  },
+  {
+    "id": 148,
+    "Tienda": "Specialized",
+    "Nombre": "Men’s Seamless Short Sleeve Baselayer",
+    "Genero": "Hombre",
+    "Precio": "$50.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64122-085_APP_SEAMLESS-BASELAYER-SS-MEN-GRY-S-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-seamless-short-sleeve-baselayer/p/200378?color=322769-200378"
+  },
+  {
+    "id": 149,
+    "Tienda": "Specialized",
+    "Nombre": "Men's Seamless Short Sleeve Base Layer",
+    "Genero": "Hombre",
+    "Precio": "$50.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64119-080_APP_SEAMLESS-BASELAYER-SS_HTHR-GRY_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-seamless-short-sleeve-base-layer/p/161897?color=247882-161897"
+  },
+  {
+    "id": 150,
+    "Tienda": "Specialized",
+    "Nombre": "Camiseta base sin mangas y sin costura",
+    "Genero": "Hombre",
+    "Precio": "$56.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64119-050_APP_SEAMLESS-MERINO-BASELAYER-LS_BLK_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/camiseta-base-sin-mangas-y-sin-costura/p/157413?color=234759-157413"
+  },
+  {
+    "id": 151,
+    "Tienda": "Specialized",
+    "Nombre": "Prey Trail Pants",
+    "Genero": "Hombre",
+    "Precio": "$90.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64222-1103_APP_PREY-TRAIL-PANT-RUM-32_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/prey-trail-pants/p/216717?color=349094-216717"
+  },
+  {
+    "id": 152,
+    "Tienda": "Specialized",
+    "Nombre": "Trail Pants",
+    "Genero": "Hombre",
+    "Precio": "$90.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64221-0603_APP_TRAIL-PANT-BLK-32_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/trail-pants/p/189781?color=307890-189781"
+  },
+  {
+    "id": 153,
+    "Tienda": "Specialized",
+    "Nombre": "Men's RBX Tights",
+    "Genero": "Hombre",
+    "Precio": "$35.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64221-100_APP_RBX-TIGHT-MEN-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-rbx-tights/p/189762?color=307394-189762"
+  },
+  {
+    "id": 154,
+    "Tienda": "Specialized",
+    "Nombre": "Men's RBX Comp Thermal Bib Tights",
+    "Genero": "Hombre",
+    "Precio": "$120.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64222-020_APP_RBX-COMP-THERMAL-BIB-TIGHT-MEN-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-rbx-comp-thermal-bib-tights/p/200416?color=322845-200416"
+  },
+  {
+    "id": 155,
+    "Tienda": "Specialized",
+    "Nombre": "Demo Pro Pants",
+    "Genero": "Hombre",
+    "Precio": "$70.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64219-182_APP_DEMO-PRO-PANT-BLK-32_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/demo-pro-pants/p/159916?color=246120-159916"
+  },
+  {
+    "id": 156,
+    "Tienda": "Specialized",
+    "Nombre": "Men's Trail D3O Gloves",
+    "Genero": "Hombre",
+    "Precio": "$30.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/67121-320_GLV_TRAIL-D3O-GLOVE-LF-MEN-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-trail-d3o-gloves/p/199012?color=317630-199012"
+  },
+  {
+    "id": 157,
+    "Tienda": "Specialized",
+    "Nombre": "Men's Trail Gloves",
+    "Genero": "Hombre",
+    "Precio": "$20.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/67121-400_GLV_TRAIL-GLOVE-LF-MEN-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-trail-gloves/p/199014?color=317654-199014"
+  },
+  {
+    "id": 158,
+    "Tienda": "Specialized",
+    "Nombre": "Men's SL Pro Long Finger Gloves",
+    "Genero": "Hombre",
+    "Precio": "$25.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/67119-213_GLV_SL-PRO-GLOVE-LF-BLK-M_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-sl-pro-long-finger-gloves/p/157229?color=264421-157229"
+  },
+  {
+    "id": 159,
+    "Tienda": "Specialized",
+    "Nombre": "Men's SL Pro Short Finger Gloves",
+    "Genero": "Hombre",
+    "Precio": "$20.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/67019-303_GLV_SL-PRO-GLOVE-SF-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-sl-pro-short-finger-gloves/p/156946?color=264420-156946"
+  },
+  {
+    "id": 160,
+    "Tienda": "Specialized",
+    "Nombre": "Guantes Body Geometry Grail de Hombre",
+    "Genero": "Hombre",
+    "Precio": "$20.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/67019-124_GLV_BG-GRAIL-GLOVE-SF-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/guantes-body-geometry-grail-de-hombre/p/156948?color=262160-156948"
+  },
+  {
+    "id": 161,
+    "Tienda": "Specialized",
+    "Nombre": "Women's Prey Trail Air Gloves",
+    "Genero": "Hombre",
+    "Precio": "$20.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/67122-510_GLV_PREY-TRAIL-AIR-GLOVE-LF-WMN-RUM-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/womens-prey-trail-air-gloves/p/216716?color=348843-216716"
+  },
+  {
+    "id": 162,
+    "Tienda": "Specialized",
+    "Nombre": "Guantes de gel Body Geometry Sport de Hombre",
+    "Genero": "Hombre",
+    "Precio": "$18.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/67019-160_GLV_BG-SPORT-GEL-GLOVE-SF-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/guantes-de-gel-body-geometry-sport-de-hombre/p/156945?color=248759-156945"
+  },
+  {
+    "id": 163,
+    "Tienda": "Specialized",
+    "Nombre": "Men's Trail Shield Gloves",
+    "Genero": "Hombre",
+    "Precio": "$28.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/67121-440_GLV_TRAIL-SHIELD-GLOVE-LF-MEN-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-trail-shield-gloves/p/199013?color=317633-199013"
+  },
+  {
+    "id": 164,
+    "Tienda": "Specialized",
+    "Nombre": "Men's Trail Air Gloves",
+    "Genero": "Hombre",
+    "Precio": "$20.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/67121-300_GLV_TRAIL-AIR-GLOVE-LF-MEN-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-trail-air-gloves/p/199010?color=317648-199010"
+  },
+  {
+    "id": 165,
+    "Tienda": "Specialized",
+    "Nombre": "Men's Butter Trail Air Gloves",
+    "Genero": "Hombre",
+    "Precio": "$19.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/67122-460_GLV_BUTTER-TRAIL-AIR-GLOVE-LF-MEN-BUTR-L_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-butter-trail-air-gloves/p/216610?color=349076-216610"
+  },
+  {
+    "id": 166,
+    "Tienda": "Specialized",
+    "Nombre": "Men's Body Geometry Sport Gel Long Finger Gloves",
+    "Genero": "Hombre",
+    "Precio": "$20.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/67119-160_GLV_BG-SPORT-GEL-GLOVE-LF-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-body-geometry-sport-gel-long-finger-gloves/p/156925?color=248780-156925"
+  },
+  {
+    "id": 167,
+    "Tienda": "Specialized",
+    "Nombre": "Men's Prey Trail Air Gloves",
+    "Genero": "Hombre",
+    "Precio": "$20.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/67122-500_GLV_PREY-TRAIL-AIR-GLOVE-LF-MEN-RUM-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-prey-trail-air-gloves/p/216653?color=348693-216653"
+  },
+  {
+    "id": 168,
+    "Tienda": "Specialized",
+    "Nombre": "Guantes de dedos largos con Gel Dual Body Gemometry de Hombr...",
+    "Genero": "Hombre",
+    "Precio": "$20.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/67119-100_GLV_BG-DUAL-GEL-GLOVE-LF-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/guantes-de-dedos-largos-con-gel-dual-body-gemometry-de-hombre/p/173586?color=271516-173586"
+  },
+  {
+    "id": 169,
+    "Tienda": "Specialized",
+    "Nombre": "Guantes HyperViz Body Geometry Grail dedos largos de Hombre",
+    "Genero": "Hombre",
+    "Precio": "$25.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/67120-121_GLV_BG-GRAIL-GLOVE-LF-HYPERVIZ-HYPERVIZ-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/guantes-hyperviz-body-geometry-grail-dedos-largos-de-hombre/p/183978?color=290684-183978"
+  },
+  {
+    "id": 170,
+    "Tienda": "Specialized",
+    "Nombre": "Guantes Body Geometry Grail Dedos Largos de Hombre",
+    "Genero": "Hombre",
+    "Precio": "$25.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/67119-124_GLV_BG-GRAIL-GLOVE-LF-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/guantes-body-geometry-grail-dedos-largos-de-hombre/p/156922?color=262141-156922"
+  },
+  {
+    "id": 171,
+    "Tienda": "Specialized",
+    "Nombre": "Supacaz Galactic Glove",
+    "Genero": "Hombre",
+    "Precio": "$22.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/67122-811_GLOVE_GALACTIC-LF-OILSLCK-PLP_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/supacaz-galactic-glove/p/220701?color=361297-220701"
+  },
+  {
+    "id": 172,
+    "Tienda": "Specialized",
+    "Nombre": "Guantes Body Geometry Grail HyperViz de Hombre",
+    "Genero": "Hombre",
+    "Precio": "$20.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/67020-200_GLV_BG-GRAIL-GLOVE-SF-HYPERVIZ-HYPERVIZ-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/guantes-body-geometry-grail-hyperviz-de-hombre/p/184083?color=291322-184083"
+  },
+  {
+    "id": 173,
+    "Tienda": "Specialized",
+    "Nombre": "Supacaz Supa G Short Glove",
+    "Genero": "Hombre",
+    "Precio": "$25.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/67022-800_GLOVE_SUPA-G-SF-OIL-SLICK-PLP_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/supacaz-supa-g-short-glove/p/220699?color=361320-220699"
+  },
+  {
+    "id": 174,
+    "Tienda": "Specialized",
+    "Nombre": "Guantes Renegade de Hombre",
+    "Genero": "Hombre",
+    "Precio": "$24.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/67119-425_GLV_RENEGADE-GLOVE-LF-BLK-M_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/guantes-renegade-de-hombre/p/157278?color=264422-157278"
+  },
+  {
+    "id": 175,
+    "Tienda": "Specialized",
+    "Nombre": "Supacaz Supa G Long Glove",
+    "Genero": "Hombre",
+    "Precio": "$25.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/67122-800_GLOVE_SUPA-G-LF-OIL-SLICK-PLP_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/supacaz-supa-g-long-glove/p/220700?color=361298-220700"
+  },
+  {
+    "id": 176,
+    "Tienda": "Specialized",
+    "Nombre": "Deflect™ H2O Gloves",
+    "Genero": "Hombre",
+    "Precio": "$30.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/162270?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/deflect-h2o-gloves/p/151301?color=243814-151301"
+  },
+  {
+    "id": 177,
+    "Tienda": "Specialized",
+    "Nombre": "Element 2.0 Gloves",
+    "Genero": "Hombre",
+    "Precio": "$30.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/162115?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/element-2-0-gloves/p/132263?color=241065-132263"
+  },
+  {
+    "id": 178,
+    "Tienda": "Specialized",
+    "Nombre": "Men's Trail-Series Guantes Térmicos",
+    "Genero": "Hombre",
+    "Precio": "$37.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/67221-430_GLV_TRAIL-SERIES-THERMAL-GLOVE-MEN-BLK-M_HERO_PLP?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-trail-series-guantes-trmicos/p/187314?color=300084-187314"
+  },
+  {
+    "id": 179,
+    "Tienda": "Specialized",
+    "Nombre": "Therminal™ Liner Gloves",
+    "Genero": "Hombre",
+    "Precio": "$47.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/67222-340_GLV_THERMAL-LINER-GLOVE-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/therminal-liner-gloves/p/200371?color=322743-200371"
+  },
+  {
+    "id": 180,
+    "Tienda": "Specialized",
+    "Nombre": "Element Glove",
+    "Genero": "Hombre",
+    "Precio": "$58.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/67221-160_GLV_SOFTSHELL-DEEP-WINTER-GLOVE-BLK-M_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/element-glove/p/188257?color=322785-188257"
+  },
+  {
+    "id": 181,
+    "Tienda": "Specialized",
+    "Nombre": "Men's Neoshell Thermal Gloves",
+    "Genero": "Hombre",
+    "Precio": "$42.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/67221-350_GLV_PRIME-SERIES-THERMAL-GLOVE-MEN-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-neoshell-thermal-gloves/p/187312?color=299802-187312"
+  },
+  {
+    "id": 182,
+    "Tienda": "Specialized",
+    "Nombre": "Waterproof Gloves",
+    "Genero": "Hombre",
+    "Precio": "$40.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/67223-500_APP_WATERPROOF-GLOVE-LF-BLK_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/waterproof-gloves/p/1000088496?color=1000088501-1000088496"
+  },
+  {
+    "id": 183,
+    "Tienda": "Specialized",
+    "Nombre": "Men's NeoShell Gloves",
+    "Genero": "Hombre",
+    "Precio": "$35.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/67223-460_APP_NEOSHELL-GLOVE-MEN-LF-BLK_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-neoshell-gloves/p/1000088450?color=1000088455-1000088450"
+  },
+  {
+    "id": 184,
+    "Tienda": "Specialized",
+    "Nombre": "Men's LoDown Gloves",
+    "Genero": "Hombre",
+    "Precio": "$26.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/67119-375_GLV_LODOWN-GLOVE-LF-BLK-M_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-lodown-gloves/p/156886?color=264423-156886"
+  },
+  {
+    "id": 185,
+    "Tienda": "Specialized",
+    "Nombre": "Butter Short Sleeve T-Shirt",
+    "Genero": "Hombre",
+    "Precio": "$12.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64622-150_APP-BUTTER-TEE-SS-MEN-BTR-S_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/butter-short-sleeve-t-shirt/p/216737?color=348903-216737"
+  },
+  {
+    "id": 186,
+    "Tienda": "Specialized",
+    "Nombre": "Men's Wordmark Short Sleeve T-Shirt",
+    "Genero": "Hombre",
+    "Precio": "$18.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64622-360_APP_WORDMARK-TEE-SS-MEN-ARCTBLU-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-wordmark-short-sleeve-t-shirt/p/218661?color=355554-218661"
+  },
+  {
+    "id": 187,
+    "Tienda": "Specialized",
+    "Nombre": "Stoke Short Sleeve T-Shirt",
+    "Genero": "Hombre",
+    "Precio": "$20.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64622-451_APP_STOKE-TEE-SS-MRN-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/stoke-short-sleeve-t-shirt/p/216696?color=349053-216696"
+  },
+  {
+    "id": 188,
+    "Tienda": "Specialized",
+    "Nombre": "Stoke Long Sleeve T-Shirt",
+    "Genero": "Hombre",
+    "Precio": "$20.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64622-440_APP_STOKE-TEE-LS-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/stoke-long-sleeve-t-shirt/p/216602?color=349051-216602"
+  },
+  {
+    "id": 189,
+    "Tienda": "Specialized",
+    "Nombre": "Men's Specialized Long Sleeve T-Shirt",
+    "Genero": "Hombre",
+    "Precio": "$20.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64622-090_APP_SPECIALIZED-TEE-LS-MEN-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-specialized-long-sleeve-t-shirt/p/218660?color=355550-218660"
+  },
+  {
+    "id": 190,
+    "Tienda": "Specialized",
+    "Nombre": "Special Eyes Short Sleeve T-Shirt",
+    "Genero": "Hombre",
+    "Precio": "$20.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64622-942_APP_SPECIAL-EYES-TEE-SS-SND-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/special-eyes-short-sleeve-t-shirt/p/206184?color=336904-206184"
+  },
+  {
+    "id": 191,
+    "Tienda": "Specialized",
+    "Nombre": "Sonne Short Sleeve T-Shirt",
+    "Genero": "Hombre",
+    "Precio": "$20.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64622-430_APP_SONNE-TEE-SS-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/sonne-short-sleeve-t-shirt/p/216761?color=348809-216761"
+  },
+  {
+    "id": 192,
+    "Tienda": "Specialized",
+    "Nombre": "Men's S-Logo Short Sleeve T-Shirt",
+    "Genero": "Hombre",
+    "Precio": "$20.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64622-024_APP_S-LOGO-TEE-SS-MEN-FLORED-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-s-logo-short-sleeve-t-shirt/p/218657?color=355537-218657"
+  },
+  {
+    "id": 193,
+    "Tienda": "Specialized",
+    "Nombre": "Ritual Short Sleeve T-Shirt",
+    "Genero": "Hombre",
+    "Precio": "$20.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64622-992_APP_RITUAL-TEE-SS-TRPTL-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/ritual-short-sleeve-t-shirt/p/216587?color=348618-216587"
+  },
+  {
+    "id": 194,
+    "Tienda": "Specialized",
+    "Nombre": "Revel Short Sleeve T-Shirt",
+    "Genero": "Hombre",
+    "Precio": "$20.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64622-981_APP_REVEL-TEE-SS-DOVGRY-SPRAY-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/revel-short-sleeve-t-shirt/p/216783?color=348778-216783"
+  },
+  {
+    "id": 195,
+    "Tienda": "Specialized",
+    "Nombre": "Men's Short Sleeve Pocket T-Shirt",
+    "Genero": "Hombre",
+    "Precio": "$20.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64622-071_APP_POCKET-TEE-SS-MEN-DOVGRY-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-short-sleeve-pocket-t-shirt/p/218656?color=355530-218656"
+  },
+  {
+    "id": 196,
+    "Tienda": "Specialized",
+    "Nombre": "Grind Short Sleeve T-Shirt",
+    "Genero": "Hombre",
+    "Precio": "$20.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64622-420_APP_GRIND-TEE-SS-DOVGRY-SPRAY-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/grind-short-sleeve-t-shirt/p/216566?color=348739-216566"
+  },
+  {
+    "id": 197,
+    "Tienda": "Specialized",
+    "Nombre": "Driven Short Sleeve T-Shirt",
+    "Genero": "Hombre",
+    "Precio": "$20.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64622-961_APP_DRIVEN-TEE-SS-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/driven-short-sleeve-t-shirt/p/216570?color=348663-216570"
+  },
+  {
+    "id": 198,
+    "Tienda": "Specialized",
+    "Nombre": "Driven Long Sleeve T-Shirt",
+    "Genero": "Hombre",
+    "Precio": "$20.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64622-950_APP_DRIVEN-TEE-LS-DOVGRY-SPRAY-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/driven-long-sleeve-t-shirt/p/216701?color=348745-216701"
+  },
+  {
+    "id": 199,
+    "Tienda": "Specialized",
+    "Nombre": "Men's Legacy Polo",
+    "Genero": "Hombre",
+    "Precio": "$25.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64922-150_APP_LEGACY-POLO-MEN-BLK_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-legacy-polo/p/218650?color=355528-218650"
+  },
+  {
+    "id": 200,
+    "Tienda": "Specialized",
+    "Nombre": "Men's Legacy Premium T-Shirt",
+    "Genero": "Hombre",
+    "Precio": "$20.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64622-340_APP_LEGACY-PREMIUM-TEE-SS-MEN-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-legacy-premium-t-shirt/p/218654?color=355549-218654"
+  },
+  {
+    "id": 201,
+    "Tienda": "Specialized",
+    "Nombre": "Men's Legacy Long Sleeve Crewneck",
+    "Genero": "Hombre",
+    "Precio": "$49.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64922-130_APP_LEGACY-CREWNECK-LS-MEN-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-legacy-long-sleeve-crewneck/p/218518?color=354920-218518"
+  },
+  {
+    "id": 202,
+    "Tienda": "Specialized",
+    "Nombre": "Men's Wordmark T-Shirt",
+    "Genero": "Hombre",
+    "Precio": "$18.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64621-361_APP_WORDMARK-TEE-SS-MEN-CBLT-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mens-wordmark-t-shirt/p/189790?color=307913-189790"
+  },
+  {
+    "id": 203,
+    "Tienda": "Specialized",
+    "Nombre": "2FO Roost Clip zapatillas de MTB",
+    "Genero": "Unisex",
+    "Precio": "$110.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/61621-204_SHOE_2FO-ROOST-CLIP-MTB-SHOE-BLK-GUM-44_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/2fo-roost-clip-zapatillas-de-mtb/p/187391?color=300591-187391"
+  },
+  {
+    "id": 204,
+    "Tienda": "Specialized",
+    "Nombre": "S-Works Torch",
+    "Genero": "Unisex",
+    "Precio": "$370.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/61022-074_SHOE_SW-TORCH-RD-SHOE-WHT-44_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/s-works-torch/p/200598?color=323520-200598"
+  },
+  {
+    "id": 205,
+    "Tienda": "Specialized",
+    "Nombre": "Zapatillas de MTB ClipLite",
+    "Genero": "Unisex",
+    "Precio": "$168.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/61622-404_SHOE_2FO-CLIPLITE-MTB-SHOE-OAKGRN-44_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/zapatillas-de-mtb-cliplite/p/203138?color=332914-203138"
+  },
+  {
+    "id": 206,
+    "Tienda": "Specialized",
+    "Nombre": "Zapatillas de montaña Recon 2.0",
+    "Genero": "Unisex",
+    "Precio": "$150.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/61520-104_SHOE_RECON-20-MTB-SHOE-BLK-42_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/zapatillas-de-montaa-recon-2-0/p/173654?color=272388-173654"
+  },
+  {
+    "id": 207,
+    "Tienda": "Specialized",
+    "Nombre": "Zapatillas de ruta Torch 1.0",
+    "Genero": "Unisex",
+    "Precio": "$105.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/61020-554_SHOE_TORCH-10-RD-SHOE-WHT-42_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/zapatillas-de-ruta-torch-1-0/p/172702?color=272420-172702"
+  },
+  {
+    "id": 208,
+    "Tienda": "Specialized",
+    "Nombre": "Zapatillas de montaña Recon 3.0",
+    "Genero": "Unisex",
+    "Precio": "$235.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/61520-224_SHOE_RECON-30-MTB-SHOE-BLK-42_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/zapatillas-de-montaa-recon-3-0/p/173643?color=272360-173643"
+  },
+  {
+    "id": 209,
+    "Tienda": "Specialized",
+    "Nombre": "Zapatillas de ruta Torch 2.0",
+    "Genero": "Unisex",
+    "Precio": "$168.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/61018-314_SHOE_TORCH-2-0-RD_BLK_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/zapatillas-de-ruta-torch-2-0/p/157242?color=232016-157242"
+  },
+  {
+    "id": 210,
+    "Tienda": "Specialized",
+    "Nombre": "Zapatillas de montaña 2FO DH Clip",
+    "Genero": "Unisex",
+    "Precio": "$120.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/61621-004_SHOE_2FO-DH-CLIP-MTB-SHOE-BLK-REDWD-44_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/zapatillas-de-montaa-2fo-dh-clip/p/187385?color=300582-187385"
+  },
+  {
+    "id": 211,
+    "Tienda": "Specialized",
+    "Nombre": "Zapatillas S-Works Vent EVO",
+    "Genero": "Unisex",
+    "Precio": "$350.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/61722-004_SHOE_SW-VENT-EVO-MTB-SHOE-BLK-44_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/zapatillas-s-works-vent-evo/p/205535?color=330191-205535"
+  },
+  {
+    "id": 212,
+    "Tienda": "Specialized",
+    "Nombre": "Zapatillas de ruta Torch 3.0",
+    "Genero": "Unisex",
+    "Precio": "$230.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/61020-204_SHOE_TORCH-30-RD-SHOE-BASICS-42_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/zapatillas-de-ruta-torch-3-0/p/155410?color=272329-155410"
+  },
+  {
+    "id": 213,
+    "Tienda": "Specialized",
+    "Nombre": "Zapatillas de montaña 2FO DH Flat",
+    "Genero": "Unisex",
+    "Precio": "$120.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/61621-104_SHOE_2FO-DH-FLAT-MTB-SHOE-BLK-CLGRY-44_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/zapatillas-de-montaa-2fo-dh-flat/p/187386?color=300585-187386"
+  },
+  {
+    "id": 214,
+    "Tienda": "Specialized",
+    "Nombre": "Zapatilas de Gravel S-Works Recon Lace",
+    "Genero": "Unisex",
+    "Precio": "$350.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/61521-824_SHOE_SW-RECON-LACE-MTB-SHOE-OAKGRN-44_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/zapatilas-de-gravel-s-works-recon-lace/p/205506?color=330102-205506"
+  },
+  {
+    "id": 215,
+    "Tienda": "Specialized",
+    "Nombre": "Zapatillas de ruta S-Works EXOS",
+    "Genero": "Unisex",
+    "Precio": "$350.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/61019-104_SHOE_SW-LIGHT-RD_BLK_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/zapatillas-de-ruta-s-works-exos/p/157750?color=268881-157750"
+  },
+  {
+    "id": 216,
+    "Tienda": "Specialized",
+    "Nombre": "2FO Roost Flat zapatillas de MTB",
+    "Genero": "Unisex",
+    "Precio": "$110.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/61621-304_SHOE_2FO-ROOST-FLAT-MTB-SHOE-BLK-SLT-44_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/2fo-roost-flat-zapatillas-de-mtb/p/187390?color=300602-187390"
+  },
+  {
+    "id": 217,
+    "Tienda": "Specialized",
+    "Nombre": "Zapatillas de montaña Recon 1.0",
+    "Genero": "Unisex",
+    "Precio": "$80.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/61520-014_SHOE_RECON-10-MTB-SHOE-BLK-42_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/zapatillas-de-montaa-recon-1-0/p/173655?color=272366-173655"
+  },
+  {
+    "id": 218,
+    "Tienda": "Specialized",
+    "Nombre": "Zapatillas de ruta S-Works 7",
+    "Genero": "Unisex",
+    "Precio": "$350.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/61018-70_SHOE_SW-7_BLK_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/zapatillas-de-ruta-s-works-7/p/157321?color=232546-157321"
+  },
+  {
+    "id": 219,
+    "Tienda": "Specialized",
+    "Nombre": "Zapatillas de MTB 2FO Roost Canvas",
+    "Genero": "Unisex",
+    "Precio": "$100.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/61622-514_SHOE_2FO-ROOST-FLAT-CANVAS-MTB-SHOE-TPE-OIS-44_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/zapatillas-de-mtb-2fo-roost-canvas/p/205526?color=330166-205526"
+  },
+  {
+    "id": 220,
+    "Tienda": "Specialized",
+    "Nombre": "Zapatillas de montaña S-WORKS 7 XC",
+    "Genero": "Unisex",
+    "Precio": "$350.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/61119-004_SHOE_SW-7-XC-MTB_BLK_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/zapatillas-de-montaa-s-works-7-xc/p/157446?color=234826-157446"
+  },
+  {
+    "id": 221,
+    "Tienda": "Specialized",
+    "Nombre": "Rime Flat Mountain Bike Shoe",
+    "Genero": "Unisex",
+    "Precio": "$116.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/61521-704_SHOE_RIME-FLAT-MTB-SHOE-BLK-42_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/rime-flat-mountain-bike-shoe/p/187392?color=300605-187392"
+  },
+  {
+    "id": 222,
+    "Tienda": "Specialized",
+    "Nombre": "Rime 2.0 Hydroguard Mountain Bike Shoe",
+    "Genero": "Unisex",
+    "Precio": "$158.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/61522-904_SHOE_RIME-20-HG-MTB-SHOE-BLK-CSTBTLSHP-BLZ-42_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/rime-2-0-hydroguard-mountain-bike-shoe/p/205519?color=330157-205519"
+  },
+  {
+    "id": 223,
+    "Tienda": "Specialized",
+    "Nombre": "RIME 1.0 Mountain Bike Shoes",
+    "Genero": "Unisex",
+    "Precio": "$88.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/61119-704_SHOE_RIME-10-MTB_BLK_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/rime-1-0-mountain-bike-shoes/p/172838?color=268774-172838"
+  },
+  {
+    "id": 224,
+    "Tienda": "Specialized",
+    "Nombre": "Zapatillas para triatlón S-Works Trivent",
+    "Genero": "Unisex",
+    "Precio": "$210.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/61419-004_SHOE_SW-TRIVENT-RD_WHT_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/zapatillas-para-triatln-s-works-trivent/p/155931?color=237141-155931"
+  },
+  {
+    "id": 225,
+    "Tienda": "Specialized",
+    "Nombre": "Zapatillas de montaña Expert XC",
+    "Genero": "Unisex",
+    "Precio": "$187.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/61119-204_SHOE_EXPERT-XC-MTB_BLK-ACDLAVA_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/zapatillas-de-montaa-expert-xc/p/156134?color=239675-156134"
+  },
+  {
+    "id": 226,
+    "Tienda": "Specialized",
+    "Nombre": "Zapatillas de ruta Torch 1.0",
+    "Genero": "Unisex",
+    "Precio": "$105.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/61018-514_SHOE_TORCH-1-0-RD_TEAMYEL_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/zapatillas-de-ruta-torch-1-0/p/134047?color=228564-134047"
+  },
+  {
+    "id": 227,
+    "Tienda": "Specialized",
+    "Nombre": "Body Geometry SL Footbeds",
+    "Genero": "Unisex",
+    "Precio": "$27.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/11039?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/body-geometry-sl-footbeds/p/130590?color=228463-130590"
+  },
+  {
+    "id": 228,
+    "Tienda": "Specialized",
+    "Nombre": "Replacement Road Shoe Heel Lug",
+    "Genero": "Unisex",
+    "Precio": "$6.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/164515?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/replacement-road-shoe-heel-lug/p/156543?color=228320-156543"
+  },
+  {
+    "id": 229,
+    "Tienda": "Specialized",
+    "Nombre": "SL2 Replaceable Heel Tread",
+    "Genero": "Unisex",
+    "Precio": "$12.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/164189?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/sl2-replaceable-heel-tread/p/155673?color=227911-155673"
+  },
+  {
+    "id": 230,
+    "Tienda": "Specialized",
+    "Nombre": "S-Works Ares Road Shoes",
+    "Genero": "Unisex",
+    "Precio": "$365.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/61021-404_SHOE_SW-VICE-RD-SHOE-BLK-44_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/s-works-ares-road-shoes/p/187397?color=331497-187397"
+  },
+  {
+    "id": 231,
+    "Tienda": "Specialized",
+    "Nombre": "Body Geometry Internal Wedges – 2-Pack",
+    "Genero": "Unisex",
+    "Precio": "$9.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/61316-900_BGFIT_BG-INTERNAL-VARUS-WEDGE-2PK?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/body-geometry-internal-wedges--2-pack/p/155913?color=229863-155913"
+  },
+  {
+    "id": 232,
+    "Tienda": "Specialized",
+    "Nombre": "S-Works Vent Road Shoes",
+    "Genero": "Unisex",
+    "Precio": "$350.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/61020-724_SHOE_SW-VENT-RD-SHOE-CLDBLK-44_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/s-works-vent-road-shoes/p/184125?color=291700-184125"
+  },
+  {
+    "id": 233,
+    "Tienda": "Specialized",
+    "Nombre": "Rime 2.0 Mountain Bike Shoe",
+    "Genero": "Unisex",
+    "Precio": "$137.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/61119-734_SHOE_RIME-20-MTB_BLK_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/rime-2-0-mountain-bike-shoe/p/172884?color=268956-172884"
+  },
+  {
+    "id": 234,
+    "Tienda": "Specialized",
+    "Nombre": "Plantillas Body Geometry SL",
+    "Genero": "Unisex",
+    "Precio": "$27.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/613E-9440_SHOE_BG SL FOOTBED_BLU?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/plantillas-body-geometry-sl/p/156119?color=228285-156119"
+  },
+  {
+    "id": 235,
+    "Tienda": "Specialized",
+    "Nombre": "2FO Clip 2.0 Mountain Bike Shoes",
+    "Genero": "Unisex",
+    "Precio": "$88.200",
+    "imgURL": "https://assets.specialized.com/i/specialized/61120-604_SHOE_2FO-CLIP-20-MTB-SHOE-BLK-42_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/2fo-clip-2-0-mountain-bike-shoes/p/173658?color=272373-173658"
+  },
+  {
+    "id": 236,
+    "Tienda": "Specialized",
+    "Nombre": "Zapatillas de montaña 2FO Flat 1.0",
+    "Genero": "Unisex",
+    "Precio": "$95.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/61118-404_SHOE_2FO-FLAT-1-0-MTB_BLK_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/zapatillas-de-montaa-2fo-flat-1-0/p/155799?color=228851-155799"
+  },
+  {
+    "id": 237,
+    "Tienda": "Specialized",
+    "Nombre": "S-Works 7 Lace Road Shoes",
+    "Genero": "Unisex",
+    "Precio": "$350.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/61022-604_SHOE_SW-7-LACE-RD-SHOE-BLK-44_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/s-works-7-lace-road-shoes/p/200043?color=329939-200043"
+  },
+  {
+    "id": 238,
+    "Tienda": "Specialized",
+    "Nombre": "Deflect™ Comp Shoe Covers",
+    "Genero": "Unisex",
+    "Precio": "$49.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64916-010_APP_DEFLECT-COMP-SHOE-COVER_BLK_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/deflect-comp-shoe-covers/p/170352?color=261102-170352"
+  },
+  {
+    "id": 239,
+    "Tienda": "Specialized",
+    "Nombre": "Ambush 2",
+    "Genero": "Unisex",
+    "Precio": "$145.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/60222-185_HLMT_AMBUSH-II-HLMT-CE-WHT-M_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/ambush-2/p/205467?color=330005-205467"
+  },
+  {
+    "id": 240,
+    "Tienda": "Specialized",
+    "Nombre": "S-Works Prevail 3",
+    "Genero": "Unisex",
+    "Precio": "$250.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/60923-105_HLMT_SW-PREVAIL-3-HLMT-CE-VIVRED-M_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/s-works-prevail-3/p/220798?color=361545-220798"
+  },
+  {
+    "id": 241,
+    "Tienda": "Specialized",
+    "Nombre": "Tactic",
+    "Genero": "Unisex",
+    "Precio": "$90.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/60221-133_HLMT_TACTIC-4-HLMT-CE-OAKGRN-M_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/tactic/p/204745?color=331310-204745"
+  },
+  {
+    "id": 242,
+    "Tienda": "Specialized",
+    "Nombre": "S-Works Evade 3",
+    "Genero": "Unisex",
+    "Precio": "$250.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/60723-106_HLMT_SW-EVADE-3-HLMT-CE-WHT-M_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/s-works-evade-3/p/220799?color=361541-220799"
+  },
+  {
+    "id": 243,
+    "Tienda": "Specialized",
+    "Nombre": "Tone",
+    "Genero": "Unisex",
+    "Precio": "$60.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/60823-161_HLMT_TONE-HLMT-CE-BRCH-TPE-M_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/tone/p/220797?color=361660-220797"
+  },
+  {
+    "id": 244,
+    "Tienda": "Specialized",
+    "Nombre": "Camber",
+    "Genero": "Unisex",
+    "Precio": "$50.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/60222-192_HLMT_65-TRAIL-HLMT-CE-COLOR-2-M_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/camber/p/205414?color=330728-205414"
+  },
+  {
+    "id": 245,
+    "Tienda": "Specialized",
+    "Nombre": "Align II",
+    "Genero": "Unisex",
+    "Precio": "$50.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/60821-104_HLMT_ALIGN-II-HLMT-MIPS-CE-BLK-BLKREFL-S-M_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/align-ii/p/186472?color=297729-186472"
+  },
+  {
+    "id": 246,
+    "Tienda": "Specialized",
+    "Nombre": "Gambit",
+    "Genero": "Unisex",
+    "Precio": "$200.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/60222-102_HLMT_GAMBIT-HLMT-CE-DOVGRY-MRN-M_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/gambit/p/199902?color=323561-199902"
+  },
+  {
+    "id": 247,
+    "Tienda": "Specialized",
+    "Nombre": "Propero III",
+    "Genero": "Unisex",
+    "Precio": "$116.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/60119-024_HLMT_PROPERO-3-HLMT-ANGI-MIPS-CPSC-BLK-M_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/propero-iii/p/162030?color=251007-162030"
+  },
+  {
+    "id": 248,
+    "Tienda": "Specialized",
+    "Nombre": "S-Works Dissident",
+    "Genero": "Unisex",
+    "Precio": "$290.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/60219-022_HLMT_SW-DISSIDENT-DH-HLMT-ANGI-MIPS-CPSC-RAW-CARBON-M_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/s-works-dissident/p/162033?color=251061-162033"
+  },
+  {
+    "id": 249,
+    "Tienda": "Specialized",
+    "Nombre": "Ambush",
+    "Genero": "Unisex",
+    "Precio": "$90.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/60219-034_HLMT_AMBUSH-HLMT-ANGI-MIPS-CPSC-BLK-M_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/ambush/p/162034?color=251083-162034"
+  },
+  {
+    "id": 250,
+    "Tienda": "Specialized",
+    "Nombre": "Echelon II",
+    "Genero": "Unisex",
+    "Precio": "$84.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/60119-041_HLMT_ECHELON-II-HLMT-ANGI-MIPS-CPSC-BLK-M_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/echelon-ii/p/162031?color=251037-162031"
+  },
+  {
+    "id": 251,
+    "Tienda": "Specialized",
+    "Nombre": "Ambush Comp",
+    "Genero": "Unisex",
+    "Precio": "$50.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/166244?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/ambush-comp/p/132338?color=219750-132338"
+  },
+  {
+    "id": 252,
+    "Tienda": "Specialized",
+    "Nombre": "Centro LED",
+    "Genero": "Unisex",
+    "Precio": "$68.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/60819-092_HLMT_CENTRO-LED-HLMT-ANGI-MIPS-CPSC-WHT-ADLT_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/centro-led/p/162040?color=251208-162040"
+  },
+  {
+    "id": 253,
+    "Tienda": "Specialized",
+    "Nombre": "Mio",
+    "Genero": "Unisex",
+    "Precio": "$44.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/60020-141_HLMT_MIO-HLMT-MIPS-CE-CSTBRY-ACDPNK-REFRACTION-TDLR_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mio/p/162042?color=273506-162042"
+  },
+  {
+    "id": 254,
+    "Tienda": "Specialized",
+    "Nombre": "Casco de Niño Shuffle LED. Hebilla estándar.",
+    "Genero": "Unisex",
+    "Precio": "$54.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/60019-068_HLMT_SHUFFLE-LED-SB-CPSC_RKTRED-BLK-LIGHTNING_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/casco-de-nio-shuffle-led-hebilla-estndar-/p/159240?color=239960-159240"
+  },
+  {
+    "id": 255,
+    "Tienda": "Specialized",
+    "Nombre": "S-Works Evade",
+    "Genero": "Unisex",
+    "Precio": "$184.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/60719-003_HLMT_SW-EVADE-II-HLMT-ANGI-MIPS-CPSC-BLK-M_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/s-works-evade/p/162026?color=250899-162026"
+  },
+  {
+    "id": 256,
+    "Tienda": "Specialized",
+    "Nombre": "S-Works Prevail II Vent",
+    "Genero": "Unisex",
+    "Precio": "$193.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/60921-110_HLMT_SW-PREVAIL-II-VENT-ANGI-MIPS-CE-MATTE-BLK-BLK-M_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/s-works-prevail-ii-vent/p/187323?color=320645-187323"
+  },
+  {
+    "id": 257,
+    "Tienda": "Specialized",
+    "Nombre": "Ambush",
+    "Genero": "Unisex",
+    "Precio": "$90.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/165805?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/ambush/p/132391?color=220567-132391"
+  },
+  {
+    "id": 258,
+    "Tienda": "Specialized",
+    "Nombre": "Tactic 3",
+    "Genero": "Unisex",
+    "Precio": "$93.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/60218-055_HLMT_TACTIC-3-CPSC_WHT_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/tactic-3/p/133843?color=220795-133843"
+  },
+  {
+    "id": 259,
+    "Tienda": "Specialized",
+    "Nombre": "Ambush Comp e-Bike",
+    "Genero": "Unisex",
+    "Precio": "$109.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/60819-730_HLMT_AMBUSH-COMP-EBIKE-CS-CE_BLK_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/ambush-comp-e-bike/p/159238?color=239923-159238"
+  },
+  {
+    "id": 260,
+    "Tienda": "Specialized",
+    "Nombre": "Chamonix 2",
+    "Genero": "Unisex",
+    "Precio": "$74.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/60819-042_HLMT_CHAMONIX-HLMT-ANGI-MIPS-CPSC-WHT-M-L_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/chamonix-2/p/162037?color=251156-162037"
+  },
+  {
+    "id": 261,
+    "Tienda": "Specialized",
+    "Nombre": "Casco de Niño Shuffle LED. Hebilla estándar.",
+    "Genero": "Unisex",
+    "Precio": "$50.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/60021-173_HLMT_SHUFFLE-LED-SB-HLMT-MIPS-CE-SMK-YTH_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/casco-de-nio-shuffle-led-hebilla-estndar-/p/159239?color=303223-159239"
+  },
+  {
+    "id": 262,
+    "Tienda": "Specialized",
+    "Nombre": "Shuffle Youth Broche Estándar.",
+    "Genero": "Unisex",
+    "Precio": "$50.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/60021-176_HLMT_SHUFFLE-SB-HLMT-CE-REDWD-YTH_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/shuffle-youth-broche-estndar-/p/155316?color=303204-155316"
+  },
+  {
+    "id": 263,
+    "Tienda": "Specialized",
+    "Nombre": "Ambush Comp",
+    "Genero": "Unisex",
+    "Precio": "$50.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/60219-331_HLMT_AMBUSH-COMP-HLMT-ANGI-MIPS-CPSC-BLK-CHAR-M_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/ambush-comp/p/162035?color=251073-162035"
+  },
+  {
+    "id": 264,
+    "Tienda": "Specialized",
+    "Nombre": "Tactic 4 Replacement Visor",
+    "Genero": "Unisex",
+    "Precio": "$20.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/60522-513_HLMT_TACTIC-4-HLMT-CE-DOVGRY-VISOR_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/tactic-4-replacement-visor/p/218885?color=357003-218885"
+  },
+  {
+    "id": 265,
+    "Tienda": "Specialized",
+    "Nombre": "Adaptador universal ANGi.",
+    "Genero": "Unisex",
+    "Precio": "$3.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/60519-801_HLMT_ANGI-ADAPTER-BLK_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/adaptador-universal-angi-/p/174183?color=277861-174183"
+  },
+  {
+    "id": 266,
+    "Tienda": "Specialized",
+    "Nombre": "Airnet Pad Set",
+    "Genero": "Unisex",
+    "Precio": "$8.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/60017-661_HMLT_PADSET-AIRNET?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/airnet-pad-set/p/156679?color=233214-156679"
+  },
+  {
+    "id": 267,
+    "Tienda": "Specialized",
+    "Nombre": "Mode",
+    "Genero": "Unisex",
+    "Precio": "$80.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/60822-120_HLMT_MODE-HLMT-CE-MATTE-BLK-M_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mode/p/205449?color=329936-205449"
+  },
+  {
+    "id": 268,
+    "Tienda": "Specialized",
+    "Nombre": "S-Works TT",
+    "Genero": "Unisex",
+    "Precio": "$280.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/60719-280_HLMT_SW-TT-HLMT-ANGI-MIPS-AUS-BLK-M-L_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/s-works-tt/p/162032?color=251041-162032"
+  },
+  {
+    "id": 269,
+    "Tienda": "Specialized",
+    "Nombre": "Centro",
+    "Genero": "Unisex",
+    "Precio": "$63.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/60819-083_HLMT_CENTRO-HLMT-ANGI-MIPS-CPSC-BLK-ADLT_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/centro/p/162039?color=251185-162039"
+  },
+  {
+    "id": 270,
+    "Tienda": "Specialized",
+    "Nombre": "Shuffle Child Broche Estándar",
+    "Genero": "Unisex",
+    "Precio": "$44.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/60020-163_HLMT_SHUFFLE-LED-SB-HLMT-MIPS-CE-UVLLC-CSTBRY-CHLD_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/shuffle-child-broche-estndar/p/156606?color=273522-156606"
+  },
+  {
+    "id": 271,
+    "Tienda": "Specialized",
+    "Nombre": "Chamonix",
+    "Genero": "Unisex",
+    "Precio": "",
+    "imgURL": "https://assets.specialized.com/i/specialized/60823-140_HLMT_CHAMONIX-HLMT-MIPS-CE-LMSTN-S-M_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/chamonix/p/162038?color=362441-162038"
+  },
+  {
+    "id": 272,
+    "Tienda": "Specialized",
+    "Nombre": "New Era Pom Specialized Beanie",
+    "Genero": "Unisex",
+    "Precio": "$20.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64820-220_APP_NEW-ERA-POM-BEANIE-SPECIALIZED-BLK-OSFA_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/new-era-pom-specialized-beanie/p/184055?color=291191-184055"
+  },
+  {
+    "id": 273,
+    "Tienda": "Specialized",
+    "Nombre": "New Era Cuff S-Logo Beanie",
+    "Genero": "Unisex",
+    "Precio": "$20.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64820-210_APP_BLACK-NEW-ERA-CUFF-BEANIE-BLK-OSFA_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/new-era-cuff-s-logo-beanie/p/184054?color=291188-184054"
+  },
+  {
+    "id": 274,
+    "Tienda": "Specialized",
+    "Nombre": "New Era S-Logo Trucker Hat",
+    "Genero": "Unisex",
+    "Precio": "$23.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64820-230_APP_NEW-ERA-TRUCKER-HAT-S-LOGO-BLK-OSFA_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/new-era-s-logo-trucker-hat/p/184056?color=291194-184056"
+  },
+  {
+    "id": 275,
+    "Tienda": "Specialized",
+    "Nombre": "Blur Neck Gaiter",
+    "Genero": "Unisex",
+    "Precio": "$15.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64822-594_APP_BLUR-NECK-GAITER-TRPTL-OSFA_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/blur-neck-gaiter/p/216567?color=348502-216567"
+  },
+  {
+    "id": 276,
+    "Tienda": "Specialized",
+    "Nombre": "Distortion Neck Gaiter",
+    "Genero": "Unisex",
+    "Precio": "$15.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64822-602_APP_DISTORTION-NECK-GAITER-VIVCRL-OSFA_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/distortion-neck-gaiter/p/216766?color=349061-216766"
+  },
+  {
+    "id": 277,
+    "Tienda": "Specialized",
+    "Nombre": "New Era Stoke Trucker Hat",
+    "Genero": "Unisex",
+    "Precio": "$23.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64822-292_NEW_ERA_STOKE_TRUCKER_HAT_DOVGRY_HERO_CP?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/new-era-stoke-trucker-hat/p/216658?color=349117-216658"
+  },
+  {
+    "id": 278,
+    "Tienda": "Specialized",
+    "Nombre": "Butter New Era Cuff Beanie",
+    "Genero": "Unisex",
+    "Precio": "$15.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64822-120_APP_BUTTER-NEW-ERA-CUFF-BEANIE-BUTR-OSFA_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/butter-new-era-cuff-beanie/p/216609?color=348825-216609"
+  },
+  {
+    "id": 279,
+    "Tienda": "Specialized",
+    "Nombre": "Mirage Bandana",
+    "Genero": "Unisex",
+    "Precio": "$10.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64822-633_APP_MIRAGE-BANDANA-SLT-OSFA_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mirage-bandana/p/216575?color=348758-216575"
+  },
+  {
+    "id": 280,
+    "Tienda": "Specialized",
+    "Nombre": "New Era Classic Specialized Hat",
+    "Genero": "Unisex",
+    "Precio": "$23.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64821-250_APP_NEW-ERA-CLASSIC-HAT-SPECIALIZED-BLK-OSFA_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/new-era-classic-specialized-hat/p/189751?color=307960-189751"
+  },
+  {
+    "id": 281,
+    "Tienda": "Specialized",
+    "Nombre": "New Era 5-Panel Specialized Hat",
+    "Genero": "Unisex",
+    "Precio": "$23.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64820-200_APP_NEW-ERA-5-PANEL-HAT-SPECIALIZED-BLK-OSFA_FRONT-3-4_FORM?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/new-era-5-panel-specialized-hat/p/184052?color=291180-184052"
+  },
+  {
+    "id": 282,
+    "Tienda": "Specialized",
+    "Nombre": "Cotton Cycling Cap",
+    "Genero": "Unisex",
+    "Precio": "$18.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64822-280_APP_COTTON-CYCLING-CAP-ARCTBLU-OSFA_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/cotton-cycling-cap/p/216732?color=348572-216732"
+  },
+  {
+    "id": 283,
+    "Tienda": "Specialized",
+    "Nombre": "Deflect™ UV Cycling Cap",
+    "Genero": "Unisex",
+    "Precio": "$18.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64820-100_APP_DEFLECT-UV-CYCLING-CAP-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/deflect-uv-cycling-cap/p/174824?color=279901-174824"
+  },
+  {
+    "id": 284,
+    "Tienda": "Specialized",
+    "Nombre": "Polartec® NeoShell® Rain Beanie",
+    "Genero": "Unisex",
+    "Precio": "$30.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64822-530_APP_NEOSHELL-RAIN-BEANIE-BLK-S-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/polartec-neoshell-rain-beanie/p/200427?color=322862-200427"
+  },
+  {
+    "id": 285,
+    "Tienda": "Specialized",
+    "Nombre": "Thermal Hat/Gaiter",
+    "Genero": "Unisex",
+    "Precio": "$37.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64822-570_APP_THERMAL-HAT-NECK-WARMER-BLK-OSFA_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/thermal-hat-gaiter/p/200426?color=322861-200426"
+  },
+  {
+    "id": 286,
+    "Tienda": "Specialized",
+    "Nombre": "Thermal Headband",
+    "Genero": "Unisex",
+    "Precio": "$25.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64822-580_APP_THERMAL-HEADBAND-BLK-OSFA_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/thermal-headband/p/200425?color=322860-200425"
+  },
+  {
+    "id": 287,
+    "Tienda": "Specialized",
+    "Nombre": "New Era Metal 9Fifty Snapback Hat",
+    "Genero": "Unisex",
+    "Precio": "$23.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64822-161_APP_NEW-ERA-METAL-9FIFTY-SNAPBACK-HAT-DOVGRY-OSFA_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/new-era-metal-9fifty-snapback-hat/p/216793?color=348862-216793"
+  },
+  {
+    "id": 288,
+    "Tienda": "Specialized",
+    "Nombre": "Element Balaclava",
+    "Genero": "Unisex",
+    "Precio": "$37.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64818-021_APP_ELEMENT-BALACLAVA_BLK_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/element-balaclava/p/157120?color=233843-157120"
+  },
+  {
+    "id": 289,
+    "Tienda": "Specialized",
+    "Nombre": "Therminal™ Engineered Arm Warmers",
+    "Genero": "Unisex",
+    "Precio": "$40.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64319-090_APP_THERMINAL-ENGINEERED-ARM-WARMER-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/therminal-engineered-arm-warmers/p/170249?color=234777-170249"
+  },
+  {
+    "id": 290,
+    "Tienda": "Specialized",
+    "Nombre": "Therminal™ Leg Warmers",
+    "Genero": "Unisex",
+    "Precio": "$32.500",
+    "imgURL": "https://assets.specialized.com/i/specialized/64318-062_APP_THERMINAL-LEG-WARMER-BLK-M_HERO_FORM-1?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/therminal-leg-warmers/p/174910?color=280139-174910"
+  },
+  {
+    "id": 291,
+    "Tienda": "Specialized",
+    "Nombre": "Therminal™ Arm Warmers",
+    "Genero": "Unisex",
+    "Precio": "$40.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64318-012_APP_THERMINAL-ARM-WARMER-BLK-M_HERO_FORM-1?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/therminal-arm-warmers/p/174812?color=279908-174812"
+  },
+  {
+    "id": 292,
+    "Tienda": "Specialized",
+    "Nombre": "Therminal™ Knee Warmers",
+    "Genero": "Unisex",
+    "Precio": "$45.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64318-042_APP_THERMINAL-KNEE-WARMER-BLK-M_HERO_FORM-1?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/therminal-knee-warmers/p/174804?color=280135-174804"
+  },
+  {
+    "id": 293,
+    "Tienda": "Specialized",
+    "Nombre": "Therminal™ Engineered Knee Warmers",
+    "Genero": "Unisex",
+    "Precio": "$45.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64319-150_APP_THERMINAL-SEAMLESS-KNEE-WARMER_BLK_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/therminal-engineered-knee-warmers/p/170253?color=234778-170253"
+  },
+  {
+    "id": 294,
+    "Tienda": "Specialized",
+    "Nombre": "Therminal™ Engineered Leg Warmers",
+    "Genero": "Unisex",
+    "Precio": "$50.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64319-230_APP_THERMINAL-ENGINEERED-LEG-WARMER-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/therminal-engineered-leg-warmers/p/170252?color=234779-170252"
+  },
+  {
+    "id": 295,
+    "Tienda": "Specialized",
+    "Nombre": "Atlas Knee Pads",
+    "Genero": "Unisex",
+    "Precio": "$46.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64315-110_APP_ATLAS-KNEE-PAD-BLK-M_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/atlas-knee-pads/p/159677?color=242304-159677"
+  },
+  {
+    "id": 296,
+    "Tienda": "Specialized",
+    "Nombre": "Seamless Arm Warmers",
+    "Genero": "Unisex",
+    "Precio": "$27.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64322-020_APP_SEAMLESS-ARM-WARMER-BLK-M-L_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/seamless-arm-warmers/p/200368?color=322762-200368"
+  },
+  {
+    "id": 297,
+    "Tienda": "Specialized",
+    "Nombre": "Seamless Knee Warmers",
+    "Genero": "Unisex",
+    "Precio": "$35.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64322-130_APP_SEAMLESS-KNEE-WARMER-BLK-M-L_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/seamless-knee-warmers/p/200539?color=323051-200539"
+  },
+  {
+    "id": 298,
+    "Tienda": "Specialized",
+    "Nombre": "Seamless Leg Warmers",
+    "Genero": "Unisex",
+    "Precio": "$45.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64322-240_APP_SEAMLESS-LEG-WARMER-BLK-M-L_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/seamless-leg-warmers/p/200542?color=323053-200542"
+  },
+  {
+    "id": 299,
+    "Tienda": "Specialized",
+    "Nombre": "New Era Pom Specialized Beanie",
+    "Genero": "Unisex",
+    "Precio": "$20.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64820-220_APP_NEW-ERA-POM-BEANIE-SPECIALIZED-BLK-OSFA_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/new-era-pom-specialized-beanie/p/184055?color=291191-184055"
+  },
+  {
+    "id": 300,
+    "Tienda": "Specialized",
+    "Nombre": "New Era Cuff S-Logo Beanie",
+    "Genero": "Unisex",
+    "Precio": "$20.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64820-210_APP_BLACK-NEW-ERA-CUFF-BEANIE-BLK-OSFA_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/new-era-cuff-s-logo-beanie/p/184054?color=291188-184054"
+  },
+  {
+    "id": 301,
+    "Tienda": "Specialized",
+    "Nombre": "New Era S-Logo Trucker Hat",
+    "Genero": "Unisex",
+    "Precio": "$23.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64820-230_APP_NEW-ERA-TRUCKER-HAT-S-LOGO-BLK-OSFA_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/new-era-s-logo-trucker-hat/p/184056?color=291194-184056"
+  },
+  {
+    "id": 302,
+    "Tienda": "Specialized",
+    "Nombre": "Blur Neck Gaiter",
+    "Genero": "Unisex",
+    "Precio": "$15.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64822-594_APP_BLUR-NECK-GAITER-TRPTL-OSFA_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/blur-neck-gaiter/p/216567?color=348502-216567"
+  },
+  {
+    "id": 303,
+    "Tienda": "Specialized",
+    "Nombre": "Distortion Neck Gaiter",
+    "Genero": "Unisex",
+    "Precio": "$15.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64822-602_APP_DISTORTION-NECK-GAITER-VIVCRL-OSFA_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/distortion-neck-gaiter/p/216766?color=349061-216766"
+  },
+  {
+    "id": 304,
+    "Tienda": "Specialized",
+    "Nombre": "New Era Stoke Trucker Hat",
+    "Genero": "Unisex",
+    "Precio": "$23.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64822-292_NEW_ERA_STOKE_TRUCKER_HAT_DOVGRY_HERO_CP?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/new-era-stoke-trucker-hat/p/216658?color=349117-216658"
+  },
+  {
+    "id": 305,
+    "Tienda": "Specialized",
+    "Nombre": "Butter New Era Cuff Beanie",
+    "Genero": "Unisex",
+    "Precio": "$15.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64822-120_APP_BUTTER-NEW-ERA-CUFF-BEANIE-BUTR-OSFA_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/butter-new-era-cuff-beanie/p/216609?color=348825-216609"
+  },
+  {
+    "id": 306,
+    "Tienda": "Specialized",
+    "Nombre": "Mirage Bandana",
+    "Genero": "Unisex",
+    "Precio": "$10.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64822-633_APP_MIRAGE-BANDANA-SLT-OSFA_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/mirage-bandana/p/216575?color=348758-216575"
+  },
+  {
+    "id": 307,
+    "Tienda": "Specialized",
+    "Nombre": "New Era Classic Specialized Hat",
+    "Genero": "Unisex",
+    "Precio": "$23.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64821-250_APP_NEW-ERA-CLASSIC-HAT-SPECIALIZED-BLK-OSFA_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/new-era-classic-specialized-hat/p/189751?color=307960-189751"
+  },
+  {
+    "id": 308,
+    "Tienda": "Specialized",
+    "Nombre": "New Era 5-Panel Specialized Hat",
+    "Genero": "Unisex",
+    "Precio": "$23.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64820-200_APP_NEW-ERA-5-PANEL-HAT-SPECIALIZED-BLK-OSFA_FRONT-3-4_FORM?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/new-era-5-panel-specialized-hat/p/184052?color=291180-184052"
+  },
+  {
+    "id": 309,
+    "Tienda": "Specialized",
+    "Nombre": "Cotton Cycling Cap",
+    "Genero": "Unisex",
+    "Precio": "$18.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64822-280_APP_COTTON-CYCLING-CAP-ARCTBLU-OSFA_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/cotton-cycling-cap/p/216732?color=348572-216732"
+  },
+  {
+    "id": 310,
+    "Tienda": "Specialized",
+    "Nombre": "Deflect™ UV Cycling Cap",
+    "Genero": "Unisex",
+    "Precio": "$18.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64820-100_APP_DEFLECT-UV-CYCLING-CAP-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/deflect-uv-cycling-cap/p/174824?color=279901-174824"
+  },
+  {
+    "id": 311,
+    "Tienda": "Specialized",
+    "Nombre": "Polartec® NeoShell® Rain Beanie",
+    "Genero": "Unisex",
+    "Precio": "$30.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64822-530_APP_NEOSHELL-RAIN-BEANIE-BLK-S-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/polartec-neoshell-rain-beanie/p/200427?color=322862-200427"
+  },
+  {
+    "id": 312,
+    "Tienda": "Specialized",
+    "Nombre": "Thermal Hat/Gaiter",
+    "Genero": "Unisex",
+    "Precio": "$37.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64822-570_APP_THERMAL-HAT-NECK-WARMER-BLK-OSFA_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/thermal-hat-gaiter/p/200426?color=322861-200426"
+  },
+  {
+    "id": 313,
+    "Tienda": "Specialized",
+    "Nombre": "Thermal Headband",
+    "Genero": "Unisex",
+    "Precio": "$25.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64822-580_APP_THERMAL-HEADBAND-BLK-OSFA_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/thermal-headband/p/200425?color=322860-200425"
+  },
+  {
+    "id": 314,
+    "Tienda": "Specialized",
+    "Nombre": "New Era Metal 9Fifty Snapback Hat",
+    "Genero": "Unisex",
+    "Precio": "$23.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64822-161_APP_NEW-ERA-METAL-9FIFTY-SNAPBACK-HAT-DOVGRY-OSFA_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/new-era-metal-9fifty-snapback-hat/p/216793?color=348862-216793"
+  },
+  {
+    "id": 315,
+    "Tienda": "Specialized",
+    "Nombre": "Element Balaclava",
+    "Genero": "Unisex",
+    "Precio": "$37.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64818-021_APP_ELEMENT-BALACLAVA_BLK_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/element-balaclava/p/157120?color=233843-157120"
+  },
+  {
+    "id": 316,
+    "Tienda": "Specialized",
+    "Nombre": "Hydrogen Vent Tall Road Socks",
+    "Genero": "Unisex",
+    "Precio": "$10.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64720-202_APP_HYDROGEN-VENT-TALL-SOCK-HYP-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/hydrogen-vent-tall-road-socks/p/175091?color=281186-175091"
+  },
+  {
+    "id": 317,
+    "Tienda": "Specialized",
+    "Nombre": "Merino Deep Winter Tall Logo Socks",
+    "Genero": "Unisex",
+    "Precio": "$14.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64722-130_APP_MERINO-DEEP-WINTER-TALL-LOGO-SOCK-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/merino-deep-winter-tall-logo-socks/p/200492?color=323027-200492"
+  },
+  {
+    "id": 318,
+    "Tienda": "Specialized",
+    "Nombre": "Merino Deep Winter Tall Socks",
+    "Genero": "Unisex",
+    "Precio": "$14.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64722-141_APP_MERINO-DEEP-WINTER-TALL-SOCK-OAKGRN-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/merino-deep-winter-tall-socks/p/200489?color=322999-200489"
+  },
+  {
+    "id": 319,
+    "Tienda": "Specialized",
+    "Nombre": "Medias Largas Merino Midweight con logo",
+    "Genero": "Unisex",
+    "Precio": "$14.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64722-320_APP_MERINO-MIDWEIGHT-TALL-LOGO-SOCK-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/medias-largas-merino-midweight-con-logo/p/200491?color=323025-200491"
+  },
+  {
+    "id": 320,
+    "Tienda": "Specialized",
+    "Nombre": "Medias Altas Merino Midweight",
+    "Genero": "Unisex",
+    "Precio": "$14.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64722-330_APP_MERINO-MIDWEIGHT-TALL-SOCK-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/medias-altas-merino-midweight/p/200487?color=322996-200487"
+  },
+  {
+    "id": 321,
+    "Tienda": "Specialized",
+    "Nombre": "Primaloft® Lightweight Tall Socks",
+    "Genero": "Unisex",
+    "Precio": "$10.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64722-350_APP_PRIMALOFT-LIGHTWEIGHT-TALL-SOCK-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/primaloft-lightweight-tall-socks/p/200486?color=323020-200486"
+  },
+  {
+    "id": 322,
+    "Tienda": "Specialized",
+    "Nombre": "Soft Air Tall Socks",
+    "Genero": "Unisex",
+    "Precio": "$10.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64722-396_APP_SOFT-AIR-TALL-SOCK-SPR-BLUR-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/soft-air-tall-socks/p/216560?color=348806-216560"
+  },
+  {
+    "id": 323,
+    "Tienda": "Specialized",
+    "Nombre": "Techno MTB Tall Logo Socks",
+    "Genero": "Unisex",
+    "Precio": "$10.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64722-771_APP_TECHNO-MTB-TALL-LOGO-SOCK-BLK-HYP-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/techno-mtb-tall-logo-socks/p/216755?color=348949-216755"
+  },
+  {
+    "id": 324,
+    "Tienda": "Specialized",
+    "Nombre": "Techno MTB Tall Sock",
+    "Genero": "Unisex",
+    "Precio": "$10.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64720-760_APP_TECHNO-MTB-TALL-SOCK-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/techno-mtb-tall-sock/p/175099?color=281221-175099"
+  },
+  {
+    "id": 325,
+    "Tienda": "Specialized",
+    "Nombre": "Soft Air Reflective Tall Socks",
+    "Genero": "Unisex",
+    "Precio": "$10.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64720-260_APP_SOFT-AIR-REFLECTIVE-TALL-SOCK-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/soft-air-reflective-tall-socks/p/175097?color=281209-175097"
+  },
+  {
+    "id": 326,
+    "Tienda": "Specialized",
+    "Nombre": "Primaloft Lightweight Tall Socks",
+    "Genero": "Unisex",
+    "Precio": "$10.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64720-100_APP_PRIMALOFT-LIGHTWEIGHT-TALL-SOCK-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/primaloft-lightweight-tall-socks/p/175094?color=281195-175094"
+  },
+  {
+    "id": 327,
+    "Tienda": "Specialized",
+    "Nombre": "Hydrogen Aero Tall Road Socks",
+    "Genero": "Unisex",
+    "Precio": "$10.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64720-220_APP_HYDROGEN-AERO-TALL-SOCK-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/hydrogen-aero-tall-road-socks/p/175090?color=281180-175090"
+  },
+  {
+    "id": 328,
+    "Tienda": "Specialized",
+    "Nombre": "Soft Air Road Tall Sock",
+    "Genero": "Unisex",
+    "Precio": "$10.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64720-240_APP_SOFT-AIR-TALL-SOCK-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/soft-air-road-tall-sock/p/175098?color=281213-175098"
+  },
+  {
+    "id": 329,
+    "Tienda": "Specialized",
+    "Nombre": "Primaloft® Lightweight Tall Logo Socks",
+    "Genero": "Unisex",
+    "Precio": "$10.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64722-340_APP_PRIMALOFT-LIGHTWEIGHT-TALL-LOGO-SOCK-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/primaloft-lightweight-tall-logo-socks/p/200493?color=323029-200493"
+  },
+  {
+    "id": 330,
+    "Tienda": "Specialized",
+    "Nombre": "Cotton Tall Socks",
+    "Genero": "Unisex",
+    "Precio": "$10.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64722-310_APP_COTTON-TALL-SOCK-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/cotton-tall-socks/p/200488?color=322993-200488"
+  },
+  {
+    "id": 331,
+    "Tienda": "Specialized",
+    "Nombre": "Merino Deep Winter Tall Socks",
+    "Genero": "Unisex",
+    "Precio": "$14.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64720-120_APP_MERINO-DEEP-WINTER-TALL-SOCK-BLK-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/merino-deep-winter-tall-socks/p/175092?color=281188-175092"
+  },
+  {
+    "id": 332,
+    "Tienda": "Specialized",
+    "Nombre": "Deflect™ Comp Shoe Covers",
+    "Genero": "Unisex",
+    "Precio": "$49.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64916-010_APP_DEFLECT-COMP-SHOE-COVER_BLK_HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/deflect-comp-shoe-covers/p/170352?color=261102-170352"
+  },
+  {
+    "id": 333,
+    "Tienda": "Specialized",
+    "Nombre": "Butter Techno MTB Tall Logo Socks",
+    "Genero": "Unisex",
+    "Precio": "$10.000",
+    "imgURL": "https://assets.specialized.com/i/specialized/64722-360_APP_BUTTER-TECHNO-MTB-TALL-LOGO-SOCK-BUTR-M_PLP-HERO?$hybris-pdp-hero$",
+    "URLproducto": "https://www.specialized.com/cl/es/butter-techno-mtb-tall-logo-socks/p/216706?color=348989-216706"
+  }
+]

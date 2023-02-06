@@ -1,0 +1,426 @@
+[
+  {
+    "id": 1,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA DE MONTAÑA ARO 27,5 / 21 VELOCIDADES NEGRO ST100",
+    "Precio": "$200.000",
+    "imgURL": "https://contents.mediadecathlon.com/p1325531/k$b77cb2b95e7de8c6a8279a3b3095be1b/bicicleta-mtb-aro-275quote-21-velocidades-st100-negro.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-mountain-bike/196952-30701-bicicleta-mtb-aro-275quote-21-velocidades-st100-negro.html#/7552-demodelcolor-8480244/2140-demodelsize-1045xs_140_154cm"
+  },
+  {
+    "id": 2,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA DE RUTA ARO 700 / 8 VELOCIDADES AZUL MARINO RC120",
+    "Precio": "$480.000",
+    "imgURL": "https://contents.mediadecathlon.com/p1752592/k$a830e6c5e2503a7ee4ed50156e34bda3/bicicleta-ruta-aro-700quote-8-velocidades-rc120-azul-marino.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/triatlon-ciclismo/326838-19048-bicicleta-ruta-aro-700quote-8-velocidades-rc120-azul-marino.html#/9567-demodelundefined-967129/301-demodelsize-200m"
+  },
+  {
+    "id": 3,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA DE RUTA ARO 700 / 7 VELOCIDADES GRIS RC100",
+    "Precio": "$360.000",
+    "imgURL": "https://contents.mediadecathlon.com/p1662199/k$4d461294413f611f2b18751bd05f0fed/bicicleta-ruta-aro-700quote-7-velocidades-rc100-gris.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-Ruta/307028-19562-bicicleta-ruta-aro-700quote-7-velocidades-rc100-gris.html#/9477-demodelundefined-8544956/288-demodelsize-200xl"
+  },
+  {
+    "id": 4,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA DE MONTAÑA ARO 27,5 / 21 VELOCIDADES BLANCO ST100",
+    "Precio": "$200.000",
+    "imgURL": "https://contents.mediadecathlon.com/p1617008/k$919ed9703caafb1a837d00894260abff/bicicleta-mtb-adulto-sport-trail-100-blanca-rockrider.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-mountain-bike/307105-3979-bicicleta-mtb-adulto-sport-trail-100-blanca-rockrider.html#/2138-demodelcolor-8545034/2140-demodelsize-1045xs_140_154cm"
+  },
+  {
+    "id": 5,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA DE MONTAÑA ST120 9 VELOCIDADES",
+    "Precio": "$310.000",
+    "imgURL": "https://contents.mediadecathlon.com/p2228202/k$92b86e3fcb677eb35dccf584b1735799/bicicleta-de-montana-st120-9-velocidades.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-mountain-bike/338476-27100-bicicleta-de-montana-st120-9-velocidades.html#/8326-demodelcolor-8735754/2139-demodelsize-1045m_165_174cm"
+  },
+  {
+    "id": 6,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA DE MONTAÑA ARO 27,5 / 21 VELOCIDADES AMARILLO ST100",
+    "Precio": "$200.000",
+    "imgURL": "https://contents.mediadecathlon.com/p2208606/k$8594012fbb445761be99c5d057410ded/bicicleta-mtb-aro-275quote-21-velocidades-st100-negro.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-mountain-bike/196952-30706-bicicleta-mtb-aro-275quote-21-velocidades-st100-negro.html#/7781-demodelcolor-8572391/2140-demodelsize-1045xs_140_154cm"
+  },
+  {
+    "id": 7,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA DE MONTAÑA ARO 24 / 6 VELOCIDADES BLANCO ST100",
+    "Precio": "$120.000",
+    "imgURL": "https://contents.mediadecathlon.com/p1621617/k$6b108dd1db6fcd0078149009bce1cdef/btt-ninos-rockrider-st-100-24-pulgadas-cn-9-12-anos.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-para-ninos/308941-6365-btt-ninos-rockrider-st-100-24-pulgadas-cn-9-12-anos.html#/3149-demodelcolor-8549161/346-demodelsize-254sin_talla"
+  },
+  {
+    "id": 8,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA HÍBRIDA ARO 28\" 21 VELOCIDADES HOPRIDER100 GRIS",
+    "Precio": "$290.000",
+    "imgURL": "https://contents.mediadecathlon.com/p1818003/k$5d48382bf11ddd4b026bef4b5fd7a344/bicicleta-urbana-larga-distancia-hoprider-100-cuadro-alto.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-urbanas/300910-4559-bicicleta-urbana-larga-distancia-hoprider-100-cuadro-alto.html#/2395-demodelcolor-8405477/301-demodelsize-200m"
+  },
+  {
+    "id": 9,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA HÍBRIDA NIÑOS RIVERSIDE100 9 A 12 AÑOS",
+    "Precio": "$140.000",
+    "imgURL": "https://contents.mediadecathlon.com/p2025654/k$bd493d7684cbb14c02cbbffb16083352/bicicleta-hibrida-ninos-riverside100-9-a-12-anos.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-para-ninos/337759-25906-bicicleta-hibrida-ninos-riverside100-9-a-12-anos.html#/9866-demodelundefined-8733639/3703-demodelsize-21424quote"
+  },
+  {
+    "id": 10,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA INFANTIL ARO 16 BLANCO / AZUL INUIT100",
+    "Precio": "$160.000",
+    "imgURL": "https://contents.mediadecathlon.com/p1178865/k$9b721c1f488e618dc132a4f6d90218b8/bicicleta-para-ninos-16quote-4-6-anos-100-inuit-cn-fr-btwin.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-para-ninos/169317-1922-bicicleta-para-ninos-16quote-4-6-anos-100-inuit-cn-fr-btwin.html#/1085-demodelcolor-8392094/15-demodelsize-254"
+  },
+  {
+    "id": 11,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA URBANA ARO 28 / 9 VELOCIDADES GRIS / ROJO RIVERSIDE500",
+    "Precio": "$350.000",
+    "imgURL": "https://contents.mediadecathlon.com/p1990163/k$42ff3e6eb6bcad7aef75914ecd063574/bicicleta-hibrida-aro-28quote-9-velocidades-riverside500-grisslashrojo.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-hibridas/169553-20405-bicicleta-hibrida-aro-28quote-9-velocidades-riverside500-grisslashrojo.html#/880-demodelcolor-8392092/883-demodelsize-457l_1m75_1m80"
+  },
+  {
+    "id": 12,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA RIVERSIDE100",
+    "Precio": "$230.000",
+    "imgURL": "https://contents.mediadecathlon.com/p2402726/k$93e43cc90cc7a7cbb4ecbefeae98b96b/bicicleta-hibrida-riverside100-negro.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-hibridas/169551-12594-bicicleta-hibrida-riverside100-negro.html#/5691-demodelcolor-8550625/5694-demodelsize-457l_173_187cm"
+  },
+  {
+    "id": 13,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA DE MONTAÑA ARO 24 / 6 VELOCIDADES AMARILLO ST500",
+    "Precio": "$200.000",
+    "imgURL": "https://contents.mediadecathlon.com/p1632963/k$604ca3b0979e460786156df6b0690a79/bicicleta-de-mtb-aro-24quote-6-velocidades-st500-amarillo.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-para-ninos/308925-18499-bicicleta-de-mtb-aro-24quote-6-velocidades-st500-amarillo.html#/9438-demodelundefined-8549162/346-demodelsize-254sin_talla"
+  },
+  {
+    "id": 14,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA URBANA ARO 28 / 10 VELOCIDADES GRIS RIVERSIDE900",
+    "Precio": "$400.000",
+    "imgURL": "https://contents.mediadecathlon.com/p1634807/k$b17721cb4fb45ecc4c5cfd3f9e298cb3/bicicleta-hibrida-aro-28quote-10-velocidades-riverside900-gris.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-hibridas/196951-19720-bicicleta-hibrida-aro-28quote-10-velocidades-riverside900-gris.html#/7794-demodelcolor-8480246/302-demodelsize-200l"
+  },
+  {
+    "id": 15,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA NIÑOS RIVERSIDE 6 A 9 AÑOS",
+    "Precio": "$190.000",
+    "imgURL": "https://contents.mediadecathlon.com/p2025676/k$c9c89588e9a74d16ef7cd37bf9616b8e/bicicleta-ninos-riverside-6-a-9-anos.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-para-ninos/337765-25907-bicicleta-ninos-riverside-6-a-9-anos.html#/9867-demodelundefined-8733629/4377-demodelsize-21420quote"
+  },
+  {
+    "id": 16,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA DE MONTAÑA ARO 24 /18 VELOCIDADES NEGRO ST500",
+    "Precio": "$280.000",
+    "imgURL": "https://contents.mediadecathlon.com/p1732639/k$61174fa09302a228c3898af4ac7ae727/bicicleta-de-mtb-aro-24quote-18-velocidades-st500-negro.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-para-ninos/300762-18500-bicicleta-de-mtb-aro-24quote-18-velocidades-st500-negro.html#/3702-demodelcolor-8405168/3703-demodelsize-21424quote"
+  },
+  {
+    "id": 17,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA CIUDAD ELOPS520",
+    "Precio": "$390.000",
+    "imgURL": "https://contents.mediadecathlon.com/p2288175/k$0bb7564beb0379fa4e8b9f41d727da6f/bicicleta-urbana-elops-520-marco-bajo-azul.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-urbanas/145734-2189-bicicleta-urbana-elops-520-marco-bajo-azul.html#/1214-demodelcolor-8378612/769-demodelsize-515lslashxl"
+  },
+  {
+    "id": 18,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA INFANTIL ARO 16 NEGRO / NARANJO ROBOT500",
+    "Precio": "$170.000",
+    "imgURL": "https://contents.mediadecathlon.com/p1869042/k$d3978f56df13f506706d0123cdf0a9e6/bicicleta-infantil-aro-16-negro-slash-naranjo-robot500.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-para-ninos/169321-35266-bicicleta-infantil-aro-16-negro-slash-naranjo-robot500.html#/5242-demodelcolor-8391523/15-demodelsize-254"
+  },
+  {
+    "id": 19,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA SIN PEDALES 12\" RUNRIDE 900",
+    "Precio": "$110.000",
+    "imgURL": "https://contents.mediadecathlon.com/p2342667/k$643d4483a962f9ee24d825d0c59870d1/bicicleta-sin-pedales-12quote-runride-900.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-para-ninos/323485-31540-bicicleta-sin-pedales-12quote-runride-900.html#/10135-demodelcolor-8577585/5826-demodelsize-21412quote"
+  },
+  {
+    "id": 20,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA DE MONTAÑA ARO 20 / 6 VELOCIDADES AMARILLO ST500",
+    "Precio": "$95.000",
+    "imgURL": "https://contents.mediadecathlon.com/p1664044/k$2ad73f83b7e61c26f7e19f82efba4f04/bicicleta-de-mtb-aro-20quote-6-velocidades-st500-amarillo.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-para-ninos/308924-13276-bicicleta-de-mtb-aro-20quote-6-velocidades-st500-amarillo.html#/5920-demodelcolor-8549159/346-demodelsize-254sin_talla"
+  },
+  {
+    "id": 21,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA DE GRAVEL 120 CN FR",
+    "Precio": "$620.000",
+    "imgURL": "https://contents.mediadecathlon.com/p1859091/k$eaae426604dc794e1ebbf9371b6f0559/bicicleta-de-gravel-120-cn-fr.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-Ruta/326846-31811-bicicleta-de-gravel-120-cn-fr.html#/10371-demodelcolor-967057/288-demodelsize-200xl"
+  },
+  {
+    "id": 22,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA DE RUTA GRAVEL ARO 700 / 9 VELOCIDADES TURQUESA RC500",
+    "Precio": "$700.000",
+    "imgURL": "https://contents.mediadecathlon.com/p1619170/k$2470d4d473fbec18fcf697f154d42654/bicicleta-de-ruta-rc-500-disco-turquesa-triban.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/triatlon-ciclismo/306241-22038-bicicleta-de-ruta-rc-500-disco-turquesa-triban.html#/3040-demodelcolor-8542636/338-demodelsize-200xs"
+  },
+  {
+    "id": 23,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA DE RUTA ARO 700\" 11 VELOCIDADES EDR AF BLANCO",
+    "Precio": "$1.180.000",
+    "imgURL": "https://contents.mediadecathlon.com/p2071193/k$2152a928164301a8c155ccca2f4399d9/bicicleta-de-ruta-aro-700quote-11-velocidades-edr-af-blanco.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/triatlon-ciclismo/332126-27464-bicicleta-de-ruta-aro-700quote-11-velocidades-edr-af-blanco.html#/9915-demodelundefined-8642228/338-demodelsize-200xs"
+  },
+  {
+    "id": 24,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA RUTA/GRAVEL DISCO ARO 700\" 11 VELOCIDADES RC520 AZUL MARINO",
+    "Precio": "$910.000",
+    "imgURL": "https://contents.mediadecathlon.com/p1675862/k$66518aef53df5cc6a00842f59c03296d/bicicleta-de-ruta-rc520-disco-navy-triban.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/triatlon-ciclismo/306852-21376-bicicleta-de-ruta-rc520-disco-navy-triban.html#/3041-demodelcolor-8542655/338-demodelsize-200xs"
+  },
+  {
+    "id": 25,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA MTB EXPL540 29\"",
+    "Precio": "$930.000",
+    "imgURL": "https://contents.mediadecathlon.com/p2097859/k$c8f7e4e0b1dc328960c6dce35db83cfe/bicicleta-mtb-expl540-29quote.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-mountain-bike/329414-31651-bicicleta-mtb-expl540-29quote.html#/10316-demodelcolor-8607120/4361-demodelsize-1045xl_185_200cm"
+  },
+  {
+    "id": 26,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA DE MONTAÑA ARO 27,5 / 9 VELOCIDADES GRIS CROMO ST530",
+    "Precio": "$350.000",
+    "imgURL": "https://contents.mediadecathlon.com/p1863054/k$c4a9e14ca47407fca0aa7882a7c68029/st-530-rr-cn-fr-cromo.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-mountain-bike/325125-9715-st-530-rr-cn-fr-cromo.html#/9706-demodelundefined-8585188/4361-demodelsize-1045xl_185_200cm"
+  },
+  {
+    "id": 27,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA INFANTIL ARO 14 ROSADO UNICORN500",
+    "Precio": "$60.000",
+    "imgURL": "https://contents.mediadecathlon.com/p1873214/k$67807be0b9ee36c4fda3f6d9197f88ad/bicicleta-para-ninos-14quote-3-5-anos-500-unicorn-cn-fr-btwin.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-para-ninos/169315-1104-bicicleta-para-ninos-14quote-3-5-anos-500-unicorn-cn-fr-btwin.html#/519-demodelcolor-8390628/15-demodelsize-254"
+  },
+  {
+    "id": 28,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA PLEGABLE ARO 20 NEGRO TILT100",
+    "Precio": "$170.000",
+    "imgURL": "https://contents.mediadecathlon.com/p1620158/k$804c8192818eceb411025ee5a61d14cc/bicicleta-plegable-tilt-100-20quote-negra-btwin.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-plegables/307101-4024-bicicleta-plegable-tilt-100-20quote-negra-btwin.html#/2175-demodelcolor-8545022/1409-demodelsize-200unica"
+  },
+  {
+    "id": 29,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA DE MONTAÑA ELÉCTRICA ARO 27,5 / 9 VELOCIDADES GRIS / AMARILLO E-ST520",
+    "Precio": "$1.930.000",
+    "imgURL": "https://contents.mediadecathlon.com/p1995228/k$5c5ef4d47b67c3b3780e17a20e0dd47d/bicicleta-mtb-electrica-275-e-st520-gris-amarillo.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-mountain-bike/311400-15776-bicicleta-mtb-electrica-275-e-st520-gris-amarillo.html#/6661-demodelcolor-8556616/4361-demodelsize-1045xl_185_200cm"
+  },
+  {
+    "id": 30,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA MUJER EASY CN FR",
+    "Precio": "$400.000",
+    "imgURL": "https://contents.mediadecathlon.com/p1729078/k$62a851dc6bdcdf13c05cbed52a42dfe5/bicicleta-mujer-easy-cn-fr.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/triatlon-ciclismo/311891-32080-bicicleta-mujer-easy-cn-fr.html#/10407-demodelundefined-8558631/287-demodelsize-200s"
+  },
+  {
+    "id": 31,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA DE MONTAÑA ELÉCTRICA E-ST 100 AZUL 27,5\"",
+    "Precio": "$1.350.000",
+    "imgURL": "https://contents.mediadecathlon.com/p1995225/k$f9bb6df73a73aa8659b9e2a4d45d00d3/bicicleta-de-montana-electrica-e-st-100-azul-275quote.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-mountain-bike/309736-22866-bicicleta-de-montana-electrica-e-st-100-azul-275quote.html#/8438-demodelcolor-8560739/6662-demodelsize-1045s_150_164cm"
+  },
+  {
+    "id": 32,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA DE MONTAÑA ARO 27,5 / 24 VELOCIDADES GRIS ST520",
+    "Precio": "$370.000",
+    "imgURL": "https://contents.mediadecathlon.com/p1906441/k$21822f6ee5ec481fb33f7f976c0e6128/bicicleta-mtb-275-st520-gris.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-mountain-bike/198213-16103-bicicleta-mtb-275-st520-gris.html#/6776-demodelcolor-8511143/2576-demodelsize-1045xl_185_195cm"
+  },
+  {
+    "id": 33,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA DE NIÑOS ARO 14\" DRAGON100 BLANCO/AZUL",
+    "Precio": "$85.000",
+    "imgURL": "https://contents.mediadecathlon.com/p1521806/k$1f0a589816b2b33f63acc7cf0c23c35f/bicicleta-para-ninos-aro-14-3-5-anos-100-dragon-cn-fra-btwin.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-para-ninos/172201-4595-bicicleta-para-ninos-aro-14-3-5-anos-100-dragon-cn-fra-btwin.html#/2429-demodelcolor-8402124/785-demodelsize-21414quote"
+  },
+  {
+    "id": 34,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA DE MONTAÑA ARO 27,5 / 18 VELOCIDADES AZUL ST540",
+    "Precio": "$520.000",
+    "imgURL": "https://contents.mediadecathlon.com/p2199014/k$8e4739c6c49465d81c5949212f31586c/bicicleta-mtb-aro-275quote-18-velocidades-st540-azul.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-mountain-bike/309173-17526-bicicleta-mtb-aro-275quote-18-velocidades-st540-azul.html#/7256-demodelcolor-8550613/288-demodelsize-200xl"
+  },
+  {
+    "id": 35,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA INFANTIL ARO 16 ROSADO / BLANCO DOCTOGIRL500",
+    "Precio": "$170.000",
+    "imgURL": "https://contents.mediadecathlon.com/p1869047/k$3332f1e4f3ff1e8dc172a54583fd2b60/bicicleta-para-ninos-500-aro-16-4-6-anos-docto-girl-btwin.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-para-ninos/173104-2711-bicicleta-para-ninos-500-aro-16-4-6-anos-docto-girl-btwin.html#/1531-demodelcolor-8391524/1532-demodelsize-21416quote"
+  },
+  {
+    "id": 36,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA DE MONTAÑA ARO 20 / 6 VELOCIDADES BLANCO ST120",
+    "Precio": "$140.000",
+    "imgURL": "https://contents.mediadecathlon.com/p1621607/k$f28fc58793509d4ab7682632abcfa868/bicicleta-de-mtb-aro-20quote-6-velocidades-st120-blanco.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-para-ninos/311532-12996-bicicleta-de-mtb-aro-20quote-6-velocidades-st120-blanco.html#/5815-demodelcolor-8557142/346-demodelsize-254sin_talla"
+  },
+  {
+    "id": 37,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA DE MONTAÑA ARO 27,5 / 24 VELOCIDADES NEGRO / AZUL ST520",
+    "Precio": "$330.000",
+    "imgURL": "https://contents.mediadecathlon.com/p1653616/k$75f399c05b68e4360fd51e014c4cec00/bicicleta-mtb-520-azul-275quote-rockrider.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-mountain-bike/120236-5555-bicicleta-mtb-520-azul-275quote-rockrider.html#/2841-demodelcolor-8350582/2842-demodelsize-413l"
+  },
+  {
+    "id": 38,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA HÍBRIDA RIVERSIDE900 10 VELOCIDADES FRENO DE DISCO HIDRÁULICO",
+    "Precio": "$440.000",
+    "imgURL": "https://contents.mediadecathlon.com/p2110696/k$918806c51771767b9696e6f3295933fc/bicicleta-hibrida-riverside900-10-velocidades-freno-de-disco-hidraulico.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-hibridas/338454-26168-bicicleta-hibrida-riverside900-10-velocidades-freno-de-disco-hidraulico.html#/9942-demodelundefined-8735795/302-demodelsize-200l"
+  },
+  {
+    "id": 39,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA URBANA ARO 26 / SIN CAMBIOS NEGRO ELOPS 100",
+    "Precio": "$240.000",
+    "imgURL": "https://contents.mediadecathlon.com/p1325496/k$36098282622bb5af8696358f010ea063/bicicleta-urbana-elops-100-negro.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-urbanas/305966-11937-bicicleta-urbana-elops-100-negro.html#/5414-demodelcolor-8545933/301-demodelsize-200m"
+  },
+  {
+    "id": 40,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA PLEGABLE TILT500",
+    "Precio": "$200.000",
+    "imgURL": "https://contents.mediadecathlon.com/p1811606/k$90e84ed8b8302a489cf1cc33a9373036/bicicleta-plegable-tilt500.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-plegables/197297-33273-bicicleta-plegable-tilt500.html#/10445-demodelundefined-8653937/346-demodelsize-254sin_talla"
+  },
+  {
+    "id": 41,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA HOMBRE TUC120 AZUL",
+    "Precio": "$160.000",
+    "imgURL": "https://contents.mediadecathlon.com/p2067052/k$ad30e276bd0965ee04342267f53129ad/bicicleta-hombre-tuc120-azul.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-urbanas/326348-31118-bicicleta-hombre-tuc120-azul.html#/9909-demodelcolor-8597102/287-demodelsize-200s"
+  },
+  {
+    "id": 42,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA ELÉCTRICA RIVERSIDE500",
+    "Precio": "$1.170.000",
+    "imgURL": "https://contents.mediadecathlon.com/p2191956/k$a8853741b5df189b067ca2d1abfbf508/bicicleta-electrica-riverside500e.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-hibridas/169143-31302-bicicleta-electrica-riverside500e.html#/10018-demodelcolor-8608513/302-demodelsize-200l"
+  },
+  {
+    "id": 43,
+    "Tienda": "Decathlon",
+    "Nombre": "BICILETA POLIVALENTE NIÑOS RIVERSIDE500 20 PULG 6-9 AÑOS",
+    "Precio": "$210.000",
+    "imgURL": "https://contents.mediadecathlon.com/p2025487/k$a61cbccce16a1c134314e5c8d5bc643d/bicileta-polivalente-ninos-riverside500-20-pulg-6-9-anos.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-para-ninos/337796-25905-bicileta-polivalente-ninos-riverside500-20-pulg-6-9-anos.html#/9865-demodelundefined-8733632/4377-demodelsize-21420quote"
+  },
+  {
+    "id": 44,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA NIÑOS RIVERSIDE 100 6 A 9 AÑOS",
+    "Precio": "$160.000",
+    "imgURL": "https://contents.mediadecathlon.com/p2020517/k$513fdeec0a658e3709b3e3f9b66b733b/bicicleta-ninos-riverside-100-6-a-9-anos.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-para-ninos/337810-25871-bicicleta-ninos-riverside-100-6-a-9-anos.html#/9862-demodelundefined-8733628/4377-demodelsize-21420quote"
+  },
+  {
+    "id": 45,
+    "Tienda": "Decathlon",
+    "Nombre": "RIVERSIDE 500 9-12 CN FR SEA USA",
+    "Precio": "$230.000",
+    "imgURL": "https://contents.mediadecathlon.com/p2026582/k$06bc7219e1661a81876245db62d3cf8d/riverside-500-9-12-cn-fr-sea-usa.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-para-ninos/337798-31086-riverside-500-9-12-cn-fr-sea-usa.html#/9868-demodelcolor-8733640/3703-demodelsize-21424quote"
+  },
+  {
+    "id": 46,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA INFANTIL ARO 14 NEGRO / NARANJO ROBOT500",
+    "Precio": "$60.000",
+    "imgURL": "https://contents.mediadecathlon.com/p1873215/k$771bf8a8341c594313e564f5fd21bc7e/bicicleta-para-ninos-14quote-3-5-anos-500-robot-cn-fr-btwin.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-para-ninos/169313-1489-bicicleta-para-ninos-14quote-3-5-anos-500-robot-cn-fr-btwin.html#/815-demodelcolor-8390627/15-demodelsize-254"
+  },
+  {
+    "id": 47,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA MONTAÑA AM100 V2 29\" SRAM NX 12 VELOCIDADES",
+    "Precio": "$1.600.000",
+    "imgURL": "https://contents.mediadecathlon.com/p1863099/k$add25e19dab7d588698483c4d7b59f90/bicicleta-montana-am100-v2-29quote-sram-nx-12-velocidades.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-mountain-bike/338428-36552-bicicleta-montana-am100-v2-29quote-sram-nx-12-velocidades.html#/10784-demodelundefined-8735749/4361-demodelsize-1045xl_185_200cm"
+  },
+  {
+    "id": 48,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA INFANTIL ARO 16 NEGRO / VERDE HEROBOY500",
+    "Precio": "$115.000",
+    "imgURL": "https://contents.mediadecathlon.com/p1869154/k$6b9bba03464b8229c56a8c7ea1a0d660/bicicleta-para-ninos-16quote-4-6-anos-500-heroboy-cn-fr-btwin.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-para-ninos/169319-1923-bicicleta-para-ninos-16quote-4-6-anos-500-heroboy-cn-fr-btwin.html#/9712-demodelundefined-8391522/15-demodelsize-254"
+  },
+  {
+    "id": 49,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA XC50 29\" RR CN FR",
+    "Precio": "$780.000",
+    "imgURL": "https://contents.mediadecathlon.com/p1708627/k$a95f2e5cda8bad7f4fef11b750b27f90/bicicleta-xc50-29quote-rr-cn-fr.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-mountain-bike/311942-37053-bicicleta-xc50-29quote-rr-cn-fr.html#/10839-demodelundefined-8559012/301-demodelsize-200m"
+  },
+  {
+    "id": 50,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA BMX WIPE 500 20\"",
+    "Precio": "$220.000",
+    "imgURL": "https://contents.mediadecathlon.com/p2255382/k$c8ce0c1e650e0f95effff9a451cf6ebd/bmx-wipe-500-20quote.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-para-ninos/300674-36336-bmx-wipe-500-20quote.html#/10772-demodelcolor-8501242/346-demodelsize-254sin_talla"
+  },
+  {
+    "id": 51,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA SIN PEDALES PARA NIÑOS ARO 10\" RUNRIDE100 BLANCO",
+    "Precio": "$28.000",
+    "imgURL": "https://contents.mediadecathlon.com/p162547/k$e2d2dc4b99b8630f68d57fccda2e0146/bicicleta-sin-pedales-para-ninos-aro-10quote-runride100-blanco.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-para-ninos/119924-36624-bicicleta-sin-pedales-para-ninos-aro-10quote-runride100-blanco.html#/5825-demodelcolor-8349385/5826-demodelsize-21412quote"
+  },
+  {
+    "id": 52,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA PLEGABLE ARO 20\" TILT500 AZUL OSCURO",
+    "Precio": "$320.000",
+    "imgURL": "https://contents.mediadecathlon.com/p1917338/k$9553715ea0fc2d7a5f949ee97d435e72/bicicleta-plegable-tilt-500-20quote-amarillo-btwin.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-plegables/304462-36240-bicicleta-plegable-tilt-500-20quote-amarillo-btwin.html#/5467-demodelcolor-8527258/346-demodelsize-254sin_talla"
+  },
+  {
+    "id": 53,
+    "Tienda": "Decathlon",
+    "Nombre": "BICICLETA SIN PEDALES NIÑOS RUNRIDE500 10\" NEGRO",
+    "Precio": "$70.000",
+    "imgURL": "https://contents.mediadecathlon.com/p2151594/k$af22ff119d500283bccd490e8b22af6a/bicicleta-sin-pedales-ninos-runride500-10quote-negro.jpg?format=auto&quality=40&f=200x200",
+    "URLproducto": "https://www.decathlon.cl/Ciclismo-bicicletas-para-ninos/338886-36815-bicicleta-sin-pedales-ninos-runride500-10quote-negro.html#/10804-demodelcolor-8738042/7739-demodelsize-21410quote"
+  }
+]

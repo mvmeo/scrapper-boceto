@@ -14,7 +14,8 @@
   "dependencies": {
     "cheerio": "1.0.0-rc.12",
     "hono": "^2.7.3",
-    "node-fetch": "^3.3.0"
+    "node-fetch": "^3.3.0",
+    "puppeteer": "^19.6.3"
   },
   "eslintConfig": {
     "extends": "standard"

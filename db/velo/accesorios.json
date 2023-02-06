@@ -1,0 +1,578 @@
+[
+  {
+    "id": 1,
+    "Tienda": "Velo Boutique",
+    "Nombre": "Luz trasera blinder road r70 black",
+    "Precio": "$49.900",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/capa162_0f701de7-7652-4144-87b4-13b7281fe100_600x.png?v=1651767236",
+    "URLproducto": "https://www.veloboutique.cl/collections/knog/products/luz-trasera-blinder-road-r70-black-11756"
+  },
+  {
+    "id": 2,
+    "Tienda": "Velo Boutique",
+    "Nombre": "Luz trasera cobber lil'",
+    "Precio": "$40.900",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/capa171_d1ae23b4-82f7-4ba8-ba50-c5961ee332b8_600x.png?v=1651768711",
+    "URLproducto": "https://www.veloboutique.cl/collections/knog/products/luz-trasera-cobber-lil-12187"
+  },
+  {
+    "id": 3,
+    "Tienda": "Velo Boutique",
+    "Nombre": "Luz trasera blinder mini square rear",
+    "Precio": "$24.900",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/635_27_600x.png?v=1651765870",
+    "URLproducto": "https://www.veloboutique.cl/collections/knog/products/luz-trasera-blinder-mini-square-rear-12984"
+  },
+  {
+    "id": 4,
+    "Tienda": "Velo Boutique",
+    "Nombre": "Luz delantera blinder road 600l",
+    "Precio": "$60.900",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/635_42_600x.png?v=1651766985",
+    "URLproducto": "https://www.veloboutique.cl/collections/knog/products/luz-delantera-blinder-road-600l-12901"
+  },
+  {
+    "id": 5,
+    "Tienda": "Velo Boutique",
+    "Nombre": "Luz plus trasera",
+    "Precio": "$15.900",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/635_15_600x.png?v=1651765557",
+    "URLproducto": "https://www.veloboutique.cl/collections/knog/products/12142-plus-trasero"
+  },
+  {
+    "id": 6,
+    "Tienda": "Velo Boutique",
+    "Nombre": "Luz plus frontal",
+    "Precio": "$15.900",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/635_9_600x.png?v=1651763497",
+    "URLproducto": "https://www.veloboutique.cl/collections/knog/products/12140-plus-front"
+  },
+  {
+    "id": 7,
+    "Tienda": "Velo Boutique",
+    "Nombre": "Luz delantera cobber lil'",
+    "Precio": "$40.900",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/capa169_f08d5301-db82-4630-8a92-4f1a0f31615e_600x.png?v=1651768679",
+    "URLproducto": "https://www.veloboutique.cl/collections/knog/products/luz-delantera-cobber-lil-12186"
+  },
+  {
+    "id": 8,
+    "Tienda": "Velo Boutique",
+    "Nombre": "Luz delantera blinder mini cross front",
+    "Precio": "$24.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/635_21_600x.png?v=1651765702",
+    "URLproducto": "https://www.veloboutique.cl/collections/knog/products/luz-delantera-blinder-mini-cross-front"
+  },
+  {
+    "id": 9,
+    "Tienda": "Velo Boutique",
+    "Nombre": "PWR trail 1100lm",
+    "Precio": "$104.900",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/capa154_03f2f3bf-c79d-4d13-bf75-1aae23e3297b_600x.png?v=1651765256",
+    "URLproducto": "https://www.veloboutique.cl/collections/knog/products/12307-pwr-trail-1100lm"
+  },
+  {
+    "id": 10,
+    "Tienda": "Velo Boutique",
+    "Nombre": "Expedition Accessory Pocket 4.5L",
+    "Precio": "$70.000",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/Capa284_600x.png?v=1632911081",
+    "URLproducto": "https://www.veloboutique.cl/collections/apidura/products/expedition-accessory-pocket"
+  },
+  {
+    "id": 11,
+    "Tienda": "Velo Boutique",
+    "Nombre": "Expedition Frame Pack",
+    "Precio": "",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/Capa276_600x.png?v=1632833809",
+    "URLproducto": "https://www.veloboutique.cl/collections/apidura/products/expedition-frame-pack"
+  },
+  {
+    "id": 12,
+    "Tienda": "Velo Boutique",
+    "Nombre": "Expedition Full Frame Pack",
+    "Precio": "",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/Capa269_600x.png?v=1632832970",
+    "URLproducto": "https://www.veloboutique.cl/collections/apidura/products/expedition-full-frame-pack"
+  },
+  {
+    "id": 13,
+    "Tienda": "Velo Boutique",
+    "Nombre": "Expedition Handlebar Pack",
+    "Precio": "$149.000",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/Capa255_600x.png?v=1632830876",
+    "URLproducto": "https://www.veloboutique.cl/collections/apidura/products/expedition-handlebar-pack"
+  },
+  {
+    "id": 14,
+    "Tienda": "Velo Boutique",
+    "Nombre": "EXPEDITION SADDLE PACK",
+    "Precio": "",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/Capa262_600x.png?v=1632831847",
+    "URLproducto": "https://www.veloboutique.cl/collections/apidura/products/expedition-saddle-pack"
+  },
+  {
+    "id": 15,
+    "Tienda": "Velo Boutique",
+    "Nombre": "Expedition Tool Pack 0.5L",
+    "Precio": "$59.000",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/Capa294_600x.png?v=1632911939",
+    "URLproducto": "https://www.veloboutique.cl/collections/apidura/products/expedition-tool-pack-0-5l"
+  },
+  {
+    "id": 16,
+    "Tienda": "Velo Boutique",
+    "Nombre": "Expedition Top Tube Pack",
+    "Precio": "",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/Capa314_600x.png?v=1632913989",
+    "URLproducto": "https://www.veloboutique.cl/collections/apidura/products/expedition-top-tube-pack"
+  },
+  {
+    "id": 17,
+    "Tienda": "Velo Boutique",
+    "Nombre": "Frame Pack Hydration Bladder 1.5L",
+    "Precio": "$59.000",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/capa30_2319e24e-78e4-4f0e-9603-b56d476f4104_600x.png?v=1632929070",
+    "URLproducto": "https://www.veloboutique.cl/collections/apidura/products/frame-pack-hydration-bladder-1-5l"
+  },
+  {
+    "id": 18,
+    "Tienda": "Velo Boutique",
+    "Nombre": "Packable Backpack 13L",
+    "Precio": "$60.000",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/capa36_9377b4e0-d76d-4430-9f91-31999f932ae7_600x.png?v=1632929959",
+    "URLproducto": "https://www.veloboutique.cl/collections/apidura/products/packable-backpack-13l"
+  },
+  {
+    "id": 19,
+    "Tienda": "Velo Boutique",
+    "Nombre": "City Backpack 17L",
+    "Precio": "$189.000",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/capa2_bd8970a9-0b25-49c5-9e74-842b3cba25c2_600x.png?v=1632926517",
+    "URLproducto": "https://www.veloboutique.cl/collections/apidura/products/city-backpack-17l"
+  },
+  {
+    "id": 20,
+    "Tienda": "Velo Boutique",
+    "Nombre": "City Messenger",
+    "Precio": "",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/capa13_81ca5de3-561a-42bc-bf57-18ca77f2fdfb_600x.png?v=1632928506",
+    "URLproducto": "https://www.veloboutique.cl/collections/apidura/products/city-messenger"
+  },
+  {
+    "id": 21,
+    "Tienda": "Velo Boutique",
+    "Nombre": "Racing Aerobar Pack 2.5L",
+    "Precio": "$125.000",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/Capa324_600x.png?v=1632916216",
+    "URLproducto": "https://www.veloboutique.cl/collections/apidura/products/racing-aerobar-pack-2-5l"
+  },
+  {
+    "id": 22,
+    "Tienda": "Velo Boutique",
+    "Nombre": "Racing Long Top Tube Pack",
+    "Precio": "",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/Capa365_600x.png?v=1632925383",
+    "URLproducto": "https://www.veloboutique.cl/collections/apidura/products/racing-long-top-tube-pack-2l"
+  },
+  {
+    "id": 23,
+    "Tienda": "Velo Boutique",
+    "Nombre": "Racing Saddle Pack",
+    "Precio": "",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/Capa336_600x.png?v=1632917781",
+    "URLproducto": "https://www.veloboutique.cl/collections/apidura/products/racing-saddle-pack"
+  },
+  {
+    "id": 24,
+    "Tienda": "Velo Boutique",
+    "Nombre": "BOTTLE CAGE ADAPTER",
+    "Precio": "$30.000",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/capa51_d9c482da-0dbf-4c9d-9bf1-4c7c095080cc_600x.png?v=1646955515",
+    "URLproducto": "https://www.veloboutique.cl/collections/apidura/products/bottle-cage-adapter"
+  },
+  {
+    "id": 25,
+    "Tienda": "Velo Boutique",
+    "Nombre": "Bidon - Beige - One-size",
+    "Precio": "$19.000",
+    "imgURL": "",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/logo-bidon-beige-one-size"
+  },
+  {
+    "id": 26,
+    "Tienda": "Velo Boutique",
+    "Nombre": "Bidon - Bright Yellow - One-size",
+    "Precio": "$19.000",
+    "imgURL": "",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/bidon-bright-yellow-one-size"
+  },
+  {
+    "id": 27,
+    "Tienda": "Velo Boutique",
+    "Nombre": "Bidon - Clear Yellow - One-size",
+    "Precio": "$19.000",
+    "imgURL": "",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/bidon-clear-yellow-one-size"
+  },
+  {
+    "id": 28,
+    "Tienda": "Velo Boutique",
+    "Nombre": "Bidon - Light Olive - One-size",
+    "Precio": "$19.000",
+    "imgURL": "",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/bidon-light-olive-one-size"
+  },
+  {
+    "id": 29,
+    "Tienda": "Velo Boutique",
+    "Nombre": "Bidon - Teal - One-size",
+    "Precio": "$19.000",
+    "imgURL": "",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/bidon-teal-one-size"
+  },
+  {
+    "id": 30,
+    "Tienda": "Velo Boutique",
+    "Nombre": "BIDÓN AURUM",
+    "Precio": "$15.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/Capa75_0995b1fa-9703-4a34-bf8f-6e0a4f57a819_600x.png?v=1663111106",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/bidon-aurum"
+  },
+  {
+    "id": 31,
+    "Tienda": "Velo Boutique",
+    "Nombre": "Bidon Strava - Beige - One- size",
+    "Precio": "$19.000",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/Capa152_06d2d668-7054-4dc4-8b8f-f83ab53e294f_600x.png?v=1642623504",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/copia-de-essential-bib-black-1"
+  },
+  {
+    "id": 32,
+    "Tienda": "Velo Boutique",
+    "Nombre": "BOTELLA NIAGARA BLUE 500 CC",
+    "Precio": "$15.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/BOTELLABIONIAGARABLUE500CC2_600x.jpg?v=1613384976",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/botella-niagara-blue-500-cc"
+  },
+  {
+    "id": 33,
+    "Tienda": "Velo Boutique",
+    "Nombre": "BOTELLA SHIVA BIO BRONZE 500 CC",
+    "Precio": "$15.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/2_f0d99e16-4f82-44cd-864e-7723b673cfd4_600x.jpg?v=1613384942",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/botella-bronce"
+  },
+  {
+    "id": 34,
+    "Tienda": "Velo Boutique",
+    "Nombre": "BOTELLA SHIVA BIO OLIVE 500 CC",
+    "Precio": "$15.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/2_e9fd1484-56bb-4273-bb96-1c92ca2d7174_600x.jpg?v=1613384943",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/botella-verde-oliva"
+  },
+  {
+    "id": 35,
+    "Tienda": "Velo Boutique",
+    "Nombre": "BOTELLA SHIVA PEARL 500 CC",
+    "Precio": "$15.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/2_9ef53e5f-0c22-40b5-9bdb-77d576c40a20_600x.jpg?v=1613384942",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/botella-blanco-perla"
+  },
+  {
+    "id": 36,
+    "Tienda": "Velo Boutique",
+    "Nombre": "CALCETINES IRO 2.0 UNISEX WHITE LOGO",
+    "Precio": "$19.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/Capa640_600x.png?v=1663173557",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/calcetines-iro-2-0-unisex-white-logo"
+  },
+  {
+    "id": 37,
+    "Tienda": "Velo Boutique",
+    "Nombre": "CALCETINES LIGHTWEIGHT UNISEX SLATE GRAY",
+    "Precio": "$22.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/Capa2_9cda4acf-c472-4d05-bc9e-83a39e6a3ba0_600x.png?v=1673566037",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/calcetines-lightweight-unisex-slate-gray"
+  },
+  {
+    "id": 38,
+    "Tienda": "Velo Boutique",
+    "Nombre": "CALCETINES PURE PINK PALE",
+    "Precio": "$19.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/2_a595ffe8-60c8-4505-aa31-e61a7d8e58d5_600x.jpg?v=1613384932",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/calcetin-pure-pink-pale"
+  },
+  {
+    "id": 39,
+    "Tienda": "Velo Boutique",
+    "Nombre": "CALCETINES PURE UNISEX ARMY",
+    "Precio": "$22.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/CalcetinesUnisexPureArmy2_600x.jpg?v=1613385021",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/calcetines-unisex-pure-army"
+  },
+  {
+    "id": 40,
+    "Tienda": "Velo Boutique",
+    "Nombre": "CALCETINES PURE UNISEX BLACK",
+    "Precio": "$22.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/2_e6393730-8f00-4b6d-b4f1-5dede01c4890_600x.jpg?v=1613384934",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/calcetines-unisex-pure-black"
+  },
+  {
+    "id": 41,
+    "Tienda": "Velo Boutique",
+    "Nombre": "CALCETINES PURE UNISEX CELESTE GREEN",
+    "Precio": "$22.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/2_41e2f5e2-80bc-4b82-aaff-a46ddf5dd7d3_600x.jpg?v=1613384951",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/calcetines-pure-celeste-green"
+  },
+  {
+    "id": 42,
+    "Tienda": "Velo Boutique",
+    "Nombre": "CALCETINES PURE UNISEX DUNE",
+    "Precio": "$22.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/calcetines-pure-dune-timeless_series-naranja-gobik_2_700x_349c4322-4828-432f-aab8-1ab5b6353f72_600x.jpg?v=1619444936",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/calcetin-pure-unisex-dune"
+  },
+  {
+    "id": 43,
+    "Tienda": "Velo Boutique",
+    "Nombre": "CALCETINES PURE UNISEX LAVENDER",
+    "Precio": "$19.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/CALCETINES-PURE-UNISEX-LAVENDER-02_700x_36862d05-5ee8-41d0-aa50-f019fab31531_600x.jpg?v=1638533829",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/calcetin-pure-unisex-lavender"
+  },
+  {
+    "id": 44,
+    "Tienda": "Velo Boutique",
+    "Nombre": "CALCETINES PURE UNISEX PINK",
+    "Precio": "$22.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/2_d3fc821c-b95c-406a-ac04-251412940deb_600x.jpg?v=1613384952",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/calcetines-pure-pink"
+  },
+  {
+    "id": 45,
+    "Tienda": "Velo Boutique",
+    "Nombre": "CALCETINES PURE UNISEX SAVAGE RED",
+    "Precio": "$22.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/2_7222f435-b529-4023-ad8f-cc6bf5838223_600x.jpg?v=1613384932",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/calcetines-unisex-pure-savage-red"
+  },
+  {
+    "id": 46,
+    "Tienda": "Velo Boutique",
+    "Nombre": "CALCETINES PURE UNISEX STORMY",
+    "Precio": "$22.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/Capa2_8edd82f7-8f0b-4e7e-a809-fea48b6d401a_600x.png?v=1669388713",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/calcetin-pure-unisex-stormy"
+  },
+  {
+    "id": 47,
+    "Tienda": "Velo Boutique",
+    "Nombre": "CALCETINES PURE UNISEX SULPHUR",
+    "Precio": "$22.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/calcetines-gobik-pure-sulphur_600x.jpg?v=1639966944",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/calcetin-pure-unisex-sulphur"
+  },
+  {
+    "id": 48,
+    "Tienda": "Velo Boutique",
+    "Nombre": "CALCETINES PURE UNISEX WALNUT",
+    "Precio": "$22.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/Capa6_9482c309-2adf-49ab-b0f6-88678af5bb04_600x.png?v=1673566849",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/calcetines-pure-unisex-walnut"
+  },
+  {
+    "id": 49,
+    "Tienda": "Velo Boutique",
+    "Nombre": "CALCETINES PURE UNISEX WHITE",
+    "Precio": "$22.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/2_16493f41-b88b-4727-a9ed-84bcaf12f902_600x.jpg?v=1589845681",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/calcetines-unisex-pure-white"
+  },
+  {
+    "id": 50,
+    "Tienda": "Velo Boutique",
+    "Nombre": "CALCETINES SUPERB UNISEX AXIS ESTÁNDAR",
+    "Precio": "$19.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/Capa629_600x.png?v=1663170803",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/calcetines-superb-unisex-axis-estandar"
+  },
+  {
+    "id": 51,
+    "Tienda": "Velo Boutique",
+    "Nombre": "CALCETINES SUPERB UNISEX AXIS ESTÁNDAR EXTRA LONG",
+    "Precio": "$19.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/Capa631_600x.png?v=1664473974",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/calcetines-superb-unisex-axis-estandar-1"
+  },
+  {
+    "id": 52,
+    "Tienda": "Velo Boutique",
+    "Nombre": "CALCETINES SUPERB UNISEX HORIZON ESTÁNDAR",
+    "Precio": "$19.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/Capa625_600x.png?v=1663169880",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/calcetines-superb-unisex-horizon-estandar"
+  },
+  {
+    "id": 53,
+    "Tienda": "Velo Boutique",
+    "Nombre": "CALCETINES SUPERB UNISEX HORIZON EXTRA LONG",
+    "Precio": "$19.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/Capa627_600x.png?v=1663170431",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/calcetines-superb-unisex-horizon-extra-long"
+  },
+  {
+    "id": 54,
+    "Tienda": "Velo Boutique",
+    "Nombre": "CALCETINES UNISEX LIGHTWEIGHT ANTARTICA",
+    "Precio": "$22.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/CALCETINESUNISEXLIGHTWEIGHTANTARTICA2_600x.jpg?v=1613385038",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/calcetin-unisex-lightweight-antartica"
+  },
+  {
+    "id": 55,
+    "Tienda": "Velo Boutique",
+    "Nombre": "CALCETINES UNISEX LIGHTWEIGHT BLACK LEAD",
+    "Precio": "$22.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/calcetines-lightweight-black_lead-timeless_series-negros-gobik_2_700x_cec6e1fd-8976-48a8-b553-48379b5b7906_600x.jpg?v=1641347936",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/calcetines-unisex-lightweight-black-lead"
+  },
+  {
+    "id": 56,
+    "Tienda": "Velo Boutique",
+    "Nombre": "CALCETINES UNISEX PURE SAPPHIRE",
+    "Precio": "$22.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/CALCETINESUNISEXPURESAPPHIRE2_600x.jpg?v=1613385021",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/calcetines-unisex-pure-sapphire"
+  },
+  {
+    "id": 57,
+    "Tienda": "Velo Boutique",
+    "Nombre": "Cap - Black - One-size",
+    "Precio": "$25.000",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/Capa106_cf4ceeb7-4f38-454e-b242-dce75fdf17bd_600x.png?v=1642524966",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/logo-cap-black-one-size"
+  },
+  {
+    "id": 58,
+    "Tienda": "Velo Boutique",
+    "Nombre": "Cap - Navy - One-size",
+    "Precio": "$25.000",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/Capa104_5cbbcd03-a529-44e6-b536-36145c0c9825_600x.png?v=1642524550",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/logo-cap-navy-one-size"
+  },
+  {
+    "id": 59,
+    "Tienda": "Velo Boutique",
+    "Nombre": "Cap - White - One-size",
+    "Precio": "$25.000",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/Capa101_2fb3ca04-6299-4b48-bda2-d66474674ab8_600x.png?v=1642524216",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/logo-cap-white-one-size"
+  },
+  {
+    "id": 60,
+    "Tienda": "Velo Boutique",
+    "Nombre": "CAP VINTAGE ANTARTICA",
+    "Precio": "$19.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/GORRA__2_600x.jpg?v=1613385026",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/cap-vintage-antartica"
+  },
+  {
+    "id": 61,
+    "Tienda": "Velo Boutique",
+    "Nombre": "CAP VINTAGE ARMY",
+    "Precio": "$19.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/GORRA_VINTAGE_ARMY_2_700x_7195401b-1d6c-452a-b9d0-b47035716f48_600x.jpg?v=1619444936",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/cap-vintage-army"
+  },
+  {
+    "id": 62,
+    "Tienda": "Velo Boutique",
+    "Nombre": "CINTA DE MANILLAR AURUM",
+    "Precio": "$25.000",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/Capa42_862f7b78-638b-49a5-976a-ccc85ecd9ea9_600x.png?v=1657549541",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/cinta-de-manillar-aurum"
+  },
+  {
+    "id": 63,
+    "Tienda": "Velo Boutique",
+    "Nombre": "CINTA DE MANILLAR BOND ULTRAGRIP TRUE BLACK",
+    "Precio": "$32.000",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/Capa650_600x.png?v=1663174890",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/cinta-de-manillar-bond-ultragrip-true-black"
+  },
+  {
+    "id": 64,
+    "Tienda": "Velo Boutique",
+    "Nombre": "Control Merino Socks - Dark Purple",
+    "Precio": "$28.000",
+    "imgURL": "",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/control-merino-socks-dark-purple"
+  },
+  {
+    "id": 65,
+    "Tienda": "Velo Boutique",
+    "Nombre": "Fusion extra lens Smoke w Blue multi",
+    "Precio": "$14.990",
+    "imgURL": "",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/fusion-extra-lens-smoke-w-blue-multi"
+  },
+  {
+    "id": 66,
+    "Tienda": "Velo Boutique",
+    "Nombre": "GORRA UNISEX PLANA QUARTZ",
+    "Precio": "$29.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/GORRAPLANA2_600x.jpg?v=1613384977",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/gorra-plana-unisex-quartz"
+  },
+  {
+    "id": 67,
+    "Tienda": "Velo Boutique",
+    "Nombre": "GORRA UNISEX TRUCKER ARMY 2.0",
+    "Precio": "$29.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/GORRATRUCKERUNISEXARMY2.02_600x.jpg?v=1613385037",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/gorra-unisex-trucker-army-2-0"
+  },
+  {
+    "id": 68,
+    "Tienda": "Velo Boutique",
+    "Nombre": "GORRA UNISEX TRUCKER KODIAK 2.0",
+    "Precio": "$29.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/GORRATRUCKERUNISEXKODIAK2.02_600x.jpg?v=1613385037",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/gorra-unisex-trucker-kodiak-2-0"
+  },
+  {
+    "id": 69,
+    "Tienda": "Velo Boutique",
+    "Nombre": "GORRA VINTAGE UNISEX CITIZEN",
+    "Precio": "$19.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/GORRA_VINTAGE_CITIZEN_2_700x_5a486940-459e-4367-81b2-f72be0b31f89_600x.jpg?v=1651594736",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/gorra-vintage-unisex-citizen"
+  },
+  {
+    "id": 70,
+    "Tienda": "Velo Boutique",
+    "Nombre": "GORRA VINTAGE UNISEX FAIRWAY",
+    "Precio": "$19.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/Capa646_600x.png?v=1663174132",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/gorra-vintage-unisex-fairway"
+  },
+  {
+    "id": 71,
+    "Tienda": "Velo Boutique",
+    "Nombre": "GORRA VINTAGE UNISEX PARADISE",
+    "Precio": "$19.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/Capa648_600x.png?v=1663174250",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/gorra-vintage-unisex-paradise"
+  },
+  {
+    "id": 72,
+    "Tienda": "Velo Boutique",
+    "Nombre": "GUANTE UNISEX HAWK DARKNESS",
+    "Precio": "$25.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0045/1860/9025/products/2_3c45e6bc-95c8-419c-8aec-816f67dde90f_600x.jpg?v=1613384930",
+    "URLproducto": "https://www.veloboutique.cl/collections/accesorios-b/products/guantes-unisex-hawk-darkness"
+  }
+]

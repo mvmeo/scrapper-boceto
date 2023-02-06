@@ -70,8 +70,6 @@ export const info = {
           "https://smartlife-sports.cl/product-category/mujer/tricotas-ciclismo-mujer/page/2/",
           "https://smartlife-sports.cl/product-category/mujer/tricotas-ciclismo-mujer/page/2/",
           "https://smartlife-sports.cl/product-category/mujer/jackets-mujer/",
-          "https://smartlife-sports.cl/product-category/mujer/bib-shorts-calzas-mujer/page/1",
-          "https://smartlife-sports.cl/product-category/mujer/bib-shorts-calzas-mujer/page/2/",
           "https://smartlife-sports.cl/product-category/mujer/cortavientos-mujer/",
           "https://smartlife-sports.cl/product-category/mujer/manguillas-mujer/",
           "https://smartlife-sports.cl/product-category/mujer/skinsuits-mujer/",
@@ -181,16 +179,208 @@ export const info = {
       bicicletas: [
         "https://pedalpro.cl/categoria-producto/bicicletas/page/1/",
         "https://pedalpro.cl/categoria-producto/bicicletas/page/2/",
-        "https://pedalpro.cl/categoria-producto/bicicletas/page/3/"
+        "https://pedalpro.cl/categoria-producto/bicicletas/page/3/",
       ],
       indumentaria: ["https://pedalpro.cl/categoria-producto/indumentaria/"],
       mantenimiento: [
-        "https://pedalpro.cl/categoria-producto/componentes/aceites-y-lubricantes/"
+        "https://pedalpro.cl/categoria-producto/componentes/aceites-y-lubricantes/",
       ],
       nutricion: [
         "https://pedalpro.cl/categoria-producto/suplementos-hidratacion/page/1/",
-        "https://pedalpro.cl/categoria-producto/suplementos-hidratacion/page/2/"
-      ]
-    }
+        "https://pedalpro.cl/categoria-producto/suplementos-hidratacion/page/2/",
+      ],
+    },
+  },
+  cincoNorte: {
+    nombre: "5norte",
+    web: "https://www.5norte.cl",
+    URLS: {
+      indumentaria: [
+        "https://5norte.cl/collections/tricotas",
+        "https://5norte.cl/collections/tricotas-largas",
+        "https://5norte.cl/collections/chaquetas",
+        "https://5norte.cl/collections/cortavientos",
+        "https://5norte.cl/collections/cascos",
+        "https://5norte.cl/collections/calzas",
+        "https://5norte.cl/collections/calzas-largas",
+        "https://5norte.cl/collections/ropa-interior",
+      ],
+      accesorios: [
+        "https://5norte.cl/collections/lentes",
+        "https://5norte.cl/collections/pierneras",
+        "https://5norte.cl/collections/calcetines",
+        "https://5norte.cl/collections/botellas-caramagiolas",
+        "https://5norte.cl/collections/guantes",
+        "https://5norte.cl/collections/herramientas",
+        "https://5norte.cl/collections/caps-gorros",
+        "https://5norte.cl/collections/manguillas",
+      ],
+    },
+  },
+  decathlon: {
+    nombre: "Decathlon",
+    web: "https://www.decathlon.cl/",
+    URLS: {
+      bicicletas: [
+        "https://www.decathlon.cl/4786-Ciclismo-Bicicletas?page=1",
+        "https://www.decathlon.cl/4786-Ciclismo-Bicicletas?page=2",
+      ],
+      accesorios: [
+        "https://www.decathlon.cl/4755-Ciclismo-accesorios-bicicletas?page=1",
+        "https://www.decathlon.cl/4755-Ciclismo-accesorios-bicicletas?page=2",
+        "https://www.decathlon.cl/4755-Ciclismo-accesorios-bicicletas?page=3",
+        "https://www.decathlon.cl/4755-Ciclismo-accesorios-bicicletas?page=4",
+      ],
+      indumentaria: [
+        "https://www.decathlon.cl/4761-Ciclismo-ropa-ciclismo?page=1",
+        "https://www.decathlon.cl/4761-Ciclismo-ropa-ciclismo?page=2",
+        "https://www.decathlon.cl/4761-Ciclismo-ropa-ciclismo?page=3",
+        "https://www.decathlon.cl/4761-Ciclismo-ropa-ciclismo?page=4",
+        "https://www.decathlon.cl/4761-Ciclismo-ropa-ciclismo?page=5",
+        "https://www.decathlon.cl/4526-ciclismo",
+      ],
+      componentes: [
+        "https://www.decathlon.cl/4794-Ciclismo-repuestos?page=1",
+        "https://www.decathlon.cl/4794-Ciclismo-repuestos?page=2",
+        "https://www.decathlon.cl/4794-Ciclismo-repuestos?page=3",
+        "https://www.decathlon.cl/4794-Ciclismo-repuestos?page=4",
+        "https://www.decathlon.cl/4794-Ciclismo-repuestos?page=5",
+        "https://www.decathlon.cl/4794-Ciclismo-repuestos?page=6",
+      ],
+    },
+  },
+  serjaf: {
+    nombre: "Serjaf",
+    web: "https://www.serjaf.cl",
+    URLS: {
+      bicicletas: ["https://serjaf.cl/collections/all/bicicleta"],
+      nutricion: [
+        "https://serjaf.cl/collections/namedsport-suplementos-alimenticios?page=1",
+      ],
+      indumentaria: [
+        "https://serjaf.cl/collections/dmt-zapatillas",
+        "https://serjaf.cl/collections/ropa-go-rigo-go?page=1",
+        "https://serjaf.cl/collections/ropa-go-rigo-go?page=2",
+        "https://serjaf.cl/collections/ropa-go-rigo-go?page=3",
+        "https://serjaf.cl/collections/ropa-go-rigo-go?page=4",
+      ],
+      accesorios: [
+        "https://serjaf.cl/collections/igpsport?page=1",
+        "https://serjaf.cl/collections/igpsport?page=2",
+      ],
+    },
+  },
+  velo: {
+    nombre: "Velo Boutique",
+    web: "https://www.veloboutique.cl",
+    URLS: {
+      bicicletas: [
+        "https://veloboutique.cl/collections/magma-1",
+        "https://veloboutique.cl/collections/essentia",
+      ],
+      accesorios: [
+        "https://veloboutique.cl/collections/knog",
+        "https://veloboutique.cl/collections/apidura",
+        "https://veloboutique.cl/collections/accesorios-b",
+      ],
+      indumentaria: {
+        mujer: [
+          "https://veloboutique.cl/collections/bibs-a",
+          "https://veloboutique.cl/collections/casual-a",
+          "https://veloboutique.cl/collections/jackets-y-gilets-a",
+          "https://veloboutique.cl/collections/jerseys-a",
+          "https://veloboutique.cl/collections/base-layers-a",
+          "https://veloboutique.cl/collections/chaquetas-y-chalecos-gobik-mujer",
+          "https://veloboutique.cl/collections/maillot-y-tricotas-de-mujer",
+          "https://veloboutique.cl/collections/integral",
+          "https://veloboutique.cl/collections/culotte-calzas",
+          "https://veloboutique.cl/collections/camisetas-y-peto-para-mujer",
+        ],
+        hombre: [
+          "https://veloboutique.cl/collections/bibs-b",
+          "https://veloboutique.cl/collections/casual",
+          "https://veloboutique.cl/collections/jackets-y-gilets-b",
+          "https://veloboutique.cl/collections/jerseys-b",
+          "https://veloboutique.cl/collections/base-layers-b",
+          "https://veloboutique.cl/collections/chaquetas-invierno",
+          "https://veloboutique.cl/collections/tricotas",
+          "https://veloboutique.cl/collections/calzas",
+          "https://veloboutique.cl/collections/camisetas-petos",
+        ],
+        unisex: [
+          "https://veloboutique.cl/collections/calcetines-gobik",
+          "https://veloboutique.cl/collections/accesorios",
+          "https://veloboutique.cl/collections/zapatos",
+          "https://veloboutique.cl/collections/lentes",
+        ],
+      },
+      componentes: [
+        "https://veloboutique.cl/collections/tubolito",
+        "https://veloboutique.cl/collections/tatze",
+        "https://veloboutique.cl/collections/kogel",
+      ],
+      mantenimiento: ["https://veloboutique.cl/collections/dynamic"],
+      nutricion: ["https://veloboutique.cl/collections/nutricion"],
+    },
+  },
+  specialized: {
+    nombre: "Specialized",
+    web: "https://www.specialized.com/cl/es/shop/c/shop",
+    URLS: {
+      bicicletas: [
+        "https://www.specialized.com/cl/es/shop/bikes/mountain-bikes/c/mountain?show=All",
+        "https://www.specialized.com/cl/es/shop/bikes/road-bikes/performance-road-bikes/c/roadperformance?show=All",
+        "https://www.specialized.com/cl/es/shop/bikes/road-bikes/adventure--gravel-bikes/diverge/c/diverge?show=All",
+        "https://www.specialized.com/cl/es/shop/bikes/road-bikes/adventure--gravel-bikes/crux/c/crux",
+        "https://www.specialized.com/cl/es/shop/bikes/road-bikes/triathlon-bikes/c/roadtriathlon?show=All",
+      ],
+      componentes: [
+        "https://www.specialized.com/cl/es/shop/equipment/bike-components/tires--tubes/c/tirestubes?show=All",
+        "https://www.specialized.com/cl/es/shop/equipment/bike-components/saddles/c/saddles?show=All",
+        "https://www.specialized.com/cl/es/shop/equipment/bike-components/power-meters--computers/c/computers?show=All",
+        "https://www.specialized.com/cl/es/shop/equipment/bike-components/drivetrain/c/chainringsandarms?show=All",
+        "https://www.specialized.com/cl/es/shop/equipment/bike-components/handlebars--parts/c/handlebars?show=All",
+        "https://www.specialized.com/cl/es/shop/equipment/bike-components/pedals/c/pedals?show=All",
+        "https://www.specialized.com/cl/es/shop/equipment/bike-components/seatposts/c/seatposts?show=All",
+        "https://www.specialized.com/cl/es/shop/equipment/bike-components/stems/c/stems?show=All",
+        "https://www.specialized.com/cl/es/shop/equipment/bike-components/suspension/c/suspension?show=All",
+      ],
+      accesorios: [
+        "https://www.specialized.com/cl/es/shop/equipment/gear/lights/c/lights?show=All",
+        "https://www.specialized.com/cl/es/shop/equipment/gear/pumps/c/pumps?show=All",
+        "https://www.specialized.com/cl/es/shop/equipment/gear/grips--tape/c/gripsandtape?show=All",
+        "https://www.specialized.com/cl/es/shop/equipment/gear/bags--storage/c/bagsstorage?show=All",
+        "https://www.specialized.com/cl/es/shop/equipment/gear/bottle-cages/c/bottlecages?show=All",
+        "https://www.specialized.com/cl/es/shop/equipment/gear/bottles--hydration/c/bottleshydration?show=All",
+      ],
+      indumentaria: {
+        hombre: [
+          "https://www.specialized.com/cl/es/shop/sale/specialized-mens/mens-clothing--shoes/mens-bike-jerseys/c/jerseysmen?show=All",
+          "https://www.specialized.com/cl/es/shop/sale/specialized-mens/mens-clothing--shoes/mens-cycling-shorts--bib-shorts/c/bibsandshortsmen?show=All",
+          "https://www.specialized.com/cl/es/shop/sale/specialized-mens/mens-clothing--shoes/mens-cycling-jackets--vests/c/jacketsandvestsmen?show=All",
+          "https://www.specialized.com/cl/es/shop/sale/specialized-mens/mens-clothing--shoes/mens-base-layers/c/baseandtechlayermen?show=All",
+          "https://www.specialized.com/cl/es/shop/sale/specialized-mens/mens-clothing--shoes/mens-cycling-tights--pants/c/tightsandpantsmen?show=All",
+          "https://www.specialized.com/cl/es/shop/sale/specialized-mens/mens-clothing--shoes/mens-cycling-gloves/c/glovesmen?show=All",
+          "https://www.specialized.com/cl/es/shop/sale/specialized-mens/mens-clothing--shoes/mens-shirts/c/shirtsmen?show=All",
+        ],
+        mujer: [
+          "https://www.specialized.com/cl/es/shop/sale/specialized-womens/womens-clothing--shoes/womens-bike-jerseys/c/jerseyswomen?show=All",
+          "https://www.specialized.com/cl/es/shop/sale/specialized-womens/womens-clothing--shoes/womens-cycling-shorts--bib-shorts/c/bibsandshortswomen?show=All",
+          "https://www.specialized.com/cl/es/shop/sale/specialized-womens/womens-clothing--shoes/womens-cycling-jackets--vests/c/jacketsandvestswomen?show=All",
+          "https://www.specialized.com/cl/es/shop/sale/specialized-womens/womens-clothing--shoes/womens-base-layers/c/baseandtechlayerwomen?show=All",
+          "https://www.specialized.com/cl/es/shop/sale/specialized-womens/womens-clothing--shoes/womens-cycling-tights--pants/c/tightsandpantswomen?show=All",
+          "https://www.specialized.com/cl/es/shop/sale/specialized-womens/womens-clothing--shoes/womens-cycling-gloves/c/gloveswomen?show=All",
+          "https://www.specialized.com/cl/es/shop/sale/specialized-womens/womens-clothing--shoes/womens-shirts/c/shirtswomen?show=All"
+        ],
+        unisex: [
+          "https://www.specialized.com/cl/es/shop/shoes/c/shoes?show=All",
+          "https://www.specialized.com/cl/es/shop/helmets/c/helmets?show=All",
+          "https://www.specialized.com/cl/es/shop/sale/specialized-mens/mens-clothing--shoes/mens-cycling-hats--neck-gaiters/c/headandneckwearmen",
+          "https://www.specialized.com/cl/es/shop/sale/specialized-mens/mens-clothing--shoes/mens-arm--leg-warmers/c/armlegwarmersmen?show=All",
+          "https://www.specialized.com/cl/es/shop/sale/specialized-mens/mens-clothing--shoes/mens-cycling-hats--neck-gaiters/c/headandneckwearmen?show=All",
+          "https://www.specialized.com/cl/es/shop/sale/specialized-mens/mens-clothing--shoes/mens-cycling-socks/c/socksmen?show=All",
+        ],
+      },
+    },
   }
 };
