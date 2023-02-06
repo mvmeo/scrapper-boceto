@@ -9,6 +9,27 @@ import { getEvobike } from "./evobike/index.js";
 import { getOxford } from "./oxford/index.js";
 
 const scraping = async () => {
+  console.log("5norte:");
+  await getCincoNorte();
+
+  console.log("Crossmountain:");
+  await getCrossmountain();
+
+  console.log("Decathlon:");
+  await getDecathlon();
+
+  console.log("Evobikes:");
+  await getEvobike();
+
+  console.log("Oxford Stores:");
+  await getOxford();
+
+  console.log("Pedal Pro:");
+  await getPedalpro();
+
+  console.log("Smartlife:");
+  await getSmartlife();
+
   console.log("Specialized:");
   await getSpecialized();
 
