@@ -2,282 +2,282 @@
   {
     "id": 1,
     "Tienda": "Crossmountain",
-    "Nombre": "BICICLETA NS-BIKES RAG+ 1 GREEN/BLACK",
+    "Nombre": "BICICLETA NS-BIKES ECCENTRIC CROMO 29 RED",
     "Precio": "$1.990.000",
-    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-ns-bikes-rag-1-greenblack_18220_sq.webp?treat2",
-    "URLproducto": "producto/8578/bicicleta-ns-bikes-rag-1-greenblack"
+    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-ns-bikes-eccentric-cromo-29-red_18217_sq.webp?treat2",
+    "URLproducto": "https://www.crossmountain.cl/producto/8577/bicicleta-ns-bikes-eccentric-cromo-29-red"
   },
   {
     "id": 2,
     "Tienda": "Crossmountain",
-    "Nombre": "BICICLETA NS-BIKES ECCENTRIC CROMO 29 RED",
-    "Precio": "$1.990.000",
-    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-ns-bikes-eccentric-cromo-29-red_18217_sq.webp?treat2",
-    "URLproducto": "producto/8577/bicicleta-ns-bikes-eccentric-cromo-29-red"
+    "Nombre": "BICICLETA NS-BIKES ECCENTRIC ALU 29 BLACK",
+    "Precio": "$1.590.000",
+    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-ns-bikes-eccentric-alu-29-black_18214_sq.webp?treat2",
+    "URLproducto": "https://www.crossmountain.cl/producto/8576/bicicleta-ns-bikes-eccentric-alu-29-black"
   },
   {
     "id": 3,
     "Tienda": "Crossmountain",
-    "Nombre": "BICICLETA NS-BIKES ECCENTRIC ALU 29 BLACK",
-    "Precio": "$1.590.000",
-    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-ns-bikes-eccentric-alu-29-black_18214_sq.webp?treat2",
-    "URLproducto": "producto/8576/bicicleta-ns-bikes-eccentric-alu-29-black"
+    "Nombre": "BICICLETA NS-BIKES MOVEMENT 3 WHITE",
+    "Precio": "$699.000",
+    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-ns-bikes-movement-3-white_18211_sq.webp?treat2",
+    "URLproducto": "https://www.crossmountain.cl/producto/8575/bicicleta-ns-bikes-movement-3-white"
   },
   {
     "id": 4,
     "Tienda": "Crossmountain",
-    "Nombre": "BICICLETA NS-BIKES MOVEMENT 3 WHITE",
-    "Precio": "$699.000",
-    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-ns-bikes-movement-3-white_18211_sq.webp?treat2",
-    "URLproducto": "producto/8575/bicicleta-ns-bikes-movement-3-white"
+    "Nombre": "BICICLETA NS-BIKES MOVEMENT 1 CHAMELEON",
+    "Precio": "$1.190.000",
+    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-ns-bikes-movement-1-chameleon_18205_sq.webp?treat2",
+    "URLproducto": "https://www.crossmountain.cl/producto/8573/bicicleta-ns-bikes-movement-1-chameleon"
   },
   {
     "id": 5,
     "Tienda": "Crossmountain",
-    "Nombre": "BICICLETA NS-BIKES MOVEMENT 1 BLACK",
-    "Precio": "$1.190.000",
-    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-ns-bikes-movement-1-black_18208_sq.webp?treat2",
-    "URLproducto": "producto/8574/bicicleta-ns-bikes-movement-1-black"
+    "Nombre": "BICICLETA NS-BIKES DEFINE AL 160 27.5 BLUE",
+    "Precio": "$3.290.000",
+    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-ns-bikes-define-al-160-275-blue_18196_sq.webp?treat2",
+    "URLproducto": "https://www.crossmountain.cl/producto/8572/bicicleta-ns-bikes-define-al-160-275-blue"
   },
   {
     "id": 6,
     "Tienda": "Crossmountain",
-    "Nombre": "BICICLETA NS-BIKES MOVEMENT 1 CHAMELEON",
-    "Precio": "$1.190.000",
-    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-ns-bikes-movement-1-chameleon_18205_sq.webp?treat2",
-    "URLproducto": "producto/8573/bicicleta-ns-bikes-movement-1-chameleon"
+    "Nombre": "BICICLETA NS-BIKES E-FINE 2 29/27.5 BLACK",
+    "Precio": "$4.990.000",
+    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-ns-bikes-e-fine-2-29275-black_18199_sq.webp?treat2",
+    "URLproducto": "https://www.crossmountain.cl/producto/8571/bicicleta-ns-bikes-e-fine-2-29275-black"
   },
   {
     "id": 7,
     "Tienda": "Crossmountain",
-    "Nombre": "BICICLETA NS-BIKES DEFINE AL 160 27.5 BLUE",
-    "Precio": "$3.290.000",
-    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-ns-bikes-define-al-160-275-blue_18196_sq.webp?treat2",
-    "URLproducto": "producto/8572/bicicleta-ns-bikes-define-al-160-275-blue"
+    "Nombre": "BICICLETA NS-BIKES E-FINE 1 29/27.5 BLACK/GREEN (EXHIBICIÓN)",
+    "Precio": "$5.990.000",
+    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-ns-bikes-e-fine-1-29275-blackgreen-test_18202_sq.webp?treat2",
+    "URLproducto": "https://www.crossmountain.cl/producto/8570/bicicleta-ns-bikes-e-fine-1-29275-blackgreen-exhibicin"
   },
   {
     "id": 8,
     "Tienda": "Crossmountain",
-    "Nombre": "BICICLETA NS-BIKES E-FINE 2 29/27.5 BLACK",
-    "Precio": "$4.990.000",
-    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-ns-bikes-e-fine-2-29275-black_18199_sq.webp?treat2",
-    "URLproducto": "producto/8571/bicicleta-ns-bikes-e-fine-2-29275-black"
+    "Nombre": "BICICLETA NS-BIKES DEFINE AL 150 2 29 BLACK",
+    "Precio": "$3.290.000",
+    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-ns-bikes-define-al-150-2-29-black_18190_sq.webp?treat2",
+    "URLproducto": "https://www.crossmountain.cl/producto/8569/bicicleta-ns-bikes-define-al-150-2-29-black"
   },
   {
     "id": 9,
     "Tienda": "Crossmountain",
-    "Nombre": "BICICLETA NS-BIKES E-FINE 1 29/27.5 BLACK/GREEN (EXHIBICIÓN)",
-    "Precio": "$5.990.000",
-    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-ns-bikes-e-fine-1-29275-blackgreen-test_18202_sq.webp?treat2",
-    "URLproducto": "producto/8570/bicicleta-ns-bikes-e-fine-1-29275-blackgreen-exhibicin"
+    "Nombre": "BICICLETA NS-BIKES DEFINE AL 170 2 29 RAW",
+    "Precio": "$3.490.000",
+    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-ns-bikes-define-al-170-2-29-raw_18193_sq.webp?treat2",
+    "URLproducto": "https://www.crossmountain.cl/producto/8568/bicicleta-ns-bikes-define-al-170-2-29-raw"
   },
   {
     "id": 10,
     "Tienda": "Crossmountain",
-    "Nombre": "BICICLETA NS-BIKES DEFINE AL 150 2 29 BLACK",
-    "Precio": "$3.290.000",
-    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-ns-bikes-define-al-150-2-29-black_18190_sq.webp?treat2",
-    "URLproducto": "producto/8569/bicicleta-ns-bikes-define-al-150-2-29-black"
+    "Nombre": "BICICLETA POLYGON SISKIU T7 GRY/BLK",
+    "Precio": "$1.799.100",
+    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-siskiu-t7-gry_17910_sq.webp?treat2",
+    "URLproducto": "https://www.crossmountain.cl/producto/8306/bicicleta-polygon-siskiu-t7-gryblk"
   },
   {
     "id": 11,
     "Tienda": "Crossmountain",
-    "Nombre": "BICICLETA NS-BIKES DEFINE AL 170 2 29 RAW",
-    "Precio": "$3.490.000",
-    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-ns-bikes-define-al-170-2-29-raw_18193_sq.webp?treat2",
-    "URLproducto": "producto/8568/bicicleta-ns-bikes-define-al-170-2-29-raw"
+    "Nombre": "BICICLETA POLYGON PATH X5 GREEN",
+    "Precio": "$1.444.150",
+    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-path-x5-green_17899_sq.webp?treat2",
+    "URLproducto": "https://www.crossmountain.cl/producto/8303/bicicleta-polygon-path-x5-green"
   },
   {
     "id": 12,
     "Tienda": "Crossmountain",
-    "Nombre": "BICICLETA POLYGON SISKIU T7 GRY/BLK",
-    "Precio": "$1.799.100",
-    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-siskiu-t7-gry_17910_sq.webp?treat2",
-    "URLproducto": "producto/8306/bicicleta-polygon-siskiu-t7-gryblk"
+    "Nombre": "BICICLETA POLYGON PATH X4 CREAM",
+    "Precio": "$1.104.150",
+    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-path-x4-cream_17895_sq.webp?treat2",
+    "URLproducto": "https://www.crossmountain.cl/producto/8302/bicicleta-polygon-path-x4-cream"
   },
   {
     "id": 13,
     "Tienda": "Crossmountain",
-    "Nombre": "BICICLETA POLYGON PATH X5 GREEN",
-    "Precio": "$1.444.150",
-    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-path-x5-green_17899_sq.webp?treat2",
-    "URLproducto": "producto/8303/bicicleta-polygon-path-x5-green"
+    "Nombre": "BICICLETA POLYGON SISKIU T8 CHAR/BLK",
+    "Precio": "$1.999.200",
+    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-siskiu-t8-charblk_16576_sq.webp?treat2",
+    "URLproducto": "https://www.crossmountain.cl/producto/7804/bicicleta-polygon-siskiu-t8-charblk"
   },
   {
     "id": 14,
     "Tienda": "Crossmountain",
-    "Nombre": "BICICLETA POLYGON PATH X4 CREAM",
-    "Precio": "$1.104.150",
-    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-path-x4-cream_17895_sq.webp?treat2",
-    "URLproducto": "producto/8302/bicicleta-polygon-path-x4-cream"
+    "Nombre": "BICICLETA RADLER GR1 BEIGE/NEGRO",
+    "Precio": "$599.990",
+    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-radler-gr1-beigenegro_16531_sq.webp?treat2",
+    "URLproducto": "https://www.crossmountain.cl/producto/7803/bicicleta-radler-gr1-beigenegro"
   },
   {
     "id": 15,
     "Tienda": "Crossmountain",
-    "Nombre": "BICICLETA POLYGON SISKIU T8 CHAR/BLK",
-    "Precio": "$1.999.200",
-    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-siskiu-t8-charblk_16576_sq.webp?treat2",
-    "URLproducto": "producto/7804/bicicleta-polygon-siskiu-t8-charblk"
+    "Nombre": "BICICLETA RADLER GR1 NEGRA",
+    "Precio": "$599.990",
+    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-radler-gr1-negra_16535_sq.webp?treat2",
+    "URLproducto": "https://www.crossmountain.cl/producto/7802/bicicleta-radler-gr1-negra"
   },
   {
     "id": 16,
     "Tienda": "Crossmountain",
-    "Nombre": "BICICLETA RADLER GR1 BEIGE/NEGRO",
-    "Precio": "$599.990",
-    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-radler-gr1-beigenegro_16531_sq.webp?treat2",
-    "URLproducto": "producto/7803/bicicleta-radler-gr1-beigenegro"
+    "Nombre": "BICICLETA ELECTRICA POLYGON MT BROMO N8",
+    "Precio": "$4.799.200",
+    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-electrica-polygon-mt-bromo-n8_12505_58_sq.webp?treat2",
+    "URLproducto": "https://www.crossmountain.cl/producto/7213/bicicleta-electrica-polygon-mt-bromo-n8"
   },
   {
     "id": 17,
     "Tienda": "Crossmountain",
-    "Nombre": "BICICLETA RADLER GR1 NEGRA",
-    "Precio": "$599.990",
-    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-radler-gr1-negra_16535_sq.webp?treat2",
-    "URLproducto": "producto/7802/bicicleta-radler-gr1-negra"
+    "Nombre": "BICICLETA POLYGON SYNCLINE C5 CARBON RED/BLK",
+    "Precio": "$1.614.150",
+    "imgURL": "https://static.crossmountain.cl/a/200/images/static/plg-syncline-c5-carbon-redblk_13575_sq.webp?treat2",
+    "URLproducto": "https://www.crossmountain.cl/producto/6444/bicicleta-polygon-syncline-c5-carbon-redblk"
   },
   {
     "id": 18,
     "Tienda": "Crossmountain",
-    "Nombre": "BICICLETA ELECTRICA POLYGON MT BROMO N8",
-    "Precio": "$5.399.100",
-    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-electrica-polygon-mt-bromo-n8_12505_58_sq.webp?treat2",
-    "URLproducto": "producto/7213/bicicleta-electrica-polygon-mt-bromo-n8"
+    "Nombre": "BICICLETA POLYGON SYNCLINE C3 CARBON BWN/CRC",
+    "Precio": "$1.359.150",
+    "imgURL": "https://static.crossmountain.cl/a/200/images/static/plg-syncline-c3-carbon-bwncrc_13577_sq.webp?treat2",
+    "URLproducto": "https://www.crossmountain.cl/producto/6443/bicicleta-polygon-syncline-c3-carbon-bwncrc"
   },
   {
     "id": 19,
     "Tienda": "Crossmountain",
-    "Nombre": "BICICLETA POLYGON SYNCLINE C5 CARBON RED/BLK",
-    "Precio": "$1.614.150",
-    "imgURL": "https://static.crossmountain.cl/a/200/images/static/plg-syncline-c5-carbon-redblk_13575_sq.webp?treat2",
-    "URLproducto": "producto/6444/bicicleta-polygon-syncline-c5-carbon-redblk"
+    "Nombre": "BICICLETA POLYGON STRATTOS S5 WHT",
+    "Precio": "$1.124.250",
+    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-strattos-s5-wht_12693_sq.webp?treat2",
+    "URLproducto": "https://www.crossmountain.cl/producto/6242/bicicleta-polygon-strattos-s5-wht"
   },
   {
     "id": 20,
     "Tienda": "Crossmountain",
-    "Nombre": "BICICLETA POLYGON SYNCLINE C3 CARBON BWN/CRC",
-    "Precio": "$1.359.150",
-    "imgURL": "https://static.crossmountain.cl/a/200/images/static/plg-syncline-c3-carbon-bwncrc_13577_sq.webp?treat2",
-    "URLproducto": "producto/6443/bicicleta-polygon-syncline-c3-carbon-bwncrc"
+    "Nombre": "BICICLETA POLYGON STRATTOS S2 LT BLU",
+    "Precio": "$524.250",
+    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-strattos-s2-lt-blu_12682_sq.webp?treat2",
+    "URLproducto": "https://www.crossmountain.cl/producto/6239/bicicleta-polygon-strattos-s2-lt-blu"
   },
   {
     "id": 21,
     "Tienda": "Crossmountain",
-    "Nombre": "BICICLETA POLYGON STRATTOS S5 WHT",
-    "Precio": "$1.124.250",
-    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-strattos-s5-wht_12693_sq.webp?treat2",
-    "URLproducto": "producto/6242/bicicleta-polygon-strattos-s5-wht"
+    "Nombre": "BICICLETA POLYGON XTRADA 7 PRP/WHT",
+    "Precio": "$934.150",
+    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-xtrada-7-prpwht_12661_sq.webp?treat2",
+    "URLproducto": "https://www.crossmountain.cl/producto/6238/bicicleta-polygon-xtrada-7-prpwht"
   },
   {
     "id": 22,
     "Tienda": "Crossmountain",
-    "Nombre": "BICICLETA POLYGON STRATTOS S2 LT BLU",
-    "Precio": "$524.250",
-    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-strattos-s2-lt-blu_12682_sq.webp?treat2",
-    "URLproducto": "producto/6239/bicicleta-polygon-strattos-s2-lt-blu"
+    "Nombre": "BICICLETA POLYGON XTRADA 6 BLK/GRN",
+    "Precio": "$719.200",
+    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-xtrada-6-blkgrn_12657_sq.webp?treat2",
+    "URLproducto": "https://www.crossmountain.cl/producto/6237/bicicleta-polygon-xtrada-6-blkgrn"
   },
   {
     "id": 23,
     "Tienda": "Crossmountain",
-    "Nombre": "BICICLETA POLYGON XTRADA 7 PRP/WHT",
-    "Precio": "$934.150",
-    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-xtrada-7-prpwht_12661_sq.webp?treat2",
-    "URLproducto": "producto/6238/bicicleta-polygon-xtrada-7-prpwht"
+    "Nombre": "BICICLETA POLYGON XTRADA 5 RED/GRY",
+    "Precio": "$524.250",
+    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-xtrada-5-redgry_12653_sq.webp?treat2",
+    "URLproducto": "https://www.crossmountain.cl/producto/6236/bicicleta-polygon-xtrada-5-redgry"
   },
   {
     "id": 24,
     "Tienda": "Crossmountain",
-    "Nombre": "BICICLETA POLYGON XTRADA 6 BLK/GRN",
-    "Precio": "$719.200",
-    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-xtrada-6-blkgrn_12657_sq.webp?treat2",
-    "URLproducto": "producto/6237/bicicleta-polygon-xtrada-6-blkgrn"
+    "Nombre": "BICICLETA POLYGON PREMIER 5 BLK",
+    "Precio": "$349.500",
+    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-premier-5-blk_12649_sq.webp?treat2",
+    "URLproducto": "https://www.crossmountain.cl/producto/6231/bicicleta-polygon-premier-5-blk"
   },
   {
     "id": 25,
     "Tienda": "Crossmountain",
-    "Nombre": "BICICLETA POLYGON XTRADA 5 RED/GRY",
-    "Precio": "$524.250",
-    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-xtrada-5-redgry_12653_sq.webp?treat2",
-    "URLproducto": "producto/6236/bicicleta-polygon-xtrada-5-redgry"
+    "Nombre": "BICICLETA POLYGON PREMIER 4 GRY",
+    "Precio": "$299.500",
+    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-premier-4-gry_12645_sq.webp?treat2",
+    "URLproducto": "https://www.crossmountain.cl/producto/6230/bicicleta-polygon-premier-4-gry"
   },
   {
     "id": 26,
     "Tienda": "Crossmountain",
-    "Nombre": "BICICLETA POLYGON PREMIER 5 BLK",
-    "Precio": "$699.000",
-    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-premier-5-blk_12649_sq.webp?treat2",
-    "URLproducto": "producto/6231/bicicleta-polygon-premier-5-blk"
+    "Nombre": "BICICLETA POLYGON CASCADE 4 GRN",
+    "Precio": "$249.500",
+    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-cascade-4-grn-ba_12635_sq.webp?treat2",
+    "URLproducto": "https://www.crossmountain.cl/producto/6228/bicicleta-polygon-cascade-4-grn"
   },
   {
     "id": 27,
     "Tienda": "Crossmountain",
-    "Nombre": "BICICLETA POLYGON PREMIER 4 GRY",
-    "Precio": "$599.000",
-    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-premier-4-gry_12645_sq.webp?treat2",
-    "URLproducto": "producto/6230/bicicleta-polygon-premier-4-gry"
+    "Nombre": "BICICLETA POLYGON CASCADE 3 GRY",
+    "Precio": "$199.500",
+    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-cascade-3-gry-ba_12632_sq.webp?treat2",
+    "URLproducto": "https://www.crossmountain.cl/producto/6227/bicicleta-polygon-cascade-3-gry"
   },
   {
     "id": 28,
     "Tienda": "Crossmountain",
-    "Nombre": "BICICLETA POLYGON MUJER CLEO 2 CRE",
-    "Precio": "$399.200",
-    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-mujer-cleo-2-cre-sa_12637_sq.webp?treat2",
-    "URLproducto": "producto/6229/bicicleta-polygon-mujer-cleo-2-cre"
+    "Nombre": "BICICLETA POLYGON SISKIU D7 GREEN BLACK",
+    "Precio": "$1.439.100",
+    "imgURL": "https://static.crossmountain.cl/a/200/images/static/polygon_12116_sq.webp?treat2",
+    "URLproducto": "https://www.crossmountain.cl/producto/5994/bicicleta-polygon-siskiu-d7-green-black"
   },
   {
     "id": 29,
     "Tienda": "Crossmountain",
-    "Nombre": "BICICLETA POLYGON CASCADE 4 GRN",
-    "Precio": "$249.500",
-    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-cascade-4-grn-ba_12635_sq.webp?treat2",
-    "URLproducto": "producto/6228/bicicleta-polygon-cascade-4-grn"
+    "Nombre": "BICICLETA POLYGON TRID ZZ PURPLE",
+    "Precio": "$1.424.250",
+    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-trid-zz-2021_3893_sq.webp?treat2",
+    "URLproducto": "https://www.crossmountain.cl/producto/3958/bicicleta-polygon-trid-zz-purple"
   },
   {
     "id": 30,
     "Tienda": "Crossmountain",
-    "Nombre": "BICICLETA POLYGON CASCADE 3 GRY",
-    "Precio": "$199.500",
-    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-cascade-3-gry-ba_12632_sq.webp?treat2",
-    "URLproducto": "producto/6227/bicicleta-polygon-cascade-3-gry"
+    "Nombre": "BICICLETA POLYGON TRID BLK/CREAM",
+    "Precio": "$879.200",
+    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-trid-2021_3894_sq.webp?treat2",
+    "URLproducto": "https://www.crossmountain.cl/producto/3957/bicicleta-polygon-trid-blkcream"
   },
   {
     "id": 31,
     "Tienda": "Crossmountain",
-    "Nombre": "BICICLETA POLYGON SISKIU D7 GREEN BLACK",
-    "Precio": "$1.439.100",
-    "imgURL": "https://static.crossmountain.cl/a/200/images/static/polygon_12116_sq.webp?treat2",
-    "URLproducto": "producto/5994/bicicleta-polygon-siskiu-d7-green-black"
+    "Nombre": "BICICLETA POLYGON BEND R2 LIGHT BLUE",
+    "Precio": "$849.150",
+    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-bend-r2-2021_3898_sq.webp?treat2",
+    "URLproducto": "https://www.crossmountain.cl/producto/3956/bicicleta-polygon-bend-r2-light-blue"
   },
   {
     "id": 32,
     "Tienda": "Crossmountain",
-    "Nombre": "BICICLETA POLYGON BEND R5 BROWN",
-    "Precio": "$1.444.150",
-    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-bend-r5-2021_4857_sq.webp?treat2",
-    "URLproducto": "producto/4486/bicicleta-polygon-bend-r5-brown"
+    "Nombre": "BICICLETA POLYGON SISKIU T7 BLU/GRN",
+    "Precio": "$1.699.150",
+    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-siskiu-t7-2021_3906_sq.webp?treat2",
+    "URLproducto": "https://www.crossmountain.cl/producto/3954/bicicleta-polygon-siskiu-t7-blugrn"
   },
   {
     "id": 33,
     "Tienda": "Crossmountain",
-    "Nombre": "BICICLETA POLYGON TRID ZZ PURPLE",
-    "Precio": "$1.424.250",
-    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-trid-zz-2021_3893_sq.webp?treat2",
-    "URLproducto": "producto/3958/bicicleta-polygon-trid-zz-purple"
+    "Nombre": "BICICLETA NS-BIKES RAG+ 1 GREEN/BLACK",
+    "Precio": "$1.990.000",
+    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-ns-bikes-rag-1-greenblack_18220_sq.webp?treat2",
+    "URLproducto": "https://www.crossmountain.cl/producto/8578/bicicleta-ns-bikes-rag-1-greenblack"
   },
   {
     "id": 34,
     "Tienda": "Crossmountain",
-    "Nombre": "BICICLETA POLYGON BEND R2 LIGHT BLUE",
-    "Precio": "$849.150",
-    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-bend-r2-2021_3898_sq.webp?treat2",
-    "URLproducto": "producto/3956/bicicleta-polygon-bend-r2-light-blue"
+    "Nombre": "BICICLETA NS-BIKES MOVEMENT 1 BLACK",
+    "Precio": "$1.190.000",
+    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-ns-bikes-movement-1-black_18208_sq.webp?treat2",
+    "URLproducto": "https://www.crossmountain.cl/producto/8574/bicicleta-ns-bikes-movement-1-black"
   },
   {
     "id": 35,
     "Tienda": "Crossmountain",
-    "Nombre": "BICICLETA POLYGON SISKIU T7 BLU/GRN",
-    "Precio": "$1.699.150",
-    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-siskiu-t7-2021_3906_sq.webp?treat2",
-    "URLproducto": "producto/3954/bicicleta-polygon-siskiu-t7-blugrn"
+    "Nombre": "STICKER POLYGON",
+    "Precio": "$200",
+    "imgURL": "https://crossmountain.cl/static/200/images/mountain_sq3.jpg",
+    "URLproducto": "https://www.crossmountain.cl/producto/8307/sticker-polygon"
   },
   {
     "id": 36,
@@ -285,7 +285,7 @@
     "Nombre": "BICICLETA POLYGON STRATTOS S8D PNK/SLV",
     "Precio": "$2.549.150",
     "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-strattos-s8d-pnkslv_17914_sq.webp?treat2",
-    "URLproducto": "producto/8305/bicicleta-polygon-strattos-s8d-pnkslv"
+    "URLproducto": "https://www.crossmountain.cl/producto/8305/bicicleta-polygon-strattos-s8d-pnkslv"
   },
   {
     "id": 37,
@@ -293,7 +293,7 @@
     "Nombre": "BICICLETA POLYGON SISKIU D24 YELLOW",
     "Precio": "$1.019.150",
     "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-siskiu-d24-yellow_17903_sq.webp?treat2",
-    "URLproducto": "producto/8304/bicicleta-polygon-siskiu-d24-yellow"
+    "URLproducto": "https://www.crossmountain.cl/producto/8304/bicicleta-polygon-siskiu-d24-yellow"
   },
   {
     "id": 38,
@@ -301,7 +301,7 @@
     "Nombre": "BICICLETA POLYGON COLLOSUS N9 GREEN",
     "Precio": "$2.974.150",
     "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-collosus-n9-green_17891_sq.webp?treat2",
-    "URLproducto": "producto/8301/bicicleta-polygon-collosus-n9-green"
+    "URLproducto": "https://www.crossmountain.cl/producto/8301/bicicleta-polygon-collosus-n9-green"
   },
   {
     "id": 39,
@@ -309,7 +309,7 @@
     "Nombre": "BICICLETA POLYGON SISKIU D6 ORANGE BLK",
     "Precio": "$1.049.250",
     "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-siskiu-d6-org_13579_sq.webp?treat2",
-    "URLproducto": "producto/6442/bicicleta-polygon-siskiu-d6-orange-blk"
+    "URLproducto": "https://www.crossmountain.cl/producto/6442/bicicleta-polygon-siskiu-d6-orange-blk"
   },
   {
     "id": 40,
@@ -317,7 +317,7 @@
     "Nombre": "BICICLETA POLYGON STRATTOS S8D BLK",
     "Precio": "$2.549.150",
     "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-strattos-s8d-blk_12704_sq.webp?treat2",
-    "URLproducto": "producto/6245/bicicleta-polygon-strattos-s8d-blk"
+    "URLproducto": "https://www.crossmountain.cl/producto/6245/bicicleta-polygon-strattos-s8d-blk"
   },
   {
     "id": 41,
@@ -325,7 +325,7 @@
     "Nombre": "BICICLETA POLYGON STRATTOS S7D RED",
     "Precio": "$2.124.150",
     "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-strattos-s7d-red_12700_sq.webp?treat2",
-    "URLproducto": "producto/6244/bicicleta-polygon-strattos-s7d-red"
+    "URLproducto": "https://www.crossmountain.cl/producto/6244/bicicleta-polygon-strattos-s7d-red"
   },
   {
     "id": 42,
@@ -333,7 +333,7 @@
     "Nombre": "BICICLETA POLYGON STRATTOS S5D WHT",
     "Precio": "$1.614.150",
     "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-strattos-s5d-wht_12696_sq.webp?treat2",
-    "URLproducto": "producto/6243/bicicleta-polygon-strattos-s5d-wht"
+    "URLproducto": "https://www.crossmountain.cl/producto/6243/bicicleta-polygon-strattos-s5d-wht"
   },
   {
     "id": 43,
@@ -341,14 +341,22 @@
     "Nombre": "BICICLETA POLYGON STRATTOS S3 ORG",
     "Precio": "$636.750",
     "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-strattos-s3-org_12686_sq.webp?treat2",
-    "URLproducto": "producto/6240/bicicleta-polygon-strattos-s3-org"
+    "URLproducto": "https://www.crossmountain.cl/producto/6240/bicicleta-polygon-strattos-s3-org"
   },
   {
     "id": 44,
     "Tienda": "Crossmountain",
-    "Nombre": "BICICLETA POLYGON TRID BLK/CREAM",
-    "Precio": "$879.200",
-    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-trid-2021_3894_sq.webp?treat2",
-    "URLproducto": "producto/3957/bicicleta-polygon-trid-blkcream"
+    "Nombre": "BICICLETA POLYGON MUJER CLEO 2 CRE",
+    "Precio": "$399.200",
+    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-mujer-cleo-2-cre-sa_12637_sq.webp?treat2",
+    "URLproducto": "https://www.crossmountain.cl/producto/6229/bicicleta-polygon-mujer-cleo-2-cre"
+  },
+  {
+    "id": 45,
+    "Tienda": "Crossmountain",
+    "Nombre": "BICICLETA POLYGON BEND R5 BROWN",
+    "Precio": "$1.444.150",
+    "imgURL": "https://static.crossmountain.cl/a/200/images/static/bicicleta-polygon-bend-r5-2021_4857_sq.webp?treat2",
+    "URLproducto": "https://www.crossmountain.cl/producto/4486/bicicleta-polygon-bend-r5-brown"
   }
 ]

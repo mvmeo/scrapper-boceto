@@ -11,9 +11,10 @@ import { getOxford } from "./oxford/index.js";
 const scraping = async () => {
   console.log("5norte:");
   await getCincoNorte();
-
+  
   console.log("Crossmountain:");
   await getCrossmountain();
+
 
   console.log("Decathlon:");
   await getDecathlon();

@@ -3,8 +3,9 @@ import * as cheerio from "cheerio";
 import { writeFile } from "node:fs/promises";
 import path from "node:path";
 
-import { info } from "../../utils/info.js";
-import { SELECTORS } from "../../utils/selectors.js";
+
+import info from "../../utils/info.json" assert {type: 'json'};
+import SELECTORS from "../../utils/selectors.json" assert {type: 'json'};
 
 export const getIndumentaria = async () => {
   const source = "https://crossmountain.cl/";

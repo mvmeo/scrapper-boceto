@@ -1,6 +1,5 @@
 import * as cheerio from "cheerio";
-import { SELECTORS } from "../../utils/selectors.js";
-import { info } from "../../utils/info.js";
+import SELECTORS from "../../utils/selectors.json" assert {type: 'json'};
 
 export function eliminarSegundoMonto(cadena) {
   let result = cadena.match(

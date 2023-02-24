@@ -282,13 +282,37 @@
   {
     "id": 36,
     "Tienda": "5norte",
+    "Nombre": "Casco LM-58 Black Lameda",
+    "Precio": "$68.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0077/6339/4637/products/cascos-ciclismo-lameda-lm-58-negro-blanco-tornasol-eps-pc-alta-resistencia_2_1600x.png?v=1677073290",
+    "URLproducto": "https://www.5norte.cl/collections/cascos/products/casco-lm-58-black-lameda"
+  },
+  {
+    "id": 37,
+    "Tienda": "5norte",
+    "Nombre": "Casco LM-58 White Lameda",
+    "Precio": "$68.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0077/6339/4637/products/cascos-ciclismo-lameda-lm-58-negro-blanco-tornasol-eps-pc-alta-resistencia_18_1600x.png?v=1677076237",
+    "URLproducto": "https://www.5norte.cl/collections/cascos/products/casco-lm-58-white-lameda"
+  },
+  {
+    "id": 38,
+    "Tienda": "5norte",
+    "Nombre": "Casco LM-58 Tornasol Lameda",
+    "Precio": "$73.990",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0077/6339/4637/products/cascos-ciclismo-lameda-lm-58-negro-blanco-tornasol-eps-pc-alta-resistencia_20_7e0b587c-af2b-4ea1-a7de-33fb1828f921_1600x.png?v=1677077044",
+    "URLproducto": "https://www.5norte.cl/collections/cascos/products/casco-lm-58-tornasol-lameda"
+  },
+  {
+    "id": 39,
+    "Tienda": "5norte",
     "Nombre": "Casco K-10 kids Metal Green PMT SALE",
     "Precio": "$30.990",
     "imgURL": "https://cdn.shopify.com/s/files/1/0077/6339/4637/products/casco-ciclismo-nino-nina-mtb-ruta-mountain-bike-eps-verde-k-15_2_1600x.jpg?v=1634222101",
     "URLproducto": "https://www.5norte.cl/collections/cascos/products/casco-k-10-kids-metal-green-pmt"
   },
   {
-    "id": 37,
+    "id": 40,
     "Tienda": "5norte",
     "Nombre": "Casco K-10 kids Pink PMT SALE",
     "Precio": "$30.990",
@@ -296,7 +320,7 @@
     "URLproducto": "https://www.5norte.cl/collections/cascos/products/casco-k-10-kids-pink-pmt"
   },
   {
-    "id": 38,
+    "id": 41,
     "Tienda": "5norte",
     "Nombre": "Casco K-10 kids Blue PMT SALE",
     "Precio": "$30.990",
@@ -304,7 +328,7 @@
     "URLproducto": "https://www.5norte.cl/collections/cascos/products/casco-k-10-kids-blue-pmt"
   },
   {
-    "id": 39,
+    "id": 42,
     "Tienda": "5norte",
     "Nombre": "Casco K-10 kids Red PMT SALE",
     "Precio": "$30.990",
@@ -312,7 +336,7 @@
     "URLproducto": "https://www.5norte.cl/collections/cascos/products/casco-k-10-kids-red-pmt"
   },
   {
-    "id": 40,
+    "id": 43,
     "Tienda": "5norte",
     "Nombre": "Casco M-12 Black White PMT",
     "Precio": "$38,990",
@@ -320,7 +344,7 @@
     "URLproducto": "https://www.5norte.cl/collections/cascos/products/casco-m-12-pmt"
   },
   {
-    "id": 41,
+    "id": 44,
     "Tienda": "5norte",
     "Nombre": "Casco M-12 Black Red PMT",
     "Precio": "$38,990",
@@ -328,7 +352,7 @@
     "URLproducto": "https://www.5norte.cl/collections/cascos/products/casco-m-12-black-red-pmt"
   },
   {
-    "id": 42,
+    "id": 45,
     "Tienda": "5norte",
     "Nombre": "Casco M-12 White Black PMT",
     "Precio": "$38,990",
@@ -336,7 +360,7 @@
     "URLproducto": "https://www.5norte.cl/collections/cascos/products/casco-m-12-white-black-pmt"
   },
   {
-    "id": 43,
+    "id": 46,
     "Tienda": "5norte",
     "Nombre": "Casco K-15 Black Red PMT",
     "Precio": "$40,990",
@@ -344,7 +368,7 @@
     "URLproducto": "https://www.5norte.cl/collections/cascos/products/casco-k-15-black-red-pmt"
   },
   {
-    "id": 44,
+    "id": 47,
     "Tienda": "5norte",
     "Nombre": "Casco K-15 Light Blue PMT",
     "Precio": "$40,990",
@@ -352,7 +376,7 @@
     "URLproducto": "https://www.5norte.cl/collections/cascos/products/casco-k-15-light-blue-pmt"
   },
   {
-    "id": 45,
+    "id": 48,
     "Tienda": "5norte",
     "Nombre": "Casco K-15 Blue White PMT",
     "Precio": "$40,990",
@@ -360,7 +384,7 @@
     "URLproducto": "https://www.5norte.cl/collections/cascos/products/casco-k-15-blue-white-pmt"
   },
   {
-    "id": 46,
+    "id": 49,
     "Tienda": "5norte",
     "Nombre": "Casco K-15 White PMT",
     "Precio": "$40,990",
@@ -368,7 +392,7 @@
     "URLproducto": "https://www.5norte.cl/collections/cascos/products/casco-k-15-white-pmt"
   },
   {
-    "id": 47,
+    "id": 50,
     "Tienda": "5norte",
     "Nombre": "Casco K-68 Black PMT",
     "Precio": "$41,990",
@@ -376,7 +400,7 @@
     "URLproducto": "https://www.5norte.cl/collections/cascos/products/casco-k-68-black-pmt"
   },
   {
-    "id": 48,
+    "id": 51,
     "Tienda": "5norte",
     "Nombre": "Casco K-02 Blue White PMT",
     "Precio": "$55,990",
@@ -384,7 +408,7 @@
     "URLproducto": "https://www.5norte.cl/collections/cascos/products/casco-k-02-blue-white-pmt"
   },
   {
-    "id": 49,
+    "id": 52,
     "Tienda": "5norte",
     "Nombre": "Casco K-02 Pearly Red PMT",
     "Precio": "$55,990",
@@ -392,7 +416,7 @@
     "URLproducto": "https://www.5norte.cl/collections/cascos/products/casco-k-02-pearly-red-pmt"
   },
   {
-    "id": 50,
+    "id": 53,
     "Tienda": "5norte",
     "Nombre": "Casco K-02 White PMT",
     "Precio": "$55,990",
@@ -400,7 +424,7 @@
     "URLproducto": "https://www.5norte.cl/collections/cascos/products/casco-k-02-white-pmt"
   },
   {
-    "id": 51,
+    "id": 54,
     "Tienda": "5norte",
     "Nombre": "Casco K-02 Black PMT",
     "Precio": "$56,990",
@@ -408,36 +432,12 @@
     "URLproducto": "https://www.5norte.cl/collections/cascos/products/casco-k-02-black-pmt"
   },
   {
-    "id": 52,
+    "id": 55,
     "Tienda": "5norte",
     "Nombre": "Casco Pudi Titanium Black PMT",
     "Precio": "$60.990",
     "imgURL": "https://cdn.shopify.com/s/files/1/0077/6339/4637/products/casco-ciclismo-mtb-ruta-mountain-bike-eps-negro-gris-pmt-PUDI-02_1600x.jpg?v=1612298489",
     "URLproducto": "https://www.5norte.cl/collections/cascos/products/casco-pudi-titanium-black-pmt"
-  },
-  {
-    "id": 53,
-    "Tienda": "5norte",
-    "Nombre": "Casco Pudi Red Black PMT",
-    "Precio": "$60,990",
-    "imgURL": "https://cdn.shopify.com/s/files/1/0077/6339/4637/products/casco-ciclismo-mtb-ruta-mountain-bike-eps-negro-rojo-pmt-PUDI-01_1600x.jpg?v=1634137113",
-    "URLproducto": "https://www.5norte.cl/collections/cascos/products/casco-pudi-red-black-pmt"
-  },
-  {
-    "id": 54,
-    "Tienda": "5norte",
-    "Nombre": "Casco Pudi Sky Blue PMT",
-    "Precio": "$60,990",
-    "imgURL": "https://cdn.shopify.com/s/files/1/0077/6339/4637/products/casco-ciclismo-mtb-ruta-mountain-bike-eps-negro-azul-pmt-PUDI-11_1600x.jpg?v=1634138842",
-    "URLproducto": "https://www.5norte.cl/collections/cascos/products/casco-pudi-sky-blue-pmt"
-  },
-  {
-    "id": 55,
-    "Tienda": "5norte",
-    "Nombre": "Casco Pudi Black Purple PMT",
-    "Precio": "$60,990",
-    "imgURL": "https://cdn.shopify.com/s/files/1/0077/6339/4637/products/casco-ciclismo-mtb-ruta-mountain-bike-eps-negro-rosa-pmt-PUDI-01_1600x.jpg?v=1634140166",
-    "URLproducto": "https://www.5norte.cl/collections/cascos/products/casco-pudi-black-purple-pmt"
   },
   {
     "id": 56,
@@ -539,7 +539,7 @@
     "id": 68,
     "Tienda": "5norte",
     "Nombre": "Calza NO-SEAMS 031 Lameda",
-    "Precio": "$44,990",
+    "Precio": "$47,990",
     "imgURL": "https://cdn.shopify.com/s/files/1/0077/6339/4637/products/calzas-ciclismo-lameda-negro-20SZ031-03_1600x.jpg?v=1631030611",
     "URLproducto": "https://www.5norte.cl/collections/calzas/products/calza-no-seams-lameda"
   },

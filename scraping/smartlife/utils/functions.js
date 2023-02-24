@@ -1,5 +1,5 @@
 import * as cheerio from "cheerio";
-import { SELECTORS } from "../../utils/selectors.js";
+import SELECTORS from "../../utils/selectors.json" assert {type: 'json'};
 
 const secondPrice = (price) => {
     price = price.replace(/\$\d+[\.,]\d+(?=\$)/, "");

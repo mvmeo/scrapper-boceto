@@ -4,7 +4,7 @@ import path from "node:path";
 import { scrape } from "../utils/functions.js";
 
 import { indexar } from "../../utils/functions.js";
-import { info } from "../../utils/info.js";
+import info from "../../utils/info.json" assert {type: 'json'};
 
 export const getIndumentaria = async () => {
   const Mujer = [];

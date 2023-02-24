@@ -5,7 +5,7 @@ import path from "node:path";
 import { scrape } from "../utils/functions.js";
 
 import { indexar } from "../../utils/functions.js";
-import { info } from "../../utils/info.js";
+import info from "../../utils/info.json" assert {type: 'json'};
 
 export const getBicicletas = async () => {
   const bicicletas = [];
@@ -13,8 +13,8 @@ export const getBicicletas = async () => {
   for (let i = 0; i < info.velo.URLS.bicicletas.length; i++) {
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
-    await page.goto(info.velo.URLS.bicicletas[i]);
     await page.setDefaultNavigationTimeout(120000);
+    await page.goto(info.velo.URLS.bicicletas[i]);
 
     const html = await page.content();
 
